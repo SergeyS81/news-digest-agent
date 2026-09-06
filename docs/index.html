@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>News Digest Agent</title>
+<style>
+  :root {
+    --bg: #0f1216;
+    --panel: #171b21;
+    --border: #2a2f37;
+    --text: #e6e9ee;
+    --muted: #9aa4b2;
+    --accent: #4f8cff;
+    --ok: #3ecf8e;
+    --idle: #5b6472;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #f5f6f8;
+      --panel: #ffffff;
+      --border: #e2e5ea;
+      --text: #1a1d21;
+      --muted: #626a76;
+      --accent: #2f6fed;
+      --ok: #1f9d6c;
+      --idle: #8891a0;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  header {
+    padding: 32px 20px 16px;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 22px;
+    margin: 0 0 4px;
+  }
+  .sub {
+    color: var(--muted);
+    font-size: 14px;
+  }
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 20px 60px;
+  }
+  .stats {
+    display: flex;
+    gap: 12px;
+    margin: 16px 0 24px;
+    flex-wrap: wrap;
+  }
+  .stat {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 16px;
+    flex: 1;
+    min-width: 120px;
+  }
+  .stat .num { font-size: 22px; font-weight: 600; }
+  .stat .label { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  .run {
+    border: 1px solid var(--border);
+    background: var(--panel);
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+  }
+  .run-head {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--idle);
+    flex-shrink: 0;
+  }
+  .dot.sent { background: var(--ok); }
+  .item {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid var(--border);
+  }
+  .item .topic {
+    font-size: 12px;
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 2px;
+  }
+  .item a {
+    color: var(--text);
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .item a:hover { text-decoration: underline; }
+  .empty {
+    color: var(--muted);
+    text-align: center;
+    padding: 60px 20px;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>🤖 News Digest Agent</h1>
+  <div class="sub">Автономный агент — почасовой мониторинг новостей, отправка срочных в Telegram</div>
+</header>
+<main>
+  <div class="stats" id="stats"></div>
+  <div id="runs"></div>
+</main>
+<script>
+async function load() {
+  const runsEl = document.getElementById("runs");
+  const statsEl = document.getElementById("stats");
+  let data = [];
+  try {
+    const res = await fetch("digest_history.json", { cache: "no-store" });
+    data = await res.json();
+  } catch (e) {
+    runsEl.innerHTML = '<div class="empty">Не удалось загрузить историю.</div>';
+    return;
+  }
+
+  if (!data.length) {
+    runsEl.innerHTML = '<div class="empty">Пока нет данных — агент ещё не запускался.</div>';
+    return;
+  }
+
+  data.sort((a, b) => new Date(b.run_at) - new Date(a.run_at));
+
+  const totalRuns = data.length;
+  const totalSent = data.filter(r => r.sent).length;
+  const lastRun = new Date(data[0].run_at).toLocaleString("ru-RU");
+
+  statsEl.innerHTML = `
+    <div class="stat"><div class="num">${totalRuns}</div><div class="label">Проверок в истории</div></div>
+    <div class="stat"><div class="num">${totalSent}</div><div class="label">Раз были важные новости</div></div>
+    <div class="stat"><div class="num" style="font-size:14px">${lastRun}</div><div class="label">Последняя проверка</div></div>
+  `;
+
+  runsEl.innerHTML = data.slice(0, 200).map(run => {
+    const time = new Date(run.run_at).toLocaleString("ru-RU");
+    const dotClass = run.sent ? "dot sent" : "dot";
+    const status = run.sent ? `Отправлено (${run.items.length})` : "Ничего срочного";
+    const items = (run.items || []).map(it => `
+      <div class="item">
+        <div class="topic">${escapeHtml(it.topic)}</div>
+        <a href="${escapeHtml(it.link)}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a>
+      </div>
+    `).join("");
+    return `
+      <div class="run">
+        <div class="run-head"><span class="${dotClass}"></span> ${time} — ${status}</div>
+        ${items}
+      </div>
+    `;
+  }).join("");
+}
+
+function escapeHtml(s) {
+  return String(s || "").replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
+}
+
+load();
+</script>
+</body>
+</html>
