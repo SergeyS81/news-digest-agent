@@ -78,5 +78,26 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xQXEwOXVLY2ZBbGJPTldxbG14dS1kQkNlNS0yb1lSNkxMVFZxYTJET1NsbXhqS3BNenp6THdqOEFPQk94ZndrS3lXQWp6TExPWlZXag?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-06T17:17:57.132752+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Переговоры Зеленского с Уиткоффом и Кушнером завершились в Киеве - Life.ru",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQXBEMlNvb3JJNlpWeXAyTmpmek5PQnZwNF9VWlM0dUxhUnBQSnRMRWtqMkJtV3oxNTRzTkhwX095dFdiUjlPYnJsUVBqR3BDaV8yZjRkQzlLa2pRWDJSMzFOOHpUZ2RBQWd5Z0l2eGdQRmc4UkRwX0NsWG5PM3R4MUJTMHhXNEZpaUNv?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI выпустила модель искусственного интеллекта GPT-6 Astra - Spot.uz",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tdGpyVmZuNUpiaXBGX09oLTF0NW91aG9NYi1YNEM3YlZMVUVNS1VrQXVqMHIwZm04MS1tLWQyWjJPWkoxbXRCa1d2UzU4Zl94ZGc?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Axios: Уиткофф и Кушнер хотят добиться прорыва в переговорах по Украине до зимы - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xQXEwOXVLY2ZBbGJPTldxbG14dS1kQkNlNS0yb1lSNkxMVFZxYTJET1NsbXhqS3BNenp6THdqOEFPQk94ZndrS3lXQWp6TExPWlZXatIBU0FVX3lxTE9zR0FPNThoQ3lwMXlJQmoxams5ZWZXVklrbjRoUlF3Y3V3cnBabk9Sb1lJQ0NudDVCeXFLQTZ1X1FoWk9aUFRPR3QxNlNhNzIzUFQw?oc=5"
+      }
+    ]
   }
 ]
