@@ -56,5 +56,16 @@
     "run_at": "2026-09-06T14:19:12.529813+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-06T15:19:13.713643+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Психолог: «Уход за домашним питомцем показывает, готов ли партнер к детям» - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlF5bWdrcDZxQms5UzEzUWRjSzdKMVdhQ3ZFRTJ1clloaXVZZnIxdjNmeVFUcVJtSEMwRU83eUJUbVA4VVZjZG5MdmpIc0hLS3RWdHN4TlI4VnRzMGhlcUlMbl9YOVc0dVZHQ0ZDUGVhTGVYVWh0bU9DNlRtd3pnUmhDSDFsWnhnR1k0RUJGazdSM0pka1BsLVpicTU4QkFPTjlqLUFvbDBtQWpEMklwZG53?oc=5"
+      }
+    ]
   }
 ]
