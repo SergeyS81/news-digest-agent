@@ -29,5 +29,16 @@
     "run_at": "2026-09-06T11:18:51.245490+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-06T12:23:53.282511+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "«Ультиматум Зеленскому». Чего в Москве ждут после встречи Путина с Уиткоффом и Кушнером - gazeta.press",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fQWNJX21WNmpLZWNSQ1hnQk0taDdfTTVzT04yMW5oanRMR1hsd21VQlNxRlJyYnBPYjRFSm9oZXdaSTJkWjVtcEliaWpPeUI0SUQwNGJNR1dDYzVMWTNxSndCekFkNDI4M1FB?oc=5"
+      }
+    ]
   }
 ]
