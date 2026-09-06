@@ -8,5 +8,16 @@
     "run_at": "2026-09-06T08:21:19.162741+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-06T09:19:53.204019+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Джордж Клуни объяснил, почему не доверил бы государству регулирование ИИ: «Не тем людям стоит вручать Святой Грааль - mixnews.lv",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYnUzaGhrU3JsSlJxOEZaQTY0WmN5VFFaUEZsVmh3M2kycUhjVHI2MkI2NnFoWUk4ekpZQVRYdF9TNEM5UXQzbFo1aFdTVTV2Tm5qVHVEbW0xbVFZVnUzcFc5dTc0eEppX3JQRGRzQjZOOTJvLWpDNDRpMS02RUhKay1lQjR0UmtMQjQ3YUZUZzZEakRia3VYZzk2T2VRSXljOGhZQ0JGTG5UbGhpajNKSGZUc00wSGVmRm5mTk8zSlM0V194TFpXRDlEV0JST2RiUHV0bEZncGh5YTNMU190SndhTmdnRXFMdnhj?oc=5"
+      }
+    ]
   }
 ]
