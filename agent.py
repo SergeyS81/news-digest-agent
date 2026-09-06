@@ -83,6 +83,15 @@ TOPICS = [
     },
 ]
 
+# Trusted regional outlets checked explicitly per topic (in addition to general
+# Google News search), since Google's default ranking can under-surface them.
+PRIORITY_SITES = ["tatar-inform.ru", "rt-online.ru", "intertat.tatar", "business-gazeta.ru"]
+PRIORITY_SITE_FILTER = "(" + " OR ".join(f"site:{s}" for s in PRIORITY_SITES) + ")"
+
+for _topic in TOPICS:
+    _terms = "РКБ OR больница OR Минздрав Татарстан" if _topic["always_urgent"] else " OR ".join(_topic["keywords"][:6])
+    _topic["queries"].append((f"{PRIORITY_SITE_FILTER} {_terms}", "ru"))
+
 
 def google_news_rss_url(query, lang):
     q = urllib.parse.quote(query)
