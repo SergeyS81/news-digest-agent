@@ -141,5 +141,21 @@
     "run_at": "2026-09-06T23:18:14.549322+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-07T00:32:29.432070+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Tenable, OpenAI Launch AI Security Review Process for CyberAgents - The Fast Mode",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb19wRnlPUnkzZjUzMm13c1o3RHBKTVpwUTV2aUZYZTYyOU1EZWtsRVVXcjRWekFObHRPbzA4dHFyQklKSms1VGxRVHVDaTZ2eEdHbVMzVEJuTEhDZVEwRHZZUFZPd2ZyRlNlM1d6OXZDZ1A0RERaSnU5TmxpdnFmQVlaOFgwT0d2ZUExRDNpMzZLQzBYaFVZWk44RlBhZzdGZHV2VmRraDVlSGlRb3FZLXRfVnRIc3VGRVZ3?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Chip Stocks Surge in Korea After OpenAI's Astra Launch - Seoul Economic Daily",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNGdlMWVYSVZPamVsNXYtdHJrMnVoVkJ5YjlzTmdqN3pyNEV3VlpRZXZ4c1MzR3lTQ19vaENyQi15UE44Tk4tQVVlSm1hV2pZN3VuaHpoYTN6dzNsMXBrMDdJd1JLcnlVOVRTUzJjZ1RNMm9wMVNrOThsT05rN0M4MkV6eTJVNl9HMnVUbmtKTVpSazRzcE9SUS1PQQ?oc=5"
+      }
+    ]
   }
 ]
