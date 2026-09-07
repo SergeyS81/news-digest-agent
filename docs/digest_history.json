@@ -215,5 +215,21 @@
     "run_at": "2026-09-07T08:24:06.193825+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-07T09:23:13.119087+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Лисичанске при поддержке Татарстана реконструируют Центр семьи - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUlfUHNicXVKSVZJaTFrck84Q0Vnby0wcENOaC1LeXBHaFVFa1Y2WktZMzlTekh1T0NuaWRuUTA1NVdTMDBEbmprQjVVc2NoM1plRmdfQmF6bTFKcElZVndYRUlOclY3LWZ5N0Rha3FpRVVwUk5taUFzWVd4THVFcG5xMEVJdktKaWhkRDV6U21FY2xqSE5tZDkxamFyRE1VaW1sOXlWMTJXdw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Почти 160 тыс. татарстанцев запретили сделки с недвижимостью без личного участия - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmYzWGpwbWVKX2JzQ3B0dmJkanBiTGZGVmN5bG1UQVV2X2N6RkpVZlM2MGNtSkRaZTMwOUtuNGF1eXZiYjBZRGpUYkQxOUZaRDZDeHVaWUctVHFqOEpFa2stR005Q25RTDJBVzFIbFY1QndfYUhnRFVSQlZqWlBTclJ1ZVRRRnJrOVJCUUU3OUFMWTFFNGdzb3Axb2d2R0J2RmxQb29taHVSVENocE9YbEZKNC1PY0p5WngtSFZn?oc=5"
+      }
+    ]
   }
 ]
