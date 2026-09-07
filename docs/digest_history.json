@@ -162,5 +162,21 @@
     "run_at": "2026-09-07T01:19:26.611023+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-07T02:21:17.446037+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Nvidia’s Huang says ‘AGI has arrived’ after OpenAI’s GPT-6 Astra launch - Investing.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOamtIZG1uM0JkOXFCM3loZ3g0Q3Q0YmRCQTEwbzdQdjZROUZqOFM3Sy13VExQRlV1RmlJYVFGQWtKa3NvdENRX3FhdVhpQnJDeU8xM0tfQjRQRmgyVGQ1U2gtV3RHeTd0N2tFeHg0U2dVeFFUSXN1eW9kY18zbU9nbExXOFhXNjB5Szh3RzRvTUNpQzByS1dtcE1vd2pXcGNrZ0dNc2FCOE12cDVseV9FRWY5d2dWMGxZRGxiZjd6eHc?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Weekly AI Releases by US, Chinese Firms Intensify Model Fatigue - 조선일보",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHpqb3g1MlBwNkpEWUhzVG1vbGRIbGRranNVbktINjZYd1ZIcGVyNmgyaXIzaU02YmVaQXdmejFqS00yV3FkT0pETFJJcnZ5Nk9pcTlGVlkzcW1BWjdOWVcwN0RLeHAxZTYzV0hLMWc1V1R3aDZGZTRYRnJ4NHJWTTQxakJXTVcwcHlUWS1n?oc=5"
+      }
+    ]
   }
 ]
