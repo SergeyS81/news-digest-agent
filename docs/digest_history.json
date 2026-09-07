@@ -317,5 +317,26 @@
     "run_at": "2026-09-07T17:19:59.191378+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-07T18:23:30.302098+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Татарстан потратит 10,5 миллиона на ИИ для анализа рентгенов - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqalBEWWM3TlNVdDNvUUQ4cTZMbW5rbXR1ZkQyVGtFd0liX2RJZmNFcEplaTFhb1QyeXR2b1ZHRGphSGxjVTJ0aVQ2NEhpS1o5S2NJNtIBU0FVX3lxTE1wS0xMaFlvVTNDTGNyeDFpZncxcVpfb2RJTktXSEpKOFkzYk9rLThyX3dRYW56aXA3YlRRS2JGRjc3SzVfSUpwY09IbzJOSktjY3BF?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Ак Барс» готовит тройной обмен с участием Алистрова и Соколова из «Торпедо» - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ndl81cnJoTThnOTBsNnEtMkVjY01mbkZvVWpIa0I2NjNJUnFTYi05ZDFETDh2ZUtocHNOczNqN1JONkFremlVMTlMdkFTTmxheUFSS9IBU0FVX3lxTE1rTTFWWjFNcFAtQ3k4a0QzZnpkajloT3hIREhzeTJ1U29SdndFUXFOTTNNQmpjMmtqdXRYT05VU01qYjJtZ0RKcS02aVkxOXVKMndn?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Лидером уик-энда в российском прокате стал отечественный мультфильм - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92V0Q5RXc1UHpSbmJHOXRnYmtsYTZ2RGRoM2ZvZHF6bUVSZTFObTB4ZFF4d19rNmxMc1VEbEZTUldtTGZNOWtRVU5RYWVqRWFFdUpsVdIBU0FVX3lxTFA3WnZLckQ4eWR5QlVYVkVncjVLY2MwVVZ2LXVIYjA5VFY1QVNNZzJHakh5VWhhTUlNN18zOUxkMmNsTHhveVlkQk9wZ3VZdlhEOEZV?oc=5"
+      }
+    ]
   }
 ]
