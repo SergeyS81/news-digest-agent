@@ -274,5 +274,16 @@
     "run_at": "2026-09-07T13:23:02.660477+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-07T14:21:58.363511+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Казани наказали водителя Toyota Camry, посадившего за руль маленького ребенка - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEFjbktWWkpwcktFcVlKUVRJdGI3OGRMeHV0aFd4S3g3YnRUeUwtNzNfcFB0WVRpOFo0UENVZG9MamdhQ3BBZnNoWXFCM1dHZjNhTFotLVRPc2sweDJPU21Ud0FUZy11VXZnMDdfY2VoWHBhWlN2aGd1SHlRQTRmMGF5NWN2c0hUaXpMRERZejlpeEFmVmp6MVRhc1Izc3JMVklOSEI1V1d2dXY0bTQxbzgtLVNOZ2FiNnc?oc=5"
+      }
+    ]
   }
 ]
