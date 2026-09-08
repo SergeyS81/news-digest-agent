@@ -363,5 +363,16 @@
     "run_at": "2026-09-07T23:19:24.308919+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-08T00:31:55.904003+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение и прорывные мед. технологии",
+        "title": "Прорыв под вопросом: почему ИИ еще не победил рак - hronika.info",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3ZmVXBXYUFRV3ZZODlrOEhMS2lCZHhYRUZmRTZ5OHAzVEZINWxncFVuQzR1eExhSHFualVRX2t4OWNtTkhaWFk4UGlJWnBydi1mbS1jSEM2RkVManIwNmNjVFUybFdjVUMwOENVOWNHR2cwc0sxdlB0ZVp4SERKWjBHWjFNX2pobVNxSlhvblgxM2wwU3fSAZYBQVVfeXFMT2t2ZlVwV2FBUVd2WTg5azhITEtpQmR4WEVGZkU2eThwM1RGSDVsZ3BVbkM0dXhMYUhxbmpVUV9reDljbU5IWlhZOFBpSVpwcnYtZm0tY0hDNkZFTGpyMDZjY1RVMmxXY1VDMDhDVTljR0dnMHNLMXZQdGVaeEhESlowR1oxTV9qaG1TcUpYb25YMTNsMFN3?oc=5"
+      }
+    ]
   }
 ]
