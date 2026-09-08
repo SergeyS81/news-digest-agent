@@ -389,5 +389,16 @@
     "run_at": "2026-09-08T03:21:32.568224+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-08T04:21:39.302860+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Запрет на временное лишение прав: кому не могут ограничить право водить авто - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzRyUHdTQWNMV25mVFF0N2FpM1N6N2RuS0xnZ2cyU1NrR2FUamIxdmxXWE5QU2xFOFJHY3Y3emd5d1prdFV1VFZzelNHTERGcHk5aDNCbzBoejdEb0hLeHB5SnNULWxKaWtxZFVhb1ZERDNUUkpySEhMR0NQakFFNFFhaWFoeVc3SnVvOTVvUUdkODR5dG8zVXpnVkFvcW5KMXN3RTk2S0NLTzRXSFJndWVVM00?oc=5"
+      }
+    ]
   }
 ]
