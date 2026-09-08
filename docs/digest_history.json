@@ -426,5 +426,21 @@
     "run_at": "2026-09-08T06:26:27.417041+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-08T07:22:16.537407+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Хирурги Татарстана спасли 2-летнего ребенка, проглотившего 15 магнитных кубиков - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTlZVdS1HWVNSLVZzenlSQUFWQWxvMHZkQVZTSThPdE5MUDdmYko4NG5semw4NV9kWDc4OHpQS0Z2c09QVG9FRlhjZDhzSjhqaVU4bXVsLVRhSk1tSUFHb0xiOWwtMEowdGEzbmMyeDJSZWRQc21fc2dVTFFFUzNIYy1FUEp4OHF5b3FlYjZwcmV0WG9EQlpyd3Ntc0k0bFhXSlNtekloWlowRVFBNFhhZG9qNzhyN3RqNVc0?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "«Крестный отец ИИ» призвал запретить сверхмощные нейросети: Они могут уничтожить человечество - CNews.ru",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtVVJUWjVJT0tUeENfSG5tSHdOcFNsSmNKSldUWHRvZloyZ2dzQkVUbDZoY1VJa2dSZ2haV1FLQ2FjMXdYV2dGZ2tZTG5UcGZwa3RBall4Zkp2QzdPbHN4Rng4VVM1QXNudkNBYjdZbUY1dmJh?oc=5"
+      }
+    ]
   }
 ]
