@@ -669,5 +669,21 @@
     "run_at": "2026-09-09T00:31:36.800882+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-09T01:19:38.603309+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Neon sets US release for Luca Guadagnino’s OpenAI film ‘Artificial’ - screendaily.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDFLQlBUQ1JtZ3ZiblNPcGk0ZXcxZmoya2laZHdRM1Y1LXBCM25IY0FIT0RPZXJHVERjWWNBbzdCQVJERFJiSFJRamJDUEJMUHZVV0VCVTNHZGRKWUlSNjJpUExydUNEVmNVcnF4d2ZQWGNHWHdqUWl5dGZaVU1JX1Vfa012b1ZhSHNueWc5NFRiVWh2TWlNVHNKNUt5N2dzR0lPZlppN2pXOU1WZmQzNVpqcw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Neon sets US release for Luca Guadagnino’s OpenAI film ‘Artificial’ - IMDb",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DLUV0MU4wcVhLOHphcDY3MkpvLVItMlQ5SHEyY3d1bmtHN2RhU1d6V0FKTlB1OF9Cdm9TeUMwOVoyWkgtV215dG9mZkFhWndsZ0lSRDkwWnFseXp2VVluNEtfRW9KZw?oc=5"
+      }
+    ]
   }
 ]
