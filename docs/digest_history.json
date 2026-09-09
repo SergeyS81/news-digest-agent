@@ -710,5 +710,26 @@
     "run_at": "2026-09-09T06:27:06.425010+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-09T07:22:30.270610+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Татарстане увеличили выплаты семьям при рождении тройни - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1d3U3B3ZHBhWURiUURjelF1ajMyZlBtcHM1RU9ReEVSOGk0MU5PZ3JpaEhFT1ZpdXB1UTZ2ek9UV3JIdllhTWoxWC0wWGNCczIzM29XUTFtYnlmUk5BQWU2YUQ2Uzc1bWp5MVFjTVJ0LXZ1d29qcXhhQWRQV2tTdzlpSC1LYWZjZ3ZzbUYzT3BIc2lmT2hNMEgzRUFXR2M?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Google Pushes Gemini 4 Pro Release Date to October 2026 - Geeky Gadgets",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16WGRKQjhfNDlvUmpGX0pwbWw4cWExYmI0b3pDMTRlVHZRVXZ5YVJkdmlmazAwc3JpRGJMTnN6TzVCWGhrQkpBamdreHZhVERVS1oxV25sY1lnWHNTOV9CT3Azdw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Суд Татарстана запретил сайт, где продавалась продукция с никотином - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNblFDM1FZN0c1RFg5bXFSaEJkOG9TOTRpMW9OZ0JvUnNwSlFNTEFRalIzOE5vT000Wm5sYk02RGplMVlmTkZsVDRJX1VKNnI5YXhkSXA2eVpzVVJpNmNDM0ZOMFh0bGVjelA0c0lFc0lzLTN5NVBTQVg1c2kxSDl5Zi00OXA4UEVYenY5UXJzeTJBQ0tUVUJUQmR5cHZTMzdySmo3WVNJNVdpYVU?oc=5"
+      }
+    ]
   }
 ]
