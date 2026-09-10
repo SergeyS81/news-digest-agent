@@ -1,15 +1,5 @@
 [
   {
-    "id": "7d8c5c34bc565d66",
-    "title": "Tenable, OpenAI Launch AI Security Review Process for CyberAgents - The Fast Mode",
-    "sent_at": "2026-09-07T00:32:29.432070+00:00"
-  },
-  {
-    "id": "1186b475e4f8885e",
-    "title": "Chip Stocks Surge in Korea After OpenAI's Astra Launch - Seoul Economic Daily",
-    "sent_at": "2026-09-07T00:32:29.432070+00:00"
-  },
-  {
     "id": "1a11de06037b12b0",
     "title": "Nvidia’s Huang says ‘AGI has arrived’ after OpenAI’s GPT-6 Astra launch - Investing.com",
     "sent_at": "2026-09-07T02:21:17.446037+00:00"
@@ -788,5 +778,10 @@
     "id": "5159aac0190a9e7c",
     "title": "Политолог Гусев назвал Швейцарию возможным местом встречи России, Украины и США - tatar-inform.ru",
     "sent_at": "2026-09-09T23:19:05.828755+00:00"
+  },
+  {
+    "id": "89efe238566990f3",
+    "title": "OpenAI сообщила о прорыве в математике с помощью новой ИИ-модели - Вечерний Санкт-Петербург",
+    "sent_at": "2026-09-10T01:19:37.042861+00:00"
   }
 ]
