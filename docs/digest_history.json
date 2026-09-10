@@ -1723,5 +1723,21 @@
     "run_at": "2026-09-10T19:17:48.886507+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-10T20:19:33.882943+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Фестиваль труда и доблести прошел в Камско-Устьинском районе - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVUpWU2ZoT29sWkwzQW5XY1pnN0tjdGN5YjhWUHJmbDd2UXRzV2g3RUdzZ3IyQTJzcGZXRUc4YkNKV2lSZ1VPNTNIeWtqNHU0MjdQc0F1czdadXFLWEJQTjNTUktOcHBOZHcxNjJnX1hadHVIR1FCTTRwTDBNMWtPQ3lEVXdITGhuTVZ6UnBvR3pSX1dJYUdqZUVkS2c3aXRK?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Google DeepMind Releases AlphaGenome Atlas Mapping 9 Billion Human DNA - Forbes",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYlVpZ3loZG1tRlh4WS1VZUdRQkYtVC1PTTdjRHJ5RlBMaURzWGw2b3gwNlU0YTJsajBoMnFEVUZicGxITVhzOEVCNnBEbThrVkQ2S1YyWmN5NXN3NG5oYVNlRU5HUTFJbU9sVHFUQTF0aVpfQTRobWFNYnhvbks5UlpZVVNCNUJWODdHWlAwQzRjenVmWnVhNUZNRzBLZHp0bWdrY0VGTlpQMVpXZkNyaEVBMk9ySElhZzhjcmxNaw?oc=5"
+      }
+    ]
   }
 ]
