@@ -1,15 +1,5 @@
 [
   {
-    "id": "1a11de06037b12b0",
-    "title": "Nvidia’s Huang says ‘AGI has arrived’ after OpenAI’s GPT-6 Astra launch - Investing.com",
-    "sent_at": "2026-09-07T02:21:17.446037+00:00"
-  },
-  {
-    "id": "8eb081610703f145",
-    "title": "Weekly AI Releases by US, Chinese Firms Intensify Model Fatigue - 조선일보",
-    "sent_at": "2026-09-07T02:21:17.446037+00:00"
-  },
-  {
     "id": "2919b490eb6700e7",
     "title": "Sam Altman apologised for OpenAI's GPT-6 Astra release after Pro and Plus users couldn't access the new mo - The Economic Times",
     "sent_at": "2026-09-07T03:22:01.076651+00:00"
@@ -783,5 +773,10 @@
     "id": "89efe238566990f3",
     "title": "OpenAI сообщила о прорыве в математике с помощью новой ИИ-модели - Вечерний Санкт-Петербург",
     "sent_at": "2026-09-10T01:19:37.042861+00:00"
+  },
+  {
+    "id": "5fa390ca0eeb0f39",
+    "title": "Дожди и до +19 градусов ожидаются в Татарстане 10 сентября - tatar-inform.ru",
+    "sent_at": "2026-09-10T03:21:45.295740+00:00"
   }
 ]

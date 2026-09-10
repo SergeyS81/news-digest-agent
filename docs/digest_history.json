@@ -1353,5 +1353,16 @@
     "run_at": "2026-09-10T02:21:43.540829+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-10T03:21:45.295740+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Дожди и до +19 градусов ожидаются в Татарстане 10 сентября - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGZOWF9iMDlGa2xxMTRIVWVvS284bjI0R0gwRkY2R0wzUzNnaHBpQ3QzTHBvOEN6eUtRNm5KdnBrREV1ZTZHdUdOWk1hdGk3VjctYUFXLU1uYW16NEZUUDgyaTRTRnJ0bnpQZmQ5SFB3V1V2QW9NcW52Nl85QkVsYUVZTUIxY0VFYXNtN1ZjQzFvT2tabzdhTFJ6LWY5RDRVbjVoUQ?oc=5"
+      }
+    ]
   }
 ]
