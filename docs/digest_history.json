@@ -1545,5 +1545,26 @@
     "run_at": "2026-09-10T10:21:40.939009+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-10T11:20:48.701197+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Жительница Казани после перенесенного в Египте инсульта вернулась домой - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObHEyQ085VlM3NjE3WUNuM0cwWkNENnpvSS11dVF1VVhiVEtrNWRfNTlXSUt3bUFYYnZ4T1Z4d1BJWUVQcWpOWEhZcTdvMTRSVkJMcVFtSlBkdjB1amhmN0RSTUpVYndkNnJNOHVVNmFaWldhUTFJQ2VHajc3YzljcXIyQWF1ZWtTcEpHY1hKUG1kdGVUOXozODBtOTU5cFBtZkFhNUNYVlVReXZmWWc?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Казани в техническом режиме начал работу центр «Ярдэм» для людей с ОВЗ - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PS3Q4cEpTcEdoaUdrUmNZVGE2bWRtMEVyR2x2V0tTSXp6Sm91Q0syNHdqMGhFb2pVMmNZSTFCNDFlNkdwRWxRNE5lTVpIeVFLMkh3QtIBU0FVX3lxTE41WElDT1lzRENSWE9wM1plc0h0Szg2WlZXblQ1bzYwQjJCYjhJM2lmOFJ6SS1hejQ5MVgteHFVUXlrZHhvU1VFQU9EZW03Qjh4VXJv?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Ак Барс» занял 2-е место по выплатам от КХЛ – клуб получит 176 миллионов - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sS19TQVVBaVlrcEdHUEljbENoZ29SSmtNV0dlOE1RbV9KQzdXdTl4ZVBBM0M3dzNIZUJtbmlndk5SUWVZb253S0huWmFDT1p6OHJ5bdIBU0FVX3lxTE5CV1hkVVA1TjJwM1RHMW9VNC0tdk02RXBxbUlWMldvS2lpWGxxTjNvYjZpUHRRUG95cmNydzNXYVIyYUctWHVfRjZFN3V6Q1Btb2dn?oc=5"
+      }
+    ]
   }
 ]
