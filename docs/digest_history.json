@@ -1827,5 +1827,21 @@
     "run_at": "2026-09-11T08:23:04.223851+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-11T09:21:24.500705+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В больницах Татарстана разместили 36 избирательных участков - rt-online.ru",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFk4cEVMOFlETEtYWU1HNmc3MDhOSGIwZGNYb2ZXYWc0QnpjTTlQT2NTejFwaVpvbktYMEpYcnBCTm13alNrbVJKbnJDRjVMU1dUUTZteC1fVm84V1FPcEd0TjJFc2djWGtNYi1WWng2RDZ4ZksxVVo4LVNWdkdJcTZ2a3dkNGltTWJReUlsU3cwMVlj?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Альтман допустил регулирование темпов развития ИИ - ФедералПресс",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uWnRRZ0RQR0J3S00xRV9UeGlDR2QzVS1NZ0diQnIwZjFJT3dqeXVHMFcyY19SVmJuUFViWkxPT1NoLTFndExIMUw5TmFjMUZlN292Sg?oc=5"
+      }
+    ]
   }
 ]
