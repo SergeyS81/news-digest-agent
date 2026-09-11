@@ -1939,5 +1939,16 @@
     "run_at": "2026-09-11T16:21:55.380656+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-11T17:19:41.443075+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Женщина за рулем Nissan проехала на красный и столкнулась с Peugeot - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUG9yaUtmMEdCaUc2X0ZsSEJ0VElFMGY2RG9oXzMtZzNGZFNUbmhvdmgwSS1yX0U3dGdYTjkyZEVnWUxfQ2hvWHFkMHdIV1hsOHREdDQwWS1wZFR1SXEwUGhfOW85QllzWDU5NHRtT0kyZEhHM2RoQkh2TUkwT3VzLXhCUTcwdXVCREZYQW1CdmdZSnVUTTdGcDY5Xzdxa0lHNDMxN2UyelJSWUwyUWc?oc=5"
+      }
+    ]
   }
 ]
