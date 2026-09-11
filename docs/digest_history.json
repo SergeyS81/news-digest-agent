@@ -1759,5 +1759,16 @@
     "run_at": "2026-09-11T00:28:17.869609+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-11T01:19:36.538437+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic gives EU access to Mythos months after model’s release - The Star",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTZHUExmd2ZqTTUyRE5XUjVlT29nbng5Q1gtUTFVYV84MmFrd3BWc0t0anZwX2JSNHRONEhrNk9xTEhrcjlCYXA4akhZa0YwLXdjOGVLVTFaNEM3dk4zcTBIdGpGek5pa1Q4dnpWaTdNWk1vRmlUUl9fbHZKcmRjTTJKbXBwR1oxMndZR0Vsd1hORVl5bHFoVl9xeXRxN1RyTExFTXlnQURleUFSZkJWTlowWlNGS2c?oc=5"
+      }
+    ]
   }
 ]
