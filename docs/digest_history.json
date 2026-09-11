@@ -1976,5 +1976,16 @@
     "run_at": "2026-09-11T21:19:24.229019+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-11T22:19:39.085604+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "В СФ назвали контрпродуктивными попытки запретить ИИ в школах - The World Inform",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmMwdk9LZHZ6UnFyXzVsNFFydGhnWkZUNGRDLTItOEpBREZhdzM5QnVQMnlCUTRlN0dzcHlaQlV3elZZekdfR21DRjlOUUJ1bFBJZ1NSNFMtaDI5RDZFOVg3dkRKVm0wYWg3WERhN2xnRjhhYkpoMjRQVmgtcF9BRjRWdnVUQWhvNFVBRy1RUTZ4N2RKVFg3bXpPN3VkRGNITmNn?oc=5"
+      }
+    ]
   }
 ]
