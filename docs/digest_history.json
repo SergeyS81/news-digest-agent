@@ -1790,5 +1790,16 @@
     "run_at": "2026-09-11T05:19:50.322841+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-11T06:26:02.934726+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Врачи РКОД удалили редчайшую опухоль, занявшую всю брюшную полость пациентки - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSVgwZklKTVBBMG9udGIxYWMtNy05czltMHhDOFh4MWNSQnVfRGhISnBZSk1fNFB3azZvWmZ4T1ppLXRsZFFiZEh1TlhjYTBvYTZfbGMwbEoyczBlUkJiTkRUUUhVbnk2d2sxZWgta2YtUVZha3NVbDFsdzVPWVBYSElLTld6NmlCa1J0ZURoelBkcUx0V1lrcTBnLWdSLXFzRFc1c19qSmQ5cUFpMGNGX1Jhck1melVHOHBNcw?oc=5"
+      }
+    ]
   }
 ]
