@@ -2113,5 +2113,16 @@
     "run_at": "2026-09-12T13:18:48.336753+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-12T14:19:38.636588+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Тетюшах 17 жителей получили свидетельства Доски почета Татарстана - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTRNT2lsMWhEQ3UwZTV6b1ZoSUxrbTFQTkg5X25jbkV4cl8zakxLU1FYYnhBT0FqeFB5alBhYk1tY2ZpVnY1UEJ2YVRrOEU2MFZ5N2hYaWFwT0lmSzVWLWg2STExRTFSR1B6N08xcVR6T1JURXVEcExINm15aEduMWM1ZTlQcjk1U2NLa01aS0ljQWM0SFdFTXp1STVTRkFlOUZ2WFVGdW9pdVpW?oc=5"
+      }
+    ]
   }
 ]
