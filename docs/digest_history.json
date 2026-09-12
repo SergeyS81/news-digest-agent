@@ -2049,5 +2049,21 @@
     "run_at": "2026-09-12T08:20:30.928328+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-12T09:19:35.023048+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "За два месяца до скандального взлома Hugging Face ИИ-агенты OpenAI атаковали RubyGems - 3DNews",
+        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9RSnJ6amtVdW14TU9lQ2RwQ2oyRWdIck5fQnRjOWhoVzVLajRTYTJrSGk4ZzFtZlRNdW5IU1Rn0gG2AUFVX3lxTE1zR2dkcXE1NGV5cExIREN5S0NwY0tMdGZJUWJuQmt3UWVKRjRiMFBER0paMXJYRTBrbmMzRE9DZnp3aVJqYkVfd0dPVTFSXzNMeVFRXzlXbEJic3NXYmhyYmZNcW5nYnlwOUhjdTFCVklYTWdhZWx1MGZfdFF2UVA1RFdyTUh0ZGJ3YVA3WkR6TjBJR0loYVljZkx1NUhFaXFUVHVBcnFjSjlOMGxiZ2ZWTnlPMWx3?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Минпросвещения запретило младшеклассникам пользоваться ИИ - Рамблер",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVFCM3VzR1dIQjJaRUk3eWJrb2tBYm5iWEktVGpTdUVKaE5zRTh5a1pZNHZTLXd4NjloV2ZjS010LTJfSUJkUzgtUVZRR2VEcVFITHB5a3Rmekt4R2tZSmw2UWxXZkxkcG9CWnZZZTNXOWlYSkxKUWNENmRCaUNaVkVfdWlna1hQZnhZbVBfTjVPcDhpN2xnWGE3QWNiUGho0gGmAUFVX3lxTE5xX0JHZDI1d3IySWl3dUUxMDAtMTZjZ3NRT3RkOUlqWkpFcWctTXIydnZSaEpLWUZxeHlUemZlSXNmdkdQdWVzRzFRWWN4TkMzLTRtUjRFbTVTMERCakFiMC1VMDZycGxmWEJvejNyQ0luSVpwZDhQR1BQYmtYRlRYT3JUYW52cDFIWVVnQXFyN1R5OWhOZzlzUm9ZUkFraFV6aTRSYmc?oc=5"
+      }
+    ]
   }
 ]
