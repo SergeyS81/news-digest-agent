@@ -2376,5 +2376,16 @@
     "run_at": "2026-09-13T16:20:38.883800+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-13T17:18:38.358529+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Лидер демократов в Конгрессе призвал законодателей заняться регулированием ИИ - Рамблер",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ2RMV1RnajAtOUVxbF8xSWhjbktTemJFR1o1U0ZHenRuRzlDakNUWnFKYWt1S3lHRlUxbkQwX0x5cklTQXpiUXFxS3RfS2FPQ2ZUa3pOYVplTnRRR2hWQS1GVUZxX0JhaFdxZEFscFRkbEZTaXU4WHNOdXdaTTZDUDUzRzZkU2ZNVGcwSGI0R3BubldYaW5la2ZnUEZkQjhaS1g4NGlhRDZ5ZEZXRm9aTHZRQ0JucTFM0gG-AUFVX3lxTE9LMHhCOVRUaGxzNHBVX1lsY01DakNScEYzbU94eG1IY0c0UUZ5X0xuQVpUZGZlRWxybllQdUJqdGtiTm9MYVVyaG9fZWxCUFZweXVMOVRwX0Vqd25wVGdHcmRvTkN6RDg0dHFvQi0zcEk3ZFpUOEZkemJiYzM0RGg0eUdCdUxpM1huc1EtRFJEenhoTkVzRTZaXy1oUmprSVZxWkdIUHFuUDhpZWI1ZjVuNXlQamdFczhpMVp6TVE?oc=5"
+      }
+    ]
   }
 ]
