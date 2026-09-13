@@ -2206,5 +2206,16 @@
     "run_at": "2026-09-13T03:20:31.468436+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-13T05:18:52.480073+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "При атаке БПЛА на Нижнекамск погибли двое человек - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYVB0a0JiZTlLU0djanlRZmVXNjlWMEdYZTJuSXNiZmRONjVGVUlKMHFpSWtEckJhdmdBemhubUdMd1FVdG8wZmUyY2xuSmFONjA4N3Bjd0Uxdnl5YnM1UDh1MGpCaGFXU2IwMlFOcDFMOGhwNDJNSzBGaEw1cFZxVHRWMUFhQzdjN3dJUFNjQnNrRHFm?oc=5"
+      }
+    ]
   }
 ]
