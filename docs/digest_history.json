@@ -2185,5 +2185,16 @@
     "run_at": "2026-09-13T00:28:13.452344+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-13T01:18:35.463200+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение и прорывные мед. технологии",
+        "title": "Прорыв в лечении бесплодия. - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkVjcwcGVBVkd2TG9CTWV4T3owbXBLQ2tUOG1USW12akNHejRUT2VNeU9Cd21iQi1DNFpFbHNVMEZKbGJFRDlaRHppRV9WVENJVVhIckktNEtzWFNGNV9VeVpFdGMybW1DbmlBUmYxQXRRV2VH?oc=5"
+      }
+    ]
   }
 ]
