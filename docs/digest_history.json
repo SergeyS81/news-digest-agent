@@ -2454,5 +2454,16 @@
     "run_at": "2026-09-14T04:22:11.101103+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-14T05:20:39.177713+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Liberty Partners Releases Institutional Strategy Report Ahead of Potential Anthropic IPO - Macau Business",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmhzOG1tV21vTFJoTWhMbDJhVi0yUFJJSS1KZE9UUF9zZEU5WlpKVEVFTDJYQkhJV296M2dOZHlGbTFaaUlWb0U0VUZYVTYxODY4Qm1yYUZWZmpaYXhuc05lQXpvakNpVTNhWGtUZDdrTDQwakRZd256bkZJdEFmWFI4RWVYVmNzUDFEZ0MxLTV6blZCbUVmWE9UNlpGWDhnQUxjelU2WUVlNGFpdk1tbjVQZ1g2Zw?oc=5"
+      }
+    ]
   }
 ]
