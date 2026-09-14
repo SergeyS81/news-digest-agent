@@ -1,25 +1,5 @@
 [
   {
-    "id": "046c014defa79a29",
-    "title": "IBM и NASA выпустили ИИ-модель для изучения и освоения Луны - 3DNews",
-    "sent_at": "2026-09-10T18:22:46.488454+00:00"
-  },
-  {
-    "id": "d16e59f5be752771",
-    "title": "Фестиваль труда и доблести прошел в Камско-Устьинском районе - tatar-inform.ru",
-    "sent_at": "2026-09-10T20:19:33.882943+00:00"
-  },
-  {
-    "id": "e69d70841989bcb6",
-    "title": "Google DeepMind Releases AlphaGenome Atlas Mapping 9 Billion Human DNA - Forbes",
-    "sent_at": "2026-09-10T20:19:33.882943+00:00"
-  },
-  {
-    "id": "f740adfca6e69fa6",
-    "title": "Anthropic gives EU access to Mythos months after model’s release - The Star",
-    "sent_at": "2026-09-11T01:19:36.538437+00:00"
-  },
-  {
     "id": "20f3a53e6a407d5f",
     "title": "Врачи РКОД удалили редчайшую опухоль, занявшую всю брюшную полость пациентки - tatar-inform.ru",
     "sent_at": "2026-09-11T06:26:02.934726+00:00"
@@ -293,5 +273,10 @@
     "id": "d403dd89f0a10a41",
     "title": "На горизонте замаячили новые переговоры: главное об СВО за 13 сентября - URA.RU",
     "sent_at": "2026-09-13T18:22:18.633609+00:00"
+  },
+  {
+    "id": "79484a34b84b3075",
+    "title": "Liberty Partners Releases Institutional Strategy Report Ahead of Potential Anthropic IPO - The Manila Times",
+    "sent_at": "2026-09-14T03:22:02.282286+00:00"
   }
 ]
