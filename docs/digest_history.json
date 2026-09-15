@@ -2975,5 +2975,21 @@
     "run_at": "2026-09-15T19:19:33.375637+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-15T20:20:22.370355+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "ТАСС: До десяти стран готовы принять у себя переговоры по Украине - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWVRbmFPQUVzWjM4WUdITXRRZGpQb0M0WlUxWHNNbVZhOW83UGRjeW1tLWo5M3NMTGU1WEt3RU1QNjNrcktLUk1HZzM3MEtDZUxlNVFNS0RGd20xQnNmY0FfZmJ2Qk1EZVVrR29aMkoyeVhNWmtYY1U0Rm9JZVk3dmZTRkVBZW1QUjFCRXNlVVFyZ1pJajZlNnpZVTJycVA5U2Y0Zlk3UFZMTWc?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "«Ведомости»: Кабмин вновь продлит запрет на экспорт дизтоплива для производителей - business-gazeta.ru",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84cHhnVWU3Z2lUZGs3Y0RUUHdxUWtMbUYwbDY3LUVRbFk1RlBFU0lJSEwtOVVRekRRUFZCcFlSSnVtalNfZ0hvTG1iVFQyYS01RkdyM9IBU0FVX3lxTE1zOVRaMEdXVThJTmZUc0FTMlNxNnJlajVwZzdTYVM1X1pRRG9pbUhndU9Rc3JwTFZINWZaUUNCelBFQmtFbmZhZVRxQnB6VWR3OXdZ?oc=5"
+      }
+    ]
   }
 ]
