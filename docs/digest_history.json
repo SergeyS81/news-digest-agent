@@ -2718,5 +2718,16 @@
     "run_at": "2026-09-15T02:22:42.035927+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-15T03:23:00.603566+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Юрист Кузнецов: работодатель вправе запретить применение ИИ – ОСН - Общественная служба новостей",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORzd5SXRLNkFSbk82aGxJMVdpZ3l0a190OUJhSDZnQzRaZDhSaEtpcFFReTBaT292VkpHMkw0ZVdLTXBHaHBDWi0xeHpnRmdWVVdCaXRCMHV1eTVQVW5HdWptaEEwOXBqR05va0VOTk9CeFRDYU1kZHpReERwRjJTcFJfV1J6dnI4MF9WOXpGZDZtVjZjcEZaSkUxek45OEk?oc=5"
+      }
+    ]
   }
 ]
