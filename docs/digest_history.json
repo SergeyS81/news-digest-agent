@@ -3017,5 +3017,16 @@
     "run_at": "2026-09-16T00:26:51.160334+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-16T01:19:48.051542+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Is GPT-6 Sol Launch Imminent? OpenAI Poised for a Major AI Release Frenzy This Week - 36 Kr",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aeUgwVVZBYU5WdkpBVVhWTWtOYl9yQXNDT0pTTWFWdHNVdGRKc0UyU0E5Ul9iMjUyM083QlVHVS15cVFBMk5naGpvMzJ1T29pS0Vv?oc=5"
+      }
+    ]
   }
 ]
