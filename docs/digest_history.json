@@ -3055,5 +3055,16 @@
     "run_at": "2026-09-16T04:21:39.450054+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-16T05:20:15.016466+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Мобилизация женщин в ВСУ и удар Ми-28НМ: новости СВО к утру 16 сентября - NEWS.ru",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTUJZaDVpSFBZOFdQak12TndDZ0R3Q0pVWGd2Q2ZHUE9uQTQ1SEZFNFF5cnZ0R3hxMGx2SmgyNl9Td0I1TXFTSUhXQVZNVGZQU2d6ZThoQXYyWThFZFpKWC1kdUxud2lmc0NYVE50RXFaR1BTMDZON1A4S2x2b0pTV2EybThESUllZHRSb0dqQ2FPMS1OTVp1ZUR6ZHhBeFVi?oc=5"
+      }
+    ]
   }
 ]
