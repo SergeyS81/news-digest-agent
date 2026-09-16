@@ -3178,5 +3178,21 @@
     "run_at": "2026-09-16T15:21:14.511974+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-16T16:21:27.392416+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Количество отравившихся в казанском кафе NAN Кебаб возросло до 58 - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONXRvaWdkdHFPVE9lc2VEbDY1dHdvQjRpUm02TDZ3cnI3R0x1b19mdmd4RXBNTlZjVGZ1MnZLem5RODNYZGZIby00aE4ybFVEMjlYODdGdDZNZUE4eE1sZUxsR0VPLXF6XzFfZFI4c0ZicmRSZ1h5aUFqU3BJNVdlS1ZjY3prZW1jWnlVS1NZLXE0MjJVSDJjTGs3dUdhMjNvU0VoRE5ycURjNlU?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ-агенты OpenAI начали выискивать уязвимости в Hugging Face за два месяца до нашумевшего взлома - 3DNews",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlRZVUttV0FwZVR1aGRQT01MbVhQbEhjbFVPLUlXLTB2MzJBUFl4bDN3ZmpIM1MzbzV3QWRPNDVsb09iV0FnbEt3cnU1TWJjcmNKamRseEJkNjlUMUkyUHduUjdKb0JXQmRVdlVvdnN0LWFuUjVwbURsTWFXbkJ5NFFHX3Z2OXY1LVVDejRMcjJjMERSdlVYdjhpM2w5YU11M0ctRnpBUmZBZE5CczlPOWhCMWN5SVB5YmZiS0xac0RkSUQz0gHKAUFVX3lxTFBVcVBrQjg2bnlqQ04wbTB3YVYxVnZzWUVFVlFzYlNaSDVSSWtrTU9ldXBuWUhCNnk0QTRCTDktQXBhcy1aNGFXT3doWmhmaU1scldsSDAweUQ5Z1dWNXl5QXZDRG1nRGJld3BKUXhPQ0c3a2tDLVRHOHJtWXdOQzJGcmJESk9ySDRnMjRmRlh3MWMtY01WdE13cS0tTWU0NFRKbDdPa2JkZnhSMzVraUpzeTg2Q054VDRNbVdJS1FRY3kxNzAyRWV0dnc?oc=5"
+      }
+    ]
   }
 ]
