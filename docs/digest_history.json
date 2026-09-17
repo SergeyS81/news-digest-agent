@@ -3440,5 +3440,21 @@
     "run_at": "2026-09-17T17:18:37.583734+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-17T18:24:04.560288+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В обновленном парке Больших Кайбиц прошел Фестиваль труда и доблести - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXRMd3VjWEVRZTZrOUJCcW03LTRQTmRvcmpuRzJSaHVWNXVWOE9iekdmdWFoeEQ4cUw4cV9CYzRVdVpVY2NpZGJHNlVnR28wOGQyclpjMVE4ejM0aUVxRmczb1lwbGVvUzZndUhmRW5ac3RUVW1ONkJJWmh2T1Y4c0xoeE43cXhOZWhIUkFwQWZPMm5uQUJpek5hZVF0YlZLNTV5Q0FuUWViaVE?oc=5"
+      },
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "ООН зовет на переговоры, а Трамп снова захотел мира: главное об СВО за 17 сентября - ura.news",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aVG1rUjdNYXluelZWLVhJTFVHcVdJcUNKRGhyME9CaU13RHVCdWZ4TjhBQXpWVkFuazBlM2c5N0R1dGVnN2RsNTlqTlM?oc=5"
+      }
+    ]
   }
 ]
