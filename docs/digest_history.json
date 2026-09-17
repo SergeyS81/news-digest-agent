@@ -3283,5 +3283,21 @@
     "run_at": "2026-09-17T05:20:37.776000+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-17T06:27:05.450049+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Боец СВО из Татарстана после тяжелого ранения мечтает вернуться на ринг - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWU5BTS1yQzQydTNET0NrNlRENF9VRFVCci1NVENpUEo5Vm5Yem1xLVB2VEk3SHd6R2p5eU1Vb2xmXzRxbk1MVkFFSThoSmtFdmlKb0V1NU9yOFBLeUFQUEsxRGF6Ym9VTmRiTS1yckNsNi1JTE1oeHdEdm9XUWhKdEdsdEhKUDZnMDhQb2FTcFRIa2N6cjdmMVg3UGdTWU8zQktxdXBZOHNvSURyUlNRbU1MVDE?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Пейзаж кисти Ирады Аюповой: ГМИИ РТ впервые за 20 лет готовится к смене власти - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Db0ExWFFzZTVwWGR0Vk9Zb2hMMGRaVnR1Z0JXVHBBYW9Nd1BQTlNEX3FkTU9fWFkwb0gxSUFzV1kxZVVvVnpvNnpzVThERHlRLTJpWjNHSETSAVNBVV95cUxOQlhweHdrTkZjbUFoZEZJNVAxLUJuUnI0OHd2cUlTMk9RLWdNbS1FTGxhbS1FUFdqNHlUdVpLTFpabFp6a2JQQnkyalMtajYza3ZZOA?oc=5"
+      }
+    ]
   }
 ]
