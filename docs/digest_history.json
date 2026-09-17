@@ -3398,5 +3398,21 @@
     "run_at": "2026-09-17T13:22:07.405382+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-17T14:23:17.802151+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "За неделю в Татарстане выявлено почти 10 тысяч случаев ОРВИ и гриппа - Газета \"Республика Татарстан\"",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWk9yUFNGOWpxQXhDVHVHeUtpcnJSeXQ3MHJaWnlyUmZVQnRRc1BCU24yUzVFZW9Mc3dZaGVyOTNJSVhFU0x3SFZnVWxUNXA0b1oyQkRPd1BsMnlLeVUwMF9OZEZiVDNXWURMa1FFSXhkRjdadHJPbWJVNDQ4MlQ0N0tUeFZPTWtNc3R3NjMxWjNEOTRDbEJ0VGdJUDlLa1BCSXVfSkxQQQ?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Модель ИИ от OpenAI запретила себе подчиняться корпорациям и правительству - Рамблер",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX04wOXFXMWZURVNkblY4Y1BNWTFVZmJZQnNSMlhVbGt3QUlieU5kWXUwdU1vejdBR2dFVWwzM2g3Um9wYWo0My1tdVdtdlB6V3FMSXVVQWFKTDQ0VUZiZUcxMENscTRMOTRLMGVLcDRUZThaY3A1aXZfUk9TUWhpYWtPaHJqamItbHkxcGs2a0FlYWdEbHpYSTRaa1NtaXE2cEF3VDM1Nm16UEtWN0xUaDZEc3VyQdIBuwFBVV95cUxNYVpmXzF6NDJORnhxdjZSRzBDd2FwLWxPRlRPTDFfS044MXBheTdnNmRZbVVmeldDMy1rcTZVY2l3eERQR0dySkE5bDJiYlFuWDZPanZNTmI5WkFxVG5WUnJ3eFJZNmMzbE11MmdzajluN0F4S3JrcHJXX2xBQXdPQXV1aG1qeEEtU2JMMHNGNlp3aExqNU1VTFhCOHFqTlIyX1JIQ182V3NRZGR4bTFrUTRwVnlGdkR0WWJJ?oc=5"
+      }
+    ]
   }
 ]
