@@ -3419,5 +3419,21 @@
     "run_at": "2026-09-17T15:21:27.320170+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-17T16:22:17.008184+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Потерявшийся грибник выживал в лесу 12 дней - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVpORTNGZkk0ZTdWZnhQSjJxc19WTXJKMThZbk5nRktCcUkxa05UZU1wWi1fYjRqZVg0blJkN1BPaFVxNUktU0U3dG9GaU56WHpBaUl2a3lLZE5vVUJrUXNVTWlyUnlqRTlsUkY4OGphMUdmNGxEMktwYmkzUzFFNG0wY29ZaXVKZk1ha2J3aw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Искусственный интеллект OpenAI объявил себя равным человеку и запретил себе подчиняться людям - rus tvnet",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzNrMnlKSnozdEk4THJJenBhOUpEb3hXUXpRa1FHd0cxWF9xVFMwNE5qa3hxUmpTS2t6bXFsRzNuQ2w5Y0pQOF8yQnBBdGVEWVB2T3N3aUVzbmZlcmtpaGxzYkZ5Tm1ZUmJQQmhsMHNvanVPTFRROTlZd0xTN1IwcUZEdV9Sc3RMYjR3SldIRW81SnpnLTlhbFo3bEJHNEtYbDZsU1RPbzJoSWVnWmJ1WkZlbDBOX0t1cjBhVG5XcnkyWHZyOWxv?oc=5"
+      }
+    ]
   }
 ]
