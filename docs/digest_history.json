@@ -3506,5 +3506,16 @@
     "run_at": "2026-09-18T04:20:47.173457+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-18T05:19:17.005915+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "На выборы всей семьей: где проголосовать и как выиграть автомобиль в Татарстане - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1BaQ2VqVkcyZUFCVGJIb29IMnVfNS04eXFSTlZtMzNxcGpQdWtLbjBWQW5FZ3B4czhCRW8zWTl5ZHJKRjBXZEVwaGVwOHNiMklfM1ZVRDNyX2pmLTIybEE4VFFxVDF2cnM4WUlTQWd0S0tiRWdrM0ZsdGp4TldlTGxZS2RsZnozcThIUW9qb3UzQUw0cWNqLV9iQlZhNDlJOGN1N0RQRy1XaTFENnl5aHBlS3QwUQ?oc=5"
+      }
+    ]
   }
 ]
