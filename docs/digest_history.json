@@ -3544,5 +3544,21 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbDFQcjZxV0Q0X2JoMHFOWXFUVEU0U3dwLUlCb0JNakg3UW1TaU9zbTFUcHB1NWtPSENSZnhJc1ZZUnE1M05lZGlIR2RjVm41Zm1ZZW9BMXRFVzNFbFpKWG9rMW1BVlVSWDFJaUVJalZYbW1peFNXNnVmd2hYdW4zc1owbVdhVGpaYjBILW1UeXF2OFBiNVNDbmI1clNkbVBm?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-18T08:21:52.431176+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Татарстане привиться от гриппа можно на более тысячи избирательных участков - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFd0bDRpcS1sWUVQTHZtNm5yQldmV0RFeElFS3IzZUF6XzJaT1dyd2Fqb0E2eXZVcmt3b0VmeHdXNHNWbHFqRTAzcFNDbUtKdmowaFNMM0pabndrTUhjdEZudDZGRjkzRWhhWUhGVjlSS1hsclJHOWlHODNRQ1hYY1paQ1Zoa2pQQlBWME5NRjNja0tNdjZvZE9rNDlZRDlQNVNBUzFHcVZOclk0NkhYYlVKaUJyUUVTaUE?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Белые хакеры взломали OpenAI с помощью Claude - ForkLog",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNekhHcVZ1WTlfQzN3WndQYTlDOWJFUEs4VzZ3MW1HaUV3UmpUVnZZWEV5T2l4eFFOMUQ0WlFkUUhlVDYxN1o4amtScGJLVHc2MjdqSFhGWnlwTWJVV2JCZE9iNGJJVzdxSkZlT1M1WGhWR1hmanU0WWNnQjIyaUNGbg?oc=5"
+      }
+    ]
   }
 ]
