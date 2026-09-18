@@ -3727,5 +3727,16 @@
     "run_at": "2026-09-18T20:19:56.188783+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-18T21:19:22.275197+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Honor выпустила 2-литровую рабочую станцию с Nvidia RTX Spark и 128 Гбайт памяти - 3DNews",
+        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB3aGh5Y0l1SlJ2cWVXWGFpZzNNd3BsU0E2R2RGZFJRLWQ4YmtjOU9SRkEta1pTamNTcWJXUktn0gG2AUFVX3lxTE9vSUlwQ3N1UW13WUdhVEtybmZ3czZ2ZUVjWS1QT0FvYXp4TGpVNkoxVHEtSlFIZ3BYdVRhNnJBU3NsS3Z0VDlGVVFtcUQ4azJKQWhpMXFFSVp0NHI0SDAxQ3JmT0paRnVsM2ZEamJpaWdiWHVFYmh6V3NjOGpfakREQmJOYTZYeUZLVUl5aGJjTkVhUXh5N0k5emE3bV8zdWZQd0tlakJQZXRpZjFKQV9BcVJaUXln?oc=5"
+      }
+    ]
   }
 ]
