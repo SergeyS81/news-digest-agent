@@ -3691,5 +3691,21 @@
     "run_at": "2026-09-18T15:20:32.296420+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-18T16:19:41.316654+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Казани велосипедиста-доставщика сбила легковушка, он в больнице - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWk2WnhWQm9zaGNHT3Mtdy1QMVRaM2I2VmVsNk51Mk1HOFR3U3QxR0tkT0FWNTQ3SjlCT3JLT1BsX0VOeVExLWhfclhxQkR6ZFhnZ1FmTDBWQXc5eGU0V1dKcWc5TThRdTVsRkhsZ2JiTkF5SDNqVEUtT1dEb251dm1fdWswem1MSkJLU0dDZFlqRGM5R0dQTVJDRTNXTFYtbDNDOTZ2TV9CUQ?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Количество отравившихся в казанском кафе NAN Кебаб возросло до 60 - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVg2R0t5aEtMWEFqaUlmcllHcFFsM2JEOXJqWGItN0VUcFhfSkxRNmdvYzZkMXpLWEZLOUpfZFc1UGJRbjFaNnQ1UEd6d3RXajhqeTJBYjdSdVFxczgzZnZBbmxDSGFjMkd5RVp2dkRBclJqdWlsMjA5My0ybkZTV29lUVVwdEg4ZWxYVTRXVmFGY0JrQmJTc2VrUjQtbE9fbDlQY3hEVG5BOWM?oc=5"
+      }
+    ]
   }
 ]
