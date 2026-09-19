@@ -3758,5 +3758,21 @@
     "run_at": "2026-09-19T01:19:28.001050+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-19T02:19:48.601208+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ от Google самостоятельно взломал системы трех компаний - gazeta.press",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mOHIzQnBJLUlfdTlVOGFPaVNDemFwN05ueWhISTlZaFpoZ19vTHdJSWVCNlU3STYyQm93bmE1UVZJZHVER2pwVkJwMHRfYzNlSkNBYm5MdUZGbFY4cnliS3BCNnZSTDNDcER0M9IBckFVX3lxTFBWQ1o1aGJ2MlRsZXBlS3JZRmFRUWN1YTlOM2Fab3l2Q05HUlhnbWV6N0RsLXd0NHpJMzE4dFRBV0RiUk00Y0VqeUxUczVBVC1lRC1tX21TNTRTS18welZBR05IRTNhR3VyRjZDVFVoN2M1QQ?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ Google самостоятельно взломал три компании во время тестирования - Kursiv Media",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQTZpd05qWFd3Q0JkNnRwdm4wcEZRa1VuLU9uRU1EaHBKY0E0WXlEenBFRkhHOWIwMzFJSzFQZ1FBZG01UTdWUl9PVkFwT3FpSmdnWmh4aXBRWGNXWGFFR1dnMW12bjBLQjdVY2NOMFNjRGMxT1F4cGthQURDcjA3dk1ydkhuTmdSN2wta09IbDdsVzRmalZMZlZHVkRuZnZycUF1N0NKY002SFB2aUNr?oc=5"
+      }
+    ]
   }
 ]
