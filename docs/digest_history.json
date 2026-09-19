@@ -3784,5 +3784,21 @@
     "run_at": "2026-09-19T04:20:07.945778+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-19T05:18:56.322613+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Кому отдадут «Главтатдортранс», кого ждут главой в Азнакаево и кто станет новым замом Аюповой? - business-gazeta.ru",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92LWdNTjR2amRNX2V3cnkwSVV0SXZHZ0lpS1dRX2l3QW5ESWRuSEdjOWdqTDAyYVlmaXNieXFRaFpMRkVBMlpXZmRtZ1Nhb1RuQjZsNDNsTTXSAVNBVV95cUxNZkhBWW0xdHB6ZDMtZ0lQcWlCVy1zUFpZc3NYRnpaek5nZk0tQk1nT21SM3FjWWpOUHZQQ202dVE0c0NWUG1rYkdMblNkZWpwX21Iaw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic may release new AI model before IPO to boost valuation: Reuters - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdGtEOG5qSGVEUW9zVWpsREw2NkpvTzkzc1JoYThoYUpKRjh4czdUdVlUMm0tUDVnU0tuM1lhc2ZmOUxXZXYyd3dlclN5MXNSem55dlB6VDJyZDZZbFVWeWNxN0ZJZHVTUjdPVnJ4bzRKVFowMmktVEx4Q01LRnFVVElKaHJtSjR2RkdRR3VFRVVxTlpkbk02RjBDYUc0VllJeTlORlR1X3Bxc1NTUjlKWmtlcmpzRmhEM19CQXNJQ3laQ2steGwtX3FCejFvSVNHOWF3?oc=5"
+      }
+    ]
   }
 ]

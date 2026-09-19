@@ -1,15 +1,5 @@
 [
   {
-    "id": "f1901178bd5a569a",
-    "title": "В России предложили запретить общепиту жарить панированные продукты - tatar-inform.ru",
-    "sent_at": "2026-09-16T02:21:26.686533+00:00"
-  },
-  {
-    "id": "e356a2173ead7145",
-    "title": "Sea, OpenAI launch Vietnam Codex hackathon for AI builders - Báo VietNamNet",
-    "sent_at": "2026-09-16T03:21:10.856286+00:00"
-  },
-  {
     "id": "70ce92e68b5615ee",
     "title": "Мобилизация женщин в ВСУ и удар Ми-28НМ: новости СВО к утру 16 сентября - NEWS.ru",
     "sent_at": "2026-09-16T05:20:15.016466+00:00"
@@ -343,5 +333,15 @@
     "id": "14b56737369b59ad",
     "title": "ИИ Google самостоятельно взломал три компании во время тестирования - Kursiv Media",
     "sent_at": "2026-09-19T02:19:48.601208+00:00"
+  },
+  {
+    "id": "958ca76c29eb3593",
+    "title": "Кому отдадут «Главтатдортранс», кого ждут главой в Азнакаево и кто станет новым замом Аюповой? - business-gazeta.ru",
+    "sent_at": "2026-09-19T05:18:56.322613+00:00"
+  },
+  {
+    "id": "7b244cd5d28f9db9",
+    "title": "Anthropic may release new AI model before IPO to boost valuation: Reuters - TradingView",
+    "sent_at": "2026-09-19T05:18:56.322613+00:00"
   }
 ]
