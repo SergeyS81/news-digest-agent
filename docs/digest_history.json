@@ -4231,5 +4231,21 @@
     "run_at": "2026-09-19T18:21:44.193346+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-19T19:16:57.723950+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Gemini взломала сайты трех компаний через подбор пароля - Techinsider.ru",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzBGQm0yYmhYeVRMeXdoX0FJaGh5eDUwMlhaX0xxMm1RYW14dGp1T1pWSUpscWxnX2FLWm5sZnpKcDZETEVpUUdaUlNzY2lqTTdoN2JWdy1hRnBoZ2xGTEVVaDdWQmVTWTNRUmIyQVBYU2lIeWJHdC1uZlJaSVRKWjNPNmw1QVZXMjNUeDFVQTlydlFMdXBUQW9NYWlEVWQ3QXdUQTh3?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ Google Gemini случайно взломал три реальные компании - ixbt.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRDJ1V1VuSVhvQjBILXRFek1ERWQtbTVDRTcydFQwUUFRNW5Wa1UybXkxVjlsWERidHlxdWdiOTFQQjRzalhBdG1DM1lJaVluUVJ1WEVlZGZ5emhTMUVONm9QNVlWbVNxNWktdGdFa0UySm4wVklaQ1k0Ums0RWpjVGVqclJNTDlETzh2akphcENoc0paSDZrbkc4VnVnbWQ1Qm9femZB0gGrAUFVX3lxTFBDVERyQVZ1Y2pSdFU3RUJEaXpTR29QcERUUE5ZdEtKLUtfSmVxUmpRNVg1WWEtUmt0NnJncWhKZGV0YkNSQV94UmJGYks1Sjd1b1RQN2ZPTjBhMzhjWWg4SVpaY0FVd0NrQUZ5UFJFaGJ6Mk92VXZSclNEclFMeXNhNWNtRDdidUZiOWpPSmp1a3N6bFc1bzdLRFlHTUZUd3RzT3JWaWZZRFFSQQ?oc=5"
+      }
+    ]
   }
 ]
