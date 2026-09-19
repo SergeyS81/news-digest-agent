@@ -4188,5 +4188,21 @@
     "run_at": "2026-09-19T14:19:10.365142+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-19T15:18:54.002368+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "В США искусственный интеллект самостоятельно взломал системы трех компаний - Национальная Служба Новостей",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjlFV05WS0xwNTgxSTdKck53RGFWMjZqZjR4bldxVWhDcHZlSzVvTkVlREQtTXVRU3ktZklPLUx6dDV6YXRxczNoN1VZT3NNQ3VQcmZXSFdZVGkxVzc5XzlqU0gzbXQ0cXBydF9UdnRTNDYweUQwcmhNdUpOT0R4Q25fQ2dNT2NmQmhGazh3VFhsa3dQYVlKYmNaWjBmZHJNYUV2WlJqQWZfeS1pQlHSAbMBQVVfeXFMTl9RdVBzc1RuaWJ3SXlobUsyRXIteUpFVGJSWUhBa1pEM01HZkVJR0U5WWJjZjRocng3Q0p1ZDhSano1MUJnY2JUMnFJc1AxTnR3MEVtTFh0WFV5Wllya2pNU29Hb2dwRW9kSnl5ejgzRnFLalhXeEZXOGpTOFpLTDNJZVVoT3lzVDRFZ19hYjVvbWtHSTREa0RGS09iUzlBOEZDNGdsQW8xemtKT1IzMWFscFE?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Во время теста ИИ от Google взломал три компании - 24.kg",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmpsMGp1R3JMeU01eS14U2RwOVhucWNla0FFVm9HQXJDNnpCc0pKZTVQSWR0SjhnMUVHZXJ5NEhXMGwwQkZMYUZuNlhDTTVvazVBMTFwc21hY2xlRURoVjdRX01aZzJaUl81ei1RUXhJcS1fbnh6QlF4Umg2TllVWjl6bC3SAYoBQVVfeXFMT0c3OWRfUGpkdW9yaUdKTVhzRXZ4MFZEbi12WldtRS1JOUJGVS1sVmdMdDIxTmxrbmpfV1ZnSkZ0TGNHc19kVFY1Yi1QNmFWSnUyU0dhZzZRMnZsUzdERVlqSE1rY3c3V3dvdGZfVXl1aEFlUjZ0QmhoRDd4cmNwMGhweTkzZzB1WnRB?oc=5"
+      }
+    ]
   }
 ]
