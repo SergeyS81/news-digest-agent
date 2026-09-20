@@ -4360,5 +4360,16 @@
     "run_at": "2026-09-20T10:19:37.806879+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-20T11:18:43.032077+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Пациенты Альметьевской ЦРБ проголосовали в больничных палатах - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOGl4X0o0aDNYbFcwbFJpb3JGVXRYblc0dVlEQnZrVThMRmpmN1QtN3pra0d0MWZJa2dJeVFkb1NPUVpBZE9JM3Vja3JrSHJjUlFNSjBlZ2ZGcDNJcjNCWkllRF9aSUNNbDVFSFo5NkRSQU5YSS1FaDAwbU9rOU1kd3NsLTJPSi1LdXhlb01VY2V1bTdlaXU0bVRmeU4xME1H?oc=5"
+      }
+    ]
   }
 ]
