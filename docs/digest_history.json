@@ -4403,5 +4403,16 @@
     "run_at": "2026-09-20T14:19:00.461043+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-20T15:19:10.801673+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Старейшая жительница России Яха Хашагова проголосовала в Грозном - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeEhQR2FieUJlZlAxYy1EOUtfS3FzNjdPWmNkbGwwSjNEVUkwenlqQ2tKU0RzdlQ3N25MenRNd2dsWlZFYXlUajh1aHY4MFFRc0oxXzNWQU42Qk9BXzJ3U242WWpYR0ZFTVZaWmY1SmpuT2RmV0pXQXFIdFRXRjhTc2I1Wkd0RWxWZTJTSzdyVS1ROHg4dTUtV3oyMXhoM1gweV81OVhfdFpXUQ?oc=5"
+      }
+    ]
   }
 ]
