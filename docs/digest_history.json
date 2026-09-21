@@ -4530,5 +4530,26 @@
     "run_at": "2026-09-21T06:28:15.062325+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-21T07:22:17.244069+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Врачи РКИБ Татарстана спасли ребенка с тяжелой формой коклюша - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUJPdW9yZ0FJTkM0c00ybnhmeThVRm5VeVBWeGxod0FVX0RyMk9BNGNQWEpGWFBtZllyTTY3OUpoTXB0NS1OOGpRc2FlR1l5RmV3VFFXMnpnRmZfMkVvdHNzUm8wMTl4bUl2dHhKVjVkc2xKSmNOMEJLbzJiNDZUY1ByVElidGlmUUc3UHI4cmk3ODNlV18xZ2p1UTJ1TVdTNk55aTJscw?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Предъявить полис ОМС можно через МАКС - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRU1qM1dRejBsMzduOUlTcUFKUnZrOTBMOGRCMWhueWx6bVZEUnN3RWtRRkxNcUdlUVprNi15MDEzc3dpNjIteVdFR1Jkbmp1RFhxeWR1clNTNktDakxlQXdRR0ZXRVlDb2xIZlg0elBBQk9YVDR4bkxZVm5ueGdFMmRsYw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ от Google присоединился к «клубу хакеров»: Gemini взломала системы трех компаний - Oninvest",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDNEcHpyLXZldU9Qb0RMS1FuS0RvVE1Uekk1R09TdTNqdkVkS0ZjbGRvN0N6VllEdzNkdHdhTUgtRFgxUlpMcTJaTTE4WmdobGkwVlRiRVhLaTRXUV9lTFBXekhsdTNQU1pQS2hWNnJ4UE1XTG1CRFBmRXBJaGlVVUwydWlBNFFSNVNDc0t1Z3NVdFRCeTNOSU5zMFNTTmVjXzBLSGJWakxJaFZ4Z0E?oc=5"
+      }
+    ]
   }
 ]
