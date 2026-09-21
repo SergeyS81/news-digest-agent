@@ -4488,5 +4488,16 @@
     "run_at": "2026-09-21T00:27:58.900027+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-21T01:19:32.405228+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "\"Anthropic Weighs Early Release of New Model Amid Astra's Rapid Rise\" - news.sbs.co.kr",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PUFZrTjRSRkdMNXFTNVI5eTR2MGg4NVhxMHlQYzdwZTZkTk0wZmRVZkNzOUhVbGtMRXl2VUZFOWdFY0ZDN2NxWU51OGtZRVFuLUtRLVhCNjBCM0R1VUNYdm1pX2xYRFR6OVlRdWVn?oc=5"
+      }
+    ]
   }
 ]
