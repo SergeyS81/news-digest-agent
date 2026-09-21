@@ -1,10 +1,5 @@
 [
   {
-    "id": "8ace161bb3fcacd4",
-    "title": "Honor выпустила 2-литровую рабочую станцию с Nvidia RTX Spark и 128 Гбайт памяти - 3DNews",
-    "sent_at": "2026-09-18T21:19:22.275197+00:00"
-  },
-  {
     "id": "34ad7909cdf51db4",
     "title": "ИИ от Google самостоятельно взломал системы трех компаний - gazeta.press",
     "sent_at": "2026-09-19T02:19:48.601208+00:00"
@@ -588,5 +583,10 @@
     "id": "598b9a1126264088",
     "title": "OpenAI Releases Proposal for International AI Safety Coordination - The Information",
     "sent_at": "2026-09-21T19:19:10.681220+00:00"
+  },
+  {
+    "id": "6476b98df6d499c0",
+    "title": "OpenAI says its model resolved 100+ math problems, but hasn’t released the list - OpenTools",
+    "sent_at": "2026-09-21T23:19:44.651331+00:00"
   }
 ]

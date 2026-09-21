@@ -4725,5 +4725,16 @@
     "run_at": "2026-09-21T22:20:07.308266+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-21T23:19:44.651331+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI says its model resolved 100+ math problems, but hasn’t released the list - OpenTools",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yWU8tMnBhaDR0Q0dibE80OGk3cTFGdlBnLVp4eDQ0bG5TN3Y4dFowb0RHR2pNZ2ZjMEQxaEx6c1RWTHlnTm56bXpFWXd0WlQzVUtKU2pMYThLdjBld0NNd1ZrbjRuN2RSbHE3cXFEMm1DRHp1SGhPWURR?oc=5"
+      }
+    ]
   }
 ]
