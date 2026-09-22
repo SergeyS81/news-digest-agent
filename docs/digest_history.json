@@ -4809,5 +4809,16 @@
     "run_at": "2026-09-22T08:22:19.040565+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-22T09:20:32.620164+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Юрий Подоляка, последняя сводка СВО на 22.09.2026: ВС РФ нанесли комбинированный удар по Украине — под ударом оказались металлургия, химия и порты, карта боевых действий, свежие новости сегодня - TOPNews.RU",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ieWdnSFRxX25NR3l3cDVZNXJPSkJadG1KeTcyTW80RHdmTU1zVjVadzhWZGxZNmNNVE1vbldBbzBEVGdJMFlhcHBNV3dLRE5VNjRuTzZB?oc=5"
+      }
+    ]
   }
 ]
