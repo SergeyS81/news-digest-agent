@@ -4788,5 +4788,21 @@
     "run_at": "2026-09-22T06:25:41.259650+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-22T07:21:00.007699+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Врачи РКОД удалили у пациента опухоль почки и тромб самой большой вены организма - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1JLcDF2bTZDbU42S0pMREhyVkdBQkVyWHFOUDdCWG5JUEU1SHhWRmhJZjNjM00yMVZVMnRZZEJzYVk4aVYyT2RvbUd1eURxTWNvZGdsWUFySXpTNmdvUWlRRmxVMnV4ekhpYkxMUHpoQS16YklhbmpMZE8tZmVSanlORWNMZHdlWFViU09tUHhvUVFBdkFrTDdYNzNMcF84UXl1RXM3TnFpN1d1NUtjRWlub1Jlekt6RHE0?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "В Москве пройдет конференция TECH WEEK 2026 | Пресс-релизы | Новости - AdIndex.ru",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSSklRVTJjSXFrdDhQdFQtaVFreU8wZVktazlTSGpERHJtZ0U0OXdIcUlpN1lCYkVsLXp6VG5EeUdidHlsX3BkVk00NWxtaHNuUDU5elduckhMQW4takI3RjNXR3lJbFk?oc=5"
+      }
+    ]
   }
 ]
