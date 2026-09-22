@@ -4756,5 +4756,16 @@
     "run_at": "2026-09-22T03:21:20.501144+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-22T04:20:56.980238+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Значимые новости рынков",
+        "title": "«Кризис оказался глубже»: Казанский трубный завод признан банкротом - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaHdSUlpEOEllQ2c1aFNYOWpRMy12eDQxTnpEWUFLSE82MWtjUjdhMnBvbFc3VjZRSHdTa2psUi1Cd1Q3T3ZyMW9VZ0RmZE0yU1dIZ01kX1pCcVRDQkpJOTM5REVDN1UzU1NOcUxfbEx6LXE1X0JzZWhzZ1U4a0hNVWVlU1ZhM2Q5bDZKVW1IX2VnZlNQN1hSMF8xNndMQnhOVVRr0gFTQVVfeXFMUGRld3hiVmo5bEtoMUJvSU5QejRWVlRGZTAtakx3SlFBQ0dzeWpUOGtjWE1FNE0wTlNTUk04ZXBubDJOaGlrMUdqWU9USS1GTjlBa2M?oc=5"
+      }
+    ]
   }
 ]
