@@ -1,10 +1,5 @@
 [
   {
-    "id": "feff87403398a8c8",
-    "title": "Токаев предложил полностью запретить граффити в Казахстане - tatar-inform.ru",
-    "sent_at": "2026-09-19T17:17:40.453785+00:00"
-  },
-  {
     "id": "85ba95e8e7babcec",
     "title": "Gemini взломала сайты трех компаний через подбор пароля - Techinsider.ru",
     "sent_at": "2026-09-19T19:16:57.723950+00:00"
@@ -328,5 +323,20 @@
     "id": "ee8b47ea54c8d81d",
     "title": "Китай может запретить подросткам общаться с «виртуальными возлюбленными» | Диджитал | Новости - AdIndex.ru",
     "sent_at": "2026-09-22T16:21:20.657739+00:00"
+  },
+  {
+    "id": "0074c431494912ac",
+    "title": "Anthropic выпустили Claude Opus 5.5: на 40% дешевле и более чем на 30% быстрее Opus 5 - Хабр",
+    "sent_at": "2026-09-22T17:19:30.911965+00:00"
+  },
+  {
+    "id": "8cfdde59d3982362",
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance - TechCrunch",
+    "sent_at": "2026-09-22T17:19:30.911965+00:00"
+  },
+  {
+    "id": "ae54c248be183cda",
+    "title": "Anthropic releases Claude Opus 5.5, and it's not just more powerful: it's cheaper, too - XDA",
+    "sent_at": "2026-09-22T17:19:30.911965+00:00"
   }
 ]
