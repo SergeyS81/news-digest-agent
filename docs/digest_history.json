@@ -5051,5 +5051,26 @@
     "run_at": "2026-09-22T21:18:58.545146+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-22T22:19:19.636473+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение и прорывные мед. технологии",
+        "title": "Больница в Комсомольске-на-Амуре совершила прорыв в лечении опасных патологий - Transsibinfo",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaFpSck5pWE8xdUltQ3NyUjQwbTkyTVJpN2ZMLVNaclZNUGlaOER0MkdxUFVMTWV2ZVM4eXpTTWFBVjVkU1pFRG9idjVJRFdhdWlKaVNZc1VYUU5Gblp0QV80M3BLY0JBbzNmbUdHTnlpLWJFTlpyb3lzbENKdW1SRmpFYTUtV3NjejE3aUdCRmJPbm1OZGhUbXE3cmZrQVBnR0tPNHEtRWZWN2x1cXNZcjZOYWNIazNfaFdBajhISXNqM1plMmc?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI Releases New GPT-6 Sol and Luna Models, Sells Them as Mini-Astras - Gizmodo",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSnUwcGlFZF9iWW5Zc0lmbDF6ZWdVRFBVbXRvdmZZU2E3RGJFbVlEeExaVzZxazY4eXU1Y0pBSzdBREpjZFVKcFRHMHJ1WUNLTVFIam9RMjlLcnpVYmplTUp4akNFTHh2MjhrN05oSDAtUkw3dnhGaXllT05KQ1M5NDR5clRsLUcxWTI1TWdadVlkdXRrQzE3VHNkQUhqQ2s3VmN5cQ?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic, OpenAI release cheaper AI even as safety fears grow - Free Malaysia Today",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNDVXaVFMMy1IenluUFpja3oxWUIwblFvelg0WW1hNHVTaVJwTVJySzVyLTRvcmVmZ1JwRFVjQThjUjhnQTducGF1X0t3QjlFb3pzRUl4WDBYaE9PRFZ1VHkyaWR4cE5JZnotWnNkam9yUHVfUHNoZlR0MXdaMGd6aFNzU0xYRWxLaFBGLXVmRnAwSVd3d2JFa0JLRVBGX1M0WmZrd1hCVUtxTEpnRjM2S0lGMVp4dFR2cXg4dUZUZDlRQQ?oc=5"
+      }
+    ]
   }
 ]
