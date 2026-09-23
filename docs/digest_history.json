@@ -5093,5 +5093,16 @@
     "run_at": "2026-09-23T00:25:56.619925+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-23T01:19:32.930173+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic, OpenAI release cheaper AI even as safety fears grow - ABS-CBN",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNW5jRlMzZmlKT0pyQnBKU2xLSUpWYU91LXRFRjd5N3NiRXVVU3NWRHNVQ21jUjFkMm9mM3VuU2o1RGNXMzVOR2g0YUpzWWQxOFZsdE9hQmlCSXBjeDNnNjNEeEdQOFlwSmNuc0RUV1ZQSzM0VFlxbmlxZTFPQ2dpMHBBaEdmc1JpRHEzYlF3YUhFLTQxdVFrUTFZSHpocHdGaWJBUkNFYkhYc2pvWGI3Yg?oc=5"
+      }
+    ]
   }
 ]
