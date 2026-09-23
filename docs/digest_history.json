@@ -5109,5 +5109,21 @@
     "run_at": "2026-09-23T02:21:37.615053+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-23T03:21:25.544480+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic, OpenAI release cheaper AI even as safety fears grow - The Straits Times",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaE5GblZpV29nOTlMOHJnUkJma2VmcDBXeG1saFJ4WTZWNXB4c01WdWcxR1hnand3U1hSNmZNU3d0Nm40Y1BNTklTOUxSS1dIX21pV1pBV2xvMVJBT0tSZEdZUEtzcHpnS3pVdjNkNVFlZ251S2JJdXBxZFdCNzFDSnhYMHhwcFpwZi1jcUp4anNLYjBOQkFLXy0wTWtVOVgwR0w2YjROQVhubmFaQVJV?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic and OpenAI launch cheaper models - Communications Today",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOblZtRUlyVXd5Ymh1M1Y0ZkRzTjJra1AwSjVGZFFkRzk2X0RiYjgyRXpSWWlFLTU4NmFMZUZYT3ZDMTR4SjBUWGpGb21odjl4c3ZiRjNPUnlYY0RXYTkwMmdZckdicmw2TUxab3ZHeTFoTmwwRFJxREZDdkREV1VxWENHWXNtb0JK?oc=5"
+      }
+    ]
   }
 ]
