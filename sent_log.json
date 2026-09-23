@@ -1,10 +1,5 @@
 [
   {
-    "id": "757368b65de5ba4b",
-    "title": "Пациенты Альметьевской ЦРБ проголосовали в больничных палатах - tatar-inform.ru",
-    "sent_at": "2026-09-20T11:18:43.032077+00:00"
-  },
-  {
     "id": "52d69cbf6cd9f8f1",
     "title": "За два дня на избирательных участках в РТ привились более 30 тысяч человек - tatar-inform.ru",
     "sent_at": "2026-09-20T12:24:03.408636+00:00"
@@ -473,5 +468,15 @@
     "id": "7903a3c0e96913a5",
     "title": "Экс-главу ФСС по РТ Павла Лоханова не выпустили по УДО - БИЗНЕС Online — Новости Казани",
     "sent_at": "2026-09-23T10:21:10.041357+00:00"
+  },
+  {
+    "id": "6e253ec0414b56de",
+    "title": "OpenAI and Anthropic Launch New Models—They Are Fighting the Wrong Battle - Barron's",
+    "sent_at": "2026-09-23T11:20:42.391885+00:00"
+  },
+  {
+    "id": "7919bef8a41d44c2",
+    "title": "Why AI model releases feel nonstop - Fast Company",
+    "sent_at": "2026-09-23T11:20:42.391885+00:00"
   }
 ]
