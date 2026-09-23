@@ -5146,5 +5146,21 @@
     "run_at": "2026-09-23T05:19:58.007267+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-23T06:26:32.717854+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Qualcomm выпустила чип для Android, разработанный для искусственного интеллекта - finam.ru",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX2l4QkM4R01wSGxsNmY5V1JxWWJvdmNkb1czcVpVNndNZWNFdHVHR2N2SDNvRUpGcEVKaFlEWHhScWdaeWd3VTd1M0dfSnhmN3loXzdDaFpPbVVBRlJnVzFlUlJmdnU2UjBWX3J0aTYwTU9mNVhBOWx1aGsxNzJjb1pzV2VqN2ZWWklmeVhvNXVHSnptdndKNENfS1ZkaWk4LXhpdGhfUEZCcHZueXhGMmNUZVhqM0pnU1AzeVNaX0JkR2VpN3BoMnBQWW1oQjVm?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks - MarkTechPost",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUxrQWtZa29UdVA4OVV2NnhUaG1tV0N6TmNneU9PWnNfbm03c1pSX0l5MWlsNVpleFNPa21tTGpuTjlIeTZKMXhrT2dLSWVsNXBPNlhVN2huZTljS3JpQlJZd0tVd2ZMc1B4cUxSRGY2MmNBVGZ1WElFaVVneDNxZm4xbF9HUDNwUWI5RlFuQ3NXckhxbFpRVWtRd2ROWmdHMGhEQzZfSUVEWktIYzRQbFFlY9IBuAFBVV95cUxPaFFpQUxPNVdfV0NUSVc3bTh4Mm9pQktkV2w3OHZhbWZXcWZ4MUpKN2VZeTBZVmxHR0JabTRITHAwYUw1M2J5QWJ3dTNVS1BsNEdpOVVKYnNENVRxT2FHWkZfVnpWNXo1Zm42Mjk4MnN2dzMtQ2tXRTFTOS02RXRmODJaSFFEQ1JOUFpWN2NheVl4ZlFoSjB6Z3dBMUdFcVoxbzVxUnZxSm5JbFB3X2xWaGxwRGp3eFZs?oc=5"
+      }
+    ]
   }
 ]

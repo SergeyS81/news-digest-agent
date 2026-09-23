@@ -1,20 +1,5 @@
 [
   {
-    "id": "3235c2de56672fd3",
-    "title": "Старый знакомый Буша-младшего: как живет картофельный фермер номер один Татарстана - БИЗНЕС Online",
-    "sent_at": "2026-09-20T06:24:25.318601+00:00"
-  },
-  {
-    "id": "891250a41723a5c7",
-    "title": "Глава ЦИК РТ рассказал о своей многолетней традиции голосовать на выборах - tatar-inform.ru",
-    "sent_at": "2026-09-20T06:24:25.318601+00:00"
-  },
-  {
-    "id": "d4b107702304c553",
-    "title": "Минпросвещения выпустило рекомендации по применению ИИ в школе - moika78.ru",
-    "sent_at": "2026-09-20T06:24:25.318601+00:00"
-  },
-  {
     "id": "03c0009db0b5bc7a",
     "title": "Минпросвещения выпустило рекомендации по применению ИИ в школе - Runet.news",
     "sent_at": "2026-09-20T07:19:33.031241+00:00"
@@ -443,5 +428,15 @@
     "id": "6f0d612969cca0f2",
     "title": "OpenAI releases 2 new models minutes after Anthropic's launch | Both firms' CEOs recently called for AI slowdown | Inshorts - Inshorts",
     "sent_at": "2026-09-23T04:21:37.066475+00:00"
+  },
+  {
+    "id": "964a61294219c522",
+    "title": "Qualcomm выпустила чип для Android, разработанный для искусственного интеллекта - finam.ru",
+    "sent_at": "2026-09-23T06:26:32.717854+00:00"
+  },
+  {
+    "id": "184149e91195bb2e",
+    "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks - MarkTechPost",
+    "sent_at": "2026-09-23T06:26:32.717854+00:00"
   }
 ]
