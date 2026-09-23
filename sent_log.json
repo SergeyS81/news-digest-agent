@@ -1,15 +1,5 @@
 [
   {
-    "id": "e4234f8e398387b9",
-    "title": "ИИ от Google взломал три компании во время теста по кибербезопасности - Runet.news",
-    "sent_at": "2026-09-20T18:21:41.721089+00:00"
-  },
-  {
-    "id": "3face473236a64e9",
-    "title": "Модель без текста вместо LLM: создатель ChatGPT выпустил «модель для быстрых решений» - ixbt.com",
-    "sent_at": "2026-09-20T19:16:51.025445+00:00"
-  },
-  {
     "id": "cd0abc06fad06c91",
     "title": "\"Anthropic Weighs Early Release of New Model Amid Astra's Rapid Rise\" - news.sbs.co.kr",
     "sent_at": "2026-09-21T01:19:32.405228+00:00"
@@ -483,5 +473,10 @@
     "id": "f636229bed29d56d",
     "title": "Переговоры по урегулированию СВО: Россия подтвердила готовность, условия, заявление главы МИД Лаврова - Росбалт",
     "sent_at": "2026-09-23T17:20:45.875287+00:00"
+  },
+  {
+    "id": "39b2fcaa499d4fa8",
+    "title": "Anthropic launches Claude Opus 5.5, cuts price 20%, boosts safety - BetaNews",
+    "sent_at": "2026-09-23T20:21:32.987023+00:00"
   }
 ]
