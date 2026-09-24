@@ -5394,5 +5394,16 @@
     "run_at": "2026-09-24T04:21:21.392925+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-24T05:20:00.618853+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Google Nears Gemini 4 Release: Post-Training Underway as Leaks Tease 5x Lower Costs and 3D Upgrades - nokiapoweruser.com",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PcDFYYTBqcW9mazRHNWttNzhfUzZYVk9zcUNDQUI3cWgtU2s3V2xSUmxtZ0hvN21iTjZ0WEdVNnlBNjF0YTlZNEg0OWVwT0Iwal9sNWZkVlF2d3JwdHQtQVBiT2k2ZHplQk5VMzlSRXVzeVlr?oc=5"
+      }
+    ]
   }
 ]
