@@ -5587,5 +5587,26 @@
     "run_at": "2026-09-24T13:22:29.663105+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-24T14:22:13.754454+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Захватывает Москву, покушается на Казань: мутировавший грипп пришел в Татарстан - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRG16S3ZmVUNRbHZuQjB3QjdtOG93M1VpZHc1d25jdzdtVmNsNFZ3MEpZNDdQSWM3dmNXMkR6Tk04QmpMUlM2dlRHUXBobjFtT2NldnBqb1ktUXVPRTFBSDdCU0FieUdla3ZyVXFaMC1uWVBDUVVYaF9PRkdlQm1wdG5QanFUMDNCbGREMk8ydDBsRFVXOEJVUTctUlJ2bV9wUVRyUzNSODlKY1NtTHRz?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Google DeepMind’s New Chief Signals Gemini 4 Launch Is Close - Northeast Times",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWGtIc1BvVnNvejNEcDlpcGFBUmtZRjdtQ1JXcjVSTkItaHBSRnNuQnFvY0x4X0NQbU11X05yV2d5VkcyNDRvV2dqb3JVbmFxM0pYcVlSQVlaME5uU3c5RXhZcHZTcGg4WFFKaFozRVVyQUVjTmFiaW9zekJuTWVjQUtrMzltaHlJcXdmNy12UFpxWVdScjEyVEJ0WUFEUE5s?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Возле Центрального стадиона подтопило улицу из-за прорыва 43-летнего водопровода - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zX2d2VHd5TkJxdTFaTVQ4b0RybENPRU5DVV9QbndWS0E1YVhQZUVJb0tGTGJRZ1BXa1BKVUhlaGtqTjRBTUlVZlFVY0NXZUxPRnNKQtIBU0FVX3lxTE9lRFhhZFpJTUdnQmdLbVlxS1NweGNUdjJ4Qmx5eTNUdktGWXVvMTJsTnhOVFJnaDZGMXVNbzA1UmN6bHg5aHV3RnN0WnFkdllmbWcw?oc=5"
+      }
+    ]
   }
 ]
