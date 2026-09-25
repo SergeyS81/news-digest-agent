@@ -1,65 +1,5 @@
 [
   {
-    "id": "0cbe7d828d9b724b",
-    "title": "Рубио объявил, что США предложат России и Украине энергетическое перемирие - tatar-inform.ru",
-    "sent_at": "2026-09-22T18:25:04.494724+00:00"
-  },
-  {
-    "id": "a99c48b315f2dd94",
-    "title": "What AI slowdown? OpenAI, Anthropic release dueling models as price wars heat up - Fortune",
-    "sent_at": "2026-09-22T18:25:04.494724+00:00"
-  },
-  {
-    "id": "b0ac45c948e1ed4c",
-    "title": "Anthropic Releases a New ‘Safest’ A.I. Model Amid Slowdown Debate - The New York Times",
-    "sent_at": "2026-09-22T18:25:04.494724+00:00"
-  },
-  {
-    "id": "769101d17081d034",
-    "title": "OpenAI releases GPT-6 Sol and Luna — and cuts token prices in half - The New Stack",
-    "sent_at": "2026-09-22T18:25:04.494724+00:00"
-  },
-  {
-    "id": "327166d01372f776",
-    "title": "Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price - mashable.com",
-    "sent_at": "2026-09-22T18:25:04.494724+00:00"
-  },
-  {
-    "id": "456e9debc4d8bb12",
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes - TechCrunch",
-    "sent_at": "2026-09-22T18:25:04.494724+00:00"
-  },
-  {
-    "id": "39774648d6657d9b",
-    "title": "В Нижнекамске открыли мемориальные доски в честь первостроителей города - tatar-inform.ru",
-    "sent_at": "2026-09-22T19:18:55.055930+00:00"
-  },
-  {
-    "id": "72cf0be2da913809",
-    "title": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown - CNBC",
-    "sent_at": "2026-09-22T19:18:55.055930+00:00"
-  },
-  {
-    "id": "5120171ba9341e96",
-    "title": "Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price - VentureBeat",
-    "sent_at": "2026-09-22T19:18:55.055930+00:00"
-  },
-  {
-    "id": "7c7514d8c9778ced",
-    "title": "Anthropic’s Claude 5.5 Release: Efficiency Gains and Strategic Consolidation - forkast.news",
-    "sent_at": "2026-09-22T19:18:55.055930+00:00"
-  },
-  {
-    "id": "6ee39805e1f06e4e",
-    "title": "OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more - VentureBeat",
-    "sent_at": "2026-09-22T19:18:55.055930+00:00"
-  },
-  {
-    "id": "f2f34a5473010929",
-    "title": "Anthropic and OpenAI launch cheaper AI models a... - Pluang",
-    "sent_at": "2026-09-22T19:18:55.055930+00:00"
-  },
-  {
     "id": "63d7578ff8a742ea",
     "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5 - MarkTechPost",
     "sent_at": "2026-09-22T20:19:30.010404+00:00"
@@ -528,5 +468,15 @@
     "id": "e153c608feea3a4c",
     "title": "Amazon запретила ИИ-агенту Meta Muse совершать покупки и сделает то же с аналогами от Google и OpenAI - 3DNews",
     "sent_at": "2026-09-25T17:20:11.247715+00:00"
+  },
+  {
+    "id": "f881f1749c56409c",
+    "title": "Эксперт: одних выплат недостаточно для роста рождаемости в России - БИЗНЕС Online — Новости Казани",
+    "sent_at": "2026-09-25T19:18:53.144405+00:00"
+  },
+  {
+    "id": "1c4e39b754134890",
+    "title": "Искусственный интеллект взломал сайт правительства Австралии - news.am",
+    "sent_at": "2026-09-25T19:18:53.144405+00:00"
   }
 ]

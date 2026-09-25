@@ -5903,5 +5903,21 @@
     "run_at": "2026-09-25T18:22:57.705547+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-25T19:18:53.144405+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Эксперт: одних выплат недостаточно для роста рождаемости в России - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MY3IzQlVYOGN0Q096VTdDbXJ3SDl5S05UYVp5OTdrZXhzc3pnSnlfVnJaVERYWm51aGF2OHQxVUF5aWxLQmhzNXJpMGV0ZXd4Xzg3Yg?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Искусственный интеллект взломал сайт правительства Австралии - news.am",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9CY29aUE9YM0FDc1JhNTlJbFA2Y2RxQXAtUVlXbGdiMUN0R0ZXQTJ5Z1BpMTJwdHFzU1d0NDZJYTRVUzYwR3c?oc=5"
+      }
+    ]
   }
 ]
