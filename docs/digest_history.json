@@ -5855,5 +5855,16 @@
     "run_at": "2026-09-25T14:22:49.848841+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-25T15:22:51.166191+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Врачи ДРКБ исправили подростку сколиоз, не поддававшийся обычному лечению - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQkUxWnZMbzRVd1VnTHdoYzhReE9kOFV6eXo3LWtsZW5BVDZJaEYxMG5YSGFldHRfb3pib0liNVZyem9tNC1NV0ZfRklFY2J4Ui1Db2p2QUQyRVNudU9JeFpnVnI0cXJJa2taV1lUaGZxN3kyeHpLVVREdHc4MFpIMnREUzBYXzI3Tk1BcTlkZ0hpbUpjQXJqeU9qTnBSdmxYN3lhcW1MVTRZRTg4VElZUUEtTU5iZw?oc=5"
+      }
+    ]
   }
 ]
