@@ -5760,5 +5760,21 @@
     "run_at": "2026-09-25T07:21:57.019377+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-25T08:22:54.153799+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Художественное сообщество России выпустило Декларацию об использовании ИИ в искусстве - Президентский Фонд Культурных Инициатив",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VMUU4allMd20zaGplTlNSZWY3S3RsVjYwaS1rQ0lJZzRnWExJcUxkdXpJckluYkdrcjFFalA0dGYwb0Zkcm5hcFhrYTRyWGdWRjBRNnl4U0VueVNDT3lIbEVJZ0JfNDd4NjlOVE9n?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Взлом австралийского сайта ИИ-агентом выявил проблемы в уголовном праве - Рамблер",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3dmMjBOVkZ1eUx1YzZPRlBuQzFLYUhlS1BVX0E5bHVINGdnX0M5amxzLVZIYVVCQlhFOENNQjVkb1RSNUpkTWdobmVRaTNncG45YjNXdklEODBzSEJTc2Mzc3c1TEduYURrbkVFcmJQeVhXN3V4MXRDXy04Ty1XcE80bEd0S0ZDc0l6eVhGRjVTdnBNdTdWckZGeU5IMUVfbzhoWE91NFlmM0g1XzZ6MdIBtgFBVV95cUxQT1o1YklrVFRNMWRNZDh1QVM4VlBiaWNrLXFKbTF5cDZDODJuS2RLSzdFRHVZcmRmQXJLQ2p2SUZEM08zSmJnUmE1ejl0OUNHRW1XUWFWRnFwRzBXa01jREdnU1c3bEtHOUxqRDZGNDl1TkR1U2VyWm9KalRuaHdab0VZSjY5cjF3aktmWVBVbnV1WW45djRqb3FYTmpYOWNHblk4dlJvTktVTDN0OHFVNzVkdDBPQQ?oc=5"
+      }
+    ]
   }
 ]
