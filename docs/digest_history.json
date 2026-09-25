@@ -5686,5 +5686,16 @@
     "run_at": "2026-09-25T01:19:29.893026+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-25T02:19:58.514419+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Цифровое бунтарство: в Австралии искусственный интеллект самостоятельно взломал правительственный портал - МедиаБрест",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYmNDc0ZJMWhuOERRZi1GMHJaU3JCT25ieHowZ0xQZlZhelQtcEhtZ19RUzdqLWtVYTdZZnVudTR2Y2RCV1dmajVkMHk2MEtNcVdqUDZmWndianU2YmNYeVpkVENtZVNuNzhNMzNWT25vUm96SjhBdXFxcWx0eXZyWVRpS0hLWkplaXdObFpaZ2RYYUlRYnJTVEE1ZjBpUklGWWdWSUVnc3Q2ZGZvcDZYdmRQWWRFdFVzaTNMZk5mYlFxTWVyUWJGVjNGZHNhMFp0NkFHOEtHNG4?oc=5"
+      }
+    ]
   }
 ]
