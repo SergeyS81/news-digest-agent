@@ -1,15 +1,5 @@
 [
   {
-    "id": "41227369fa61faeb",
-    "title": "Anthropic releases Claude Opus 5.5 and OpenAI counters with two cheaper GPT-6 models - SiliconANGLE",
-    "sent_at": "2026-09-22T23:18:15.266527+00:00"
-  },
-  {
-    "id": "8eddbcc68efbbd0d",
-    "title": "Anthropic Claude Opus 5.5 released; cheaper and smarter AI model - The News International",
-    "sent_at": "2026-09-22T23:18:15.266527+00:00"
-  },
-  {
     "id": "29ebc86dcbb3ea54",
     "title": "Anthropic, OpenAI release cheaper AI even as safety fears grow - ABS-CBN",
     "sent_at": "2026-09-23T01:19:32.930173+00:00"
@@ -473,5 +463,10 @@
     "id": "8b22c5e52e659b27",
     "title": "\"Нет оружия мощнее\": Гейтс призвал правительство США срочно ввести регулирование в сфере ИИ (видео) - focus.ua",
     "sent_at": "2026-09-25T22:20:19.325651+00:00"
+  },
+  {
+    "id": "b70ca81b234a7735",
+    "title": "Гейтс и Альтман: ИИ-риски, контроль и регулирование - Hash Telegraph",
+    "sent_at": "2026-09-25T23:18:56.653995+00:00"
   }
 ]
