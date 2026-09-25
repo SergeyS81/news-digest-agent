@@ -5919,5 +5919,21 @@
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9CY29aUE9YM0FDc1JhNTlJbFA2Y2RxQXAtUVlXbGdiMUN0R0ZXQTJ5Z1BpMTJwdHFzU1d0NDZJYTRVUzYwR3c?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-25T20:19:31.537744+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Татарстане промпроизводство за месяц выросло на 9% - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04UGhRQ0hXRkI4MFNqRzhiLWxKYnU1bDVJX0RBeUF4WHFQcC13VkVXSjZhOHBXOHdSUzJnd1g2REs5N0ZnZk4wM3VrakhfSUtvWVBOMdIBU0FVX3lxTFBSSU5kallrRnE0Q0RPZ3dmR3BGUVZER1ZVMTZ1Sko4T1lyMWhxNWZOU1JDLUVxZFh2QXhVSEl5am80empPNEFVemZYenR2bmMwSFJV?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Искусственный интеллект взломал сайт правительства Австралии - Armiya.az",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE04VnEyYTgydE50QXd6cVVjVmo2aFRnV0ExZVNmYjk0a0FaNjM3d0oyWmVON2pDQUZkU2lwWVZjdjZlZWdDcFE?oc=5"
+      }
+    ]
   }
 ]
