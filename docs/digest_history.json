@@ -5670,5 +5670,16 @@
     "run_at": "2026-09-24T23:19:27.386743+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-25T00:29:00.310802+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ атакует. Каждый шестой взлом не подвластен человеку - ComNews.ru",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUU84VXEyM1FEaXQ2UGdWNF9zanJ2bUlka0M0QXJEYkQ5UDVSRWVyMHdQVmpHcjhXSHd2RWpSWHo4U3AxNTNBa09iT29Cc2ZKa1pkQjc2S2I3UU9hZk9mVGI4dDVhUmtGWXF2SVo1bXl0bGlSVzJWMUpnWkVCMXgzLUxDaGJ5T0lfRkhEV29xeko0VVdrSXZpQjhXTHhiSGFvRW5QZ2RlQVRxTzdqblYxc3BZeVpTS1Q2ejZLNDB1aGpQQQ?oc=5"
+      }
+    ]
   }
 ]
