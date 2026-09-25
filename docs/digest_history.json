@@ -5729,5 +5729,31 @@
     "run_at": "2026-09-25T05:20:21.310488+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-25T06:26:34.708375+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Конкурсы, агрошкола и форум – что подготовили для сельской молодежи Татарстана - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVC1rN0ZwS0txMjMtNUlweEtpVlBGd1kyODFybUdYRXlfLVBzU2FuN2JaeGNseWY1cVRRU2ZtTE5McU5ic3R3dnpZakhEQVo5RktDb3R2bTF1aGFOSGo2aHBaaUVNVkFJbmNxX1FMbzAwUDNEblVTOGo3dnByT2xwbXB5c3FLdmt2bkNOSHhLNkExenJQS1pZZEZzNE9Na0dJUlpvY3RocDJNSlM0OG1YOUJvMXdmc0E?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Татарстане спустя почти 9 часов отменили беспилотную опасность - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uX2RReG1LaTZ1eldEdXdaMFNUOGRLRHpQZkEtcGtmc25yTkxKQTlQS0RkWTNaNUlnOG5IeGt3Y3dUeS1Qc3gtcFVKbnE2cWpfQjNsetIBU0FVX3lxTE1EUS1iQ20zeHdUQVMtb3RLMkoxZnFOc1pZazIwYnpESDUwbHFSNUhxbkZ3amMyajBRQ2NNbUozVlgxMC1Hb1VSYS1vUmNSRWhRY2hZ?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Прорыва не произошло: Трамп и Си на банкете в Белом доме обсудили Тайвань, Иран, Украину и ИИ - DW.com",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc1N4UjBjNHpLeThKdTZCZWRPQjlpV2pWWENrb1dKVldCeTA2UzlyUFVWMl9NYWtmNzI0My0tUDhWQkhFbnEyNnFNcUN6Y2VmMjIyaWlhZzNnenp2UVpxNkJMMC1VWFdEbHg2VDZRVktrV1FtdmxBRGpYVEJKT3p6NmVpNE9tTGxaZzVqa0stcll6ZF95RjVWdVRORTFnQk82MFl2ODVpaEpzOFZ6TnBFUVppQ2hKaXB1bmhtVnpPTzhJUl9kWHJuZ3doSzVlb1o3a3JsYkp1eWdJR18wNzhHa0ZFcXhZS2Jn0gHoAUFVX3lxTFBkTEtSWkJyTEE1WGZtRVdDMmJoQTZXWWlPS0MwMGduTWRxaUQ3SmlzcHRXZjk0Uzl0ZVNtR20xZDhmaXBwMnhzd2ZwUEo5elpxRm05bG55UktMazc2OC0ya1RrOXhBc1hUdGQwVXJsRVpDY3NDcGlva1pkQUhYbmdTR0paek9xQWhQRUNYal8zZUNnNXN1ZU9NSW8xbm5SVUI2cUNwd3BTb2lla1pZZ3Etb09NU1hpSUZweW9za0FzOW9HU21DMHlBT0pNenFMeFV2RTBta0J3SU4yOWNKZlNURHdxZjhtN2I?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic Releases Lower-Cost Opus 5.5 Ahead Of IPO - Silicon UK",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HaGMtRTBwVVVwamp6UnhoSEVXTVRjdDdwT29KV0lkdVJzZ2IybklzYmExSGR2N1VDLVlVeVUxcG9yMmJkRG1SMDN5V2RlTXZCNXBOUncxWDhKY21EaWJwS2F3UTFsNEU?oc=5"
+      }
+    ]
   }
 ]
