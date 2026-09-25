@@ -5781,5 +5781,16 @@
     "run_at": "2026-09-25T09:22:13.762941+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-25T10:21:38.957678+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ случайно взломал правительственный сайт - naukatv.ru",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzZzR5SmVGOVpTWVFudmQzLTh3dTdIWmlsZVZlYkJ0N3NESTBCdkxHVnNSNWdib1hlanFjM2tUemRBUmRST1Bjelg1RlFjd3prUnpoSm1jSjlJaFdPNTNiUUM1SU55ZTNFMWlzQzg5cEFPY2lQ?oc=5"
+      }
+    ]
   }
 ]
