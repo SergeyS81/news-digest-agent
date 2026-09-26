@@ -6102,5 +6102,16 @@
     "run_at": "2026-09-26T18:22:53.963118+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-26T19:18:24.220122+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Claude Opus 5.5 Released, Intensifying AI Rivalry with OpenAI - Aktualita.co",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjRxcEZPR0pOeDFuVmZId0Y5OFI3WW9sLUV4ZHZaNEgxNjU1bTJ0Y25ZcFVjTTFCMVdhMTdkSlFIazI2bEl4SXI4Q0gwdlpWMUduNVBqendmVHVWMFZ4VThkanBQX2tMSXExLWIyQmkyTkQ5cURsU3Zxei1tS0FBVmRjUjlJUlFHS3RIUmN5Q192Q1dtRVFVYVNB?oc=5"
+      }
+    ]
   }
 ]
