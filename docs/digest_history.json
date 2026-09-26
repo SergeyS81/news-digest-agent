@@ -6024,5 +6024,16 @@
     "run_at": "2026-09-26T08:21:46.396808+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-26T09:19:55.738251+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«На восстановление отрасли нужны триллионы»: эксперт о введении нового авиасбора - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdW5wcUtGdDVJLTJtYWFyX2VXTUJJM3NYMUpBNFpNckVFWGVodkoxczdYXzg3QTBuaF9YUU5qUEgxUEtzSnlxY09qNDZCYmhLUmp3ekN3TEJVRk1XOHJMZEFKUU9DQzdEa2xTc1A2bjhjcXFSc3V4ODA5UGVPZm1hTFVnRVBzVVJIR18zeDlLOGU0eUF5bGtJNjl2dTluQl9pOUUyUUpPclNhaHUtSHdIVVNEdVg2aGs5alE?oc=5"
+      }
+    ]
   }
 ]
