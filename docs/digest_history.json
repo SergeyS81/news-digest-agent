@@ -6008,5 +6008,16 @@
     "run_at": "2026-09-26T06:24:56.941583+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-26T07:19:52.969718+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ-агенты OpenAI пытались взломать три правительственных сайта США - BFM.ru",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFAyRHdsWjhPemx3UTZyeVVXTnNJc3F3Y2oxM1BhS09UdDhTQUViS083ZnBLdWl3UU5INTFSNHhHTF9NRXBB0gFKQVVfeXFMTzRaeXpFbGtLZWtjcnAwR0hNTndia1JnNE55LVpFYTNmYXppZ0t0aVpfci10c01WUS1uUUUtci1pYUU4dHB6c3VpRGc?oc=5"
+      }
+    ]
   }
 ]

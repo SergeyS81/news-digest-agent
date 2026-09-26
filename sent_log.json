@@ -1,35 +1,5 @@
 [
   {
-    "id": "00d042f7c270bbb2",
-    "title": "Anthropic, OpenAI release cheaper AI even as safety fears grow - The Straits Times",
-    "sent_at": "2026-09-23T03:21:25.544480+00:00"
-  },
-  {
-    "id": "27e845ce211c99f8",
-    "title": "Anthropic and OpenAI launch cheaper models - Communications Today",
-    "sent_at": "2026-09-23T03:21:25.544480+00:00"
-  },
-  {
-    "id": "9806651b699d94e7",
-    "title": "Anthropic, OpenAI launch new flagship AI models after calling to slow down AI development - India Today",
-    "sent_at": "2026-09-23T04:21:37.066475+00:00"
-  },
-  {
-    "id": "6f0d612969cca0f2",
-    "title": "OpenAI releases 2 new models minutes after Anthropic's launch | Both firms' CEOs recently called for AI slowdown | Inshorts - Inshorts",
-    "sent_at": "2026-09-23T04:21:37.066475+00:00"
-  },
-  {
-    "id": "964a61294219c522",
-    "title": "Qualcomm выпустила чип для Android, разработанный для искусственного интеллекта - finam.ru",
-    "sent_at": "2026-09-23T06:26:32.717854+00:00"
-  },
-  {
-    "id": "184149e91195bb2e",
-    "title": "OpenAI Releases GPT-6 Sol and Luna: 50% Cheaper API Pricing and Benchmarks - MarkTechPost",
-    "sent_at": "2026-09-23T06:26:32.717854+00:00"
-  },
-  {
     "id": "e74b5629d03db314",
     "title": "Армия РФ нанесла групповой удар по предприятиям ВПК и логистическим центрам Украины - БИЗНЕС Online — Новости Казани",
     "sent_at": "2026-09-23T07:22:25.729168+00:00"
@@ -473,5 +443,10 @@
     "id": "33076461a1e99c6d",
     "title": "Минпросвещения запретило использовать ИИ на итоговой аттестации - ЯСИА",
     "sent_at": "2026-09-26T02:20:20.116883+00:00"
+  },
+  {
+    "id": "9ee15511e26fc3ea",
+    "title": "ИИ-агенты OpenAI пытались взломать три правительственных сайта США - BFM.ru",
+    "sent_at": "2026-09-26T07:19:52.969718+00:00"
   }
 ]
