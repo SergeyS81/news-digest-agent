@@ -6060,5 +6060,21 @@
     "run_at": "2026-09-26T14:19:42.682117+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-26T15:19:52.970234+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Гатиятулин: «Ак Барсу» нужно быть настырнее и точнее в завершении - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmNhdHJOTnlkUTV6SWlrWnNpSS0xMzdoRFptZDBHSTVoZWFadE01X09teWl4RG93c0UtenBnNGNmcTFkUDJBX1B0SzJaNVJUY0Zjb2dWWkt5ZXBVdnhvZUNDeGVNRmdHenJySlduYTFRZ3NwOFBtd1ozZC05cm02RFF4Uk9qMzQzdmxDZmkwajdVUTkxZFNTMkNMb3daV3Y1YWlaeDRB?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Минпросвещения запретило использовать ИИ при аттестации - Вечерняя Казань",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOTg3djVvQktRUU9hNkFzbjkzN2ZpN3VRWXZ3LU9GTVd2cEY0OUhKV3Fmakg0TDlxcWl0YktUTDRnTl9BLUt4ZlJsV29HalJHblJqZlpYNHM0X25EdG80bXpoRlJ5eHd4Z2lmWlFuQ1dCYURkZmR0aWZCdlljeGhJWE9GYWswTmZQdXM1Znpvcjc5bVZvUzFYQlRHbF9VUWxJWkYzMTZB0gGrAUFVX3lxTFBDcFYyS0w1WVdDanBXbEswenJpSEpYUHc4ck9HOXpyVE1DVWtsRVZYdmhHeVBwUndrX3ZVTnRyQ0FGamtlMS1qWUFWSEtMTjZiRVlGN1dJc1lLQ2xFTk1MeC1mS0JZWEhYUkZ4UEpvbktnVDgtN0xNYUc0N1JrRG5UTXd6TXpBaXFwTFBJQ0dFeWtjLWwySmNnRkUtNEhKXzN6VFd4VGw3OERYQQ?oc=5"
+      }
+    ]
   }
 ]
