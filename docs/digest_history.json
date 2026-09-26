@@ -5972,5 +5972,21 @@
     "run_at": "2026-09-26T01:18:56.715520+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-26T02:20:20.116883+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Онищенко рассказал, как нужно бороться с гриппом и ОРЗ - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3pCc1ZhbnJWRGE1MjJZOFBTWTJCc3gxSFdnQ0hhTzQ3UmJ3SjBOOGx5MkI3Uk92XzZzakt2NDJjZ29xb2M3amtRWkphOGJpNHpXb0xld1pIRFZUb2M1d0RSbVRKU0I1WXJELVVKT2RxenlmbFY0V3JtNl8zTGxRbjBJWVZ6b3k5Q252cnJfREpfY1JfRXNrTF9LYnI?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Минпросвещения запретило использовать ИИ на итоговой аттестации - ЯСИА",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0cyQng5RDdiMm13U29hcFVOUUFXV0dta0lMQVZZbVgyeGdZcklxVGFLWlREMVNxT1E2S1NGb0ZSTUo2ejBLM1A1SDBoSTI3eklGVlQwTWFDcC00NVR3U01UV2l0Uk9ya3R5M3N3UHVBSFNzZE9vSmJveWUzbjMtZ0syaXJsNlQwZEE?oc=5"
+      }
+    ]
   }
 ]
