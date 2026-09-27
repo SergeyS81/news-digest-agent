@@ -6243,5 +6243,16 @@
     "run_at": "2026-09-27T14:19:26.734288+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-27T15:19:58.756008+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "FT: Armani готовит переговоры о продаже 15% доли LVMH, L’Oréal и EssilorLuxottica - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nWWpXQUJRQjFfS1lVcm9ZNGNaS0RTRnRPaGs0Y1Joc0VwTFlpR0t3SXNLY2dLeFAzUldZcTJGNFZ1N1d2RFVuQXNSNW1jaGdsUHU4aQ?oc=5"
+      }
+    ]
   }
 ]
