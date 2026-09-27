@@ -6259,5 +6259,16 @@
     "run_at": "2026-09-27T16:20:58.147832+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-27T17:18:55.701453+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic launches Claude Opus 5.5: Benchmarks, pricing, safety - Mashable",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3kyT0JlSC1QNUhOT0RtQ0VZVzFRSF9IZVE1TlhmY3RMU012NENzcm9IVXdXM0NQMmZRVVRxV0d4QmgyUHBCWXRsQ1J3OGhCZ1JPUGhJOG1ZYTdXcTBLVG5PQ1NHUzB6WEVlZFl6U2tDcUdqVkYzSndmOGxlREwtd05Fb1VIUnZpT2d3bDhKWQ?oc=5"
+      }
+    ]
   }
 ]

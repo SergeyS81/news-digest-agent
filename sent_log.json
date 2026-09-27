@@ -1,20 +1,5 @@
 [
   {
-    "id": "ee2bbe0ee8da91b1",
-    "title": "Google Races to Launch Gemini 4 Early to Catch up with OpenAI and Anthropic - Android Headlines",
-    "sent_at": "2026-09-24T15:22:30.980937+00:00"
-  },
-  {
-    "id": "d77cc2ba34dba40f",
-    "title": "Перемирие на Украине в зоне СВО: реакция МИД РФ - rosbalt.ru",
-    "sent_at": "2026-09-24T16:22:34.696044+00:00"
-  },
-  {
-    "id": "42794442710db124",
-    "title": "Из-за прорыва водопровода в центре Казани приостановили подачу воды в части домов - БИЗНЕС Online — Новости Казани",
-    "sent_at": "2026-09-24T16:22:34.696044+00:00"
-  },
-  {
     "id": "412b793ccffc4702",
     "title": "ИИ атакует. Каждый шестой взлом не подвластен человеку - ComNews.ru",
     "sent_at": "2026-09-25T00:29:00.310802+00:00"
@@ -248,5 +233,10 @@
     "id": "e7231ef3333366cb",
     "title": "FT: Armani готовит переговоры о продаже 15% доли LVMH, L’Oréal и EssilorLuxottica - БИЗНЕС Online — Новости Казани",
     "sent_at": "2026-09-27T15:19:58.756008+00:00"
+  },
+  {
+    "id": "327166d01372f776",
+    "title": "Anthropic launches Claude Opus 5.5: Benchmarks, pricing, safety - Mashable",
+    "sent_at": "2026-09-27T17:18:55.701453+00:00"
   }
 ]
