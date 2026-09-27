@@ -6180,5 +6180,16 @@
     "run_at": "2026-09-27T06:25:43.647263+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-27T07:20:45.717341+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Удар по штабу Украины под Одессой: сводка Минобороны, ход СВО: Политика: Россия - lenta.news",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEFRSTdkQ09mQ0JLaG1NRXdxRzZUN0s2dU91RHZRTzd1cU1vLVYzZ1lDNTN4TGxNS1FDbDY1Y1BKTVpvaDJMSDhCRnNKVWktTTYwdXBmX3VmY3VwVGExTGRDYlJhbjZsQmhTdlR2UXJfbmhvc3BnQmc5d0hWb2NOdFdzWHZ4WVVHZXBsWEln?oc=5"
+      }
+    ]
   }
 ]
