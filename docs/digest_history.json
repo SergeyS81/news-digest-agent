@@ -6206,5 +6206,16 @@
     "run_at": "2026-09-27T10:20:00.274782+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-27T11:19:58.531284+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Глав OpenAI и Anthropic вызвали в парламент Австралии из-за ИИ-взломов - Ведомости",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XRzYwVmR3OXVrT2lCLWRIT01nTkVEM29YM1dxODFzTnNycUpiTDhnZUNqdy1XWjFpdXpjdFBrMEE1ZW1FQUFtR1I4bG9xRkV1R0lsUnpRbUMwb09zTDdOZHZzb3lSZ2lRcGhXVlhTX3NmaklheWw5TQ?oc=5"
+      }
+    ]
   }
 ]
