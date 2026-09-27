@@ -6153,5 +6153,16 @@
     "run_at": "2026-09-27T03:21:00.271081+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-27T04:21:18.660857+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Waters Demands OpenAI Investigations and AI Model Release Moratorium - unite.ai",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORi1keFBjNnZnTS1wTW55dXlCMHo5ZFlwOWJ3LXA3VUxWY1FhbDZjbGlKTFJPRFB4SXczdHg1UkY1d0VlUjBBempVY2U1c2w1N1dVN055cjJ3a21QcklSNG5CZDZ6QXk2c3d1by1xVk02UWJWM0NuT0VGVmVOeWRyRmNmdmxDOFhibkl3UTY3djFodnNl?oc=5"
+      }
+    ]
   }
 ]
