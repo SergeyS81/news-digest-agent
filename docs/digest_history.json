@@ -6296,5 +6296,16 @@
     "run_at": "2026-09-27T21:20:14.235814+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-27T22:20:55.505190+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic may release Claude Sonnet 5.5 within days - TestingCatalog AI News",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzNJRkZUdEJ2S1AzSEQ2NlVCT2JwNl9ZLU5reFVZT19CVEIxa1JLY3Fud2NaVEg4b3RYbnFJd2VIdmhGamxUSzd5WHFMTUlaVDV5VURvbUxHVDFSa215U1ZlYjRIYkdiUXpxQjNkdHNNQWhyeG12RXZzQm9ySnczYWdpdGo?oc=5"
+      }
+    ]
   }
 ]
