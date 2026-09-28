@@ -6438,5 +6438,16 @@
     "run_at": "2026-09-28T11:22:04.445210+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-28T12:28:26.694084+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Само не пройдет: врачи о сигналах сердца, которые нельзя игнорировать - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNDI1WDluVnV1eXdlX2FScXhEcnRUdFBQMVN6cXE4ZDFBVmliSFhXeldsSF9ucDJjNmRBVHctSEdaWUZZNjNTbnh6d3RtcUpubkZ5cV9FQXNyUTU2cUxsWHpHcHJEZkpsNm9IdWNCT1hic0JadFQ5UDdJOWU4b0FMd1RMVUo4aVgxVFpMcHVFYUZlOXdnaUgwSUdraVROR2VhRUUxZnc3Q3ZldmM?oc=5"
+      }
+    ]
   }
 ]
