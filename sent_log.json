@@ -1,10 +1,5 @@
 [
   {
-    "id": "eb9962fc70fca3a4",
-    "title": "ИИ случайно взломал правительственный сайт - naukatv.ru",
-    "sent_at": "2026-09-25T10:21:38.957678+00:00"
-  },
-  {
     "id": "aadaa98f72f961bd",
     "title": "Бани на Кабане, гостиница для спортсменов в Мирном: Минниханов благословил проекты на 5,2 миллиарда - БИЗНЕС Online — Новости Казани",
     "sent_at": "2026-09-25T11:21:16.276194+00:00"
@@ -238,5 +233,20 @@
     "id": "34e478629363b836",
     "title": "Минниханов отметил положительный опыт проектов «Физматпрорыв» и «Физхимпрорыв» - tatar-inform.ru",
     "sent_at": "2026-09-28T09:25:37.768424+00:00"
+  },
+  {
+    "id": "c23a4d9ceccf855a",
+    "title": "Врач напомнил татарстанцам главные признаки инсульта - tatar-inform.ru",
+    "sent_at": "2026-09-28T10:24:13.124476+00:00"
+  },
+  {
+    "id": "1c70c4fa3f8b515d",
+    "title": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
+    "sent_at": "2026-09-28T10:24:13.124476+00:00"
+  },
+  {
+    "id": "c393a7f560f4b432",
+    "title": "Anthropic Releases Opus 5.5 Migration Guide: Agent \"Mid-Task Stalls\" Caused by Program Misjudgment, Sonnet 5.5 Could Debut Next Week - finance.biggo.com",
+    "sent_at": "2026-09-28T10:24:13.124476+00:00"
   }
 ]
