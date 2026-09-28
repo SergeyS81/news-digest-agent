@@ -6337,5 +6337,21 @@
     "run_at": "2026-09-28T04:23:09.995841+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-28T05:22:29.196708+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Минздрав хочет разрешить хирургам оказывать помощь за пределами больниц - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbG5TVGRPb3kwM2lUZVp6ejZnMkpHbTFiMk9uV0hod0E2SXB4TU9ta2tCMzdMU3ZHUm5fdF9JU1RkQlduY3NZWjhHbUtRWXRnc1ZoOEdLTFR1ZlFXa0Y5eHdtVnU0MnVaOVJsTXZvcUxUQjR0X1FudXhGaWZ2MUhmRnFEcno1a2c1bUxWd2t0Mm0yV3dyTmRXV3ZrcDIyUUJrWjBWbg?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Как мы с вами будем платить больше налогов, а также битва за регулирование AI: главное за неделю - Хабр",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54VDNVZFUzUkUxZGFjSEdIUVlkOVVRbVAwWllLNXhzeVJJRFk5ZHJkX1VPWElxSlk4OURWVGdGN2lwUzhUclpVV2JlODA2Z9IBWEFVX3lxTFBtQ21iZzNoM0hTcElsYWhYaE9BdUc0bGctZVVaQ2swWnBPUjVsdVR5d0otWTJZb2MyM1F3M0VjVlMzOF9Jc2dOVDVtYVJHOHJEM1NiMWhjTVU?oc=5"
+      }
+    ]
   }
 ]
