@@ -1,10 +1,5 @@
 [
   {
-    "id": "b70ca81b234a7735",
-    "title": "Гейтс и Альтман: ИИ-риски, контроль и регулирование - Hash Telegraph",
-    "sent_at": "2026-09-25T23:18:56.653995+00:00"
-  },
-  {
     "id": "d76c65a4c44a50c4",
     "title": "Онищенко рассказал, как нужно бороться с гриппом и ОРЗ - tatar-inform.ru",
     "sent_at": "2026-09-26T02:20:20.116883+00:00"
@@ -228,5 +223,70 @@
     "id": "b96227d58f54bdc0",
     "title": "Anthropic Releases Its Second New AI Model in Less Than a Week - gizmodo.com",
     "sent_at": "2026-09-28T22:20:56.531704+00:00"
+  },
+  {
+    "id": "aa8f4ce2699f2c77",
+    "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate - cnbc.com",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
+  },
+  {
+    "id": "7a78e87eea291f22",
+    "title": "OpenAI Scrapped Latest Model Release Over Safety Fears, WSJ Says - Bloomberg.com",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
+  },
+  {
+    "id": "05915d2922ed214f",
+    "title": "OpenAI scraps release of new model over safety concerns in internal testing - The Guardian",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
+  },
+  {
+    "id": "e78b155a2534eba9",
+    "title": "OpenAI is scrapping the release of a new AI model dubbed GPT-6.1 Astra due to safety concerns, according to WSJ - Newsquawk",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
+  },
+  {
+    "id": "e2b91f2c688fbefe",
+    "title": "OpenAI cancels GPT-6.1 Astra release over misbehavior & safety concerns - 9to5Google",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
+  },
+  {
+    "id": "caf2ef6ae5b27650",
+    "title": "OpenAI Halts Model Release Amid Safety Escalation - The Tech Buzz",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
+  },
+  {
+    "id": "7c51447624a9bf0f",
+    "title": "OpenAI Scraps Release Of New AI Model Over Safety Concerns - WSJ - TradingView",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
+  },
+  {
+    "id": "f56661e038c4d218",
+    "title": "OpenAI Cancels Astra AI Model Release After Safety Testing Concerns - Global Banking & Finance Review",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
+  },
+  {
+    "id": "39a3b23d0837c891",
+    "title": "OpenAI Halts GPT-6.1 Astra Release After Safety Tests Reveal Deception - finance.biggo.com",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
+  },
+  {
+    "id": "a59e2fa29c57dd88",
+    "title": "OpenAI cancels October release of GPT-6.1 Astra - Breakingthenews.net",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
+  },
+  {
+    "id": "827322c58aaf3170",
+    "title": "OpenAI halts GPT-6.1 Astra release over safety concerns amid AI development slowdown calls - Pluang",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
+  },
+  {
+    "id": "edad7bdbd9a51fca",
+    "title": "OpenAI halts GPT-6.1 Astra release due to trust and safety concerns amid AI risks. - Pluang",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
+  },
+  {
+    "id": "3356c514c558579f",
+    "title": "OpenAI appears to be scrapping the release of a new AI model - blue News",
+    "sent_at": "2026-09-28T23:20:17.352065+00:00"
   }
 ]
