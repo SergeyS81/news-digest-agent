@@ -1,10 +1,5 @@
 [
   {
-    "id": "8b22c5e52e659b27",
-    "title": "\"Нет оружия мощнее\": Гейтс призвал правительство США срочно ввести регулирование в сфере ИИ (видео) - focus.ua",
-    "sent_at": "2026-09-25T22:20:19.325651+00:00"
-  },
-  {
     "id": "b70ca81b234a7735",
     "title": "Гейтс и Альтман: ИИ-риски, контроль и регулирование - Hash Telegraph",
     "sent_at": "2026-09-25T23:18:56.653995+00:00"
@@ -223,5 +218,15 @@
     "id": "067eb283091f6171",
     "title": "Anthropic Releases Claude Sonnet 5.5 - Thurrott.com",
     "sent_at": "2026-09-28T21:21:17.492392+00:00"
+  },
+  {
+    "id": "c307be8f1e3abfbe",
+    "title": "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ",
+    "sent_at": "2026-09-28T22:20:56.531704+00:00"
+  },
+  {
+    "id": "b96227d58f54bdc0",
+    "title": "Anthropic Releases Its Second New AI Model in Less Than a Week - gizmodo.com",
+    "sent_at": "2026-09-28T22:20:56.531704+00:00"
   }
 ]
