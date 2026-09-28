@@ -6497,5 +6497,26 @@
     "run_at": "2026-09-28T17:21:37.939663+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-28T18:25:02.569637+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown - CNBC",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qRGtiMER0c2RNRG5wOWl1ZWd4aEszaTJqWW5hWnI3cXpVaHBtTzlGYnQ2bTBsMnhXSkxONXdLVVpXQ0IxSG9RR2tXTnNiM2J0Qk5sbXJqVTVQRUFERXBSNEVPa2NmWHpYMDNOaktSNUNlUdIBd0FVX3lxTE9VUlRzOG8tVjJtWXpKb0hFNlduRU1QU1dlS2xPaHpBSzlxcWxzbFRBT19oMEJMdjgyd0c2elZXcV9vT1lGNU9VR0VqZGZxTThIRW5kLTlMTEUxdEhhUEs2NjJabER2UUdpaTVFdzZxWTVkX0JTeGU4?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner - TechCrunch",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2l6M0lzLXZOampyMGFyal9PSk9WSm9TMU1ZSFVDVUgxNjFGV2tnYThqTm05RjRqOGRZaF9IeXBTRlZjNVNZd19fclVvNy1wVGE1bzM1NDl5RnZjWHpTTDBadllvejB2UDcyRWZ1bFdJem5TbnVwbkdJeldwOW5RbzhoUkZwZ2JULXE5Q25xUm9qX0RIakZESWJySThneFVzZTIwOGVUaWhzVS1HbWNjVjBGakhGazJ0a0RvczlZTmw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic Releases Claude Sonnet 5.5 at Unchanged Sonnet 5 Pricing - Unite.AI",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUtqbW5lYjZ4ejZveExQTmluZ1JlSWEyTFpKU1hJS2Ita1prUFFPbEUyeTZ6RWlsSlpHTklBaEVNbERsMXZDZnY5enRVRi1KNnUwU0pydmpoNmpZUFpRNkctcnhUT2tHU1RSZzdHNlEzSTdaaWsxU3ZaN1pHMFZKRDhqS1NFVTN3VVB2a2VYR1ZMdw?oc=5"
+      }
+    ]
   }
 ]

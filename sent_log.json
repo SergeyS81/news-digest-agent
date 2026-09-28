@@ -1,25 +1,5 @@
 [
   {
-    "id": "ad3a725de4859a71",
-    "title": "Число пострадавших из-за атаки вражеских БПЛА на Ульяновск выросло до 15 - tatar-inform.ru",
-    "sent_at": "2026-09-25T16:22:55.928666+00:00"
-  },
-  {
-    "id": "a00ccf6dbc5b6cc4",
-    "title": "Число пострадавших при атаке БПЛА на Ульяновск выросло до 15 человек - БИЗНЕС Online — Новости Казани",
-    "sent_at": "2026-09-25T17:20:11.247715+00:00"
-  },
-  {
-    "id": "735099a5391fb8ee",
-    "title": "Матч сборных России и Ирана в Казани перенесли на 19:00 по просьбе «Первого канала» - БИЗНЕС Online — Новости Казани",
-    "sent_at": "2026-09-25T17:20:11.247715+00:00"
-  },
-  {
-    "id": "e153c608feea3a4c",
-    "title": "Amazon запретила ИИ-агенту Meta Muse совершать покупки и сделает то же с аналогами от Google и OpenAI - 3DNews",
-    "sent_at": "2026-09-25T17:20:11.247715+00:00"
-  },
-  {
     "id": "f881f1749c56409c",
     "title": "Эксперт: одних выплат недостаточно для роста рождаемости в России - БИЗНЕС Online — Новости Казани",
     "sent_at": "2026-09-25T19:18:53.144405+00:00"
@@ -228,5 +208,20 @@
     "id": "1d37c21558b8655c",
     "title": "JetBrains выпустили Air Teams для работы с AI-агентами - Хабр",
     "sent_at": "2026-09-28T15:24:40.718923+00:00"
+  },
+  {
+    "id": "eb20c9efa39e5b77",
+    "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown - CNBC",
+    "sent_at": "2026-09-28T18:25:02.569637+00:00"
+  },
+  {
+    "id": "c29d3f60735ae1ee",
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner - TechCrunch",
+    "sent_at": "2026-09-28T18:25:02.569637+00:00"
+  },
+  {
+    "id": "09201036c20866e3",
+    "title": "Anthropic Releases Claude Sonnet 5.5 at Unchanged Sonnet 5 Pricing - Unite.AI",
+    "sent_at": "2026-09-28T18:25:02.569637+00:00"
   }
 ]
