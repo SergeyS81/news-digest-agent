@@ -1,10 +1,5 @@
 [
   {
-    "id": "a65dacdcf6992200",
-    "title": "Claude Opus 5.5 Released, Intensifying AI Rivalry with OpenAI - Aktualita.co",
-    "sent_at": "2026-09-26T19:18:24.220122+00:00"
-  },
-  {
     "id": "15ac0e5ef71154ea",
     "title": "Waters Demands OpenAI Investigations and AI Model Release Moratorium - unite.ai",
     "sent_at": "2026-09-27T04:21:18.660857+00:00"
@@ -988,5 +983,10 @@
     "id": "dda10f32402b57dc",
     "title": "В РФ вступил в силу запрет на вывоз более 1 млн рублей наличными - tatar-inform.ru",
     "sent_at": "2026-09-29T18:26:30.083605+00:00"
+  },
+  {
+    "id": "3c6105a0d3016325",
+    "title": "Anthropic says its AI could kill us. OpenAI's is too unsafe to release. Please enjoy the IPOs - boingboing.net",
+    "sent_at": "2026-09-29T19:23:06.530964+00:00"
   }
 ]
