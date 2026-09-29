@@ -7517,5 +7517,31 @@
     "run_at": "2026-09-29T21:21:48.078902+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-29T22:21:44.701148+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "На OpenAI подали в суд за взлом Hugging Face и игнорирование рисков автономного ИИ - 3DNews",
+        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE8zZ1BFa2JzNUl3cFI1NTRUMmpSeXFHbktzWW90Ym9ST1ZtckRLVUItV1NVNE82QXNpRi0ySUt30gGyAUFVX3lxTE41VUtEWUZjSExRX2ItVFB4R2dLcHZRdzdBUE9GdTJVbUU2ckstRHdJSzZnWHlpSnpNWm5TZmhTenBQLWRJR185dVN4Y1RCdGVZSjVaOE5laU9BdHQxMURRWDk3VUl6b3phd2liR0lhdmYxam8xdlV5ZWlUX3VlNVVYMXNWOFc2TEhCa2RvZHRkem1kUkVOQXJ2T0twb1g4dXp0UkdoQXRyY2ZPdmh2N0pfd2c?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJKXy1xWWNFX3hLZktkaW5tZ2Q3cHoyZ3FnTDRHM2hQSlFjRVJ5X253RUNmZTg5VjJtOUFnMlhpZHN5VU5meVFGTWRFbWprUnBrb3pnMjl1bjJIUWdjQ2ZXa0w5V2g0X3E4ODloa0FmTXc3MTlHMDBQZFh6LXpYbTUwbVBYcTZSMEh1MXRQbFdyRFdBbzhPbmFn?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "With No Astra to Release, OpenAI Pivots to New GPT-6.1 Sol Model - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xX2pNWFVCU1EtbEJwSEVHbVdkM1k0RlhLVkZpOWNPR2ZTY3BPUmwwcGVtUzZxZzdZRXNCWWRsOFRNX1ExQUZ3N1ZVbDBEcGxKbDV2VTROWVVMRElqZ1JpMGFVUXNMR1czRVdmXzU5MV9nLUdDX3ZLeWJ0ZjV6M28?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI Released GPT-6.1 Sol Model, Priced Below Competitors - MarketForces Africa",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVJXb25hSlBEVXVCTnFlMWxXbHQ5a0c0amJBdVFsNDNmYzM2VWhfQXNreDNsT1ViaUhsNlNDWGltOEFIQWZUb0VMYnN1Wnd0QlFNREV5U09YRjlPMGVTcHRyN2NFVnEtc2tFUzdiQWFJMXVTNFA1Vm1EakNKN0VFNnN1Y0NtMUVKcDhRbF9R?oc=5"
+      }
+    ]
   }
 ]
