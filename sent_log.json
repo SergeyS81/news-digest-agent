@@ -1,10 +1,5 @@
 [
   {
-    "id": "9ee15511e26fc3ea",
-    "title": "ИИ-агенты OpenAI пытались взломать три правительственных сайта США - BFM.ru",
-    "sent_at": "2026-09-26T07:19:52.969718+00:00"
-  },
-  {
     "id": "7d084af98ce4c09d",
     "title": "«На восстановление отрасли нужны триллионы»: эксперт о введении нового авиасбора - tatar-inform.ru",
     "sent_at": "2026-09-26T09:19:55.738251+00:00"
@@ -588,5 +583,50 @@
     "id": "f3004151ad70fd39",
     "title": "Bulletin AM briefing: OpenAI halts release of new model and UK reopens scheme to resettle refugees - The Independent",
     "sent_at": "2026-09-29T06:27:42.894788+00:00"
+  },
+  {
+    "id": "f127492ae4fc22f4",
+    "title": "Госжилфонд обеспечил жильем более 12 тысяч семей медработников Татарстана - tatar-inform.ru",
+    "sent_at": "2026-09-29T07:23:49.957894+00:00"
+  },
+  {
+    "id": "b3bf6beddc4a1c56",
+    "title": "ВС РФ нанесли очередной массированный удар по ВПК энергетике и дата-центрам Украины - Ваши новости",
+    "sent_at": "2026-09-29T07:23:49.957894+00:00"
+  },
+  {
+    "id": "bf035622e497ab87",
+    "title": "Anthropic выпустила нейросеть Claude Sonnet 5.5 - hightech.fm",
+    "sent_at": "2026-09-29T07:23:49.957894+00:00"
+  },
+  {
+    "id": "ed942dd41e2a2474",
+    "title": "Claude Sonnet 5.5 is released; OpenAI cancels Astra 6.1 - Techzine Global",
+    "sent_at": "2026-09-29T07:23:49.957894+00:00"
+  },
+  {
+    "id": "3286102302addd6e",
+    "title": "OpenAI Scraps GPT-6.1 Astra Release After Safety Tests - StratNews Global",
+    "sent_at": "2026-09-29T07:23:49.957894+00:00"
+  },
+  {
+    "id": "6cc69a393cf588af",
+    "title": "OpenAI Scraps GPT-6.1 Astra Release Over Safety Concerns - analyticsindiamag.com",
+    "sent_at": "2026-09-29T07:23:49.957894+00:00"
+  },
+  {
+    "id": "2aeea41895f42140",
+    "title": "OpenAI Cancels Model Release Over Security Concerns - Silicon UK",
+    "sent_at": "2026-09-29T07:23:49.957894+00:00"
+  },
+  {
+    "id": "10d69da34b90f347",
+    "title": "OpenAI cancels release of newest model due to safety concerns - ABS-CBN",
+    "sent_at": "2026-09-29T07:23:49.957894+00:00"
+  },
+  {
+    "id": "70aeabd9e060958f",
+    "title": "OpenAI Scraps Chat GPT-6.1 Astra Release | Tech News - Dawn",
+    "sent_at": "2026-09-29T07:23:49.957894+00:00"
   }
 ]
