@@ -1,15 +1,5 @@
 [
   {
-    "id": "d76c65a4c44a50c4",
-    "title": "Онищенко рассказал, как нужно бороться с гриппом и ОРЗ - tatar-inform.ru",
-    "sent_at": "2026-09-26T02:20:20.116883+00:00"
-  },
-  {
-    "id": "33076461a1e99c6d",
-    "title": "Минпросвещения запретило использовать ИИ на итоговой аттестации - ЯСИА",
-    "sent_at": "2026-09-26T02:20:20.116883+00:00"
-  },
-  {
     "id": "9ee15511e26fc3ea",
     "title": "ИИ-агенты OpenAI пытались взломать три правительственных сайта США - BFM.ru",
     "sent_at": "2026-09-26T07:19:52.969718+00:00"
@@ -428,5 +418,70 @@
     "id": "631036b3a246f132",
     "title": "OpenAI scraps release of new model and apologises over Medicare hack - news24.com.au",
     "sent_at": "2026-09-29T02:20:04.952660+00:00"
+  },
+  {
+    "id": "2b91121a8cc0b1fe",
+    "title": "OpenAI cancels release of new AI model over safety concerns - France 24",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
+  },
+  {
+    "id": "d293192a4af172a0",
+    "title": "OpenAI Halts GPT-6.1 Astra Release After Internal Testing Flags Safety Risks: 23 outlets compared - NewsCord",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
+  },
+  {
+    "id": "cc5a037d2b05edae",
+    "title": "OpenAI abandons release of next-generation AI model over safety concerns - AOL.com",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
+  },
+  {
+    "id": "417e1112ba8ba874",
+    "title": "'Can at times evade human oversight': OpenAI scraps release of latest ChatGPT model - The Times of India",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
+  },
+  {
+    "id": "84e805fd36ba313e",
+    "title": "OpenAI cancels release of GPT-6.1 Astra AI model, citing safety worries: WSJ - TradingView",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
+  },
+  {
+    "id": "4a6b6db517195f25",
+    "title": "OpenAI scraps release of new AI model after it showed 'higher levels of deception' - Sky News",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
+  },
+  {
+    "id": "df8f60ad494f78c3",
+    "title": "OpenAI scraps GPT-6.1 Astra release over safety, Anthropic warns of AI risks in IPO filing - The Indian Express",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
+  },
+  {
+    "id": "a432ab183efb6f63",
+    "title": "OpenAI abandons release of new ChatGPT model over ‘safety concerns’ - The Telegraph",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
+  },
+  {
+    "id": "dc750d0b2372f2a6",
+    "title": "OpenAI cancels release of newest model due to safety concerns - CNA",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
+  },
+  {
+    "id": "f8984cbaf1eaead9",
+    "title": "OpenAI delays GPT-6.1 Astra release over safety concerns ahead of White House meet - India Today",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
+  },
+  {
+    "id": "5c0bea29663e404a",
+    "title": "OpenAI shelves new AI model release over safety concerns - InnovationAus.com",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
+  },
+  {
+    "id": "f9124ce91935c5a1",
+    "title": "OpenAI Cancels the GPT-6.1 Astra Launch; Anthropic Releases Claude Sonnet 5.5 - KuCoin",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
+  },
+  {
+    "id": "b41fd6557608f33b",
+    "title": "‘Wasn’t Honest To Users’: OpenAI Scraps Release Of New ChatGPT Model After It Fails Safety Tests - News18",
+    "sent_at": "2026-09-29T03:22:52.447367+00:00"
   }
 ]
