@@ -7403,5 +7403,36 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMm9GOTBpZ29XQ0pHSDFkbHlDQUJ3Tm1KaEFqNFpjWVY4V2tCN3RCR1B3UlBabHhtaHdBTjd5LVZ0V2hlTGdhQlZTX2FNbGJqbEJENkNfbzIweXNOa2N3NVI2ZkxHQjlnN29XYmpZeDBnei1JSGZONVk3WWprNkdnZEVSTDJlSmx5MkczeVN5dkNNZw?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-09-29T16:25:22.007234+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI scraps release of its latest model, citing security concerns - WBUR",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LT1VBclBSNmhpOXR4Z2VMWFFncXdVcy1CSko3WW5tUkx4VlZaVWszRTZ5ZWd6NXNPcnpHamNqZlZkRk5Vd3h0RnMyUHM3YzQtUnJPR0NvZmdrZ1lleGZvOHZoazNNUmdLMGd2WGlGMDc?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI cancels release of Astra 6.1 model due to safety concerns - Tech Xplore",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fd3E0WEFvOWthLWNjdlFUNHJVOGJuWVU4Ty11bjFoTE1MWXNCaDd4R0RNb3Y2YWFCNWpWN1ZtWm94aXdSRVo1ZUpfbTJPVWJOMWZPTW95NDZnVEZxS0NTYlhGRkE1WWdwUTFCbHY2dXl0MDBWNE54Z3RTYXQ?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI scraps GPT-6.1 Astra release after safety concerns - The American Bazaar",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWd4QnY0NExwWERzaFRXYUg5TkpydS1zbll6bUZLNndGTXREWXFTWWpCRThIT2ZZdVFwMl92R1FiY25WeDFiUmJFV1Nfd3JwVDQySW9wOWtDM19lVklBckxza3didGVNV1pac3JrYmpSbV9DbWNpdzl3anJISzJVbjZ0TzZWVFJwazZiSUI1ZDBvVG5IbkZFNFVQanZsczRWRGd1dUhCS0Q1THhLSlE?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI shelves GPT-6.1 Astra over safety concerns, halts October release - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ0xkd3o0ZlVDQ19Zei1pdjNkUkRrN1dyOVlEM2Rpd2JRWXNkOXhkekpfT0FuSWl1R092RnIwN2pacW5DaUlGNEx2WmFDMk9SYnZFU0toWHFLSl9XUEhha0FKajRiNDRRWGk2bk45V19EYURhOVhUODZkd0IzcnQ2RXhQZHE4alo0NXpOVUtTbVk3TUtKN3RGcE5HbXZrcjZZV3FMLVkycG4xZUxxLWtaX2J3STc5WkhCZ0h3aGFISEFEMlN4QjRWX090VjUzUQ?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI Says It Won't Release GPT-6.1 Astra, Tests Found It Less Honest - Pasquale Pillitteri",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVk51c1Fjb1A5UWVCbWhQZHlZWmJfUXNkNzVob2VVZDB2UzRKZE8tVnpWVkZIcFdDdHhzUk4yYnQ4M2l0X1hzUzA4U2g3UU11aG5NVGZ3eUpUd191c0FleGFMMzBrblYya2VoV3NHckJxVmVvdk96Y29STUpkQWpIeTVtVHRHRFFWaGVNVQ?oc=5"
+      }
+    ]
   }
 ]
