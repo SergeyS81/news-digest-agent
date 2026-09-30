@@ -7569,5 +7569,16 @@
     "run_at": "2026-09-30T02:21:22.332362+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-30T03:23:04.663511+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI Releases Always-On ‘Dots’ To Take On Meta’s Muse Agent - macobserver.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHdJb0M1aWpLZEprWnFST2lacDE1SnhUZXU4MkhpUnAyWUlucGdNeEtSOFhMend5X1Q4WGxBXzhyR3hsZk1kbGNkWEVfczVOb3NacUVvQnVPZml2WTlMczF5dmJ5Z1d4SUprUFlZZjZBMkJXQnNNbVlweUlOb2JpNFJyckVxbDcwNTIzb1FsMVRDWTVfY1Nj?oc=5"
+      }
+    ]
   }
 ]
