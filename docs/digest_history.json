@@ -7691,5 +7691,21 @@
     "run_at": "2026-09-30T11:21:17.352603+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-09-30T12:31:49.300581+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "В СГУ обсудят регулирование использования искусственного интеллекта - СГУ",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOek5KTC03Vjc4aTRBZnUtUEg2WHhBOXNKUWlEMF82X2lscTB0bllRcVNFWjRHOThCSjlQSmI1NF8xS242VzZEcVBxX0VUNVdwVWlGSzhlTy15SjFWTXEwYnRuVU15eS0xVUhUODI2T0dQT3p6V0RFaEw3Q1A1NlhYMjcxSXNsTU5EZHBaaGM0aW9VS2RKRC1R?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Глава Банка Англии призвал отложить регулирование ИИ - forklog.com",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbFh0OGxWa2swQ1dFUGhlLXFwSVJ5a0lCSHE3V01RY2JHSWV5cGFWejV1QjRZb1lvUjhncU13VDJyWkJrRi1BZFZqRG9iZWc4Q3hsbEFoUFVBX19IU0lyeUN4aDFndG9Odnowd2dRemRqV1JRVGluekxQeE1ZWjh3RUhyeXg2VG8?oc=5"
+      }
+    ]
   }
 ]
