@@ -1,10 +1,5 @@
 [
   {
-    "id": "15ac0e5ef71154ea",
-    "title": "Waters Demands OpenAI Investigations and AI Model Release Moratorium - unite.ai",
-    "sent_at": "2026-09-27T04:21:18.660857+00:00"
-  },
-  {
     "id": "9497c6dfc7065e4c",
     "title": "Искусственный интеллект от создателей ChatGPT взломал сайт правительства - National Business",
     "sent_at": "2026-09-27T05:19:49.732637+00:00"
@@ -1018,5 +1013,10 @@
     "id": "d488eecf871097f0",
     "title": "OpenAI Releases Always-On ‘Dots’ To Take On Meta’s Muse Agent - macobserver.com",
     "sent_at": "2026-09-30T03:23:04.663511+00:00"
+  },
+  {
+    "id": "25d0af16fdf546b5",
+    "title": "OpenAI Scraps GPT-6.1 Astra Before Release, Citing Safety Concerns - PCMag Middle East",
+    "sent_at": "2026-09-30T04:23:54.417300+00:00"
   }
 ]
