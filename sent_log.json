@@ -1,10 +1,5 @@
 [
   {
-    "id": "5557a6658e6d5d8c",
-    "title": "Пользователь задействовал ИИ для взлома Internet Download Manager - Хабр",
-    "sent_at": "2026-09-27T18:22:57.034679+00:00"
-  },
-  {
     "id": "bf52c1e0ac31171f",
     "title": "Anthropic may release Claude Sonnet 5.5 within days - TestingCatalog AI News",
     "sent_at": "2026-09-27T22:20:55.505190+00:00"
@@ -1093,5 +1088,25 @@
     "id": "5b7a124304f01309",
     "title": "GPT-6.1 Astra: Why OpenAI halted its release - The Hindu",
     "sent_at": "2026-09-30T17:23:03.640223+00:00"
+  },
+  {
+    "id": "6787514e074def29",
+    "title": "«Суперинтеллект» и «саморегулирование». О чем Трамп говорил с главами IT-гигантов и насколько серьезны итоги встречи? - Zerkalo.io",
+    "sent_at": "2026-09-30T21:22:03.387707+00:00"
+  },
+  {
+    "id": "45037ec4d809019e",
+    "title": "OpenAI halts new release over safety concerns - Audacy",
+    "sent_at": "2026-09-30T21:22:03.387707+00:00"
+  },
+  {
+    "id": "2543739c9406c7a6",
+    "title": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic — but in limited release - VentureBeat",
+    "sent_at": "2026-09-30T21:22:03.387707+00:00"
+  },
+  {
+    "id": "3f607fa72671fd74",
+    "title": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price - MarkTechPost",
+    "sent_at": "2026-09-30T21:22:03.387707+00:00"
   }
 ]
