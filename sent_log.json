@@ -1,10 +1,5 @@
 [
   {
-    "id": "327166d01372f776",
-    "title": "Anthropic launches Claude Opus 5.5: Benchmarks, pricing, safety - Mashable",
-    "sent_at": "2026-09-27T17:18:55.701453+00:00"
-  },
-  {
     "id": "5557a6658e6d5d8c",
     "title": "Пользователь задействовал ИИ для взлома Internet Download Manager - Хабр",
     "sent_at": "2026-09-27T18:22:57.034679+00:00"
@@ -1088,5 +1083,15 @@
     "id": "e5d9a687af03b44f",
     "title": "«Всем крупно повезло»: как борт Flydubai едва не рухнул над Аравийским полуостровом - business-gazeta.ru",
     "sent_at": "2026-09-30T16:26:19.222728+00:00"
+  },
+  {
+    "id": "3b7fd72d5195949e",
+    "title": "В Черемшанской ЦРБ завершили капремонт первого этажа стационара - tatar-inform.ru",
+    "sent_at": "2026-09-30T17:23:03.640223+00:00"
+  },
+  {
+    "id": "5b7a124304f01309",
+    "title": "GPT-6.1 Astra: Why OpenAI halted its release - The Hindu",
+    "sent_at": "2026-09-30T17:23:03.640223+00:00"
   }
 ]
