@@ -7839,5 +7839,16 @@
     "run_at": "2026-09-30T23:20:29.129977+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-01T00:31:59.930077+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Mobvoi выпустила часы, которые записывают разговоры и превращают их в текст с помощью ИИ - New-Science.ru",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVzFiSzVoTU5xYXpNZ1Vsb3ZuS0JRSy1NRDJpbC1LYmpEVGE5bUlzcHJRcW12LVZVNnVnTEFFcWpfSUsyRWNJSUNQX3Mtb2tRaHA4anZFS1pwWXZybXppN2VkdGM1eUNRbExEbHVQNkFybFp2NDdlWFRPcllpRnVDOWZYbnpfNjlpN3NEXzZSam9BWHdqdjZYY2pMY3FtNDN0YW91cElUWmpkNXhVUS02YTZjeFd2QVRHTGc?oc=5"
+      }
+    ]
   }
 ]
