@@ -8064,5 +8064,16 @@
     "run_at": "2026-10-01T19:22:56.494887+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-01T20:23:55.381483+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Переговоры России и Украины: будет ли новый этап – заявление Путина на «Валдае» - bel.ru",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDlMdDhDbFMxV1o0eDZ0MXBHbjhoRElpVV9hX0pIbWpEUTJwbzAyeVdjTjhfZ2JpV2s5Nld5Ny1GYU5rWF9FcURibnhqTHlHX2RUWS1weFBtWHVLbjFOVmxKWkl1NHljTDRvZFVySC13dGJSMmthd2VYVm5sZDRyUzh0YVBBUGNfTVRwZm81ZzlTUFlMQmlFSHJ5N21tTXZmUUE?oc=5"
+      }
+    ]
   }
 ]
