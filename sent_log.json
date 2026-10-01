@@ -1,20 +1,5 @@
 [
   {
-    "id": "eb20c9efa39e5b77",
-    "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown - CNBC",
-    "sent_at": "2026-09-28T18:25:02.569637+00:00"
-  },
-  {
-    "id": "c29d3f60735ae1ee",
-    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner - TechCrunch",
-    "sent_at": "2026-09-28T18:25:02.569637+00:00"
-  },
-  {
-    "id": "09201036c20866e3",
-    "title": "Anthropic Releases Claude Sonnet 5.5 at Unchanged Sonnet 5 Pricing - Unite.AI",
-    "sent_at": "2026-09-28T18:25:02.569637+00:00"
-  },
-  {
     "id": "8dce8852d7d870ed",
     "title": "Anthropic releases Claude Sonnet 5.5: Details, pricing, how to try it - Mashable",
     "sent_at": "2026-09-28T20:20:31.472440+00:00"
@@ -1133,5 +1118,10 @@
     "id": "8495735cca0342a3",
     "title": "Жителей Казани предупредили о прекращении вакцинации у метро с 3 октября - tatar-inform.ru",
     "sent_at": "2026-10-01T16:23:13.914144+00:00"
+  },
+  {
+    "id": "e3c31995dffe9d04",
+    "title": "В Казани почти на два года ограничат движение по улице Фучика - tatar-inform.ru",
+    "sent_at": "2026-10-01T18:27:33.392745+00:00"
   }
 ]
