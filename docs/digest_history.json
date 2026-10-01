@@ -7929,5 +7929,16 @@
     "run_at": "2026-10-01T07:25:19.402491+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-01T08:26:23.991912+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "На видео сняли подростков на крыше электрички Казань – Арск - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOEZheVhxQVoxMjM4aWl1Q0tiSVpIdE0zZUNzcGdPTmhUa0lzcU5ic2xLV2s1TDBpLWNhWmR5aHpOZHpUQ1k3QnpzR0VRekdZLWtjUVZ2ZjVMVUo4dU5uVEt4TDdSWnJ6aHM4WjZRZDBuby11eGR2S3ZtUTNHWnhEOUFwZzJEMlNSU21ZX3pNWWhhYWI3X0R5Vi1Wb1JhcG8?oc=5"
+      }
+    ]
   }
 ]
