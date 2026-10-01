@@ -7871,5 +7871,26 @@
     "run_at": "2026-10-01T03:23:29.923990+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-01T04:24:01.575900+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "WP: Искусственный интеллект пытался взломать сайты правительства Канады - EADaily",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNVZaM1EyRUNMNlliTTBfYUtsd2RYVHhFN2ZfVnVwaW9jUG5HWW83SU1XQ2FWLUI3cjUtc1FIbVpZaFl6U192S0ZfcGpYSk5FYUE0RjJBSnN3SFNqeDRiMzJSZXpjRWNOUGtseDFaVUwyLXdXbHRGd0VMdjNtNXQ5b0hrcWdvVUZPckNySlp5cE82enBhVEpSc3pINENOYWsycW0ycHNuTzA0c0Fs0gGwAUFVX3lxTE9LRGVqa1JiZlBBYngzR2xlRG1Bb2NHMjg2VEhOdFdaaVE1ZHpMVFB5SjItRW1qR05DWm9XYzNFbjBxUWZ5Y2JtTWx0Z3JOeTB1ZWtoM0NCYXBNaFpwRU5kcUZqQXdDWkFHMmhLWEhzQ3F1ZUd6emI3d0FQdWo0U2dLLXNhQzZiNkZwdVNiWDdpdU1sNFdMTHd3amtKakRydnU2MW45T3JEMHpnRHQwOERm?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "​В ОАЭ запретили свободное использование ИИ-изображений госсимволов - russianemirates.com",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXpCX2ZIYU95WXVNSTJ3dHRwZGtVcVZWVHMzZ1kzVzVzXzRXNVdxUF95SGdISGsxNHB2dGtXLUJBdkdORzlUQVBCZWlnc29rMkg0emVMZ2N5b2R0TzQtWDVtTWxiVkZCN1pSNTFHVXpRUlZOOGFEdURpY1loeHoyWGVaYW9POTJZZXdaR3I3UDBwWll5SnhSOWFGWml2VnhUQ2dISGRycnhVaXk4Y0RUdEl3?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Рост тарифов ЖКХ, семейная ипотека и регулирование маркетплейсов: что изменится в жизни россиян с 1 октября - business-gazeta.ru",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQSnJPeV9sNDNqQkphczkzV3ZJSzA2X0lFWEpoaVNTS2dNZDhhUDRaRlBsT3lrZXdBem5ocnNWallCVHJkUG9QY3dwZmQxYVhIOVZabtIBU0FVX3lxTE9xMk5FM2JPUXJuRGE0VlVBcFVBOXVvelNmbmJJVFB4amN5VjdkLUU2TlI4OWlaYWJoQTZNdHBCejk3elR6Wjh2TFFmUDJpMHdIZWZF?oc=5"
+      }
+    ]
   }
 ]
