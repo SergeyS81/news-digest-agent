@@ -1,105 +1,5 @@
 [
   {
-    "id": "62b08ee624f45ee1",
-    "title": "OpenAI scraps release of its latest model, citing security concerns - WBUR",
-    "sent_at": "2026-09-29T16:25:22.007234+00:00"
-  },
-  {
-    "id": "dc67c3de7e9ff4f8",
-    "title": "OpenAI cancels release of Astra 6.1 model due to safety concerns - Tech Xplore",
-    "sent_at": "2026-09-29T16:25:22.007234+00:00"
-  },
-  {
-    "id": "cd51d2a4d1b66bbc",
-    "title": "OpenAI scraps GPT-6.1 Astra release after safety concerns - The American Bazaar",
-    "sent_at": "2026-09-29T16:25:22.007234+00:00"
-  },
-  {
-    "id": "a13801e7026c0274",
-    "title": "OpenAI shelves GPT-6.1 Astra over safety concerns, halts October release - The Hindu",
-    "sent_at": "2026-09-29T16:25:22.007234+00:00"
-  },
-  {
-    "id": "9a21c71ef4919869",
-    "title": "OpenAI Says It Won't Release GPT-6.1 Astra, Tests Found It Less Honest - Pasquale Pillitteri",
-    "sent_at": "2026-09-29T16:25:22.007234+00:00"
-  },
-  {
-    "id": "b56cf32f944d7180",
-    "title": "Итоги дня: три «паровоза» ЕР от РТ сдали мандаты, Татарстану урезали финансирование ЖКХ на 40%, в Казани 1 октября включат отопление - БИЗНЕС Online — Новости Казани",
-    "sent_at": "2026-09-29T17:21:42.092568+00:00"
-  },
-  {
-    "id": "75cb7af79468663e",
-    "title": "OpenAI cancels release of newest model - Taipei Times",
-    "sent_at": "2026-09-29T17:21:42.092568+00:00"
-  },
-  {
-    "id": "aa32005eda802a49",
-    "title": "OpenAI delays release of new model, citing safety fears - Central Oregon Daily",
-    "sent_at": "2026-09-29T17:21:42.092568+00:00"
-  },
-  {
-    "id": "adecb13134c026e3",
-    "title": "В Татарстане археологи нашли средневековое поселение XI–XII веков - БИЗНЕС Online — Новости Казани",
-    "sent_at": "2026-09-29T18:26:30.083605+00:00"
-  },
-  {
-    "id": "9766c495bff6f7d6",
-    "title": "OpenAI отменила релиз новой ИИ-модели из-за рисков безопасности - Казинформ",
-    "sent_at": "2026-09-29T18:26:30.083605+00:00"
-  },
-  {
-    "id": "24757d175472d9c6",
-    "title": "OpenAI Cancels Its Advanced Model Launch, Then Heads to Lunch With Trump - Mother Jones",
-    "sent_at": "2026-09-29T18:26:30.083605+00:00"
-  },
-  {
-    "id": "ce8a3336b1387c5b",
-    "title": "Safety Over Speed: OpenAI Scraps GPT-6.1 Astra Release - AI Magazine",
-    "sent_at": "2026-09-29T18:26:30.083605+00:00"
-  },
-  {
-    "id": "61fea9518e280bde",
-    "title": "OpenAI Launches Misalignment Reports Site, Scraps Astra 6.1 Release and Apologizes to Australia Over Agent Breaches - AI Insider",
-    "sent_at": "2026-09-29T18:26:30.083605+00:00"
-  },
-  {
-    "id": "a05199c42f18b47c",
-    "title": "OpenAI won’t release latest model due to safety concerns - CTV News",
-    "sent_at": "2026-09-29T18:26:30.083605+00:00"
-  },
-  {
-    "id": "dda10f32402b57dc",
-    "title": "В РФ вступил в силу запрет на вывоз более 1 млн рублей наличными - tatar-inform.ru",
-    "sent_at": "2026-09-29T18:26:30.083605+00:00"
-  },
-  {
-    "id": "3c6105a0d3016325",
-    "title": "Anthropic says its AI could kill us. OpenAI's is too unsafe to release. Please enjoy the IPOs - boingboing.net",
-    "sent_at": "2026-09-29T19:23:06.530964+00:00"
-  },
-  {
-    "id": "00253c0a6365f0ab",
-    "title": "На OpenAI подали в суд за взлом Hugging Face и игнорирование рисков автономного ИИ - 3DNews",
-    "sent_at": "2026-09-29T22:21:44.701148+00:00"
-  },
-  {
-    "id": "01d9c92694ee7ef8",
-    "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns - The Guardian",
-    "sent_at": "2026-09-29T22:21:44.701148+00:00"
-  },
-  {
-    "id": "4f8f6a4a17fd52ef",
-    "title": "With No Astra to Release, OpenAI Pivots to New GPT-6.1 Sol Model - AOL.com",
-    "sent_at": "2026-09-29T22:21:44.701148+00:00"
-  },
-  {
-    "id": "092845fa1a23a651",
-    "title": "OpenAI Released GPT-6.1 Sol Model, Priced Below Competitors - MarketForces Africa",
-    "sent_at": "2026-09-29T22:21:44.701148+00:00"
-  },
-  {
     "id": "e7411601bd7a8453",
     "title": "OpenAI Halts Release of Next-Generation Model Over Safety Concerns - People.com",
     "sent_at": "2026-09-29T23:19:48.424147+00:00"
@@ -438,5 +338,10 @@
     "id": "45c9e044ad8c3fb2",
     "title": "Токаев предупредил, жесткое регулирование ИИ может заставить разработчиков и деньги уйти - digital-report.ru",
     "sent_at": "2026-10-02T16:23:21.870453+00:00"
+  },
+  {
+    "id": "ddfa32c6f92c5c17",
+    "title": "Разработчики COSMIC запретили весь AI-сгенерированный контент из-за перегрузки - Techora.ru",
+    "sent_at": "2026-10-02T23:18:38.636856+00:00"
   }
 ]

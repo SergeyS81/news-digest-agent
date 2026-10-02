@@ -8283,5 +8283,16 @@
     "run_at": "2026-10-02T22:21:15.777132+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-02T23:18:38.636856+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Разработчики COSMIC запретили весь AI-сгенерированный контент из-за перегрузки - Techora.ru",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOajZFZlpaN2dLQWZOMVRrNlpJVS0taUhqOV82dXEzb2xtVFZFandfZDBick0wT1g3ZW00YVBwMXMxWFhnZDNzX0drdm9UWUtTRXBYX2pveTREbndBSno1ak5VTmd3TTBRS0pNZkN0UG9LTGtuYk0xWDNvWUpFZUJkOGlONHh2ZTIyMm5YTzNLeXBGdw?oc=5"
+      }
+    ]
   }
 ]
