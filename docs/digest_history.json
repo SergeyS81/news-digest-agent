@@ -8090,5 +8090,16 @@
     "run_at": "2026-10-01T23:19:23.605108+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-02T00:30:17.357740+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Bloomberg: Турция и ООН готовят переговоры о перемирии на Черном море - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkhnOXNDM191T0NfdlN2MDZ2WWFEbzlRZVE5WEh1S1lZSUp1OUM2aDV4dnliR2Raa204QlNYYzRvSEFQV2pDNHlxWVdvRnFUb1Myb2d4eEtraWU3Vk01TnJtZHFDeXBOZkJVVExsYldSTWJ5eUd6UTFCQWhsSUsyX3ptcHNIZ3J4SzJWdEJZYjJuZzZsUjAzdmR5YUpYU3BFWU1ITENCOUYtdXR2TlpWaA?oc=5"
+      }
+    ]
   }
 ]
