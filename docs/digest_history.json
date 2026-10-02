@@ -8184,5 +8184,16 @@
     "run_at": "2026-10-02T11:21:50.683098+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-02T12:28:07.564117+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Татарстан направит еще 30 млн рублей на компенсации переехавшим в села медикам - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa01SNnNHenJOSG0za19IRGRjU1VTdnU1OFJDR2lleEI0U1U2QlVIZ2RPYkVvYXd4dGdVVzRYcXZpeTNaVWFOUmlEaW55bm1NMWljOU5LeUlPa3d5czFvRW9Ya1V0VTluWHBvbHJCbkdWdUg3OUgweWg3VFNlcElwUU5naFJQRklUYU9LTUszMGpKZlphbUJjRGVLd2N4Sm10ZF9YWWQ5dE9xa0wtelRITTFQZw?oc=5"
+      }
+    ]
   }
 ]
