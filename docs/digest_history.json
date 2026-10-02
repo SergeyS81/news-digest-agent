@@ -8131,5 +8131,21 @@
     "run_at": "2026-10-02T06:28:00.533528+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-02T07:24:33.246620+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Минфин РТ: Медикам продолжат выплачивать компенсации за переезд в села - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkNzZFBwV0RGWEc5SGNlSkE0amdjQUs2emtUa180WkZzRVVnQ0g0eWpXZldNcTZfOFNsRS1tc3hDQmhkM1czNXhnZFNtMjhpajV3cUdsaXlBQU5oZkxPcVYtWnU1U1JCcng4c0puc1BaMXNhMkNfWTBhV2pSUlVVM2c5ZERKaUdCdjBKd2pUZDZvejQ5YTZWWi1NMXRBbGF0ZU8yVXUwVlFWZlIyTEE?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Доставщик на электровелосипеде влетел в иномарку в Казани и попал в больницу - видео - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3hteXRWS2tFY2lScFBXb29NZFdIR19LUVpia05iZ1R0QWlicVdnT25Hem5OQW1FM1NqSGtBVWxWWnBlaV9DNzNTLUZRQWRpTHJZMlJqYUdiRVJxVFBaYy1obTM1YWthbGYwbE94d0lwMklCaFU1cDA1OThTM1lVbmY5SE9OaUtVUjNzYnBNSzc0U3hvQml5TmNfdnJTS2lOZUZlUWJ6V2VIMHhCdm9KNVVicGs1RVk?oc=5"
+      }
+    ]
   }
 ]
