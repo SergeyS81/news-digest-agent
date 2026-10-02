@@ -8200,5 +8200,31 @@
     "run_at": "2026-10-02T13:24:14.732595+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-02T14:25:17.632704+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Специалисты Татарстана подтвердили качество кукурузы нового урожая - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRTdZTGFvOEhETW9ESWZVT3QtRlRRcmxOWEtmRlEwb2lqVlA0QzU4TzNZNDFzM3hqZlNMc09HcXZwQjV2QlhyLUtURzNOc2xGRklxUmRDU1I0Z0hwT0ZUZHFWZ3pheWpvaENZRzZMbExRcUJzaVhPOEdLSUxUTGp5V2kwVVJ3UERmV0hQV1pucERSQzdUSGFLYVJ2WXQ3Mmt6c2M2R1gyNktCZW1T?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Казанские медики спасли пациента, дважды пережившего клиническую смерть по дороге в больницу - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbXhNMll2cF9qNXFkNF96UkJWUzhwbUQtdE5XYzJUMkRkR2QzZXBVZi1YbHVmbGhHWFJTQVJWQmNBdFAxUkxVN1FSZWM4cVUtMWlPYk9QVnVHYndDeVB1SThiYzd3anR5dDRub3FqSkNsTVZTTVJsNDI4ZDAxZ2xrMVhGMGk0T1pWRTctUVhPLThzWWJseDg1YjZmNXVDWWlGeVl1YjhacEJfQmprNTlEaGVoN19yRDl6WDEtZVVNUU8?oc=5"
+      },
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "ВС РФ нанесли очередной удар по ВПК, энергетике и логистике Украины - Ваши новости",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vTUNNOWJVbjFHRzZqSVB1NExvV2FUQzJOQjlNN0JIcC1zT204RmFWalZ1dTNPRzN0bEdiMUhkV0hxcmRxajBGcHA2MTY1dExDMXJNY2ZVdjRpTnM2dDBXclgyN1p5aWhiWWxTZg?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Минздрав Чечни запретил зарубежные ИИ-сервисы для работы и приказал заблокировать их в больницах. «Отечественные» можно, но с ограничениями - theins.ru",
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5KLWFxSExvbkRMNnBDMWh3M0lLMFY3XzFfWDFlSl82MGszczI2VFVVN0xqOHczMnpqOVRsak9ObXU1eFU?oc=5"
+      }
+    ]
   }
 ]
