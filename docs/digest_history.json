@@ -8325,5 +8325,16 @@
     "run_at": "2026-10-03T04:22:56.037624+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-03T05:28:29.286614+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Прецедент Года Шаймиева, дело Муллина неожиданно засекретили, коллизии вокруг Счетной палаты РТ - business-gazeta.ru",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Kd29XT3kxWmc3bjhidld4emZDS3EtOURIZjVzalVPazkyUTZaRFJqM2NKcWFvWFMtY0dvak85VGpNR1haaEVJTmRTbjdJS195YjcxbjVmNlY?oc=5"
+      }
+    ]
   }
 ]
