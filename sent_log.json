@@ -1,10 +1,5 @@
 [
   {
-    "id": "e7411601bd7a8453",
-    "title": "OpenAI Halts Release of Next-Generation Model Over Safety Concerns - People.com",
-    "sent_at": "2026-09-29T23:19:48.424147+00:00"
-  },
-  {
     "id": "d488eecf871097f0",
     "title": "OpenAI Releases Always-On ‘Dots’ To Take On Meta’s Muse Agent - macobserver.com",
     "sent_at": "2026-09-30T03:23:04.663511+00:00"
@@ -343,5 +338,10 @@
     "id": "ddfa32c6f92c5c17",
     "title": "Разработчики COSMIC запретили весь AI-сгенерированный контент из-за перегрузки - Techora.ru",
     "sent_at": "2026-10-02T23:18:38.636856+00:00"
+  },
+  {
+    "id": "8dce8852d7d870ed",
+    "title": "Anthropic releases Claude Sonnet 5.5: Details, pricing, how to try it - Mashable",
+    "sent_at": "2026-10-03T02:23:22.630561+00:00"
   }
 ]

@@ -8304,5 +8304,16 @@
     "run_at": "2026-10-03T01:20:48.671782+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-03T02:23:22.630561+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic releases Claude Sonnet 5.5: Details, pricing, how to try it - Mashable",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNXzZmVllHd3ZISlAtUEZSa0xkaExzZ1RfNl9LU2dGZUdiU0xNb1FLZlNlMldSc2pFWnFVbEhPbDRKbG50bXlNVVRqcEpOUEl0VTdhZXpabFg0N29fbXVMYlM5TlVSU1hDZFU1NUxnd2N3SzNVb0dvMlRQbmJtSnVDcQ?oc=5"
+      }
+    ]
   }
 ]
