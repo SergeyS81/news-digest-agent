@@ -8465,5 +8465,16 @@
     "run_at": "2026-10-05T04:25:00.588136+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-05T05:27:07.686109+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Культ коня» с бюджетом 3,5 миллиарда: что даст Татарстану новый проект развития коневодства - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53Sy0xRVI3Rmp1N280dXBlWkxRNTZacDB2VXluOHhiZjNBak5XRVZESWpXOTV6QWVWZEtSMTI3a1NwVTlvNGVYQXpNR2NneUpJQURVWWVJcDQ?oc=5"
+      }
+    ]
   }
 ]
