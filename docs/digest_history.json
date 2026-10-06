@@ -1,42 +1,5 @@
 [
   {
-    "run_at": "2026-09-06T18:21:27.484596+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "У Трампа на носу свой Даллас: Переговоры по Украине идут в авральном порядке - EADaily",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTZhZ1RYWGswY0tlOVBmV2JoV3pMRGJJemQwTzVjSTlaVW1feEVXYUY1TUJBZmdiaUhCYURfM2h3QlprVzRQTjlwM0l0Y1dQQmxuZl9RNk9aMDRZQ1FKQ0hRN3A4dUk4ZHZoLTdZeTA0LXVjMS0wUmNtLTJDU052d1kwMFNoME51QjVoWDVLLTM0SVJJSmlqYjJzNHhrMmpGaUhGdzlFX0h4Tk1yRi1qT01Hd3B5eTFYdkHSAb4BQVVfeXFMT3lXZ2J0ZlE5Q1BMdzR4WDlRdGFqZXNYRGZZZzl4VGFOMkxUTDFUR1NXWXdyUWRNOHJZUkhJaEdOWlUxTzFhTFIydEtoRWdVTDVnUnRXRy1OOEEtOWlndGNKa3JqeXZQMzljbmhfYTktbncyb01hRDJUbXQtb3lRMEJPd0Z5dklQX2tQNS10SFhrR3dKVDFKT29kTmtncDlGel9NZHl6YW5rUVV2TWxDbkJBVl9HUVk2bVhYYTZLZw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-06T19:17:41.581072+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "США хотят прорыва в переговорах с Киевом до зимы - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcGNqclNsd3U3c3VJR3Q3cFd4cGQxeFBKVWZyekdDNTJpT3U2d0RleFJ6ZGo2d2Nra2haaTA5bzB1QTV4THZoV3dTUmNoMXcyUkNhYnp0MzFyVm1XZTZlMkNraUtKTk9YRy10LWkzcldnNmRPV3JVV3ZacktqSTNEdFgxSDZNN1YxMUNNUFRkaXdQZUxE?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-06T20:19:52.085305+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-06T21:18:32.027201+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-06T22:19:27.493296+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-06T23:18:14.549322+00:00",
     "sent": false,
     "items": []
@@ -8792,6 +8755,17 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Нейросеть для юристов: ИИ КОДЕКС / Ai KODEX искусственный интеллект в рабочей юридической практики - Пресс-релиз.ру",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zeGFDcmV2Q3pHNHk3LW5tOXA5ZGZDT2tTN3dFU3JEcndwcFA4Q2FaNzVYZC1LREtoWi1GVTRZNG12NG45cUVMazhNMWQzX2paMVRTVWhrZkt6czUtUl9lNUxvcHZtdVFkcWp1N1lVa1JuSGlJdmlkQWN1VmlLQQ?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-06T22:58:36.054182+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI Releases 722 Math Manuscripts From an Unreleased AI Model - Unite.AI",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeWYzb0FwczUxUUttU1JOT3BSbDJudGsxbUppOFZDMkxMOVlOeHNrVmN3YzZLRWF2TVhzRXdza2RsN2lvUVBJaU02TFFMSmdaS1V4V09yY3B1VnpYeHc0NHhPYTV2d1NJRkQtMDdjdUFYZ3lMcVVfWFpCMkplOVV5MHhmc2c2OTNEemNuX1MzVQ?oc=5"
       }
     ]
   }
