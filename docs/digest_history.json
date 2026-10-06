@@ -1,75 +1,5 @@
 [
   {
-    "run_at": "2026-09-06T12:23:53.282511+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "«Ультиматум Зеленскому». Чего в Москве ждут после встречи Путина с Уиткоффом и Кушнером - gazeta.press",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fQWNJX21WNmpLZWNSQ1hnQk0taDdfTTVzT04yMW5oanRMR1hsd21VQlNxRlJyYnBPYjRFSm9oZXdaSTJkWjVtcEliaWpPeUI0SUQwNGJNR1dDYzVMWTNxSndCekFkNDI4M1FB?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-06T13:19:18.631352+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Искусственный интеллект совершает прорыв в лабораториях: завершается многолетняя борьба с инфекцией - Правда.Ру",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOdDljT0JFaVRiZzNhaFF1Y0lzN0JoTlBHWmxpelB0V2IwYUNNdDBtT2FrVmVpX2ZxVUR4bzZSVGxCRDdIdnlzZmVQWjlHOF8xcGJNRjNOeHpjOUhxcXpSV0h5ckd4RjdWSG5LdFhHbkxIS1E?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-06T14:19:12.529813+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-06T15:19:13.713643+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Психолог: «Уход за домашним питомцем показывает, готов ли партнер к детям» - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlF5bWdrcDZxQms5UzEzUWRjSzdKMVdhQ3ZFRTJ1clloaXVZZnIxdjNmeVFUcVJtSEMwRU83eUJUbVA4VVZjZG5MdmpIc0hLS3RWdHN4TlI4VnRzMGhlcUlMbl9YOVc0dVZHQ0ZDUGVhTGVYVWh0bU9DNlRtd3pnUmhDSDFsWnhnR1k0RUJGazdSM0pka1BsLVpicTU4QkFPTjlqLUFvbDBtQWpEMklwZG53?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-06T16:20:28.968775+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Axios: Уиткофф и Кушнер хотят добиться прорыва в переговорах по Украине до зимы - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xQXEwOXVLY2ZBbGJPTldxbG14dS1kQkNlNS0yb1lSNkxMVFZxYTJET1NsbXhqS3BNenp6THdqOEFPQk94ZndrS3lXQWp6TExPWlZXag?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-06T17:17:57.132752+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Переговоры Зеленского с Уиткоффом и Кушнером завершились в Киеве - Life.ru",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQXBEMlNvb3JJNlpWeXAyTmpmek5PQnZwNF9VWlM0dUxhUnBQSnRMRWtqMkJtV3oxNTRzTkhwX095dFdiUjlPYnJsUVBqR3BDaV8yZjRkQzlLa2pRWDJSMzFOOHpUZ2RBQWd5Z0l2eGdQRmc4UkRwX0NsWG5PM3R4MUJTMHhXNEZpaUNv?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI выпустила модель искусственного интеллекта GPT-6 Astra - Spot.uz",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tdGpyVmZuNUpiaXBGX09oLTF0NW91aG9NYi1YNEM3YlZMVUVNS1VrQXVqMHIwZm04MS1tLWQyWjJPWkoxbXRCa1d2UzU4Zl94ZGc?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Axios: Уиткофф и Кушнер хотят добиться прорыва в переговорах по Украине до зимы - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xQXEwOXVLY2ZBbGJPTldxbG14dS1kQkNlNS0yb1lSNkxMVFZxYTJET1NsbXhqS3BNenp6THdqOEFPQk94ZndrS3lXQWp6TExPWlZXatIBU0FVX3lxTE9zR0FPNThoQ3lwMXlJQmoxams5ZWZXVklrbjRoUlF3Y3V3cnBabk9Sb1lJQ0NudDVCeXFLQTZ1X1FoWk9aUFRPR3QxNlNhNzIzUFQw?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-06T18:21:27.484596+00:00",
     "sent": true,
     "items": [
@@ -8846,6 +8776,22 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "«Сбер» выпустил Kandinsky 6.0 Video — ИИ-модель для генерации видео с синхронным звуком - 3DNews",
         "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5lYjNaNEgtSVJVc0hTaWJKd091SnU0R2o2ZldkOUxUcHlfTmcxajRYNlMtUURsbmJsVVQ2RW9n0gGyAUFVX3lxTE9lckR1blVTTWhiakpIRVFxX09qQlpNbkZfQzg4Zzc5LThPeVRrUkdFcEgzcU1hdXpyUHg2Zm93ZWF5WDlQckFqVXpSY1JoR3ZoeDVYNjB0ejVDLVM0dVE3eG9ZSmFpTFphT21MQ1AyMDlMV1FiME9DUng3Y2NjSkMxcS1DMlk4dGcyT2ZGU3BNWVB4cExLODlTVFZpZnJrZUlJMTR2cWVXSFc2M1ZZRWFtb0E?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-06T18:17:54.697606+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Пятёрочка» при участии ПИМУ Минздрава создала «Школу питания для беременных» - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ1FOVWJoV0RqcUNScFJ3NEVVaEFvYWZTYVVnQ0xGS1g2YWdWMURuSXUteWM4dFlsS29VeVY5c3hWUVNUcUdSQjVfYmEtbVpaeF95MHVSbC1tRkFjOG9OYVE4T1Y2M0k4b2ItaHUzQXE0N3I2OEptVDFOY2p2blJfbVA5b0ZXTFQ1bElWZHhUYlZwVTRKVWdyaTRCMEpYR090by1WOFcwUXktNnJ4X3RzaEV3TlZqMDItY1E?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Нейросеть для юристов: ИИ КОДЕКС / Ai KODEX искусственный интеллект в рабочей юридической практики - Пресс-релиз.ру",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zeGFDcmV2Q3pHNHk3LW5tOXA5ZGZDT2tTN3dFU3JEcndwcFA4Q2FaNzVYZC1LREtoWi1GVTRZNG12NG45cUVMazhNMWQzX2paMVRTVWhrZkt6czUtUl9lNUxvcHZtdVFkcWp1N1lVa1JuSGlJdmlkQWN1VmlLQQ?oc=5"
       }
     ]
   }
