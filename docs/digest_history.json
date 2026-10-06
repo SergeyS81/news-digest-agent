@@ -1,15 +1,5 @@
 [
   {
-    "run_at": "2026-09-06T08:10:13.088214+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-06T08:21:19.162741+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-06T09:19:53.204019+00:00",
     "sent": true,
     "items": [
@@ -8793,6 +8783,32 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Президент Южной Кореи призвал создать систему защиты от ИИ после взлома банков - Runet.news",
         "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBxMUJlQXFGYV8yX1BldlNGblR1QUNicXUyV2dkU0VJVFFxSGItZWQxbjB2Y2dfUUdNQW1xRFdTQl9pWms?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-06T08:25:08.887228+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Сто лет мужества и служения: как ДОСААФ в Татарстане встречает вековой юбилей - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ25Jem5Kejd0UzNPV2hjMmhZN0liSGsxSmJENnZ1T0phLUxSdUc3cFlCQU9jVVMzZ3VjNXVHU3lBY0dsc1RRNDJPR3R3YTBoSHJORUNMOGdCMGFFT2dDeUpWWnR1NExFT2RtaDZCUklZOGdSRG5LTm8wUXBGcnkwX3ZwcGZobUR4NFJyaWp2aXVEUnM1X1FNOXdnVnNjSXV2OEFVaW5ubUVJdU50U3JtbnNJaWpteTNJTG9r?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "В Южной Корее заявили об использовании ИИ для взлома банков - ФедералПресс",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UamxDTTNuendBamZacEJ5cHJYcVdjVk9FVEVIY1ZRLWFucUtEZmEyd2lVZy1EMmR2eEdacy1NbUVLSFdIS1V0c05SbVZvN1V3elcwNnZB?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ на стороне хакеров: Южная Корея расследует серию взломов крупных банков - RTVI",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVFUYncyWHU5cENIMHROb1k0VmRRYmtnd3V5ZHNLUTRBeHdicVJqOW1JN2F1Uzh5NTVRcXVxRjAyRHdlY1pHbEpzQXJBRVhUOFJPWWtaSGtlb0dfOWx6U2VzVXAzM28xOW1VQ1ozdEpzZXpFSkpWSGlFSE5WMU9JRnhvR0FDQmxkVHlXUTExb19uME9zSGdTVmlfeWZvRl9KZEVj?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "В центральный водоем Бугульмы выпустили 300 мальков белого амура - tatar-inform.ru",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0R1LXlrUU1vME44MjZYT1FjdDU2S3dMd0VDdkc2c0F4VU9XTDlpbkZfaFo0T3pyaGZKUWVFWi1zemd1ek1NelQwUUducHpFUHpDWW9RNTJyQnNXN001endYc0FZcnk0N3JINzB4cDUxZ0RwTTFjZXg2aUlnRWNacW5acmtiSm5LVEp1UUZZRzhkdVRqNzJGOGx6UXptOEJ0OTNfaA?oc=5"
       }
     ]
   }
