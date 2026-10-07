@@ -1,46 +1,5 @@
 [
   {
-    "run_at": "2026-09-07T18:23:30.302098+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Татарстан потратит 10,5 миллиона на ИИ для анализа рентгенов - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqalBEWWM3TlNVdDNvUUQ4cTZMbW5rbXR1ZkQyVGtFd0liX2RJZmNFcEplaTFhb1QyeXR2b1ZHRGphSGxjVTJ0aVQ2NEhpS1o5S2NJNtIBU0FVX3lxTE1wS0xMaFlvVTNDTGNyeDFpZncxcVpfb2RJTktXSEpKOFkzYk9rLThyX3dRYW56aXA3YlRRS2JGRjc3SzVfSUpwY09IbzJOSktjY3BF?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Ак Барс» готовит тройной обмен с участием Алистрова и Соколова из «Торпедо» - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ndl81cnJoTThnOTBsNnEtMkVjY01mbkZvVWpIa0I2NjNJUnFTYi05ZDFETDh2ZUtocHNOczNqN1JONkFremlVMTlMdkFTTmxheUFSS9IBU0FVX3lxTE1rTTFWWjFNcFAtQ3k4a0QzZnpkajloT3hIREhzeTJ1U29SdndFUXFOTTNNQmpjMmtqdXRYT05VU01qYjJtZ0RKcS02aVkxOXVKMndn?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Лидером уик-энда в российском прокате стал отечественный мультфильм - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92V0Q5RXc1UHpSbmJHOXRnYmtsYTZ2RGRoM2ZvZHF6bUVSZTFObTB4ZFF4d19rNmxMc1VEbEZTUldtTGZNOWtRVU5RYWVqRWFFdUpsVdIBU0FVX3lxTFA3WnZLckQ4eWR5QlVYVkVncjVLY2MwVVZ2LXVIYjA5VFY1QVNNZzJHakh5VWhhTUlNN18zOUxkMmNsTHhveVlkQk9wZ3VZdlhEOEZV?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-07T19:18:58.018375+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-07T20:20:57.190658+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-07T21:20:35.900989+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-07T22:20:11.985241+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-07T23:19:24.308919+00:00",
     "sent": false,
     "items": []
@@ -8638,6 +8597,22 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Китай наращивает темпы разработки ИИ: десять компаний выпустили 16 моделей за месяц - LIGA.net",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEFTMGhnZkYzSjNFRXh3YXdIZVp2VG90T3E5R01BQVZLdTVZaFJGcWRtUmdPak16SVVIQ2d2WXFacnV4Mnk3djZCSFRwUTgzTDUtNGpXRlVsbXkybG5OeHRKQThiLTZfRW1kU1dSNml4NjREcy1heXZpRkFyVFFnWDdtRnR3RmtRc0w4VDBKVVZCNnAyZkY2QUJDV3FMYkUtTWh5SEhVU2NycmpYbnpIYWNhaUlEQdIBuwFBVV95cUxObmZ6QkhPYkplVWt1czRERlhHT0Fqa3JvZFBJNEVhbWVXWmpzMFkxODM0NE9FMU1NQjV0Vjhlem5USU1pcUJsOGxxRk5mcjJURVZOcEFaWDhqbEJzS3V5MWhzODJpVGhUdFRLOUtNNEdfQnFQSU0tU1Q4MVlCR2hEWGNhS0p6bUJlSjhER3B4Vk4wNUUycUUwSnVzUFcyTC00dHdNZ3ZUbFg0bFkzcjRqQm5FQURBLXFmQWV3?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-07T23:00:58.728231+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices - SiliconANGLE",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0pNOFU1Vk9OTXVjSnhQY1hqUWtIWGZSbWYtTUFTRTRhcE9qYUlaNklFbkdfaXBvVFllbnhFUHNSZVFvazFEMkdSOVYyR2toa3RuNC1tMjR2WWNSSHVmZGhxay1kbnlqZU50cUxxSDlMbjdFV1Q0NG1oMWZNVEQ5SW1Xcnp6a2R6UW1kQkUxU1E1UFAtRnRMTzhieFo4bUprNERRckpneXJ4ZUY0bklRUm9xSmtPNWJMV3g5bnY5WUk5QQ?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic opens cyber program applications, releases cheaper Haiku - TechTarget",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1l3aFA0N0h5QllXQTZpWWxSM1V0aTF4VFZXd0VPVWlmZFZGZkMzay1MMXhBd1NESFF1TUV4VHJzc2wzanp5U0tCdzg2ZnVSeldKSWo2ZV9NVWRGZF8xUjFaTGw5VlJUMVZvQWcxM0RBSG5rZnB3OUZ2MlBYbEtxakptdDZBZk5aaG5iNTQ2RlQteVFaZVQ0azJ6aFpWaE12TWx3OG1ZUnF4NExCbUdj?oc=5"
       }
     ]
   }
