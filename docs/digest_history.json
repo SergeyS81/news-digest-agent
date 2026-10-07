@@ -1,91 +1,5 @@
 [
   {
-    "run_at": "2026-09-07T10:22:13.263175+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "С начала сезона более 8 тысяч татарстанцев пострадали от укусов клещей - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTHdPSDJYY0Q5c09tRHdOX2dUMmRRT0psbHRTNHByR2d2dzJmS05icjVJRWhZSWUwV2xPMklUUXFDNVg3QTA2OUxKTzBpZjBoZnJhM05YRDJlNHZPU3JCVmlLc2tmemJ6MWFWNHdYbkh5QUZuZ1ZkUV93SldISzlBZW04QjZuMV9YTHBVY3NDTWdUdHdydWwxaGItWGNNOUxPRDBqU2tBeXJ1X29CZDMtczhDMS0?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "На выставке IFA 2026 Hisense представила концепцию трансформации умного дома на основе ИИ и объявила о новом партнерстве в рамках Чемпионата Европы по футболу УЕФА ЕВРО 2028™ - Пресс-релиз.ру",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSnNUU1V2VUVnNjk5SEhrRTh4TkcxRnloTFZralNmUHFhV2RUZDloMTU2LU5ub1ZEWm1OU0JkQWVVQjYwLTNqclZYNXRXRW5RRVpDU2p2aXEwVzNSSVY3MnZRcVR1b3hBTzFYZTRDdFRfaWE4TXJVQjhvZnJsaWZza2prcE9PdWJicUtZYmVjVTRrZw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-07T11:21:22.122124+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "AI-агенты OpenAI взломали немецкий сайт для программистов - Рамблер",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT3NPZnVyTVpMRjV0VGYtOUw4MmdLMS1zTzN6SkFhdzFLRV9SMExyTXdKQU9pVXFUXzloMi1hSTRqTlN5bFl3WUZKazRLUXB0dnIyNjhTLU4zN1pBMDB0UlpFcnFDOVFtaWtuR0RXQ1RPVlNNNGkzLU4tMzFEVmN1YURRLUotcWxOdFZaTjNkZmo0S3NRS1kyNjRaWENTOU3SAaQBQVVfeXFMTmtMd25hRXNiUjJKN0FpZUNaWXFYRVFQSU01OHY2bFRxb0I0NWROTjBHN1l4a2FjNWJsbkVhRTlzMDFsRTFUOGw2TVg3QjhyeUpXeVVPSnNYbVdTaGJlMlJvMGp5S3VhaDRSYzh0XzhJR0QxTmlGVnd3T2pDMmRrV05EdHQtd3Vwd2ZBSVMwSkV5WGF4dVdnNm9jZ1RhVWVYSE5nSTc?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-07T12:27:31.477226+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Why the launch of OpenAI’s latest Astra model reignited the memory chip trade - marketwatch.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQelNzMHA3cTliWW5hTHhsNWNOdlZkdzNISnVla2V3cnlnZzF4bVN1VVdGb3NCeDFsaVVFSWN6dlNVclVLem9iazY1YkU5RDZBZVhBOV9MYmxPTHF4V2lBcGplTUxlUDNPak9jVW5kZ1RJTGJCS1gxdEpNbHhRSTNwNW1fT2kxZmVBLUVWeHk1ZkVQZlpzbjltUG5BU3lYeTlRRUNQLWotRkh1RWxvQ1BBWkdMZUE2VzUzRGlZ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-07T13:23:02.660477+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-07T14:21:58.363511+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Казани наказали водителя Toyota Camry, посадившего за руль маленького ребенка - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEFjbktWWkpwcktFcVlKUVRJdGI3OGRMeHV0aFd4S3g3YnRUeUwtNzNfcFB0WVRpOFo0UENVZG9MamdhQ3BBZnNoWXFCM1dHZjNhTFotLVRPc2sweDJPU21Ud0FUZy11VXZnMDdfY2VoWHBhWlN2aGd1SHlRQTRmMGF5NWN2c0hUaXpMRERZejlpeEFmVmp6MVRhc1Izc3JMVklOSEI1V1d2dXY0bTQxbzgtLVNOZ2FiNnc?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-07T15:21:18.440219+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI Scientist Warns of AI Risk After Astra Launch - tech-insider.org",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DbW1fVmNRZ3VKZkd4Rm9KV2lOYTkwWXhud0s5cWVDT1NNOVQ5NWRrSWdaZnVWU2RXc1diRE9CMURaVDl3VTFSMjNNeWxwUFhKUjkzTzR5RU9Uemhrc2JsdGMyczI3MGtPdW51Q0w4YXZYUE5JZmhDcE9JWmRYSFk?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "В РСТ предупредили о сокращении объема перевозки в случае запрета чартеров зарубежных авиакомпаний - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NcnFucGRNWGJ0a2gyRUZnTDl5TzZBTVIxZ2w1d1pFZnBkc0Fsb3hsR0tKdUpGSzdBRl9FUGk3dkhQMkw5TGxLUjBqZldzOVowZ2NIOQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-07T16:21:45.417202+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Переговоры по Украине выходят на новый уровень: главное об СВО за 7 сентября - URA.RU",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tQ2VaR3NhWk5IRTROTXI2dWx5NnM1RmdEOVhVcUlkNzloZTRZRkVrdWRXR2UyWGMzOWU2OXpMM211ZzVneTc0X3drdXI?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-07T17:19:59.191378+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-07T18:23:30.302098+00:00",
     "sent": true,
     "items": [
@@ -8708,6 +8622,22 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Парламент Татарстана рассмотрит законопроект о запрете вейпов - Татар-информ",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVFVOVndYWU5XOFRPU292Y1JXZEY1SndRSHowRGw3b1FSWDQ2TEpzZzB4V1VwcDNtYXIzMW5kdnduZU5wMGpjZ0ZkeF9OSGFtT25PaHRjWXhuaHZIZXlhSGFaVnFWRzNFN0JBdTlJY3NmeEhQdE1OTkF3M3VOU1RsWmpNZ3lnNVJFUzhKdllDTjVVb2RESWNCcmlidmNhMnB1OHpfdg?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-07T17:46:25.748738+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В СК рассказали о новом видеопроекте «Код чести» о следователях - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0NRc0pvdEY5a2RpQS1venp6Z2ptMUF6TjFaUHZ3YWJJcjRIWTRVTk5KZlFXS21YQkRhT2xSVFAzQlZnSmxodU5UWkt3U0tZR0MyOGZKS1RDS05lRDVUZ0I2eG05OUVSemh4MTZrb1c4R0NDSTgwMFJxRnpZdmxEU1RmMTdPZkF1eFBUNG8wY2t4bEsxWmZCQUMzOFd2YmRmRW8zajBB?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Китай наращивает темпы разработки ИИ: десять компаний выпустили 16 моделей за месяц - LIGA.net",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEFTMGhnZkYzSjNFRXh3YXdIZVp2VG90T3E5R01BQVZLdTVZaFJGcWRtUmdPak16SVVIQ2d2WXFacnV4Mnk3djZCSFRwUTgzTDUtNGpXRlVsbXkybG5OeHRKQThiLTZfRW1kU1dSNml4NjREcy1heXZpRkFyVFFnWDdtRnR3RmtRc0w4VDBKVVZCNnAyZkY2QUJDV3FMYkUtTWh5SEhVU2NycmpYbnpIYWNhaUlEQdIBuwFBVV95cUxObmZ6QkhPYkplVWt1czRERlhHT0Fqa3JvZFBJNEVhbWVXWmpzMFkxODM0NE9FMU1NQjV0Vjhlem5USU1pcUJsOGxxRk5mcjJURVZOcEFaWDhqbEJzS3V5MWhzODJpVGhUdFRLOUtNNEdfQnFQSU0tU1Q4MVlCR2hEWGNhS0p6bUJlSjhER3B4Vk4wNUUycUUwSnVzUFcyTC00dHdNZ3ZUbFg0bFkzcjRqQm5FQURBLXFmQWV3?oc=5"
       }
     ]
   }
