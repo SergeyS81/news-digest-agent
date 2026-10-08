@@ -1,106 +1,5 @@
 [
   {
-    "run_at": "2026-09-08T03:21:32.568224+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-08T04:21:39.302860+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Запрет на временное лишение прав: кому не могут ограничить право водить авто - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdzRyUHdTQWNMV25mVFF0N2FpM1N6N2RuS0xnZ2cyU1NrR2FUamIxdmxXWE5QU2xFOFJHY3Y3emd5d1prdFV1VFZzelNHTERGcHk5aDNCbzBoejdEb0hLeHB5SnNULWxKaWtxZFVhb1ZERDNUUkpySEhMR0NQakFFNFFhaWFoeVc3SnVvOTVvUUdkODR5dG8zVXpnVkFvcW5KMXN3RTk2S0NLTzRXSFJndWVVM00?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-08T05:20:51.268561+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Мамы бреются налысо, поддерживая детей»: медсестра ДРКБ о буднях онкоцентра - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXdOUVVvcGYzUmR0aEdld1h6c2ZWbXVncmVaUHY3bEY3LUo5VVpFYWlJUU9zNXA1V1FXOHdJSTJObEZIWGZIRnRxYlF1VW5LQ0pxY2tyVThYdzI4UVpiWXZ2NzFNcFh1LWdNZTczUDNtQ1BQbENZWjZPTzBpdE83czFqREE2TllyZzVXOEpYT1lHSlgzWHZQWGxWMFN5ZE5RWXl3aE5WMEllLVhSZV9QdW95aFM4T29P?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "В Нью-Йорке в школах ввели годичный запрет на использование ИИ - CHIPS Journal",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmExSGFCUlJsMFhBVkdBNk5xQzVOb3NrRW1hSXFrNm1uVWdaX3VXU2tvZ3l3UmF1OVFoLXdkZHJSLVhLclpuYTJZYmpYSHZLbUwzZnd6MnppUDZTdUlyMEd6ZmtzUHlFbmFHZXlkR1V2TXBsN3I3U0Y4eFRNNWZnTzZueGxrdDBLOUdidE96M1N1dlplUzM0?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Nvidia CEO Jensen Huang says ‘AGI has arrived’ after OpenAI launches GPT-6 Astra - Firstpost",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTBpZDlkQnN2M0QxTk16OFZsY0dRNGZYRFphM0lmQlhKNGd3QklPTFgwbDN0V1ZCaGhqeU9oMXRiSDhtUDVQLUN5X2x2aEZWcm5KY0xPTFY4Q2t6SXlJTjNfdUt1U2FndmJpZ0hXc29TUjE5bjlOMW1xdTBxUjV3TklXRkNNdF91RERYTzRWYjQ1OW44dkNVVllDNzRxVndsZXMxdVA3TkliWHpHRllpdXBtVnI3MHBHNDByTno4R3TSAcYBQVVfeXFMTXdra0VHb3lDM3FCNHlOQmlUaTVsTzVNNzE5cG15Ml9xMTZ3Y1JhYUpDYXJCZkd5RmlqdS1GUkl0M2o5cWNwTnNfazFzaDFadmZGZHRZc2c5Z0c0UFpiSFZpYy1iNUJlQWtMdW1rS0hsM041N2hablRWaWd1VEkzdnYzLUtLb1JhYmhNbnlJRzRMLWc4aW4yeXRZUXI4N3pMZ25TU0JPc1RPSk40TFBGbDh4Ulg0aVNQelRRZFQwNE5RQXZhaTJB?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-08T06:26:27.417041+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-08T07:22:16.537407+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Хирурги Татарстана спасли 2-летнего ребенка, проглотившего 15 магнитных кубиков - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTlZVdS1HWVNSLVZzenlSQUFWQWxvMHZkQVZTSThPdE5MUDdmYko4NG5semw4NV9kWDc4OHpQS0Z2c09QVG9FRlhjZDhzSjhqaVU4bXVsLVRhSk1tSUFHb0xiOWwtMEowdGEzbmMyeDJSZWRQc21fc2dVTFFFUzNIYy1FUEp4OHF5b3FlYjZwcmV0WG9EQlpyd3Ntc0k0bFhXSlNtekloWlowRVFBNFhhZG9qNzhyN3RqNVc0?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "«Крестный отец ИИ» призвал запретить сверхмощные нейросети: Они могут уничтожить человечество - CNews.ru",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtVVJUWjVJT0tUeENfSG5tSHdOcFNsSmNKSldUWHRvZloyZ2dzQkVUbDZoY1VJa2dSZ2haV1FLQ2FjMXdYV2dGZ2tZTG5UcGZwa3RBall4Zkp2QzdPbHN4Rng4VVM1QXNudkNBYjdZbUY1dmJh?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-08T08:23:35.834983+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Водитель такси выехала на красный и попала под KIA, гнавшую по автобусной полосе - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVFZ3Q0Q2bHR4aEFNdXBaS3lPVHhfODZCYlJtU2JQTFlXbUgyQi1XVzlqUU0zeU5CcVJHWFQzVDJCckhwSXB6OXc3RXNDdTQ5N0VtQVpwOW52TU1fbG9YWXZXeVBXYkNSRWZGVUZzZ2k3SDc4eDUxRDVycFJ5R0lrM1ZWT2lMT0Y5ZW44YVdFYWJZTGM4NGl1RkY2UnNLeFZ6anFsUnZrdEFwNVhjb2g2OGxxYnlzNkFPQ0JWUw?oc=5"
-      },
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "ВС России нанесли сокрушительный удар по логистическому центру на Украине - NEWS.ru",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnNCTUFBTVZvYUJJSk1JRlUyTlZ6OXlCWjZ6VFV0cUdvYXhTbkwzbHc4UE04LWRuRU9FczZ3eV9oMEhXMS1hMWtuWXpRcHAxTExjRDI0c2sxR3otLW1veGd6ay15TkowaGRiSURRYzJBMFFSM2FkSWpWdjhRUTlDWW93OHJCUE1RSnhPdHV3RGhjcFI3S0kwanRVaF_SAaIBQVVfeXFMTlZfdXhwLU5TWGk3Ql91Qk9rdTk3MDdqVVA3MXlpR3pkY2k3bWNaRl9HSTN4NGMyc1dGQlhKR1IzTnB3c3BmQmJMRDQ0amJLZEVRYjVzWm5hSGp5Z0ZMYXBQeFVTNjM4LVh6RExGaDFGQkw5Y3JvWVlJMmRyV0otLWhSMkdlVDgxM1lWbjVENW5EZTB3QlUwZVN0QWptMU9rNS13?oc=5"
-      },
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Россия нанесла массированный удар по Киеву после трехдневного моратория - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uWTNnYV9QcUVCcGlZeTE3NXFONnB0S3JDZ3RZa2Ffel96YUc4UWYwSGh6ajJhLU5aRmdGNTBZQVc5SVU5bnIweFpxTU9wN1dPaW5hVtIBU0FVX3lxTE9xRzhCQ0ZuclFRdGhQVldsZUJzODhZcjBZYTRDSUtqM2l3Ym11bDAyR003UFYteklYNkgyMFlsVzZ2cDFlLUViWFZuc05nczh4LUpR?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-08T09:23:23.693321+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "ВС России ночью нанесли массированный удар по военным объектам на Украине - Газета «Республика Татарстан",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ0U3U2lJbWJiRXRxV1FockRheXhJSWt3VUVIU0xTSjgwRGpBeGF0aFpCR2Y3SndKZXJHNjRHR3NLcDJ3VEpsemRQaVk2LVB4aWlqR0tVOFNaSGJWVG5leTBpY0F4VVlFUDdfMzZJS3dNMHVFb2FLeXItdVNpWjFQQmJQblZxRVMtTV90SlFXNGhSRXROWExYaHhBQzN6ZXZUaXlaOWhzOVFIdGc?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-08T10:23:01.031337+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Мужчина и его 7-летний сын пострадали на пожаре в таунхаусе в центре Казани - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlllYlZUNC1mVGxfdkc5ZE9UeFRtSG9laUhfX2tYT3dBb0tla3lMQ3RQX3ZGeXI1bzdFcEtsODN0ak1SUGhDUEk1UkdDQVhCX2VVQ3ZpOG1iUGVDU25SdzAzaW5ub3RscGcxRmR6TlVpaGlqbDQwRE41d3QwR1BWR2tsYTFoS29iQUR6UHRVWElfU2dUb0Q3MDJ6VkZGUG93RGk1U0ZvUU1yamk1ZE8zUmQ2dl9jcTg?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-08T11:21:04.582033+00:00",
     "sent": false,
     "items": []
@@ -8598,6 +8497,17 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "OpenAI releases progress on more than 300 math research problems, stunning humans - The Washington Post",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUU1YaVNmSXhlYVF0XzBLM0JBY1pJZFA0MGQ5YVJzZ19Cd3V0ZWx1Q0dlZmY0MFVNNk9BSG44ZGFPb1B6UUR6OFZrZGM2NHhmU285aG1zdnVVSnNnR3BsNnBLMTR2NnFFZ2RnYmdiX2I5NGZUanJYVUlxOHVpYlZrakR4VkE3WTR1ekVleHBwOWpFR29rT250TUlZalpYaW5HV2ZaSmRxb2tUbHV2bkVlYzFjenk3dw?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-08T10:25:58.001753+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Московский суд запретил генерировать обнаженные фото россиян с помощью ИИ - Newslab.ru",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TUDlyZXVQU293NTllM1d6UFdzcEdwa1c5ZllUbHJzcmhNcFFQTEdqbFpvNzdHb1pSUzlGZ0dNMXZtZEtaSUHSAVpBVV95cUxOdF9TOTUyRklaNjFRc0FkZEZ4M3A0alpkSWM3ekdaNzVtZmNyMzRwNkUwQTJBckRPa001eFVkWndSQkJFSGY1UjJnSFVWWXR6MVR5eE9JZjdqcHc?oc=5"
       }
     ]
   }
