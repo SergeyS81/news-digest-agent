@@ -1,31 +1,5 @@
 [
   {
-    "run_at": "2026-09-07T23:19:24.308919+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-08T00:31:55.904003+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение и прорывные мед. технологии",
-        "title": "Прорыв под вопросом: почему ИИ еще не победил рак - hronika.info",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3ZmVXBXYUFRV3ZZODlrOEhMS2lCZHhYRUZmRTZ5OHAzVEZINWxncFVuQzR1eExhSHFualVRX2t4OWNtTkhaWFk4UGlJWnBydi1mbS1jSEM2RkVManIwNmNjVFUybFdjVUMwOENVOWNHR2cwc0sxdlB0ZVp4SERKWjBHWjFNX2pobVNxSlhvblgxM2wwU3fSAZYBQVVfeXFMT2t2ZlVwV2FBUVd2WTg5azhITEtpQmR4WEVGZkU2eThwM1RGSDVsZ3BVbkM0dXhMYUhxbmpVUV9reDljbU5IWlhZOFBpSVpwcnYtZm0tY0hDNkZFTGpyMDZjY1RVMmxXY1VDMDhDVTljR0dnMHNLMXZQdGVaeEhESlowR1oxTV9qaG1TcUpYb25YMTNsMFN3?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-08T01:20:35.055376+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-08T02:21:49.384390+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-08T03:21:32.568224+00:00",
     "sent": false,
     "items": []
@@ -8613,6 +8587,17 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Anthropic opens cyber program applications, releases cheaper Haiku - TechTarget",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1l3aFA0N0h5QllXQTZpWWxSM1V0aTF4VFZXd0VPVWlmZFZGZkMzay1MMXhBd1NESFF1TUV4VHJzc2wzanp5U0tCdzg2ZnVSeldKSWo2ZV9NVWRGZF8xUjFaTGw5VlJUMVZvQWcxM0RBSG5rZnB3OUZ2MlBYbEtxakptdDZBZk5aaG5iNTQ2RlQteVFaZVQ0azJ6aFpWaE12TWx3OG1ZUnF4NExCbUdj?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-08T02:39:41.474990+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI releases progress on more than 300 math research problems, stunning humans - The Washington Post",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUU1YaVNmSXhlYVF0XzBLM0JBY1pJZFA0MGQ5YVJzZ19Cd3V0ZWx1Q0dlZmY0MFVNNk9BSG44ZGFPb1B6UUR6OFZrZGM2NHhmU285aG1zdnVVSnNnR3BsNnBLMTR2NnFFZ2RnYmdiX2I5NGZUanJYVUlxOHVpYlZrakR4VkE3WTR1ekVleHBwOWpFR29rT250TUlZalpYaW5HV2ZaSmRxb2tUbHV2bkVlYzFjenk3dw?oc=5"
       }
     ]
   }
