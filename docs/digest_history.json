@@ -1,116 +1,5 @@
 [
   {
-    "run_at": "2026-09-08T11:21:04.582033+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-08T12:27:42.550120+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Сервис «Яндекс Музыка» ввел запреты в отношении части ИИ-контента - Национальная Служба Новостей",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUEZIc0NMTVJGeldMQVZma0tDenlwZjJuYlVHYW9iQlMwQzlBb1JxY3haWWFLWHYwSVMtVGJBUFFnSmkyMWg5WVN4ZlM5SnpFSGJhYjdRTnZlaExpaXNKMXlzMGxOX2o0cEYtMkVJNF8tbmp2NWdOR015NW1tMDVVQUdHZjFoWFRwaW1ncF9zclpMcEHSAZgBQVVfeXFMTWZJVjREUmVBd01nV203VDJOU3lPN1daN2VCVzF2Y3l0cjRWRDFYSmI1R0dJR0hWTS14eVNkWjFOc0lLMzBOaUQ1U2Q2OEtNa2w1a2h4d1htWEJVN0RxV29hZmNvN3JQdFV6b2ZmUG1OeU5TRVBYMFN2V2pDYU41Z2hmWFphWUtnQ3pwNGYzX1lGdDVvRlcwZFA?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Jensen Huang declared \"AGI has arrived\" after OpenAI launched its new model - qz.com",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvODJpVHBxNXRUSzM3OVZFcXdfRG1HZGhHRDN3M2F5ZGlrbjMwdTVsM1BNSjRYZGtoU1FReXY4OFh3Sm1aUU5PRGliQkd2elNLN0xMek1qV3pQRURPUmRUeWR4dTNjRnRaU2c?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-08T13:23:07.513811+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Казани врачи РКБ спасли пациента с миастенией новой методикой очистки крови - tnv.ru",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSWVyc082bFVKTll6VnFUSUVtQ3F5b1VjNUF3cXBVUTJjX1g1WWRWblBhWXAyWFMwME1TdXM4VjlHcjFaVVlHNVNySG5mUEUtX28wcGlFTjc2UjR0UlROVU1sV2J5R1RPVEJvTUt3VnNJMEhsd1dKaXB4T0ZEbzYzYmF0ZERtWlVzRnpiUkxTV0VSTVlKVmdxMk42a1dMdFduaVFLanZpMmpNNHpnOF92cktOSGtWRUx3ZEE?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Врачи РКБ Татарстана применили новый метод очистки крови у пациента с миастенией - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRW5vazNEYXFqV3ZyLWVGbndYNXc5TTU3RHVteHhQYTNtOUl1WEJUSDV2ZFFHQVROSGpvNUNoNGxpUGNDSU90UFpuRUNHOERicmRUVkw5RWFYa2VEc20wNXUwXzd3aDV0Q1pkTFNEMFhkMkh6Q2dJNTdwM2xuaFByQ0ZfUXMzZUl4Yl9QMS1sSkRGNEhWejhFNGYxNk5aTGZDZGRyeHR3dkpHckMwNkt6eTVKT2Y1WFEyMVNlbUlR?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«У него шла кровь из ушей»: в РТ судят женщину, чей 2-летний сын выпал из окна - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLVVyZWZXTUE4VTNyMU1LY3F1VWRJaXc1cmJVV0pXWjVMcDFzajBpZTlLX3FfUjB0OW9zVXJQem5tRkhFUVpfak9tSU9KZFc5dTZYNFhybUZLdFdpcWxRb3FJcGJ5TVJWSU8wY2Q0ZVM2R3ozQXpEMHhkX3JLclF3cjF2YzNub29KcEdOWGtGZmVFN09MY2lxeGxUaHRkS1RBemRtOTY0Z2tyRmI4c3A1UE5NbVkzbDBD?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Tenable and OpenAI launch AI security review process for community-built components - Express Computer",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLW95ajdWa3JYVVRja0JfckVlOTRRemdReTRram9pbGt3TFNLbjZjemVTNkFVbHNhTzJQM0pUaHU5d1g5cll0ZGRlN2wxZHNITVM5cnFKQWlNXzZFdVpJbDF5UmlwanBkcm96ZzlkNnhnNEVzVmp3S19DcEsyNnVkeG5vRlZ2OS15aHRYeGNTUUlnYTRlWVB5WVhTSXZPY1pieEZSbDdQc0FteDhuZEszOHFuODIyUDNlX2xvbXNZQWRROHg3eUE?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-08T14:23:36.975194+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Лавров раскрыл, ведутся ли по Украине переговоры в спокойном режиме - Вечерняя Казань",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTR1NTdGT1ByUHRLSjVydG5mWFZTYTRsTmZGOWw1R21yTkxVdnc1RTNxcnctTDBVbG5ocjFrQnFDWFpFY3pWT04zckR4WUpZVURqSmw4UVBzRnlVYWdXeGJUcEZ3UDBodHZjYjZsMzg4VUxfbTc2Q0pkRzdROThrTzU2OWxicW5oNW5jTDh4RlZiX3UxbHFFclF6UG9ib01OYzI2UFlkQ1ZlLTMtRnVfUdIBtgFBVV95cUxOWlV1ZXMwRWV3REhlRzNRVU9EcldXdEpOZmpfeFpkWk9ka0RCTnBYXzhHZm5wRzBNM3dGSmNZUXJkRGZ0bkVRelI5Wm9mOHVfaV9kUm9xRkV1aUptc3dDVEpXSmVOQUU1QldrTFBNZGtWZ2RNeFdYd05KRE1UZTBUOHpzbzJWbHVKckJjMWlmazVaWVdibHlEOHFja0owS29LVjJXc2ZuZnFKRmJsNkRTeU92bmlSQQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI releases new AI agent – which promptly goes rogue - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3V0NZQmphR3B4eVV6dWM3Rm9Xb0RBUDhNZ2trT2RONml2Q0dsV0VQRlN3ZGQyVTlHSWJ0SGphX1h4MldQSnp1R05DQWVjV0JXbUVPR05XcEViTWtMaWprUWdYX1QwaEdUek9mdlJvR1dnZ1RBWWJPcHc2ek55ZlU?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-08T15:23:26.342869+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Обвинение просит по 8 лет колонии отпустившим водителя-наркомана сотрудникам ГАИ - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORm1XM1h3WDJnaWEzOVhpN2dwSjBXX3hsblBWSHNMNHJGM2FhX0RDaXNBMy1CT0hrTHl3ZzhHUWo5WFBGZExJTFdQMHJlaXJTN0JjQzAyOEU3dkItVk1nU1R0LW82MkNIXzFZVlpQLUNMcVRMcmdjRDJFOE9OV3hseEZqaXRWY0xyU0tGcnBoS0s2TFQ3S0VMTVY2Ul9JOWMzd3FPOVVycmNoQkVyWUZaZUhnLWlEUzVGZ1lSV0lfTQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Украина готовит закон об ИИ: какие правила и запреты ждут разработчиков искусственного интеллекта - 24 Канал",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3J6QzdQMHg0bkMzUWFOSWtSYnJoMWUwNFJpNHA2WEpYZlY4dWFfVm1idXpVdW1BbXpwVkxOdmJkR1dXQi00d1hMeFRGVy1xVFRMbmczZjFsRlNOYnIyd3JYcmZyUVJiaWR4YnFXLXhwblR1dFlGbVlPTlloU3BwSFVvWDhQYnhZUlNnQ0xZNjJiVmo5b0FHVXA4V2FnNy0ydHg0WXFvMmJmLXNjU3Y0VUhB0gG3AUFVX3lxTE9zLWF0TDBHVXdVUjJUZ3lBOHhUd3JtYWZsMUdNRG1LVDlOSDR6ZG1zY2Ytai1NNmE4SW16XzdsNjFxaVpxN1dwd3Vrb2k1R2wyNWFnQjlPYy1lYUxtUnpBMmJMZjEzdmxodTFYa0lkMHJBS1E5UzM1MzhLcWpoODJROTNyQU95TFFXR0VBR0QwdE4tRmlYRjhsRWRsRk9Wc09hTmN6N3l4OGtXbThtWEJNLXRRcDhGWQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Путин и Трамп час обсуждали урегулирование на Украине - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUndnT3p4NVR1UGtURFNRUW5qMlhlWmhrcjlUQllCWTZJNmV3RWtQekRvR3lNSnZ6Ym1Idm5oOE5wNV91Q2JQd2lvUjZSQTY5Y3BPN3c1Z01nckdXM1ZYcnhXWG00eXU3bUFRd0lnVzdTU2xscHJib2o4RGIyMTAzS2FnRk9vN203N0F6NGhNeElQd0dRRXFyYUxR?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-08T16:23:29.699148+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Займется восстановлением справедливости и репутации»: Ратмир Мавлиев теперь совсем свободен - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oRXFqSkJZbE1GTTJGcjJHWWI3d0FnMTFmcW1WSzNWT0VhS1BxX3QyYTRNeTBlU1hJMFgteW1sdlpwamhfZXNXX1dWVkFmMEJHSDlOY0NuVHo?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-08T17:21:35.706704+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В ХМАО 1,5-годовалый ребенок госпитализирован после падения из окна 9-го этажа - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ1VwNE1zMXF3ZVh1VlIxc1hNZXpZZGt0dTF5aHRnYkx6aFhNcHVBZ1BRSV9oNl9DTmc2UXpPV0hhNHIzSUNleVoxczR3c01Ma2pnS0lkM1NCdjVjQzZsTy1oeDNiTlJ6OFVQakR6VEU5SWdWUUlpVk1XSWFGeGhHLV84dmtEbWRUVXVlR2pCc2hPZ2h0em1td1J5RlJxdlg3TmpKaFNOTnBoaWpFYmQxY1NtTDBZZVJFZEhF?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Cramer says these 2 stocks are big winners from OpenAI's new model release - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLTR6TnVtVFNLRDBzY0tNTEhUZnF3aS01NkdMcF9tYWFQTDdIaF9qZmp5dHZHem5fMjdhUFN1ZmRfYUtqS2VJR3Q3WkNRcWFLM3kxejNMMXc4Vmx3UlVhd3RVT0N6bEtZQ3JGNjBYTXI4R1JuQ01XZzF4S1JndWp4ZW5PSWs4NV9SS0FaMmU4bS1hdWFxSHZWQ3ZKWkgxQzZpc0xodFJxZnVzTlJwY0tUTg?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-08T18:24:37.659706+00:00",
     "sent": true,
     "items": [
@@ -8508,6 +8397,17 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Московский суд запретил генерировать обнаженные фото россиян с помощью ИИ - Newslab.ru",
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TUDlyZXVQU293NTllM1d6UFdzcEdwa1c5ZllUbHJzcmhNcFFQTEdqbFpvNzdHb1pSUzlGZ0dNMXZtZEtaSUHSAVpBVV95cUxOdF9TOTUyRklaNjFRc0FkZEZ4M3A0alpkSWM3ekdaNzVtZmNyMzRwNkUwQTJBckRPa001eFVkWndSQkJFSGY1UjJnSFVWWXR6MVR5eE9JZjdqcHc?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-08T17:50:20.688104+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "РКН призвал СМИ давать данные из официальных источников по ситуации в Иркутске - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0w4eGE4UWFQMk9CUE9fQS1CSFl1dlJycFhmR2gwaWozN1hTbzVwNWFTLTlFRDhiSVczdU13ODkwMTMwVHdaSmM4NUpXLTlHcGFrX2JvODFVYlJNQzYtb1g2ZW5kNGpxNmF6bGRra1ZGVlc1aUpaZk9BREFkTnlZMWM5WkcyQ3QyaHAwemRzVk5MYVhBdzVqVzJ5X1ExSFh1RHhQeF90aklKZ1Q2UnRkY0k0OXpkeDZW?oc=5"
       }
     ]
   }
