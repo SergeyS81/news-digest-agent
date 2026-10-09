@@ -1,59 +1,5 @@
 [
   {
-    "run_at": "2026-09-09T20:21:18.498162+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Татарстане ожидают роста реальных зарплат на 2,4% в 2027 году - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcHktbzgxUE4zM0xXMU5YUlp1UU5DYXpEMjZTUEZzaTZGSEwwLTZ5eUp5Ym4zNFI2STFJOV8zRVVZYkY1TUREUTFONWZ3U2xNTVN6QmVHVFNndzF3cDZJNjBIV1BYRXJyaFE3YXhFWjExaG5NRnhOUGdqeGxNaWdWYVlEazM3OVpielY4Q2xmWEptNzdtaTlOZXV3NDJVcjNKbTVyTw?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Депутат Панеш предложил ввести статус «Труженик тыла СВО» - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNTI4U292aFFxVHZkQmtvM2NxYnVlQXdxNHlFaEZ0dVRaOENmT1hzbE1EazUtaEFqOFlqZ0ZjbGNPcWp6Y0VRNm1ydUtldXJfZG9wYVVpZVNuakgwOXhwbWRad2ZFZ25hWWZmSzBLNUk4TEhyQVl3WGl5Z29YeWJicmozVzBDTXN2NTFfaGg3eVFqN0haa3NRYk81eng?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-09T21:18:55.448088+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Эксперт Куприенко предупредил о правилах безопасности при запахе газа в доме - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLVNfbUJZaGFwSFp0WkRHRUc3dHB0amk3a3JLdEFzaW8wME1MMUh1emNNOG0xc25ualV0Rmc2VzhpLUl4Uk5EXzJ5NEU3R1BZcEc4YjRNcDExV2ZGZF8wSmR2YmFkdXhQcV9TdnJkSThwcVpQTklBYzlLd3h6ajZvbmpjLVFhYTJBcW5sTHJjUUNrV1lUUGhTbzcwVHp0REhkSXVSM1JzbWZBRTlPTUtMeXlUbjkxYzJ6?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Сафонов едет в лагерь для новичков «Ванкувер Кэнакс» под русские песни - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ2xiQjdrenZoaGZJWWtIVWI4UDRQNUloRWoyRGh2OTc0RFREN2dtdlNRN0VIMkc5eGFwcWlyTGQxY1dHVkZwd1NtaTJWTzhSV3YtRGFLdHFBS1d2eHlTMEwyZ19yaFZNR0hkcExWQUFsMFNmOFdFSDNmRWprZ21iajN3S2RlQjU4bTE5alNSUGk5cFpCLU9LNHpQT3gyNFViVEE3bXJR?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-09T22:19:37.114401+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Госжилинспекция РТ разъяснила, кто отвечает за ремонт кухонного крана - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNG1mV3NfVWhKM05nR2Fid0FjNzNNUnd2V2Y1TW1QVjlWdExpQ3dtSUNBSE9VUmY4eFVKZDNJVG9qNUlWZktmVkstWlg5UUo4czA2Rl9yblJtU0JfeHZpU25TOUhPUzZTU3hsMl8tWDBnWXFxNzgzQ2FrUnJPbm1RVkdYZWwzSUdGaE9qWFNQZzVBWFlWZE1zcXhsV3ZieTMxTFM0VUoyQzBJZFM1eEtJ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-09T23:19:05.828755+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Политолог Гусев назвал Швейцарию возможным местом встречи России, Украины и США - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTmc3aC1XME1YS3pacDFUWjNZcUpQY1BNZlpydlRfZnJ4TkowYVdwNUV1R2JqVFJfWmxQc1Y0SzhqemJ6OTBEM0NUMzVzX0NDM0JpRFZWamtrWGJWanFuVkhFelEtand4dGxnbHFEZlNXWlBTV29tQXlmWktDYnk1cnVINjFIQ19NVzVfYVJ0RUl1aHNDT1MyMk5DV3VCb1ljdTZLTDdtTm51aWJmb19Qc2RWMTVwZUNNNFZfNQ?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-10T00:27:01.149627+00:00",
     "sent": false,
     "items": []
@@ -7780,5 +7726,16 @@
     "run_at": "2026-10-09T19:29:02.518173+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-09T23:58:51.465443+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI Paused The Release Of Its Latest Models Over Safety Concerns. But an Expert is Also Warning Against a Slowdown. - International Business Times",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWFkQ0dBMTJYMnVhY0pNX1ExdnBUSlVhQXJ1TmdxRVh6OHBPbHFlZ2JwejB5d0c3T09KNk1KSk9tSmh0MjRrNmtTQWcyTGFuMDB4eHVQaldUOWl1UnJKWWJWdWRLbFhTZFhoRUd4Yk9TUTVDSWtMdFRHVEZfckpjMGV1dFdCb091eHBKX0taLUF1czUwUTZaTWhuSXlDUjVIZjl2UlVWRnBhZGt3RkhYYlpkRmRXbjVDcjhfSA?oc=5"
+      }
+    ]
   }
 ]
