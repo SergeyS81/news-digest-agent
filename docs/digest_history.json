@@ -1,51 +1,5 @@
 [
   {
-    "run_at": "2026-09-08T23:19:06.464618+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-09T00:31:36.800882+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-09T01:19:38.603309+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Neon sets US release for Luca Guadagnino’s OpenAI film ‘Artificial’ - screendaily.com",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDFLQlBUQ1JtZ3ZiblNPcGk0ZXcxZmoya2laZHdRM1Y1LXBCM25IY0FIT0RPZXJHVERjWWNBbzdCQVJERFJiSFJRamJDUEJMUHZVV0VCVTNHZGRKWUlSNjJpUExydUNEVmNVcnF4d2ZQWGNHWHdqUWl5dGZaVU1JX1Vfa012b1ZhSHNueWc5NFRiVWh2TWlNVHNKNUt5N2dzR0lPZlppN2pXOU1WZmQzNVpqcw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Neon sets US release for Luca Guadagnino’s OpenAI film ‘Artificial’ - IMDb",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DLUV0MU4wcVhLOHphcDY3MkpvLVItMlQ5SHEyY3d1bmtHN2RhU1d6V0FKTlB1OF9Cdm9TeUMwOVoyWkgtV215dG9mZkFhWndsZ0lSRDkwWnFseXp2VVluNEtfRW9KZw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-09T02:21:36.012699+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-09T03:21:13.805417+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-09T04:21:25.386221+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-09T05:20:10.947477+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-09T06:27:06.425010+00:00",
     "sent": false,
     "items": []
@@ -8371,6 +8325,22 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "AI Gone Wild: Netflix to release documentary on Hugging Face attack by OpenAI agents - Manila Bulletin",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXQ5ODFkZmVnbmV5dFNERk5lT2MxVjNyTWszUURDZm02WE9YYlJtZFV0TnpyMXktbUF1R0FMalFmSzdoTm0xcUpmd3h3U3FOODZtM3lZOFhZRGZPOVVSRzZ5SEFWVUhHa0l4RHU2dV81N094M1dZaUNfMmtmN2Rvc185WFhobjkwUERDX0RuT3l0c0xTR1N4b3BrNVZfY1ZPTTNHUDN6LTZpb1A2YlUxbzVB?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-09T05:59:16.163016+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Он должен закрепиться, а не уезжать»: как в РТ решают проблему нехватки врачей - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckFTdGpObFNfMjFvVTVHOVU3QjNuY0NHb3lVRG1qQi1WWDRuU3E3ek1GMjlPYl9MLWJ6cWVQdHYxYU1yS25NUFVRcjg5M2d2SlJoZWlZd1B4WEVGVGxReVMxcGhzMzhEN3FWeHJiOWhxOC1fcXBPTHNWVHB3XzVIMWdJTUtwdTNPV2VDNDZlWHNvbFFlLWJmQ0llVkpkcXhCOGxSYlpHMkhVRkFXaERaVXJVdGtKdk0?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Пользователям Claude запретили оскорблять нейросеть - Сноб",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTGhoem1IV0tIdDNQQnlaWVN2LU5OSGxuWGVRSlVDZi1Rd05HZGJVLVE4U0ZwWEhaNE5GYVd1U0x3bkhianAzZ2lTZDY1bjc5ckthVXlTN1NBTi1vWnRKbl9TT0t2aWFybXVPVTFwRU9Tb2VIcWxWVTRqREliYkM2aXZfd2N2WXg4OGVGcDVVRlg2QWtnZ0E?oc=5"
       }
     ]
   }
