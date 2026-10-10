@@ -1,64 +1,5 @@
 [
   {
-    "run_at": "2026-09-10T00:27:01.149627+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-10T01:19:37.042861+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI сообщила о прорыве в математике с помощью новой ИИ-модели - Вечерний Санкт-Петербург",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYjhPeXhWanR5emlOdkdORGoxaDQ1YS0zdTNhZ3NLcUhmbVdtZWxscjlfdkUxcGtRcEZvbklIY3NtdEFTWHp0eXh2VG95Tkx3TXl6SkJzNm1pM0tlSVNrLTNPX3JjQXp6QmY0cXJ6NDVGMXc2Qk9VLURiNm9tdmtveG1YQ3JHdEJjY1cwa1BrRzVWMEZKOS1xTXFtM1gwY04zeWZEc2RXdw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-10T02:21:43.540829+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-10T03:21:45.295740+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Дожди и до +19 градусов ожидаются в Татарстане 10 сентября - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGZOWF9iMDlGa2xxMTRIVWVvS284bjI0R0gwRkY2R0wzUzNnaHBpQ3QzTHBvOEN6eUtRNm5KdnBrREV1ZTZHdUdOWk1hdGk3VjctYUFXLU1uYW16NEZUUDgyaTRTRnJ0bnpQZmQ5SFB3V1V2QW9NcW52Nl85QkVsYUVZTUIxY0VFYXNtN1ZjQzFvT2tabzdhTFJ6LWY5RDRVbjVoUQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-10T04:21:35.635224+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Запрет на парковку: какие машины нельзя оставлять во дворах - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcENHaVRzbTNocGhxLWVQcUFWZnZ2YW5DZXNtNzlzUERWLURWQkZfMmlDZ29fSVdLTlphMVJWU1NCSXNUREREbGg3ZmNBbVlGOC05b1F1a2ZLaGNGZlhVX2lxZExnUFlNaHlIWVFjUUotVlpwMWJEYkcxVlo1TkV6dl9ueVFycmItNHVYYnRjU2Q5RHhzeDlzX3d4S2s5VEx1?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic has released a webpage showing 'the impact of AI on the economy by 2030.' - GIGAZINE",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnYzdVeUhWZGx5Q3RXcmkxSGUxdG51TGRtRVFWUWZWekdKbWJaaWVyRDhDdV9zdTR1YmhHX3d6UHBqbnpDZGRlNHc0OVVab0FqR1gzSXYzRm5LdGtiWXNKQXBHWVVsUExfLWlnZE0zeWN0bkxUV29fcWl5am42QQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-10T05:20:14.127161+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Снова растем: за счет чего в Татарстане разгоняется промышленность - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNjd4aDBXMmd6N3hKVG81UWZ4ck9QN25JMFNsbzVOLXBrYXlCZTYxdWpqWmFrSGlYMmNvU2prQl9FaE1COUZORkJxS0V4R0tOeUlsalNrMW9leEpYQjU4X1Y1WFh1QjhWR1RGd3FBNlZiclB2NU8xVXB3UmZjazA4ejNTOGJnSlZsd3JlRFhhSVBaQ1VhVXVVcUo0N1dobnZ5NkYwTzVyODdpQ1E?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-10T06:27:05.275446+00:00",
     "sent": true,
     "items": [
@@ -7735,6 +7676,22 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "OpenAI Paused The Release Of Its Latest Models Over Safety Concerns. But an Expert is Also Warning Against a Slowdown. - International Business Times",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWFkQ0dBMTJYMnVhY0pNX1ExdnBUSlVhQXJ1TmdxRVh6OHBPbHFlZ2JwejB5d0c3T09KNk1KSk9tSmh0MjRrNmtTQWcyTGFuMDB4eHVQaldUOWl1UnJKWWJWdWRLbFhTZFhoRUd4Yk9TUTVDSWtMdFRHVEZfckpjMGV1dFdCb091eHBKX0taLUF1czUwUTZaTWhuSXlDUjVIZjl2UlVWRnBhZGt3RkhYYlpkRmRXbjVDcjhfSA?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-10T05:41:59.960527+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OPENAI RELEASES HUNDREDS OF MATH MANUSCRIPTS WITH COMPUTER-CHECKABLE PROOFS - Magzter",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY1kzQ2liNExNdWwxemxpVS1STEYzU190aUZmRnZMWVNTcHRRcG5pNGNoNm93RV9vVEdlZW51WmlKempLUEc3QS12cHB4bnh5eDVBdWJpcUdKNXNaRlB6b0VOVWJsS2QzaEpqbDFydU9pRkJqZzRuZjVrLTByMDRLMUZaMnVXWUN3LTkyXzZQbXMyd1VpVGNpRDZqT3pQOWlsWkxJTmstXzJpclkwaXJVY2g1dm5JcnNzNmdwbjctMUhNVWxnYVB1YjJkMA?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Релиз Aniimo: кто проложил «покемонам» путь через тернии монополизма - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFF6M3pnTzVlVjd0TW1xWTZrcWRNbmQ0WnF0OTJhY01EcjVtSW5GOGtPUXJBOXhBM2ZPOWkyN3p3VldxQmhxWUliS2hhZDNVYW1sNUR5RlByZHBlZEk0M1ZGUUJEUlRiYzF2UHJOWmZjQ1B5anRjcFV1WWlFcm5feG0tbDlZLXpfWVprT3UtbmtvQTFpTnBib3hXRVl2QVBvd1dhcDRURHQ?oc=5"
       }
     ]
   }
