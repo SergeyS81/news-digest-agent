@@ -1,116 +1,5 @@
 [
   {
-    "run_at": "2026-09-11T07:21:23.402046+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В медучреждения РТ поступило 340 тысяч доз вакцины от гриппа - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM0VaakhMdlFieHFWOE5hbGtzRlpmeXFqWk5DdjlGTzRaMWtPNDRrMjNiTkxVaGluU3hvb3RxQXBQdmhQZUEwMHlVMEN5Y0Fad0tHNzlRRGZhQUNyd1ZDalRWRTR3cGFTc09xdmtFdzZKaVVYOUw1VVVPbGlfckVHOW5QSFJ4ZnllSEQtb3RTM0ZlS19DQWNBbDJ3VzVfTTJBOUF1ZU5R?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Антифрод и валютное регулирование: как Нацбанк использует искусственный интеллект - Kapital.kz",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOU5neEFxdVRmbHVsZ1pnTVZQWUNfa2pFdVdDTjd2em04SmlZQTBnSFdHVE81aU5UVGdyS2l4bXFSeDFQeEtydjYzNFZpR3lrXzZfV29seHY4SHk4Wk5UWWlhRkQ4S3hwOExEQVRXRjRpTXNIYXNXQXYzMjRZeHdvVENzdzRvUFJfSTRBOHlIUVd3UWV4NkdpVk1vVVNnS19uaWhBNGtfa1JNUENlMGdNVGxqMzJQMklnQXhZ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDBpLTJ2bkg4MW1WX3Vzbk1vY1ViazJMZEYyWHlibW11dWFxTl85dEZNWUlVVHNmVEhkNkRvTjRxcVVDVk5pM01obkpMVXR5b0ExeGl3N3F5T0Vtd0NUMXplZzdpWUVNbGhyTUtKcFhGa1ZiUWNVTG1fbW1STk9JUUxveGtiOE1JdTVhbGlZOU1xZlFtU3dXYdIBngFBVV95cUxNQUt5TGk3QjZjNUFJTENnTDYtZjBvdFptNHVlTFlIaEF4WERaTjdnd21oR0l3QzFNdW85NGY5alNPY1A0WEs4S19rdGlKc2NKbWRXczktWmdBVG9IVjAyRUFtbnhEX1J1cUl0M1Nkbm9lcUhtNkE5bHk0WXdNUWhaQXhRcHNzU1BMa3BoNmpYNFZsZjNuZUN3UGNRSHc3QQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-11T08:23:04.223851+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-11T09:21:24.500705+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В больницах Татарстана разместили 36 избирательных участков - rt-online.ru",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRFk4cEVMOFlETEtYWU1HNmc3MDhOSGIwZGNYb2ZXYWc0QnpjTTlQT2NTejFwaVpvbktYMEpYcnBCTm13alNrbVJKbnJDRjVMU1dUUTZteC1fVm84V1FPcEd0TjJFc2djWGtNYi1WWng2RDZ4ZksxVVo4LVNWdkdJcTZ2a3dkNGltTWJReUlsU3cwMVlj?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Альтман допустил регулирование темпов развития ИИ - ФедералПресс",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uWnRRZ0RQR0J3S00xRV9UeGlDR2QzVS1NZ0diQnIwZjFJT3dqeXVHMFcyY19SVmJuUFViWkxPT1NoLTFndExIMUw5TmFjMUZlN292Sg?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-11T10:21:39.571656+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Рифкат Минниханов о научном центре СИБУРа: «У проекта большой научный потенциал» - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcUV6UVhqNGo1RldsaVRyWEFMVHpWRDhib0hzTU5ZejBkMEFKMTJwUWd3UXBaUVltenkxTTZuVTBZSFh2d29tV3V6VDNBTHlSZEVLcGhDN25QcGVBckNmYUVXVXR3RjJTSW92WktMdy1oc0pNbHpoVTlXSnNlYlFLUy1hd2lxTUNCOXh2MWpfYXNUS2FudDBscDF3Mzl0cGQ2a1ZoQTBONmx0Qk9lTC13N19Ha29SQ2xr?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Предложение дня. Запретить удалять «Алису AI» со смартфонов - Большой город",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yRjBzTnBBVVMwak1vR1ZGYlhBWS1scHNIbTExdzY3NEEyRVk1Ry1fdEUzNHB3YURVbVpDTURqdjhudXFmVVNBV01QSEF0UF9UQXVZYm9rU0ZQVHNMVlJBTQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "СМИ: Россиянам запретили посещать музыкальный фестиваль в Грузии за две недели до его начала - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iMGQzVHRzTGozTUJVYXgtX0E1Y2JscEUwdDZ6UUhCY0tTN0o3dmthOGhubDJSbkFNOTVOWFoxc1ZTSE5KSDRtVFZyc1F4WUhIR2FtRdIBU0FVX3lxTE5raXI2c3NHVlRjSGd3NXp2ZzJJMkNVYWh4QUVKeFBzeHdmRmppWko1Y09GQXViTjBiYlo4RmhvVzBRbTAwb0t3MVo2RmExVGFkNXVV?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-11T11:20:36.461821+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Казани 67-летнюю женщину госпитализировали после ДТП с двумя иномарками - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVkI5MWQtSWpGajN5d2tmMTI0eFZfeXB1b0ZDbmQwaF9VOUd5X29NeWJzUGVoSEpIY0FkSnI5aml1QnhzNlYtbFhvbFVBLUVwMzF0MVFkZ3BzQVR5LXBfVlRJWjd2U1Uxc09mOTdKQVFfbUtDa0ZGTl9iV05weVRCbHVsWHBjaHBDQ1dQY2NvLVlUZGplOHQ2eGNEMmxaLTlYMHZUaHdZWDBwZ3hpeFBSMWpjQzBDTDJla1dN?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Засушенная» кампания 2026-го: как партии и кандидаты «вербуют» избирателей в Татарстане? - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6QXdBanJOREd5T1R3TFhTamRILVNlbHY5eDI1cm5BcFR0Rklac1ZBWEJJSmNoUlA1dVdRNjJTNjlPdDYzZzRUSzJZRlV2VDh4OUk5R21iVzI?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Google выпустила приложение Gemini для Windows - 3DNews",
-        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9pSXlHZ3Z5MUxDT2ttRTlzenNGZWRrNUFHY3RfRVdtZmhBeWJCZl9ZbUk2Q25ZQ2JGZDJpaU9n?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-11T12:26:28.636571+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Засушенная» кампания 2026-го: как партии и кандидаты «вербуют» избирателей в Татарстане? - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6QXdBanJOREd5T1R3TFhTamRILVNlbHY5eDI1cm5BcFR0Rklac1ZBWEJJSmNoUlA1dVdRNjJTNjlPdDYzZzRUSzJZRlV2VDh4OUk5R21iVzLSAVNBVV95cUxQa05Wd1dIOFhmOVNDU05nRjdqa2pJTlJKb0RNbmxqTXlzbTREdTZIY3JpTXI2S0ZJb05GQTN3cks4MTAwdUluVGgwd2F4Vlc4MXVHTQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Google выпустила приложение Gemini для Windows - 3DNews",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80TGV2NUp5VVZKNi15aE1fUmtmR3NvSkEtX1NPSUhPVnQwNDd4cVFDTDhNNEJaSVRhYXNnVTQ4X21Jbzl2WjdWZGNkTGd6YnI4dUdVeTlVaVFOeFBvZGxJTmFDc0J0ZFFJN2E5OWZzX1pkZzBZVzBzSXVhdFFsZ9IBgwFBVV95cUxPSHB2WW9yZGtJSlVKVzNYcEFIbXZNOUV4ZTQ1Z0FqSzFiSEZsdFlYMDE4Rk5lM09aeUlJM1A1elRzWWk4ZldBOWZfaVpvMG1DQVFDOEJha1FQdkQ3NFJYbEdRN3REX244dGlUQjRLbWtVSHV1VG43V2Uxa2tXQzU2eUZyOA?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-11T13:21:34.152047+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Чиновники предложили запретить россиянам удалять со смартфонов ИИ-агента «Яндекса» со шпионским функционалом - Русская служба The Moscow Times",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRHhWWmxmeEVObmlnQU9uNlBJSUlncFE0ZnlLSmRIRzN6eVNZV2V6SlJkZk5GbFlIRmRNanlVeXZWQ2QzVDJSaHliUnlsV1pmX25UeWtVR1VZOTdjMjJmLXdOYWs1S0hEWVpHZEZvQWpfQVVhUk5GZEd1S3puLXNWUTNlcDV3N0huS2pOZ2tjVEtGVjRZNnp3em9mcDh3NkhxTW4zYkZBS0VEb29SZFRmMTF5QUMyblRvdXQ1RXpUTGY3OG1ydWk5S2FzUGpTQkhuaHpNU3VjenAxR1RmOEJwWUNrSHNEbWtkb1lTTUUyVnVodw?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-11T14:21:37.910153+00:00",
     "sent": true,
     "items": [
@@ -7337,5 +7226,10 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMEFkVGt5aFJCM04tNzExTm9KZWc0Z0VUX0x6QnZReHBfcmY2cE1LR0FMSFppcFRJbVF1TnNyeHVXclNySk5wOFhqRGFHamNCRjJNYVFUOWRYMWFyNUNBd04wc2ZMb2ZVLVoyaS1BdmVabGtScE4xLV94NW9aTktCQjZqUm8wNWVGMUc1d1RDTDU1S3V2UWtDQnUwenFmcFRMRTNRSld1WEc1d1ZKTnR6SnR3Zzl3Z9IBuwFBVV95cUxOVkZYY2xhYWpPaFNFbmlQdGhLZGxsMFBSTGhaSVV4b3JHdFEwZEg5dEtVTEphUGRvR2lXNHFsenlQUWtXVHhvY3BDUE9WNEE4ejlMMUpQU2MwcExOdHVfVnpXam40aE5vbF9IUGtVSmVtc3kxWjNZVlBfX2h0NEpMa25QcXBqM0NGOVBEeE9FTHlXNFFBaXJOdDQ5QXVIbVcwc0hqRzd0MVduSHVJaTctalQtNGdIQmFJcWZ3?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-11T13:58:16.815804+00:00",
+    "sent": false,
+    "items": []
   }
 ]
