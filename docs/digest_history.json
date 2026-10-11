@@ -1,47 +1,5 @@
 [
   {
-    "run_at": "2026-09-11T01:19:36.538437+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic gives EU access to Mythos months after model’s release - The Star",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORTZHUExmd2ZqTTUyRE5XUjVlT29nbng5Q1gtUTFVYV84MmFrd3BWc0t0anZwX2JSNHRONEhrNk9xTEhrcjlCYXA4akhZa0YwLXdjOGVLVTFaNEM3dk4zcTBIdGpGek5pa1Q4dnpWaTdNWk1vRmlUUl9fbHZKcmRjTTJKbXBwR1oxMndZR0Vsd1hORVl5bHFoVl9xeXRxN1RyTExFTXlnQURleUFSZkJWTlowWlNGS2c?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-11T02:21:13.072795+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-11T03:20:56.735958+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-11T04:22:10.160274+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-11T05:19:50.322841+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-11T06:26:02.934726+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Врачи РКОД удалили редчайшую опухоль, занявшую всю брюшную полость пациентки - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSVgwZklKTVBBMG9udGIxYWMtNy05czltMHhDOFh4MWNSQnVfRGhISnBZSk1fNFB3azZvWmZ4T1ppLXRsZFFiZEh1TlhjYTBvYTZfbGMwbEoyczBlUkJiTkRUUUhVbnk2d2sxZWgta2YtUVZha3NVbDFsdzVPWVBYSElLTld6NmlCa1J0ZURoelBkcUx0V1lrcTBnLWdSLXFzRFc1c19qSmQ5cUFpMGNGX1Jhck1melVHOHBNcw?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-11T07:21:23.402046+00:00",
     "sent": true,
     "items": [
@@ -7368,5 +7326,16 @@
     "run_at": "2026-10-11T00:54:29.519186+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-11T07:04:43.984611+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Сводки СВО, 11 октября, главное: Ракетный удар по Киеву и бомбовый по Орехову - Рамблер",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMEFkVGt5aFJCM04tNzExTm9KZWc0Z0VUX0x6QnZReHBfcmY2cE1LR0FMSFppcFRJbVF1TnNyeHVXclNySk5wOFhqRGFHamNCRjJNYVFUOWRYMWFyNUNBd04wc2ZMb2ZVLVoyaS1BdmVabGtScE4xLV94NW9aTktCQjZqUm8wNWVGMUc1d1RDTDU1S3V2UWtDQnUwenFmcFRMRTNRSld1WEc1d1ZKTnR6SnR3Zzl3Z9IBuwFBVV95cUxOVkZYY2xhYWpPaFNFbmlQdGhLZGxsMFBSTGhaSVV4b3JHdFEwZEg5dEtVTEphUGRvR2lXNHFsenlQUWtXVHhvY3BDUE9WNEE4ejlMMUpQU2MwcExOdHVfVnpXam40aE5vbF9IUGtVSmVtc3kxWjNZVlBfX2h0NEpMa25QcXBqM0NGOVBEeE9FTHlXNFFBaXJOdDQ5QXVIbVcwc0hqRzd0MVduSHVJaTctalQtNGdIQmFJcWZ3?oc=5"
+      }
+    ]
   }
 ]

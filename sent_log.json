@@ -1,20 +1,5 @@
 [
   {
-    "id": "c2862cc5a899f174",
-    "title": "Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices - SiliconANGLE",
-    "sent_at": "2026-10-07T23:00:58.728231+00:00"
-  },
-  {
-    "id": "714779fde4ccdff7",
-    "title": "Anthropic opens cyber program applications, releases cheaper Haiku - TechTarget",
-    "sent_at": "2026-10-07T23:00:58.728231+00:00"
-  },
-  {
-    "id": "a10095695312825f",
-    "title": "OpenAI releases progress on more than 300 math research problems, stunning humans - The Washington Post",
-    "sent_at": "2026-10-08T02:39:41.474990+00:00"
-  },
-  {
     "id": "fcfc63aa2ff0c667",
     "title": "Московский суд запретил генерировать обнаженные фото россиян с помощью ИИ - Newslab.ru",
     "sent_at": "2026-10-08T10:25:58.001753+00:00"
@@ -88,5 +73,10 @@
     "id": "babc5fc304d4e046",
     "title": "Microsoft выпустила ИИ, который выбирает варианты и не разговаривает - Runet.news",
     "sent_at": "2026-10-10T17:47:40.680480+00:00"
+  },
+  {
+    "id": "4ca40ca969a1b80c",
+    "title": "Сводки СВО, 11 октября, главное: Ракетный удар по Киеву и бомбовый по Орехову - Рамблер",
+    "sent_at": "2026-10-11T07:04:43.984611+00:00"
   }
 ]
