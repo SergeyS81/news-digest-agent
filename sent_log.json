@@ -1,45 +1,5 @@
 [
   {
-    "id": "fcfc63aa2ff0c667",
-    "title": "Московский суд запретил генерировать обнаженные фото россиян с помощью ИИ - Newslab.ru",
-    "sent_at": "2026-10-08T10:25:58.001753+00:00"
-  },
-  {
-    "id": "5c59654197bff06a",
-    "title": "РКН призвал СМИ давать данные из официальных источников по ситуации в Иркутске - Татар-информ",
-    "sent_at": "2026-10-08T17:50:20.688104+00:00"
-  },
-  {
-    "id": "ad5cfd58b5c30eaf",
-    "title": "Anthropic запретила жестокое обращение с чат-ботом Claude: что известно о новых правилах - RTVI",
-    "sent_at": "2026-10-08T23:16:38.497782+00:00"
-  },
-  {
-    "id": "83618b77a2469000",
-    "title": "‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release - The New York Times",
-    "sent_at": "2026-10-08T23:16:38.497782+00:00"
-  },
-  {
-    "id": "2b032470fcb6bc3a",
-    "title": "Anthropic releases Claude Haiku 5.5 with lower AI pricing | ETIH EdTech News - EdTech Innovation Hub",
-    "sent_at": "2026-10-08T23:16:38.497782+00:00"
-  },
-  {
-    "id": "ff3d3cb817d968a5",
-    "title": "AI Gone Wild: Netflix to release documentary on Hugging Face attack by OpenAI agents - Manila Bulletin",
-    "sent_at": "2026-10-08T23:16:38.497782+00:00"
-  },
-  {
-    "id": "6cd01f1d644010e1",
-    "title": "«Он должен закрепиться, а не уезжать»: как в РТ решают проблему нехватки врачей - Татар-информ",
-    "sent_at": "2026-10-09T05:59:16.163016+00:00"
-  },
-  {
-    "id": "518a1ab6c3f19987",
-    "title": "Пользователям Claude запретили оскорблять нейросеть - Сноб",
-    "sent_at": "2026-10-09T05:59:16.163016+00:00"
-  },
-  {
     "id": "a39717726d9c1bfc",
     "title": "OpenAI Paused The Release Of Its Latest Models Over Safety Concerns. But an Expert is Also Warning Against a Slowdown. - International Business Times",
     "sent_at": "2026-10-09T23:58:51.465443+00:00"
@@ -78,5 +38,10 @@
     "id": "4ca40ca969a1b80c",
     "title": "Сводки СВО, 11 октября, главное: Ракетный удар по Киеву и бомбовый по Орехову - Рамблер",
     "sent_at": "2026-10-11T07:04:43.984611+00:00"
+  },
+  {
+    "id": "0c5ad4ca8a22025e",
+    "title": "Кабмин утвердил нагрудный знак «Почетный донор Республики Татарстан» - Татар-информ",
+    "sent_at": "2026-10-12T10:38:22.425171+00:00"
   }
 ]

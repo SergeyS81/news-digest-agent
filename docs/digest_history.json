@@ -1,84 +1,5 @@
 [
   {
-    "run_at": "2026-09-12T02:20:42.782880+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-12T03:20:00.836655+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-12T04:20:05.890269+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-12T05:19:11.449819+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Анастасия Гизатова: «Россияне традиционно ждут экономических сюрпризов под Новый год и перед выборами» - business-gazeta.ru",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0NUtldExKWEtmRnlYRUdzWGlQMUFLY1B6OWRDQlloLWRDdHVta3FIVDM5eHJZYjd6U1FOVjh3MzRYOU8xYkxLN3EzaUJLQ1MwcUxVVnNSdDbSAVNBVV95cUxPRzFHNFpNSnQ2clRvU0hHTFJRanozOU10c2xiM1VMWmRlNlBnRzF3V0NKU2x1aUdyY25Oc2JGOHIzX0w5Y3JvUFl5T29PUmVCZFBBYw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-12T06:24:19.751034+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-12T07:18:24.718038+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Группа из 25 лауреатов Филдсовской премии выпустила обращение о вреде ИИ - Life.ru",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWdDR1N1N2xFR0tMNGFwSnZ5UERWSlRmeXJkdmxwNFdhWkRGZzNfakhmMWl1em1ETnF3UUZHLTE0bXQ0dGpLT0FpWllCOHZnU19NWGt1VDVCaldvSklkYXZ3TFd5TUt6YlE3NmRJa3JFTldrVXRMV0FYMVZjaWlabXphWXF4a1l4QWhYZU9PY1NzUFZMQTQ0?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-12T08:20:30.928328+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-12T09:19:35.023048+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "За два месяца до скандального взлома Hugging Face ИИ-агенты OpenAI атаковали RubyGems - 3DNews",
-        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9RSnJ6amtVdW14TU9lQ2RwQ2oyRWdIck5fQnRjOWhoVzVLajRTYTJrSGk4ZzFtZlRNdW5IU1Rn0gG2AUFVX3lxTE1zR2dkcXE1NGV5cExIREN5S0NwY0tMdGZJUWJuQmt3UWVKRjRiMFBER0paMXJYRTBrbmMzRE9DZnp3aVJqYkVfd0dPVTFSXzNMeVFRXzlXbEJic3NXYmhyYmZNcW5nYnlwOUhjdTFCVklYTWdhZWx1MGZfdFF2UVA1RFdyTUh0ZGJ3YVA3WkR6TjBJR0loYVljZkx1NUhFaXFUVHVBcnFjSjlOMGxiZ2ZWTnlPMWx3?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Минпросвещения запретило младшеклассникам пользоваться ИИ - Рамблер",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVFCM3VzR1dIQjJaRUk3eWJrb2tBYm5iWEktVGpTdUVKaE5zRTh5a1pZNHZTLXd4NjloV2ZjS010LTJfSUJkUzgtUVZRR2VEcVFITHB5a3Rmekt4R2tZSmw2UWxXZkxkcG9CWnZZZTNXOWlYSkxKUWNENmRCaUNaVkVfdWlna1hQZnhZbVBfTjVPcDhpN2xnWGE3QWNiUGho0gGmAUFVX3lxTE5xX0JHZDI1d3IySWl3dUUxMDAtMTZjZ3NRT3RkOUlqWkpFcWctTXIydnZSaEpLWUZxeHlUemZlSXNmdkdQdWVzRzFRWWN4TkMzLTRtUjRFbTVTMERCakFiMC1VMDZycGxmWEJvejNyQ0luSVpwZDhQR1BQYmtYRlRYT3JUYW52cDFIWVVnQXFyN1R5OWhOZzlzUm9ZUkFraFV6aTRSYmc?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-12T10:19:13.632360+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Водителя электровелосипеда госпитализировали после ДТП с иномаркой в Казани - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORERvS2pMcHE2Q0hrTHBVd2o4Q1RPYzR4Z2QzWlhkOXV3WjEtXzdIaFVjVThJOGliX092WGZVNmI4WF9kajZOVGlTa0VzbnBPd3lJOHdGR3hGaTJzYTJxUGt6clNiWEJpWGVwWjVuaE01QWtmcnZKUWRUY2dUSHZDRGt4OFl6dkdaNWlEYWUxY3Jia3JKOUMtOVRaLXozNDVEY0hNcl9KTVltNkhJa3JkaWNsZ2UwTUdo?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Рой агентов OpenAI взломал еще один внешний сервис – RubyGems - Smart-Lab",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DaUQ0UlF0YW9rSUY4ZElzeEFib3FkbXhtZGYyTFVMQ1JObjB1eE9vLW4tcUtUNXVLWkJ2ek9WVTlMS2dsT0x5RVFzckhudw?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-12T11:18:38.493839+00:00",
     "sent": true,
     "items": [
@@ -7156,5 +7077,16 @@
     "run_at": "2026-10-12T02:17:55.870439+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-12T10:38:22.425171+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Кабмин утвердил нагрудный знак «Почетный донор Республики Татарстан» - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1FTLWpGMDBOMnRiR1F4dXNfdXBHeHhRRG0xZFZNYVJHbERiazVyYVdjNmF1WDRWUXZnTVFmQ01fUGN0dXN0cnZTQmNmVlFCWXVGdGdzbzdQSzZPdlRzVXdJYXhoaGlwa2p1WmxacldDaDh0cHMyR2ZPc1pRaElNNVhfZC05Y1MyZjB5MkJhd2NJTnZYTktGZ2ptbkJkRnY4b2NkUDRLRVRxcWM?oc=5"
+      }
+    ]
   }
 ]
