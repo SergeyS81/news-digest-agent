@@ -1,96 +1,5 @@
 [
   {
-    "run_at": "2026-09-13T03:20:31.468436+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-13T05:18:52.480073+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "При атаке БПЛА на Нижнекамск погибли двое человек - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYVB0a0JiZTlLU0djanlRZmVXNjlWMEdYZTJuSXNiZmRONjVGVUlKMHFpSWtEckJhdmdBemhubUdMd1FVdG8wZmUyY2xuSmFONjA4N3Bjd0Uxdnl5YnM1UDh1MGpCaGFXU2IwMlFOcDFMOGhwNDJNSzBGaEw1cFZxVHRWMUFhQzdjN3dJUFNjQnNrRHFm?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-13T06:29:04.780839+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Беляев об ударе БПЛА: Это большая трагедия для всего Нижнекамска - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM21Udm5ZV3lIaFVhZjM1Q2VqSUQybjIyaXNrdTZiTnBBNzIteDhRWmQ3djVHdXQwYmh5Z1ZKSWRQM2o1TldYbXFBWmYyWEdfdlQ2eHZVaDVxR2U1dDFncDBPMHlxcGVSektHeGFHOTllRlh4NVNqTDYzTF9ldm8wVV8zeTdwMjAzRndrUzZQMjdNZkY5NDZ0WXpJQWJnbFAwX2VXTlR1RXl6TDg?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-13T07:19:15.566020+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Ушаков: ОАЭ подтвердили Москве готовность принять переговоры по Украине - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ka0FOcDhqLWgyTWVwSHlIME1EUXhPVEgxRU11OFZMbHNnMlI0c1FKRUtzSTJNZUdoTUU5RXZMNWJLdjgyZ21KVmhRS1RiX2xaRWtUX9IBU0FVX3lxTE9iSGdTVkZXSFJZT1JPN2o3WFZZSWNSV0RqVmVvWjh2YjlZM1gtbDZ3RnozakNrRDhENkEtblVvNjBGV2trMkxyVlF4VHlaQ0hnSE9j?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-13T08:21:13.675379+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Мэр Нижнекамска навестил в больнице пострадавших в результате удара БПЛА - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeGNYMEhCaWZvTjhYdXhtLU9kOENxc1N5TGFqWTV2cmQzY1BtQUdKcTdGWi1DZVJQUk92UTZjZzdQT1duTXhURVRBWk5mRWNKZ0dSbTQwaV9EQkNUSGVETWVmdFVOOWNlVXdoem5mV0FKUXdRUXktN2VfZzA3YlFzWHJMemszRGM5LVA2NmRPZG9hbzhvTUFXQlZzNlBaMVlrNlgyWTRZcTIwVUtMTGN1WA?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Беляев: Трое пострадавших после атаки БПЛА остаются в больнице Нижнекамска - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53VFZaTHZFOWdOT1lfc29RLWotazJTRTcySHd5c1JSaWRHWDNFQlc2M0ZpTDljVW9hcUV2VU45amJLdWlfMFdwaDVpcnJfQUJfdGlQWNIBU0FVX3lxTE1aeXlreTdoemFWamg0NHZESk5NRUgzQTlYTVpwT1JCdnA5c0t3cnllb3Z4OThoamlzWE5BUkkwaUtFR3JXYTNTNWJQT2o4ZVlZSlNR?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-13T09:44:31.325037+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Матч «Нефтехимик» – «Адмирал» начнется с минуты молчания - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1djTjBFTGRyRXVTcGgxUEpoNGt4amM2UnhvN0Q0dEZlSHdoczhMdDExZXlPeFFIMjljNURFVWJKaXdHSy1IVGlwTnNTRmRzb0gxcTZWTmY4c1A4cnp1TWhsYzhWRnVDUWlDWks4SXZScUFuZFlJU3YyMW9FaDluTi1qc1NjSnpHazhDSUNlUWJScDEyeXZlZnpRc3Q0UQ?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Матч «Нефтехимик» — «Адмирал» начнется с минуты молчания после атаки БПЛА - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZalBnLV9sZ05XVmVjaHE2ekdwSjVkdktPODB5Z3Bhc0pkc3hrU0VaVzlCQUhxSkRsRm52aTRTblNoeGppWkN1aE14X3Q4SjlFSGdrdNIBU0FVX3lxTE9yRUo2LTZGZFRDa1Q2RlJRQTNnaUhwZGNscF9aWHVhS1pCXzgxS2Y5QThhWlVSa1ZqNG44YVpMR25lSkswb1BwM081X2J3YXpwdk5V?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-13T10:23:27.510449+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Люди спустились в укрытия, это их спасло»: что известно об атаке на Нижнекамск - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV2QwVlgyd2JlOHRqZGlFWmJpdTVrZUVBbi05eDF5X3F5N0J0UTJmRlRKZHlEblc2bUt3OEVyblptdUIxaDJOWDhXSnQ2bll3OEVLYnUyenE0OTFhVURoNkV5SG5Wa015Q3U4b2FuSUs4ZklhVnZyM3dBMC1VX01zWTF5dXBjdGptNjZDYWNFQUJ5RVdSSVRid1FDM1M5dDR1QU1QelFZem94cnV2Q01FdUVnMzhqRDQx?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Казанский бизнесмен Адель Ягудин рассказал о своем состоянии после пожара в таунхаусе - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1veGtYbU9FN0RjNVFPTEdWMHgwOVp3R3NuaXRsOTVneTd4dVcyR3N4UF9XaUZLd3RIZ0RRekx4bzNwZmZNbkNYazE2ZFB3OUJqQ3hqUtIBU0FVX3lxTFBUelBVcGRCOHJWS0M5U0ZGYU9VUllBX1FaSzJBc0NJUGJjc0NlcUhIY0hOT1gyR0pqLTZhMzJUdkdKOXM1di11VUszQzhrT1dQTjQw?oc=5"
-      },
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "В Кремле допустили, что новые переговоры по Украине состоятся в октябре - Европейско-Азиатские Новости",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDUtY2NPMTI1emV6MjBFWURKMzJmcE10TUhYbkNkakRrcnE5TU9qZGlTelpYRU9kU05QeTVuUVY2dEZsYV90UnBJSld6ankxT1ozVHAwLTZxZnc1NEx6bVAwY1BOUlY5eHlueVV4MWtSWnBXeTY1dmw1eVV1VHQ0dEo3ZXFIR3BUdjN0LV9fcVh3WTczVTJQVXdsNnRaMjJ5VklTd00tRUJ0QjJiaFcxTWZaRkhNdw?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-13T11:19:08.195087+00:00",
     "sent": true,
     "items": [
@@ -6978,5 +6887,21 @@
     "run_at": "2026-10-13T02:32:07.967857+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-13T10:26:01.244963+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "После гибели девочки в РТ в пожаре из-за вспыхнувшего роутера возбудили дело - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3lHQnlVV2xiTXFScmhmRXczamZKbldSSDhFU3A2ODNXMEpycHdKWXliSG43a2ZzeFYtZEx0UlJCSkNueXZhTFJBclZQX1J1LUp4QzhpWC1nY1RrWlBvaUZnR05uZW0tVk14NDA0Y1pFNjdrUUhTcWlSY0hIaUZnQ29XMGtoUjBMTFRLa0sxdGVEU0E2c0FRUmRRemhCS1d0cG80aXpRODNDX1kzcVlzMGE2S0g5WTdH?oc=5"
+      },
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "⚡️США И ЕВРОПА ГОТОВЯТ МИРНОЕ СОГЛАШЕНИЕ ПО УКРАИНЕ - Smart-Lab",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wdmxPX2ZuS2o3N2NkcVB4T2Ywa1pxbFl0bF9iaEZwZ0lwV2NmbXdxVFdqMlE0VHFmUGRkVkVia1RUQVFRWnZrTUhoc1EwUQ?oc=5"
+      }
+    ]
   }
 ]
