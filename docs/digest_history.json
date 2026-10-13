@@ -1,46 +1,5 @@
 [
   {
-    "run_at": "2026-09-12T20:20:24.311130+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-12T21:20:13.430774+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-12T22:19:00.904372+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-12T23:18:57.316145+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-13T00:28:13.452344+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-13T01:18:35.463200+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение и прорывные мед. технологии",
-        "title": "Прорыв в лечении бесплодия. - Vietnam.vn",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkVjcwcGVBVkd2TG9CTWV4T3owbXBLQ2tUOG1USW12akNHejRUT2VNeU9Cd21iQi1DNFpFbHNVMEZKbGJFRDlaRHppRV9WVENJVVhIckktNEtzWFNGNV9VeVpFdGMybW1DbmlBUmYxQXRRV2VH?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-13T02:20:13.415202+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-13T03:20:31.468436+00:00",
     "sent": false,
     "items": []
@@ -7012,6 +6971,11 @@
   },
   {
     "run_at": "2026-10-12T20:14:31.088194+00:00",
+    "sent": false,
+    "items": []
+  },
+  {
+    "run_at": "2026-10-13T02:32:07.967857+00:00",
     "sent": false,
     "items": []
   }
