@@ -1,31 +1,5 @@
 [
   {
-    "run_at": "2026-09-14T19:21:19.402088+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Microsoft выпустила свод ограничений для ИИ после идеи Anthropic замедлить разработку - Oninvest",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0ZTajRqR2tfYUFTcnpiRHByNkFkT014VVdheGFVQVlXR3ZNRWhENW0yVldvNV82b0h2cTVZZEIwbnlzWTBMMVlYTlI0amkxVWstaHhlc3JVSUVfTHp5UFNFeF9EQmpVS3VPS1YtVTV1THc1Qnc3dXNCNlpXamJ3b0ZJUEM3WWZKNko3ZkVMQ0U5ZHVhWVpjOThHWF9iNU5ETkRjbk14LWc4eEtjZThYM0FkNA?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-14T20:20:55.930110+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-14T21:20:00.840863+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-14T22:21:35.079859+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-14T23:18:42.594506+00:00",
     "sent": false,
     "items": []
@@ -6563,6 +6537,11 @@
   },
   {
     "run_at": "2026-10-14T19:18:45.542369+00:00",
+    "sent": false,
+    "items": []
+  },
+  {
+    "run_at": "2026-10-14T23:08:58.205133+00:00",
     "sent": false,
     "items": []
   }
