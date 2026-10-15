@@ -1,115 +1,5 @@
 [
   {
-    "run_at": "2026-09-15T10:21:50.159468+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Лилия Биктимирова провела 17 дней в больнице из-за обострения грыжи - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZHVyTE5RZ1lqaEI3ZThJZ2d4R25BSVJTYjdWOGtCd1RxTlJaTFBVTkdHNXhwZ25WZDBqcHF1X0RLdS11R1ZiaEhic3QxcnZXWl9kNnBieVkxTEMtR1dzV0pZRTJ0R1ZWMXk4eTdhTG1QaS00SHBvaGpDWFlnTXJDNHVJRWQ5ODFkSXVoLU9faVE2S3JWNGtvWk9yZjNkYm5kS2NoWnRydHFZZlNoX2c?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Материалы за сегодня — последние новости - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04WktJcFVrTmJfckxHLWMyUDNhY08wQjJ4a2ZGNkNfaWFGS1NEUzBEYVlkek1IOUhCRkxXS3U5NzYtNnlyS05pTEVKRlR1V3EzZXJrdW9LWFJtSkxfS2c?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-15T11:20:32.337936+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Энергетическое перемирие между Украиной и Россией: что известно о \"сделке\", которую преждевременно анонсировал Трамп - 24 Канал",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc09vbWJxSjVzQUVNbHNOSW5JbEpVOWRmSlgzVVluMmI2MWYwc2xUYTNuT29BQWVvNDZpRVJpV1JjQUtieHpGN3hISU05aVI5Qy1UQ1JEY2dRZmpneEt0ZWF4ZHBMeG90UHBVVjdvZHpfLVNfNXdyREtmanJKWVdkOF9uazd1VGtSeWFXRlc4SkszMlg20gGaAUFVX3lxTFBzYWU1blN6VEFnWTVJX3VacEVtNHROdHU0TG9KMFJXcU9jN0xVZGFsMmd2c2IxNzlsaWl2U01QSTVfM2NUYkFsdnhINEI2YS10bllUZXhEVkY4MThZVVY5RUhQaDZtUWdKVXNjbkIwcHlkU1lKdHY2cy05NUZvU3kzMGhLaS1kOHZNTWdoM29jWWNxNGk1Nmd0alE?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-15T12:25:48.970033+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Хирурги РКБ удалили у жительницы РТ опухоль размером с человеческую голову - kaibicy.ru",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamFDSHlpMG91NzJud3ppQVdZYnlhakx6aVdaWlNiTE41TmsyOEFEbDMteGNjZzFrTF9CT24zN0NtdWt4WDJFaUlhQ2lnSk1ZMENCYXBNQmIxNzdTQzlmMXlub1d1Z1BOM3pKQVpoSnVmbVRQM0RuUFVra09FblpJSnNHYUlLTXFZQnA0cUpwVzNUYWRQMWVScDNqSU5sTEhGVXZnR2d2RQ?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Хирурги РКБ удалили у жительницы РТ опухоль размером с человеческую голову - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2RCWmtxY2taUjUzenhzMXBobFp0SkxaLWE3TzF3TzhYSnJFWWNfUG1DY09OUlZVTF9UdlY4MU8xdVBPTkljaGpqU0dGaXVZS0NaQTJHLTNrOXpGd3pIYS05T1hGNng4X0QxZzlweXVQd3FRQ0J1dnRQTjdvSGpRY1FLTnNadkE1V2hlZEp5ZkJ0V2dhelBFTmdKd0R4XzBkQl9ULUF2dnVOaFk4bG1pVXZCdm8?oc=5"
-      },
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Переговоры Лукашенко со спецпосланником Трампа продлились три часа - Life.ru",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTlidU9CY0xBd1BuNkcxUXlfT0V3NlZQM3dIMEFmX2pCTk9XZXhjVTZ1NDNUZ3hwTi1tVXNkX3ltbzFodnBrRVA2dFBWcUFwNExNQkNlc3FvU29ZamRfTnpzc0RDVzdFUnQzZk1vbVBCZVQydmY3djhBb3A4Z0s1TEE1UlFLcXZYaVkzemZsRQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Более 750 тыс татарстанцев установили самозапрет на кредиты - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMlVTZ045TWtndVZGbkFCQWtjVXU3OUQyeXFmeXJpVHhaTEJjaTNJMFJfV0ExWFhEVV92b3NFdjY1UHFfelBwemxQcUttX1pyU3gyRm02aFlSamdvTXRnb3dqNmR4Z1VmaTg2ZUxJcExJMVIxUnBfeFVvWHVlVFJjcWMwRW1DeGU3TkVyV3l3Z2x5QmxYcG54eEpOZWo1TDJQeWc?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-15T13:22:31.878833+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Хирурги РКБ Татарстана удалили пациентке опухоль размером с человеческую голову - Чистополь-информ",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVUR5WTh5Z3FCVXZYLWthbUpnNklSUmlfbkMxYUQ0d1RKUHVSMVVUNWlPQ2gtU0JIaUFRN0FXM3FvSmdFZU11XzIwYTRBeWVBdWFQU2Q5dFFyd3lHbFE4UDM4ZFpFeGNkUVdRR3lTVFRHVVJIMWY4aEdra0lDVDMtZjNtQWJWVXJUcW5hNldLYm5tZUp0a3otYXdjVkdKVlVOWHc4aFQ5Ynpud3pLZW5xM29QZmhEVllnM0NleFJzbzVHdw?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В РКБ врачи удалили пациентке образование, притворившееся раковой опухолью - Телеканал ТНВ Татарстан",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGJEajB6LUczSGxtT0oxNkZPZWlvQ29yMXNRMDhUREw2MFR5QzhxaExiRnNxWV9yWFg5SVdFek9hSnNCNUpYYVFrRm80aWs2OUxSVDhyaDhocjFiSzZ4VjBiOXhRajNyc3hnbFkwSlN1MzBIVjdDLUx5MER6S0RIaUlhMEM5X1FaZ2JJbjFQYmg4REs3eFFBWlpESTJzTzRoeGZVNV9SOXFHakt6dHBoVXBsa0kxWmM?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Врачи РКБ Татарстана удалили у жительницы Нижнекамска опухоль размером с человеческую голову - НТР 24",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdVVqaHk5SUhIX3FKcXZvMDloeE5FNDFiZnhrRFM3ek54cVV0X0JTRjFtRjlpd2xPZS00QlM5aGNuZUxjR3FsUkQ4azVBMEx5YXd1ZnFVdEM1VXEtY3ZNeGJBM0FWeV9nNHF6a1ppY1hXOGc4RV9GUDdsWWVJQjUzZl9pMG5UeVZHNGlpOWhfTk8wT2RTWHZSSFZzOXJCVnpyR1hfR3Z6UmVLUXlwZHBqQlRiRW5saXV0R3R6YzZtOGhHb3ZNZFE?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Хирурги РКБ удалили у женщины образование размером с голову - zur-kazan.ru",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc3QtM0JFY19oS1lpMkREeWg2NWtXUkxwYjNYR2VoMnMxYTJpdU40SGFIWE5MaE9SZEVRTktEcTE3Z0lXeXBNZWtxQ2wteFdua2FUZlU5LVl3ck1LZWZXaU50WGVqUmk3N09nRHI1VVVBWFFtclRpdjgwSTV5NTRwYVZzTkNoejhfMEZFdjdMYXhQMU4xbGlmZWtVX0VGTU9DVnkxOHlFYw?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Наблюдатели из стран СНГ будут следить за голосованием на выборах в Татарстане - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMUxuZFd1NjNzWWh5cTdTM3p1MHVyMFNxSTNWMF9FYWZtRDc0UWU3aU9NaGhQSGZfRFl3VFlfdG9yQ0dqYzZrdlAxcHlVMzcwaVRjWUV2TzduSWJDaGJnV2JKU3N3dUtiY2tvSEl0ZXc3NjlzamlrdDlmamx2ZGpQWFhoOGJLVWNZZjhMTmJxUGwxOGJEVXhGNXk2cjNQUU1iaW5zX0xKRU5RNFVEYlliMDhZTzZXWE1pS2lN?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Более 2,2 тыс. резервных участков для голосования на выборах определено в РТ - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYkxybGxIa2p5NFg2SVlkRHEtVE1lVnMzQ0pPaFRTYjZ3V1doRno0cjFBZmxtektRb0RzaUtUdXdjbE5GUmt5djdNWndCT1NXSDN4WE1VMDJuZzN6MDBYY1RYYmFTRlVBWkNwS2FabmxzM3B6aG5fYTJjZGxZQUtUOHlvZTlzaVhwQWhRRVkyNWRDNjU2ZFNpWXNIbHQ5OUVjYlZVMzE0bU1PN2pueXAxU25JWnhVNGtF?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Резервные участки и наблюдатели стран СНГ: как Татарстан подготовился к выборам - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb2FCbHhUaDRZVVpGbWtKdmRvWW9JUnIwdlFEZ09TejVZQkd3T1VTNV9BQk9KVmNfSW5fSHg3eS1kNVBhU1JSc2JWaVdvRUlYUEdrdzJZZVhlaElJS3h1WVF6aFc2MjVGTFU4MFBjY05UanVYT0xFTTJDSUh0TkwzcE14R044SHlfdmlMd2xpX1pBYUlta1BBV2JwWG9SSWwybnhSXzVjdnc1WmwtSW1aNVpJSTlaSUNyNnVRRGNn?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-15T14:22:12.072724+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Хирурги РКБ Татарстана удалили женщине опухоль размером с человеческую голову - Radio1.ru",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPczRFOGtNUUhYR2RFUFZldEJYcEN6VU5UOFAwbDBRMV9qNnh5cW9UR2l6ejNkeUFOMGpNVXdsZW5kck1GY3VjNUFfVDRnWVRjdjExV1JRRFp1Wm1ZNzZaYlVDOUNnNDVNMXJlVXh2dVVBY2ctNk5qQl83M2RiY2YzVnI2REdldTBqS1d6dklUZ1VEMEY4T3p3NEgzZ2pENkVfNzRwd21Zb3ZwOC1MN1dZQ1hURV9UM0tMaUhJdGZyU2g?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic Releases Claude for Financial Advisors - thinkadvisor.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcnh3V2VoaW1PeWNqakxfdVloaWJZSmMyeEN0WFRValRXU2FPRTQwUkwwaS1WdmFEOWxQR3o0WlR6TTVBUEJQNi1XRzAxMkVpYXhNeGNMVEtsbHFRSkRMeEZkS2hnOXdpVjhfdWdHdWNQMnNQRzNEeG9kRkd0SURQb01KYkRwXy1PRHU3N3JrRVY1Mjg?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-15T15:20:40.711932+00:00",
     "sent": true,
     "items": [
@@ -6454,6 +6344,22 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Отечественные ИИ чипы, скоро прорыв, 2030 год - Smart-lab",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12VjVIaWJrcHBTejFHYnBfYzN2NU1wcXAycTVJRUoycTAxYWo0V0M4alZtX0dMNFV1YWFVZTFUcE5sblJINUl2emZha1VpZw?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-15T14:54:40.727031+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Не за деньгами, а чтобы спасти жизнь»: эксперты о донорах в Татарстане - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGlNQkFVWjlqWERPblZyeUl5ZG5xSjgyWjl4dDh6cXF1NDIyWXpJQTVTYjVhQWNVSVhtYjEyYlBwRzJZMjFKSUZoYW5hWHAyNTNZTE1adFRTTEdqN3RRYjhWUERKQkluTkRBeUFkOXZnV205eEh3TFBHQk5sNXVWRTE0ZWZ2SGpIel9sdTZpcUE1WWZxY0d2R0p1Si1lVUVhVF9pZklKN1k4UQ?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Свыше 10 тыс. пациенток поликлиник Альметьевска прошли маммографию - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdG1RQXdyQmt6NVc1bFNPa0lOZWZENm9acmVlV3duVG5NOU1FY2h6YzVFNkRtSmFvUEp2bFZUQ0lMY2g0bGZBZTNfc2pPSGtDZlJvb2dsYTVwdy1SUUZndGFHd3BSZ2VmLU1pb0NHS2lyR1pGUldwblpRTkRTLUFPektROHVPcUZFdXlBTXhuR0UzSXZiVnBjbnFQZTF4ZVNCX2hnZFRhbl8?oc=5"
       }
     ]
   }
