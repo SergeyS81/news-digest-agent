@@ -1,83 +1,5 @@
 [
   {
-    "run_at": "2026-09-15T05:21:56.528574+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Мы готовы к любым инфекциям»: санитарные врачи РТ о современных вызовах - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUR0RUhLUFZVMkVVaDExTWpqcWRsTFduM003azJELW0wM1pNbl9vVUd4QTM5aVh4UHl5Y0F2WFE5YkNFMVB4QmVTaUw0TG4xTU5PUVBLM041QkV6MVNvU2N5aUh5RFFVUXdPZU1kOFpkbFpVMEVkai1BTDd2ejd3UW9QTUZROTdxbFE3X2xhWUhWMkNrYmhWdUZqaUdrSjFod3NKOEFPNDd5cjlsWTR6aG1B?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Банки Татарстана растят просрочку: в среднем на 36%, а у «Ак Барса» – в 2,4 раза - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UTU1xREduS0pKdGJnaHhnNW9mM1ppakVwc3FGTEZtaHdrdVIxUHlJR2JES3QtejU5WmwyY1M3eWt3SDJpTGEwSzExTF9oaXZQRW5fWEgwTzLSAVNBVV95cUxPSDg1ZTFidlotLUk4T1VlanJrZkphM0VyYnVDV1pMeDJIOXhISDg2aGpkZU1zU1o5UWFKWnotS1ZjWkF6LXExcXlCVW9VQy1mWkZOdw?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Илья Вольфсон: «Человек не должен платить за чужую бесхозяйственность» - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWNEJwZ2xoSlB0Y1FfRTB2cm9WRng0MjV2QldFZWJtVmJrSGVYLUQ5VVVjb0w0XzZsNGZ6Tk5nQ2IzYVJXRjhGc2VEcFFrdU5JYlpIQXJ4QlPSAVNBVV95cUxORkVXdDRmRHRBZEdZRXhSbVdEVmQ3dmJiVUxBaV80ems0Z1RlTnV3bjlYbGdPbWt3UHczSEtNSFB0dW05QU55aTJvd1lzUlotSzhxMA?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Бьют по ленинским местам: за что реставратора, которому доверили Мавзолей, невзлюбили в Ульяновске - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ja0dFMmpFQjlyMi1TcEFlT3U1Y0FPaHR1cFphLU5mM0MtUmxSQ1V0M2RPbVUwVTVCZFN3OXVQNTdTNEtKSjZsMVVndXdBSnRZYTIzNXR1T2HSAVNBVV95cUxOR05KTTJRZDNnUDE1dEhLNHd4bktfSWJmLWFoc1J0dHJNbnRJU09Ka1dFbFlKUVVhZlJMQTltVjFGcG1qVkcxNldrNHdGa0xaR1M5RQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-15T06:28:05.254830+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-15T07:23:44.701154+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-15T08:24:33.245654+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Медики Татарстана спасли парня с редким синдромом после остановки сердца - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUVxSzBDQ0phWE1xYXlzZGJWajJLbkFLZlVzQzFpMVg2LWpmLUpDSE9odWlpaTBmV2tfN0dzUkxiVHhiXzBSSlllaENiNFZjS3ltT1FrTFkyNGtaU1ZKSTNmMGNra3FmVTVsQk5Qekh0SC1BZm9HYWd2NEdmLWZybFRFM0o2ekxaaTZuT3Y2QUpZbUF4TllLMllLSmRmSU0xY3NaTHVOMUstb2wxR1UzLVJ3V3M?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В РКИБ находятся 26 пациентов с кишечным отравлением, поевших в казанском кафе - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFVWenFlNlNBZ2dzcTY3STJmeGREWUs0MVV2NTlLODBEWVgzRGo0Vkk4dGttYUpQNUhIUmtsNF9TMjE5NmxPNEo1ckpYZHlRek5nSW1CRVBEaDBiVUpnaDBBSUlWMFpiWUJacGdGSzgyUk8yVWJENktPSXFJT2dzRFh3dDdaM3lENlhBSkpQdHFmTWJnSDF6UjhnZWJfSnZWUDJicUNqNEVqYUpiNGxVNEVmeUswbXJnLXJLaQ?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Многодетные семьи РТ вошли в число активных получателей выплаты на ипотеку - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHAzRVVlcS1ESW9sYUN2ZndfYm82MjduT2ZJUFVWSE5JTjdFclRZNlNRZVRnRUFhT2lINmM4LTJ6U1JTSG8wSjRGVXhZZ2NhcGdxSktPTGhoSjNpUDBIZjU0TTVSbFA5VE5rd0dCeXdEQVFCazNQM2hFNWk3SzdHNDNibC1EV25McDBBS2pzZGdPTndscVJWRDZQLVcxR2hmUlA2RmFjZ0gyNGh1NjNLWUx3SWo?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В больнице остаются 26 казанцев после массового отравления в кафе «NAN Кебаб №1» - Газета \"Республика Татарстан\"",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmI1SmExaFQ1YUV6bWdGckNRcHpoUmRmcFhDZ1Fvb3ZYU1dEQlA5ZVBFMmN4TEdRZm42Slk4VmlwMUdvWm5yMmFZMTNfRThiejZFQVNKd0ZRTlNIcnppMW5ZYnRBUWV1QUYyWmo1ZXFWZFFua1lUQUhXRkt5N2Z0VVZ0TDJfTDFPd2trT205Z1k1QXVyc3RxMHNLSG0yVHFoSlVXUVlDb2VJeC0yMzhQeTF3?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Microsoft предложила запретить ИИ обманывать людей - Sostav.ru",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeGhvZ2xVWHhzN05OXzVtVDlFbEFpWHFEbVppN3pCRDdvb3F4QnFVNGlsa2VfVjlXZmY2cDJWNUNsUVJ3S0pBbEV4OE9MT3JQdV9HYlp6WnhmM0JiQlZjRmZnbDVpR2pZU1RkeE9FZU83SC1HY3JBb05QNm1FUHNuUjZjVVNTVHQxakk1S3l5RjVySDFUbTdia2FPSQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-15T09:23:42.288185+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Apple выпустила iOS 27 с новой Siri AI - Meduza",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzazJYQ1ZLODFFQmRqS2hPNlExaTJpWUlWdFNaRzg5RjJZZnpVNGlxSEEwemJRYWZMTHNYYzFZVUJGZ25BRmo3QXVuQVVIX193UkY1bGZvVmlqdkhoSmZSMXM4bjgzZ1dETzlnLVdVMmZQeWhtclU0aV8zcmrSAYIBQVVfeXFMT0RUdlNBempsbDlvLVBub0V4cFpmQ1FRazlJcElKVTNaeWkxZWRIMGhpTlM3R2F4dmcwcDVESVNkQnJmVm5NOV9DX19lRW93YVJmWnNhTGN4Vy1oVlVMUTc2eFdxLW1BWElkS2xsSjI5dEw4QTR1QUh4dmFkek51WjhTUQ?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-15T10:21:50.159468+00:00",
     "sent": true,
     "items": [
@@ -6513,5 +6435,26 @@
     "run_at": "2026-10-15T04:27:17.485808+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-15T09:48:12.519926+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение и прорывные мед. технологии",
+        "title": "Рак, генетика и роботы-хирурги: какие медицинские прорывы меняют лечение в России - ВК Пресс",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSl9jSkNLZlJ3MXJDVHpESnplaHdQaVpvVlFxdGNGdkNpMnlPSEhpRUNlMUlWUGxBSjE1QXptRWd0T2VKX3RfaEc0VlFfb3lwalZnY0VWZElrVFVYRTJodGtDZTlVZFA3TC0zUDJlendqMk1MNXMxSHp6bDhaekk5SzVrSmlWRWRjdmM0UHhObC1IaDJzSGktOEZPT0xHMV9KWXBDMHRyVGNLN1JMSC1ucldkT0JSRWN5R1pwdnJNZ1g?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Роспотребнадзор: Более 40% заболевших пневмонией в РТ – пожилые - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mNENpR3BZWEx4YldwMkRtdEpuV1dUTzk3ZGxseXpDaVhWS1FFc3EwQVBOd2lHYTJRdGwxZzc3Wk8xMnBhaW5vcU5sbzVsSjlpbldudtIBU0FVX3lxTE02RTJqYXJDVkhGVDZ1UVpkX0l2cUVPLW9tRWdkUHROT1hydHRrYkpwTG0tVGpzNlhBUVpLNGtxd3RMYW05cXR2WWQwWDY1aExYYk5B?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Отечественные ИИ чипы, скоро прорыв, 2030 год - Smart-lab",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12VjVIaWJrcHBTejFHYnBfYzN2NU1wcXAycTVJRUoycTAxYWo0V0M4alZtX0dMNFV1YWFVZTFUcE5sblJINUl2emZha1VpZw?oc=5"
+      }
+    ]
   }
 ]
