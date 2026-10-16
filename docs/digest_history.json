@@ -1,26 +1,5 @@
 [
   {
-    "run_at": "2026-09-16T21:20:54.852850+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-16T22:19:47.485575+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-16T23:19:26.309282+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI releases framework to track model misalignment - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ09uWFd0WmUtWloyeENhUWp5NFJiNVF6REhDTUE2ZHZETW5DLUkyRG5QNDhfb0pvVWd5TkVLUEh0WnVja3dxMWJuU2ItSmRQLWM1bFJwN3RmdG03OWRhTXhzejQ2RHpBOTZ4d3hzQXdXOVNycjliMmlRSWhvOUF4NkpkVXVLcnZ2MThmTXpXMlJhQzVZQ0ZkWVAwX1Uwdw?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-17T00:27:11.703802+00:00",
     "sent": false,
     "items": []
@@ -6147,5 +6126,10 @@
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc3gyaHd6Z1ZaaXQ3aHZ4bEhMS0ZrbGtWZ1BkTHB2R2JvZXdvM3pKUnlMSlVwUERZMU5sSzYyS0s0UDBnR3diXzJic0F6c3lTb1dKWHA1ZHJraVRzN1BkWHFYODgwbC1Nc29yOHEtSXBzLUtrUmMxT0NEc2E1OS03c3JidUhMNTlTMVUzX0Z2cmthQWR3bkJpWkhOeHFFc19HdzJUSUt2RFRvNVZFYnBDcWlMQjA5YThiWHdpVW5fajdXbnNTa2xOcjZYQk8yUTVHMnhQMkctR1FWS2FOLVhIV2paWWV6c3BsMUJEUFZXNnJxd20wWG5zdUR3?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-16T23:30:23.422989+00:00",
+    "sent": false,
+    "items": []
   }
 ]
