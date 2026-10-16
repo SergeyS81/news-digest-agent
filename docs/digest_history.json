@@ -1,32 +1,5 @@
 [
   {
-    "run_at": "2026-09-16T18:23:17.004642+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Google, DeepMind launch institute to explore AGI - Axios",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4aU5EODcxNGZlb3Zta3RTbUVCUHhGcFliOENJREpTOTcwa0RjM3JvXzA1bzRVbnNnTDNWdDhGNzJ1MXRTaHJoVjZPWG5xcUpvWEhIcEJkSjd3XzN6ZGhITEtrdXJTWEpWNE1sMFlCbw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-16T19:19:58.836107+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "ВС РФ ночью нанесли массированный удар по ВПК Украины - Ваши новости",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zaTVLV3R5djFJX29qb1M4bzMtelhGX19aRi0xVmFXVVAwcXVYUGRpVGZCUHhHQXZQaC1ybXE1QWExZW9yYXdORklTZEloNDYxMHktUTRGNm1CYjR3UVNfUlRYVUpJNGx4bGNR?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-16T20:21:33.667763+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-16T21:20:54.852850+00:00",
     "sent": false,
     "items": []
@@ -6156,6 +6129,22 @@
         "topic": "Здравоохранение Татарстана / РКБ",
         "title": "В Татарстане планируют наладить производство рентгеновских систем в 2027 году - БИЗНЕС Online — Новости Казани",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BNkc3UTNFX1ZvV0VYTUVTcTVUbnotX2hpWEpDN0NsU1FwbUVkcEZwdjF4ZjdNNGxJUFczUm1uTmhueVVPMnZzVEU0X3BWTllPWE5Udmln0gFTQVVfeXFMTlNuMVlWQWJpOUhhQUxEYjFIM28wNTZhbUM4RU5wTFpkWlpfYUFndnFyUGRaS0gzSWFtT19EUlJsaFNMX0NOZ2JkVUZwMW1FNGwtNDg?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-16T20:59:02.189862+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Вышедшие из-под контроля ИИ-агенты взломали ряд компаний Индии - Мойка78.ру",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVERFeWZrS1NZc0ZmMUdZR18ySXRidDNJQjBFUzVYcUZhX0FDaXFXcUZPSWt2QVhhOFRLa0EzOFVZTjlBNzB4SHNtY1Rjb1ptZVphTjhkVkp1VU5xaXFjM3pkMXVFOEN0N0kzYXE0RDd2SXRoT09CcWdOR3I5NnpPenNZcndQYUVBSkNXMVVvQVR2R3ViOU9ONnhYMThmNks1X1ZiRlZJTllkVG1kWE9J?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Press Release: Rockefeller Foundation, OpenAI Foundation Announce $50 Million Partnership To Help Cities Improve Public Services Through AI - NextBillion",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc3gyaHd6Z1ZaaXQ3aHZ4bEhMS0ZrbGtWZ1BkTHB2R2JvZXdvM3pKUnlMSlVwUERZMU5sSzYyS0s0UDBnR3diXzJic0F6c3lTb1dKWHA1ZHJraVRzN1BkWHFYODgwbC1Nc29yOHEtSXBzLUtrUmMxT0NEc2E1OS03c3JidUhMNTlTMVUzX0Z2cmthQWR3bkJpWkhOeHFFc19HdzJUSUt2RFRvNVZFYnBDcWlMQjA5YThiWHdpVW5fajdXbnNTa2xOcjZYQk8yUTVHMnhQMkctR1FWS2FOLVhIV2paWWV6c3BsMUJEUFZXNnJxd20wWG5zdUR3?oc=5"
       }
     ]
   }
