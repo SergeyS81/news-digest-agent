@@ -1,63 +1,5 @@
 [
   {
-    "run_at": "2026-09-17T04:21:55.231464+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-17T05:20:37.776000+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-17T06:27:05.450049+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Боец СВО из Татарстана после тяжелого ранения мечтает вернуться на ринг - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWU5BTS1yQzQydTNET0NrNlRENF9VRFVCci1NVENpUEo5Vm5Yem1xLVB2VEk3SHd6R2p5eU1Vb2xmXzRxbk1MVkFFSThoSmtFdmlKb0V1NU9yOFBLeUFQUEsxRGF6Ym9VTmRiTS1yckNsNi1JTE1oeHdEdm9XUWhKdEdsdEhKUDZnMDhQb2FTcFRIa2N6cjdmMVg3UGdTWU8zQktxdXBZOHNvSURyUlNRbU1MVDE?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Пейзаж кисти Ирады Аюповой: ГМИИ РТ впервые за 20 лет готовится к смене власти - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Db0ExWFFzZTVwWGR0Vk9Zb2hMMGRaVnR1Z0JXVHBBYW9Nd1BQTlNEX3FkTU9fWFkwb0gxSUFzV1kxZVVvVnpvNnpzVThERHlRLTJpWjNHSETSAVNBVV95cUxOQlhweHdrTkZjbUFoZEZJNVAxLUJuUnI0OHd2cUlTMk9RLWdNbS1FTGxhbS1FUFdqNHlUdVpLTFpabFp6a2JQQnkyalMtajYza3ZZOA?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-17T07:22:34.348273+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Врачи БСМП Челнов спасли женщину, сердце которой годами работало на износ - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0JBdmIzU2lrOVgzOEgzWXVLM3RTX0owc2x3TVRhR0tkVzY4NmNPNWhwaXFMQk9yZUc2Ym1lR3VTNTVIV29UM3hpelpRYWxONk9rYkphOThMNDcxQk1VZEMtQjRJX1dtb1dHLTkzREg5Ry1mS1dSX3pDT1RIZVNlcDJrMXQycm9kcENsd3pKSVROWklnbDJ0OGpXZm42NGFtMklpMzM2QXJ4YmI5eFhtMDFra3R3QQ?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Каймак по рецепту бабушки: как фермер из Бавлов покорил покупателей «Магнита» - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLTRadUVkSlJzZXZyQVNGT2FsMXp0T0stckd4RDdKanViYXhMVzVkNDlyS0tRTll6VTZNQzZJbEJDMFd0enhiakozcnVkYm5KY3hmY1ltLXdyd0ZOQ29aZzJlMXJ0dlBVekpDWjJzZ0IxTllHT3VST3g3RXlGalF5REowUmdhM25RZGNWc3NDazdYRXF5NktsemVrTjUzUFZ4cUxBSVBCT2hOOUg4cTBKSmVKdlN5Zw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-17T08:23:44.818628+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В больнице находятся 28 пациентов с отравлением после посещения кафе Nan Кебаб - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDJKVU4zT2tEODdsTGtXN1dXVF9NZDVaVDlEcHBWVUptaDdlN3dwWXZJN1gyc0VjY3g5NFRSQVZyTGpzalp2NVlINGhWT3VST1U2V1dsbXpVRDAwYlZVeThBVWlFOS1sZHdrTWRqQzh5cTRMOGxxTkJ1OFZZaGkxZUpQMFdjaGVKODZ6bVZkMFFwYldWWmxzdWR2MDdlQW15eFNwMUx3NVpXd3RTSDhXMzhaMGhkb2oyeFAyTlBrdDU?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Певица Альбина Апанаева попала в больницу - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWDVJVUFqN2V4aTcyQ1hpOGktaFBGd1huUVRBdzhoZUE4N2NQRjZwcmt6d1ljZEZqVDlodXZZNk9OM3FOQlhnRTVUaUh4Nk1CZXhMNHRoQkQ2R0ZnaUFSVnpYSHZ1a1RDd2w1d0o0b0I2bUVDRzI0dHZBWDBMMzRRY3lDd3JpVUU?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-17T09:21:55.681066+00:00",
     "sent": true,
     "items": [
@@ -6116,5 +6058,21 @@
     "run_at": "2026-10-17T04:15:04.991333+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-17T09:14:06.201333+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение и прорывные мед. технологии",
+        "title": "Прорывы в технологиях интервенционной радиологии и передача технологий на низовом уровне. - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYlczN09jUzZubHBNZE1Rd09PUXJEaFhpdUc4RmwtVTVmN1BrMkdTUl9kd2I5ZDVlNmVxR181RFhBaV9ibXhISFBDZGJtc0hoMHFvTGhQWjdvem9yRVB1UEJHTjJxZHU5cXdsQmhXR3puR3UwZ2p2a1gxM2hOSkl3eGFhaC1hZFVnSnVfekRQaHlfTEJzeFo2VVp6Rmw5SWVtVEE?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ взломал чужой криптокошелек: перед этим он задал себе неожиданный вопрос - ТСН",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2FLa2tLOGZZeEVKQS1SUjdmNGdwVnkzQVFSanFpSF9JQTNQaEpLMVF0UnJzX0NiQjVXV2xzdl85QzNUel8yZ0RTMWdLMDE0T1c5ckU0Q3AwdDZoQTVTd0s1M0V0X053ampIRlZ5U2NUNGVKdGJjaDZ2R3ZiV3hqQ3Q5SFpJMmo2T2NtOHlWT0xuX2xXRFFBUzlJUmQxV3NWUVhhWHE3aVc0VExJYXJBenI5SGZJUzlyRkHSAb8BQVVfeXFMT2ZIanZFd0tIaUc4UC1SZGY3T21HSTgtVTRXYkVDNkF3cmJjWGFyZWJodmMwUVhTbDRTZXFmWmh1UEE4aTZNcUNrMk44T1hqeHI1X1VLS3RmRUdMMm5vb1BxeE1Zc0RZUTNKT05oR0pWSVNrMVZFeFZLeUt4SHpHa3VWVmFMbG84SThuMHZvc1gtRHFDN1Z6ek5BTkI0andjUTBLMmJ2WVFmZzJ3M01wVGQ3c3NKZllLOHc4WnBuRms?oc=5"
+      }
+    ]
   }
 ]
