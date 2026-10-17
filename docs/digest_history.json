@@ -1,42 +1,5 @@
 [
   {
-    "run_at": "2026-09-17T14:23:17.802151+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "За неделю в Татарстане выявлено почти 10 тысяч случаев ОРВИ и гриппа - Газета \"Республика Татарстан\"",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWk9yUFNGOWpxQXhDVHVHeUtpcnJSeXQ3MHJaWnlyUmZVQnRRc1BCU24yUzVFZW9Mc3dZaGVyOTNJSVhFU0x3SFZnVWxUNXA0b1oyQkRPd1BsMnlLeVUwMF9OZEZiVDNXWURMa1FFSXhkRjdadHJPbWJVNDQ4MlQ0N0tUeFZPTWtNc3R3NjMxWjNEOTRDbEJ0VGdJUDlLa1BCSXVfSkxQQQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Модель ИИ от OpenAI запретила себе подчиняться корпорациям и правительству - Рамблер",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX04wOXFXMWZURVNkblY4Y1BNWTFVZmJZQnNSMlhVbGt3QUlieU5kWXUwdU1vejdBR2dFVWwzM2g3Um9wYWo0My1tdVdtdlB6V3FMSXVVQWFKTDQ0VUZiZUcxMENscTRMOTRLMGVLcDRUZThaY3A1aXZfUk9TUWhpYWtPaHJqamItbHkxcGs2a0FlYWdEbHpYSTRaa1NtaXE2cEF3VDM1Nm16UEtWN0xUaDZEc3VyQdIBuwFBVV95cUxNYVpmXzF6NDJORnhxdjZSRzBDd2FwLWxPRlRPTDFfS044MXBheTdnNmRZbVVmeldDMy1rcTZVY2l3eERQR0dySkE5bDJiYlFuWDZPanZNTmI5WkFxVG5WUnJ3eFJZNmMzbE11MmdzajluN0F4S3JrcHJXX2xBQXdPQXV1aG1qeEEtU2JMMHNGNlp3aExqNU1VTFhCOHFqTlIyX1JIQ182V3NRZGR4bTFrUTRwVnlGdkR0WWJJ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-17T15:21:27.320170+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-17T16:22:17.008184+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Потерявшийся грибник выживал в лесу 12 дней - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVpORTNGZkk0ZTdWZnhQSjJxc19WTXJKMThZbk5nRktCcUkxa05UZU1wWi1fYjRqZVg0blJkN1BPaFVxNUktU0U3dG9GaU56WHpBaUl2a3lLZE5vVUJrUXNVTWlyUnlqRTlsUkY4OGphMUdmNGxEMktwYmkzUzFFNG0wY29ZaXVKZk1ha2J3aw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Искусственный интеллект OpenAI объявил себя равным человеку и запретил себе подчиняться людям - rus tvnet",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObzNrMnlKSnozdEk4THJJenBhOUpEb3hXUXpRa1FHd0cxWF9xVFMwNE5qa3hxUmpTS2t6bXFsRzNuQ2w5Y0pQOF8yQnBBdGVEWVB2T3N3aUVzbmZlcmtpaGxzYkZ5Tm1ZUmJQQmhsMHNvanVPTFRROTlZd0xTN1IwcUZEdV9Sc3RMYjR3SldIRW81SnpnLTlhbFo3bEJHNEtYbDZsU1RPbzJoSWVnWmJ1WkZlbDBOX0t1cjBhVG5XcnkyWHZyOWxv?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-17T17:18:37.583734+00:00",
     "sent": false,
     "items": []
@@ -6028,5 +5991,10 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTdoZzVvZTJnVmNMLXF3cWFycWlnbHNPQ1VEamVCaHZqY1dmVXl2M182ZkRnNktmU0QxN0UxMDEtT2ZZbENuMTZqSkk3NmtSdHF5WWd0MEVZX1dVOERONk52XzhqdU5rOW93dGZITHhLU3ZRdGRxNGFRaU1GMHN0LU03T1dQUk00eVdfWnoweFQ4blR2?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-17T17:04:01.380546+00:00",
+    "sent": false,
+    "items": []
   }
 ]
