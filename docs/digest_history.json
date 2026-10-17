@@ -1,72 +1,5 @@
 [
   {
-    "run_at": "2026-09-17T09:21:55.681066+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Переговоры России и Украины по СВО: экономист Сергей Гатауллин считает, что возврат к диалогу неизбежен - 56orb.ru",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVTJxb0xsb1hMUWZxcjdnU2Z4bWRkQmU2cExfcUxxODY3M3lrVEpQZGo3bkxRZG1qUWpncDFRRUpiT1R5RTlSNjlncjQ5Rk1YZGJhOEQ5RXIxSzJRd2ppeXotbWx5OFJOdzFGdmsyT0FNR1JkeGp4b2FRaGcyRkxsajg5bjU4R3U3X3p4VnUzeFUtbFJaMVRidmM1MmFMdHVNU0NTdzFnZEtNWHhpZkFLQTVpN1BzUQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Snap выпустила умные очки Specs с дополненной реальностью за $2195 - 3DNews",
-        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5LVTZWRmJVTC11VlIzR1k2QVpHTDZjT2R0TE9aMnQtRDFPN2FHd2l3SmVRbTVVMWRSRVVVT2pR0gGbAUFVX3lxTFBtTzYxY09rWmZjdFdvdVc3TUIyV1Y4bXBkbGFmUDJ4aEc4aXBrdG8zT005VnBsQ19qX1hrUjRlZHFrTDhqSlRJajZWeWtNclBjOHUyNHp1aVJRX1ZSTUxTdThmR3hEcWducnRHTEpGbDZNVGh1YmllMTR0WXpDcXBYU3lzUkVvdEgwbEc3WVN2SUJOal82Rm1TZXpV?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-17T10:21:24.066928+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-17T11:20:37.095922+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-17T12:26:33.076035+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Нижнекамске врачи достали из легкого мужчины куриную косточку - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcVFDcGx5dzlEbURkT0hOTTctSHdkT19HNk9qc2pza0xNMG9QbUpBYTh6XzFmUng5S1pvNXFkTWVFWUM0WXFaUHFCQjJqVHY4eHlvSFFsREhsVGYtS0wwZTI0c1RUU2tmUkhrZkhsc0NVVnJ1ODg3UlFNZlc1U1MxdmVraEhScWFvMm5yMEgxNVRuZ19obkNxQXJ0c3dEejQ1eW9xc3dVdEI?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Сотрудники Департамента питания Казани занесены на Электронную доску почета РТ - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzZyZ29icldXNTJMaG1SZ3VfakV4N0phXzZ1NXgwYkxvd0luY0dWRWlvSVNpdWc4cERqMXJpVXRQZV9iaTB3Y3dsV1c5dFhZVzNjbVl1d2ZpX01XbTNiXzk4WHhnQ1RYWXgwN3hQOUZ2c3BkOG9qSGxTMnRTMnNZLWU0UnROOUFBWV9yZDhZRS1qX1dXdmtDRnFPa21PYjgwNGFTNkh6d19tdk9yODhOR0w5b2RFcFhGQXFQaWdn?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Не один на один со своей бедой»: в Казани открыли инклюзивный центр и бульвар - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbi1xM25CWnpJbWV5LWd6UDlDdTFBaWdVRkRhaDNfSXpQdXpmU1AwbXlRX1E0b0NzcjNKMzFYeXZzb25qMFBjdVgwdGE0d2N2aVAwOGEtc3ZPV3dVVmRiM0dTX3dzN21yc0VTMFBkNjh4RUt4eWlYT3Y2T2tyblhtQzJORTJLQ3JHMnpwV2JxdktaY3NZUXZFMWl6UUQ1WHJqNlVfT24yX0wtWi1EQjJYODdHZGlETTQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Искусственный интеллект от OpenAI объявил себя равным человеку и запретил себе подчиняться людям - Русская служба The Moscow Times",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVmZjdUlDa29vcC1kYkJqYkRHTFFXdmFhZDJ3aUp1c3MyWnRuSkNiY2tWOW0walA2QXB5YW1jM0hLUzdiREFqS3M3dC00THhwLUhFMG1aOFFDSUhsQ3NlOURTaTZ3Qi1CdkpxMHRRS2FBbzRMYk9OMmgtWTZnU3hOdTB1Q2hVeWxkUUh3bGo1UmRSUUJ2bk1OaFRuMFdXaTRPSlktU1UwLWxlWGVMTDhES3NETVNmNDhXNXRDbWxpUVkyb09nVU4yMWVIUkVRWE1vcW5lUTVnS21YX0RVa2FwSnpvLXJLenM?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "MWS AI выпустила песочницу и конструктор интерфейсов для ИИ-агентов - itweek.ru",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pbERMVTVkWVJQYS1iQmRtM3RncnlQTzhmdFEtQ2kwbnlLRm5IeXpHSi02RUZkbTJJdEFFMG9ZRnJreUpFREwzWDJCN2xWZmcwbnZOZnc4MDYwUzdXMHc?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "«Яндекс 360» выпустил «Документы» для компьютеров - Компьютерра",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdlhubkdUMGdGT2ltQ095ZUVhcHBGRHd3TjBfR1ctRXRkUXZlVFQ2RFJrOVJ1dXRzSzFGc25QZlNVSl8tcDVDWVdfaGZRYkZEMGxBYWtNWlA4MnpGcmFXbjNkWU0yM2RUNGFkZGJrNU5YaDVRUHktUlUzNFZuMkVhY25jYjZTNklv?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-17T13:22:07.405382+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-17T14:23:17.802151+00:00",
     "sent": true,
     "items": [
@@ -6072,6 +6005,27 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "ИИ взломал чужой криптокошелек: перед этим он задал себе неожиданный вопрос - ТСН",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2FLa2tLOGZZeEVKQS1SUjdmNGdwVnkzQVFSanFpSF9JQTNQaEpLMVF0UnJzX0NiQjVXV2xzdl85QzNUel8yZ0RTMWdLMDE0T1c5ckU0Q3AwdDZoQTVTd0s1M0V0X053ampIRlZ5U2NUNGVKdGJjaDZ2R3ZiV3hqQ3Q5SFpJMmo2T2NtOHlWT0xuX2xXRFFBUzlJUmQxV3NWUVhhWHE3aVc0VExJYXJBenI5SGZJUzlyRkHSAb8BQVVfeXFMT2ZIanZFd0tIaUc4UC1SZGY3T21HSTgtVTRXYkVDNkF3cmJjWGFyZWJodmMwUVhTbDRTZXFmWmh1UEE4aTZNcUNrMk44T1hqeHI1X1VLS3RmRUdMMm5vb1BxeE1Zc0RZUTNKT05oR0pWSVNrMVZFeFZLeUt4SHpHa3VWVmFMbG84SThuMHZvc1gtRHFDN1Z6ek5BTkI0andjUTBLMmJ2WVFmZzJ3M01wVGQ3c3NKZllLOHc4WnBuRms?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-17T13:39:50.541550+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Жительница Челнов отравилась дымом на пожаре в ее кухне - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjV5RzdSSW1mazNnRW5zOHdnUk1jMWhJbTRTUHJRTkpSWmtqOC1rYUVtcFZXVkltMWYwVTNlbTNveXV1SkxieWx4THVIUVNWVDRPcWF6VjFQdjlpTDhzOXFHakN2SWlvRGJVc0cwU1FUZjBjb1JxeWd5QkFtOTVOczlxX0NzSkp0VlZ6Q1oyOGExZzhVTW5hd1R3?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Пожилая жительница Челнов попала в больницу из-за отравления дымом при пожаре в ее квартире - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQkNWYkxPTWZrU1g5TDdRX3hKeS1aMGVNVFpHeTRtNHFlQUJQNXhsNG5GUkFRcTVUVVU5bXlQUVVnQ3ZqLTlYNFIxa3ZaT0s3dXhrWk5acVROc05JeXRCLU05V1NNeTlIdGpmd3Rnc0ljYlk5ZG1ROWNORHhjNXJUNnNDcUhTQXB1ZTdWRk16RW9LVXg3M3M0SUtJYS1IWWNtNUd0TXgwekFuYmNydzluX0dTTXVsemV4RHNDNjQyRmQ3Zw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic prepares to release Claude Fable 5.5 next week - TestingCatalog AI News",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTdoZzVvZTJnVmNMLXF3cWFycWlnbHNPQ1VEamVCaHZqY1dmVXl2M182ZkRnNktmU0QxN0UxMDEtT2ZZbENuMTZqSkk3NmtSdHF5WWd0MEVZX1dVOERONk52XzhqdU5rOW93dGZITHhLU3ZRdGRxNGFRaU1GMHN0LU03T1dQUk00eVdfWnoweFQ4blR2?oc=5"
       }
     ]
   }
