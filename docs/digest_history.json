@@ -1,100 +1,5 @@
 [
   {
-    "run_at": "2026-09-18T06:25:44.494950+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Эксперты оценили значение дополнительных выплат сельским медикам Татарстана - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFYtWW40TEpoRXhEcEdQMGx5dFdDekFZN0wybHIzY2d5dGxWZE0wbXcxY2trdm4tV2VaSUtybTc1TVpKekhJeS1KcDhmc0ppS1RySHJmVDJrU2hzOHRNTDJsRF9pZWdqOWJIUFBXem1nU0tNRnBrQjF0VmoydUt3Qk9oZTlfejZ2X2FyNU1xdWJDZ2Q0bkotblBUaDdWdXMtcEkwdDlyTXNLcW80ei1yOVg1U2s?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-18T07:20:45.675392+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Врачи РКОД удалили опухоль и восстановили щеку мужчины тканями с живота - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0hLUGN0RS1YbXVhOXFCeEx6T2lNOEh6djZTWVVSYjRBLW9yQ2ZTRzM3dUVKSjRFQ0FPeTJTOVBmZDI4OVN2WnNBUFY5Z3FpN2FJSHJnQnN5VkFnYi13eUpBa0F4X19zSkpDOGJJdUZyVkRRa2szVWpzUXd2OFkwQlNSS0xBd2pqenRvQzRyMldLd1kwMF9XUEJsTTRrM2F3S1owQ3ExT01wdDVUNGZFWGhwSHM?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Онкологи Татарстана восстановили пациенту щеку тканями с живота - Газета \"Республика Татарстан\"",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbDFQcjZxV0Q0X2JoMHFOWXFUVEU0U3dwLUlCb0JNakg3UW1TaU9zbTFUcHB1NWtPSENSZnhJc1ZZUnE1M05lZGlIR2RjVm41Zm1ZZW9BMXRFVzNFbFpKWG9rMW1BVlVSWDFJaUVJalZYbW1peFNXNnVmd2hYdW4zc1owbVdhVGpaYjBILW1UeXF2OFBiNVNDbmI1clNkbVBm?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-18T08:21:52.431176+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Татарстане привиться от гриппа можно на более тысячи избирательных участков - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFd0bDRpcS1sWUVQTHZtNm5yQldmV0RFeElFS3IzZUF6XzJaT1dyd2Fqb0E2eXZVcmt3b0VmeHdXNHNWbHFqRTAzcFNDbUtKdmowaFNMM0pabndrTUhjdEZudDZGRjkzRWhhWUhGVjlSS1hsclJHOWlHODNRQ1hYY1paQ1Zoa2pQQlBWME5NRjNja0tNdjZvZE9rNDlZRDlQNVNBUzFHcVZOclk0NkhYYlVKaUJyUUVTaUE?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Белые хакеры взломали OpenAI с помощью Claude - ForkLog",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNekhHcVZ1WTlfQzN3WndQYTlDOWJFUEs4VzZ3MW1HaUV3UmpUVnZZWEV5T2l4eFFOMUQ0WlFkUUhlVDYxN1o4amtScGJLVHc2MjdqSFhGWnlwTWJVV2JCZE9iNGJJVzdxSkZlT1M1WGhWR1hmanU0WWNnQjIyaUNGbg?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-18T09:20:52.157886+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Казани у женщины случился инсульт после визита к остеопату - kazved.ru",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeW9yb1ZRTEFvYlJid0EtQm5zV05jMVpaN24wZlF5SUhGRWltVm5HdTYwSFZidWNBTk52OHJaanhsRzBoeWloNnRsY285MG83MV9nZ2JaWXZVb051NTIyb291LTk4TlVlM0ZFU1hlMXB3UWxBZ1NtTDJBMmJqaFo5ai0zWVU4cENLTHBKbGlsRUFOWVFBbTVVdw?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Жительница Казани попала в РКБ с инсультом после сеанса у остеопата - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnpYRFYtejl1U0pTWHllTHVONExEaF8tYmpEdS1NVFEyZmdReG00RTlKbUNoNDdmT0RnQ1N3dzVTLTc4WTlnX3RISlpkMmViOWdIOEw5c2Q2VUEybmp6NGlqWDA2VFJuNWtyd01EZEl6c2RKOWFXZk0ybUN6UUNyWjZ2bjlwNVRBOHdiSnhQZXZzcFhhV1FyT05xX2NaZzRJNGotZ0FkY2ZYdw?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«От нашего выбора зависит будущее страны»: Абашев проголосовал на выборах в Госд - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFVrdndYZmVnWURtcElfLVhoZUZsVmpaUTc3cGVUaTBuNmRqNVlKTXY2OEFIN2lrcXlCNTBLQjEzT1Q2VEx2cnZEUjlGdG1seldDLVFtYzRIeE8wdHEwT3J3Vnc2R2FZd0xja2pmSTBKZ2k5R2V3aktZMlYydGwycXA4VHQ5YzhHcEVCYTdlZ3A2UWFjakQ5VDBIT0FRbEJpTVpoSHAtLXBkTjBFNHZ5c0VZdW5MMEExczk2SQ?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Глава Минздрава РТ отдал голос на выборах: будущее страны зависит от нас - Газета \"Республика Татарстан\"",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWt3MlltS3F6MnZjcEFELXlEbkhaS0hZclFaUTZYU3dnZDVEOFEzZTNGdURnTFJlQmd4ZlQwV2NhVzNPUXpIUERqd1FoZEdsSExRUWdnQVdHcnNuekZ6V2pJT1ZWMmpMQ19pTnBQYi1USkNRVFQtZ3JvNVFqVXFsZ0dDY1BWWGFuNmVhQ3pEZ0FvWVF3c2pqZ0FCOEpxMjZkcDgyWHBDWTF0dw?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Вакцинация от гриппа стартовала на более чем 1000 избирательных участках в Татарстане - Газета \"Республика Татарстан\"",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1FpZW9nWG1JMWJRMUN0QnRGR0ppTlRDZi15QnRVUXRKSkhTdy1WcTFPcEt4djFMVElIZWRHcG1mcmhmVm1OZ3ZVNm9QY3RaRWlHSzNrdTRzNGNFNktsN1pZTDA5X2sxa0FEMmVMU0tpNllpekR6TUVRaUVXb0pZUkEzVHdacmZQaDFhNE1LYm1Eel9KX3YwMW1FU0FoUHNPZHJ0VlR5OXFEbGVGMXBuSTE0cEJCT1dtb0E?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Системы OpenAI взломали при помощи ИИ-моделей Anthropic - 3DNews",
-        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE1kNEJCc0FnZmdrR3BXQWFKbnVxZW5jdzluUngzc25jaDMxU21qUUZtSlJpMHlvalAxVlFzV1B30gGQAUFVX3lxTE5MMXM3VmVwOUlkNmRMR2RoSUJ2YW44dHlCc2c5c1FzRkpHWjdWSXRQWl9wUkxzd1RLRmdrdHU3S19wSVZvd00wUm43ekI3WFY4blE5bUNVRmtiVmptcHFoWExxRW90WWVYWTMxYkxVd0JFTFVMQzNfX2VrRzB2azdKWU1HRTMxS0NJTzNnMVhCdQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Европейский Kids Act хочет запретить соцсети и AI-чат-ботов для детей до 15 лет - Pasquale Pillitteri",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcGhpRUNIdjQ4UjRSc2ljblFFVlZudUpkaHpxMkVMaFZHYkFxVmptWWxJeExXMnBrYkFmeXFtYTM1TmZzcmg1Vjd5TWx3SFlyb2loRTVELXJ5emdVQllxRmp4VHZiTHpaUGZOaGItZHhLZ2lBdGdpTE1sakdEUGdTbUFzRlV6bzlNb3dvUVB3?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-18T10:20:52.204681+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Врачи РКБ спасают 38-летнюю женщину, получившую инсульт после сеанса остеопата - Телеканал ТНВ Татарстан",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcWJBVHJoQ2ZoSDVUQl9GUU9IRFdjSEN2ZUV3aFIyTUhIVURQb2locnRJT2dyUWdkSnYwYkQ1VFQzcGl0RldkRHpSYktWa2NtVF81WklrZWJLdUJQU3p3MmpGa25PUUtyQlNLVk5YUDktYWtzWlVMbDdrOUdOWkhFZ0hSbmJ4OWt0WFUtXzktZmd0SEFDZHE5VUhFQkc0SktaSTVZczRpWGtQZjVUUkxocVJEdENsaEp3MmowSXBQYXk2SGsw?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-18T11:19:45.256408+00:00",
     "sent": true,
     "items": [
@@ -5940,5 +5845,10 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZHNtU1pDZnQtT1dRNWJadTJqRkRGdjV6QTZuNVQxN3p1ZHU3M1ZPdm50Y09wclVTVkoxdUgyQjRQNUU1ZDQyNW94ajIxMmc2YXhQOHppdWN2ZHdua0pwZC1WMFlma1B3MDhkRXNKMGtadnlaTjRGY3RWVUo4MGlReWFIRE1VazJuZlhFRElSVGVtWU9VZkhiV3ZQRllTcjQ0NEtheUdfZUE2YXlIWHlSNTNoUkg3R05Dd0pCZUp6VGk3UQ?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-18T10:55:51.873804+00:00",
+    "sent": false,
+    "items": []
   }
 ]
