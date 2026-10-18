@@ -1,36 +1,5 @@
 [
   {
-    "run_at": "2026-09-18T01:19:40.745757+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-18T02:20:30.344334+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-18T03:20:34.519114+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-18T04:20:47.173457+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-18T05:19:17.005915+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "На выборы всей семьей: где проголосовать и как выиграть автомобиль в Татарстане - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1BaQ2VqVkcyZUFCVGJIb29IMnVfNS04eXFSTlZtMzNxcGpQdWtLbjBWQW5FZ3B4czhCRW8zWTl5ZHJKRjBXZEVwaGVwOHNiMklfM1ZVRDNyX2pmLTIybEE4VFFxVDF2cnM4WUlTQWd0S0tiRWdrM0ZsdGp4TldlTGxZS2RsZnozcThIUW9qb3UzQUw0cWNqLV9iQlZhNDlJOGN1N0RQRy1XaTFENnl5aHBlS3QwUQ?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-18T06:25:44.494950+00:00",
     "sent": true,
     "items": [
@@ -5960,5 +5929,16 @@
     "run_at": "2026-10-18T00:55:32.508078+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-18T05:47:26.588833+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI released 722 math papers at once and mathematicians are freaking out - ZME Science",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZHNtU1pDZnQtT1dRNWJadTJqRkRGdjV6QTZuNVQxN3p1ZHU3M1ZPdm50Y09wclVTVkoxdUgyQjRQNUU1ZDQyNW94ajIxMmc2YXhQOHppdWN2ZHdua0pwZC1WMFlma1B3MDhkRXNKMGtadnlaTjRGY3RWVUo4MGlReWFIRE1VazJuZlhFRElSVGVtWU9VZkhiV3ZQRllTcjQ0NEtheUdfZUE2YXlIWHlSNTNoUkg3R05Dd0pCZUp6VGk3UQ?oc=5"
+      }
+    ]
   }
 ]

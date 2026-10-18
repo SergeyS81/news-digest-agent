@@ -1,10 +1,5 @@
 [
   {
-    "id": "2aff4af021309cea",
-    "title": "Симулятор авто и сеансы VR: что помогает восстановить бойца СВО в горбольнице №7 - Татар-информ",
-    "sent_at": "2026-10-14T15:03:52.800545+00:00"
-  },
-  {
     "id": "2cb24e8dd37099b2",
     "title": "Рак, генетика и роботы-хирурги: какие медицинские прорывы меняют лечение в России - ВК Пресс",
     "sent_at": "2026-10-15T09:48:12.519926+00:00"
@@ -108,5 +103,10 @@
     "id": "b8f885b1153615a8",
     "title": "Anthropic prepares to release Claude Fable 5.5 next week - TestingCatalog AI News",
     "sent_at": "2026-10-17T13:39:50.541550+00:00"
+  },
+  {
+    "id": "6f1529d7675ddff0",
+    "title": "OpenAI released 722 math papers at once and mathematicians are freaking out - ZME Science",
+    "sent_at": "2026-10-18T05:47:26.588833+00:00"
   }
 ]
