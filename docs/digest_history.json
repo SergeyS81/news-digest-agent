@@ -1,79 +1,5 @@
 [
   {
-    "run_at": "2026-09-18T11:19:45.256408+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Жительница Казани попала в РКБ с инсультом через три дня после визита к остеопату - Татарстан 24",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaVJ3OE5ZM0U4czlyOXF6YXhhbUNfdm1PdC1xd0hjRmUzbGNDRlZMLWtYVUMwRDlVYTlMQXpYeFdjVjVYM09EV3lMazZtd243X2dqWDR6Y0hsbHhhd0hMQzhSUGVhZkZDM25uZTZJYXppWUVNVkJjRGQ3aDgyMFQtLVZGSjRoWnhWdGJaUjhNTjA4eUdjUEMtOEhBcnJYTGNyQUVXTzFxX2g3WnBwM0dXb0t3WlgzSzg?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Выбрал будущее России»: глава Минздрава Мурашко проголосовал через ДЭГ - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnQ3TFdaQm1EVHl0UmlHdE1ialNjQjJGRmxVVk5LUnhpckxEQ3dna29QSTJNQzNjVmt6bEJvUVExUDQtUnk1Ty1kemNGZkwtWHA0V21KT2dwcV9WZHROOXQ1RXh1cm5FdTRub2xLMHZWMm16TjFjSjlnN2x1cEkycDc1aUZDMWltTFFGYUhxX1dxM010Rkh1ZmdaWWVIbjZRYXVjblVoUXVyZHRRVGhFVw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Spirit AI оценил реальные сроки появления роботов-помощников: прорыв в области «мозга» произойдет до 2027 года - Дзеркало тижня",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQejl6V0s5VEZYQWxBSHpxOHZuTTBEdE1uSTJWZ2Q4Y3BwV3IxcmZ0UVc3WWt3aURNc1RzeG1NNDc0UVBORlNuRlVhRGVFdGduTGhlMEdwQms3Zzk4RG9FNEVLM0xFTGxWYnJYMjdLRFBaSWhRdEtwSFpjX2c1cTZidDdZYWY3R2R5YmhNdEprQnNFQndjYmFBeV94c2JSSzJNTkRaX0Zqay1rbVlMTzRzSC1HYWtTdjI5TV9CTWR3c3RvM0xRejk4eFV5THhYNkFjcEE1ajlCZ3h0LVlp0gHiAUFVX3lxTE14d2pwMDAtYkxyc25BUTdtNld1RlFlaUtnMGhUZXlmY1FKaGxzcU1vWUJsX1pLUktsOGI4eWFfWDFxbTVVS05HSDY0RTBDbmZ4dmlRYW42YzNmcEVCZDJ6ejFfZjc1RnpaOFFxMlB2bkpud3dBLWRsZDF2azkwYmRwNm9heUMzT25kTFViaTRmNWNXYWswRFNHNHZRWXVSZHJuaGk0STA3RWxkTGhvYUwwYTcxcmpuTC1SVENsWVpPazJqMy1MTlUyeWNyUTVtVHpRZk5tWlYwRmRFRjZuTFV6VGc?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-18T12:24:51.093540+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Врачи ДРКБ спасли семидневного малыша с редкой врожденной патологией кишечника - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRWEzSm9icy1DbTlINXM0Um5oV0FvVXY2OHQzNl9hY0R3aUJ3TEt4ZzFfR0hHU2lHSm9nUjYxamNiYVgtWTJJeFl6MEVZWW5VUDY4WEVXWWFhMVhiMF8zV0wyWHhtelI3OXBYZ0hEdmhINlNSLU5XdjUzdzM1RkRMTGJRZUw3LUt0V0hGaUZlZGpWVjVvR2VVbWQ5Yzd1YkFSR2t2M2wtaTZCbTNDVHhhR09mVHJpQzV3QXBF?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "MWS AI выпустила песочницу и конструктор интерфейсов для ИИ-агентов - ICT-Online.ru",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd3Z0dDN1bjNFTzFkLWMzZTNIZXFIUTlmdHM2UWxiSHUwVGVRbXdwNEZicktQU01hYUJMODNNanpBajVUbHo5X3JYVFVPYWV3d3ljVzMyNWdRTUxWZWZHaU55Z1JGTDV6WmZQZ0dMTjBzaVVydC02bmVfNTdPeW9NMFo2eEFYbTV6dEoza1RrYnFKdFEzWFl3dkZVNnBXajNRY1Z1V1Y4OA?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-18T13:20:07.592548+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Казани женщина получила инсульт после сеанса массажа - ФедералПресс",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oZzN2cTRfOVBkS0RubXd0SmhXbXF4MW5CUUZuZjJHanBmM2VJSUM5R21ETEdvNm5OVUxzdWlNbHZFTjlfM1pYeXFZTEJ6enA1RDFSckgzWWU?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Раис с женой, Минуллина в «леопарде», Магдеев пляшет, Беляев с детьми, на участках – six-seven и прививки - business-gazeta.ru",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vNEc5aVNPWGFHbDVSbS1QSm5RZ0FrYmUyUEQ2dHhSYlZGM3ZJQVhJY0x6RjJlVGRDMW96QTFqYUl2S043R0dKRGcxcXZpaXNualViOFBJNFnSAVNBVV95cUxOOG9FMmFVMDh5OWVoS0FXWTN5aTVSbG1ONG5EdUJ2Q1A5MzNBOFZnRlMyQkpmcFFLTkV0SzRYN0ZtYkpDaG5WOXhad1c1WHdPNVdwMA?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Yesterday Came OpenAI’s Launch Into Legal, Now Come the Litany of Vendor Integrations - LawSites",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVTJUcG1teHZnZDFOUEhhRzZjczV4V3JOUThxTTM4WTV4aVFJNTFfbWhSd2tjWHRTcC1CTHhFZ0RUemZKOGxzUTljcEdLMmlselVQT2s2MDNCcHk4bkoyNHp4b0N4QndwN3d0X2FIdTVpSWtPQk9kVGl1NkNZSzhBaWwzSHRhZU1oVlZkT25uUFVXeXY1TlJmWU9uTml6NFR0cDdGcTlSdXNoYjZ2TW5HZ29uMVREdEFySUZDOA?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-18T14:21:06.496091+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Жизнь как учебник истории»: 104-летние жители Бугульмы проголосовали на дому - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXRDc3kyc2s4Nmc4ZWljdkljSWxxRk1fLU5IUUJfMDgxSVFSZGZBWkkta3B0Y2dRRFBGWXpqQVRUS3JNQ3FQUFZ3MTlVaEMtcVZpMDdfM0dEa05qWnJrUW9HWGFRdGI2RG1jNVdOVEFsbi1IWDNQQ0hBOHlTMGZrWEpRMlB4ZmcyVDhmRGtxMm9GbGMwM1VhLWZXcWQzcEpTZy00anktblZiVG5ReHdiVGMwdw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Компания Asus выпустила новый мини-ПК с искусственным интеллектом, оснащённый мощным процессором Snapdragon и объёмом оперативной памяти до 32 ГБ - Notebookcheck-ru.com",
-        "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQNXc4UE5hZTN1Z2RZZk45c1llOU5nQi1EQkdrY1A1WGJqV0JmLWcwdkJyUnltN2syeWVrZWctX25zY1R1emNPa3RsLUNfWjdHV3JqZFdqNmZVNmw2cUNGQWxQOXJSVlJwVlRINXVvVGhTckJyRUJzcUk2UDJCbXJnOGRxYXV0MFRWaDB0bjZWNXR6a1YwZEpWXzJrcVFnNDgycktuT1NhQm40OWlJTkM2ZzBLQmRCS3JhN3NfNGgxX3M3RGhMQTA0QXNXNXNSTXA4SGU4ZXJ2YmdvVDB5RzY5Vl9XbU9FUzBLUEFtUWZqUGJLUXhUcE5VVi1QZWM1ZTJuMmpKdGVidUY1S293YmdTQllRajBJb1dudWF5ejNGVVIxWmRWOHNMcA?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-18T15:20:32.296420+00:00",
     "sent": false,
     "items": []
@@ -5850,5 +5776,21 @@
     "run_at": "2026-10-18T10:55:51.873804+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-18T14:30:52.508845+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ сам решил, когда можно нарушить правила, и взломал криптокошелек - Cursorinfo",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWhpdTBuZ3ZwamVyU08xYkwwODh6ZGpoRHQ0b3hRNUx2aV9vRWRGUmZhYlp0cXBvc3RNYldmTE1SaHNpUjMtclBMQ3BMVThtbGJMOGstVXppVXZTbmFmVzlWX0lKNklkbUQ2NlVJZU5SMTlldUttRWFTWjJVUTBjVFdxSGJ1X19hMHR3dWRNQy0wVHpaVDdSd2RwSmlUc2ZWNHF4VGRB0gGrAUFVX3lxTE5ZcC1MTzNCY3NtQWJGaE9xZkV5TTFCY3B4YzZpdUhMWjZYY3FwRVhnVTBVMUhBT0hZc1pmSWttV3k1U3hDTnQ1VHlNMG9ESm80RUlFYmMydVBxaEFJcU16OWpydkwyNGlBYXRzS0F5ZUsyZGZCOUFBZ1pHaThqc3BQRi1PU0R1VmdiTjN0ZTlPeGJSaFlYdFhsOFFQdlBmSFA2VzJ5RmNBcnZLaw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anbernic выпустила конкурента Nintendo 3DS с двумя экранами и ИИ - The GEEK",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc0FncmVrY2pHZ2JlMkdkcjZiQWtjZjQ1OGlaRmVnMks1WGx6SlVkTFRMcEk4dFJlbW5CNHFTOTVxU3VmdFlQWW4yNndOUzE5OEVNOHJCWFNGU0VBYXk3Zi1nQU42ZFFsZS1PUm5tTDRHNURZcHBOcUlNYmx6TmVueXBseTg0SWVzVWc?oc=5"
+      }
+    ]
   }
 ]
