@@ -1,53 +1,5 @@
 [
   {
-    "run_at": "2026-09-19T16:19:56.983038+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Искусственный интеллект Gemini самостоятельно взломал три компании во время тестирования - Mixnews",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOVR5S2NqcjNGbV90bnI3NmNkNUhoRC1xeE9FV25YWVlzWWVLSTFZcUN5dEE1NDY1eGRLOXRnZF93UVVDZjd5QTYxa0ZRNHNSRVJYUkZld1JOTmtJdFNGVVlYZFJGTGNfMTJBT2dBWURiVFB0TnRYTXdPTzlWWXNXY0d4b3htTm1fWjJmWVVSTVdodFhmX3dick82TngybVVlTWo1bHJqaFJNaGdDZTNHZDAtbmNFN1Izd2pnaG5jd0NUSFpSSHBn?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-19T17:17:40.453785+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Токаев предложил полностью запретить граффити в Казахстане - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUFFpaDl2VjdxeXlQckhJRVVtOTdMWGROdDk0QWxDTEpKangzY0ZQT2J4NUlhZ0ZteFdEUFoyazZkWVgtcHJBZ1NUQkdvLVdBSkE5S1dOV3AxQzlLT2UtRFJJRUxBRjFYU2pNMHgzelVOYmJOaEF2TElzUGZqbFJOSDNyRy1UUTRhMU1MQVEyMEd4T29IclpEMmFzNG93bWs?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-19T18:21:44.193346+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-19T19:16:57.723950+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Gemini взломала сайты трех компаний через подбор пароля - Techinsider.ru",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzBGQm0yYmhYeVRMeXdoX0FJaGh5eDUwMlhaX0xxMm1RYW14dGp1T1pWSUpscWxnX2FLWm5sZnpKcDZETEVpUUdaUlNzY2lqTTdoN2JWdy1hRnBoZ2xGTEVVaDdWQmVTWTNRUmIyQVBYU2lIeWJHdC1uZlJaSVRKWjNPNmw1QVZXMjNUeDFVQTlydlFMdXBUQW9NYWlEVWQ3QXdUQTh3?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "ИИ Google Gemini случайно взломал три реальные компании - ixbt.com",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRDJ1V1VuSVhvQjBILXRFek1ERWQtbTVDRTcydFQwUUFRNW5Wa1UybXkxVjlsWERidHlxdWdiOTFQQjRzalhBdG1DM1lJaVluUVJ1WEVlZGZ5emhTMUVONm9QNVlWbVNxNWktdGdFa0UySm4wVklaQ1k0Ums0RWpjVGVqclJNTDlETzh2akphcENoc0paSDZrbkc4VnVnbWQ1Qm9femZB0gGrAUFVX3lxTFBDVERyQVZ1Y2pSdFU3RUJEaXpTR29QcERUUE5ZdEtKLUtfSmVxUmpRNVg1WWEtUmt0NnJncWhKZGV0YkNSQV94UmJGYks1Sjd1b1RQN2ZPTjBhMzhjWWg4SVpaY0FVd0NrQUZ5UFJFaGJ6Mk92VXZSclNEclFMeXNhNWNtRDdidUZiOWpPSmp1a3N6bFc1bzdLRFlHTUZUd3RzT3JWaWZZRFFSQQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-19T20:19:40.783785+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-19T21:18:38.424133+00:00",
     "sent": false,
     "items": []
@@ -5324,6 +5276,22 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Гражданским ведомствам США запретили использовать DeepSeek - Ведомости",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjhkUmQtSW1HTngxRFFXNVVsYTFCLUhveFA0bGpZaklaU2tiNEc4b2lENGczMkxaSU43ZmxLcy1IcHVDa0FJX1pqZmJTOGV3bjdLdVpqVDFYVUg0X2NYOWRSWHg1Q2NjdmNIc3FJbTh4NUZzY0xFR2FFX1V1Ulg0ZGVFakhwTXpoRHVpc09Ndw?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-19T20:59:59.885280+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Диетолог: Россияне более, чем вдвое превышают ежедневную норму потребления соли - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemRzRGpjaHJhM2szb1paWU01cWtkcktrMlVVUUVsYkY3NmVNcEViTHpiaWUxbXpuNTNCNVRlSzlwZ0h6V2FMa3I2d0xsQ0EzYXBpcENkM0ZaZ2NEcDNEY0lKeHlvUGN4QVh1YmFHWm55U29XZ3RkNk1RSWZqc3JqWXNsS21yb1EyOHpZMXI4VkFOa3BxOHZVLXlGU3Utc1BtMTJNYWhKZ0tYd1luSXdSV3g4bmxMVlEyT3I0RXV1WQ?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Fired OpenAI engineer accused of bugging office won't be released from jail - Business Insider Africa",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEtzbUhieVJSYzY5VW84clpfSkpsT2o0bWV4ZVNGSkM1UXd5c2RqdjFjWFBCaWhRU25haW5EdTFZWENiQmpPU2VRU1ZGOXdBZG16UXhsd3haT2ZvNENnbjZzajNCaEtZMU42amV2dXEtcS04eUJxcklQZWRoczdIVjBadllSeG9heFhHakxDRjRSbjlUZE5CelV0RFIybTFCWmxNT094QTB4bERvb0dKQkdwVFlHc0N4N01peHZUTQ?oc=5"
       }
     ]
   }
