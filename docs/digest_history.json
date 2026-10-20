@@ -1,35 +1,5 @@
 [
   {
-    "run_at": "2026-09-20T00:28:28.657309+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-20T01:18:26.689152+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-20T02:20:17.703630+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-20T03:20:38.791366+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-20T04:20:42.820154+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-20T05:19:55.662004+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-20T06:24:25.318601+00:00",
     "sent": true,
     "items": [
@@ -5284,5 +5254,36 @@
     "run_at": "2026-10-20T00:16:07.062928+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-20T05:56:48.712824+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Зеленодольске Volkswagen сбил ребенка, его увезли в больницу - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAycWUySW8zNmdiS18yalQ1Ymt0TktBQzZjek9wRzJjWUF2azg5QmlFSE9BU3dfUS1LM1NPMnJSUTBhcS1pbkZfZWVtVV91alpHTzF5Xw?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Ъ»: Ретейлеры просят кабмин ввести аварийный режим торговли при сбоях - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4ZWNrZlZvUnlQRzVWc0w0TU1mVzhRT1RxV2FpbnJfUi1hRVRXZW9OQVNrV3ZXMTdkR0theW54Uzc4eHVzemZjLVNGUEFQWkQ5Q3I3UtIBU0FVX3lxTFBzUzZyQnVmcnUtci1xQkNfcm90b1lrcUlOY1hPdS0zRTdCRDk1Uk5kNzhVdjNzQzBDXzI4UTh6dWM5Mk4tbHdfNE9nTHU1N09MdENV?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Сила команды и любовь к профессии: история химика Гульназ Шаривзяновой - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQmh3ZmEyckI2MnFwRzB3VGx4cld0VlhUZjJ4RWpoTU9MVHNGQnE2NWlRcXVCUXZxeG1qQmlqYXZhV0dpNFFxcTBESGdubnZiYjVKb2NxTWhGQkd1alZaWHd3ajRkU1huQXJPUGJVQUFGdV82QWpoTUJOb09DajVtWkZLZlgwcUxxdk9wVzdZQmdGY0ZRdTczdkRnZUEwbnR1Tm5YM0xTSk0yLWlKQzRFVw?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Зеленодольске иномарка сбила 5-летнюю девочку, ее увезли в больницу - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGRuUFB2Z2R0QXloSS14NGxueWJQY0c3RUcxX3JXVWxkWl9FLTliTlRXOGdKSGdIT2NjWHgwYndZbVZtVGpvaVJLVGt1OU5tcDZmdlZ1S2lBZDVkV1VLV054VFJyVW91dVI4REkySUlWS3BnMWdOcXdtS294OWhSbjRUZVdWUmwya0tWSURqcXAzRElTMkthR3pRWlJFcDJOSG00?oc=5"
+      },
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "ЦСКА потерпел первое поражение, Ахметзянов отрицает переговоры с «Рубином», Соболев сцепился с Сидибе. Итоги 11-го тура РПЛ - БО Спорт",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42STNqVEhCeENvelVQR0x4eWRjRDVjaGdaYmNXR3kzdlp3RWlQclZrS3RydUs4c3hWRFRmYzFfZzZ1U3RPdXl2VGdrOG9KYUxMYkROdlc0SXlSLTg?oc=5"
+      }
+    ]
   }
 ]
