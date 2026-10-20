@@ -1,48 +1,5 @@
 [
   {
-    "run_at": "2026-09-20T17:18:24.866579+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Минобороны: в дни выборов Россию пытались массированно атаковать ракетами «Фламинго» - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtQ2lZZEVGR0lQX0l5alE5cks5dFZXWC16amdLTVBuRnF2a0ozRzRRdVo0d3NoYzBZUEhjS1lhcEY0MThFWHQ4dVJoZnp5YWRRa1JGctIBU0FVX3lxTE1uVGdpR2JHTi1CRlBac1Byb1BERlRkUE03Wm14ZncxemdMMGJxcjNRYkE5X3cza2xCX0dLWHRJV18yVFRDT3hoS2xfZnZENlR1bWxz?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В России завершились трехдневные выборы в Госдуму. Явка побила рекорды 2016 и 2021 годов - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95Zm43OF9vR0U5WWhiMFpDVU4zaVlUdVpDd05OdWQxNk9ZN2RyMTJ3WXFnTkdVd0xBNUd6OXhFaUVDUHk4cm8yX0xRd2ZhVGYzVnAxR9IBU0FVX3lxTFBWN0hPcV9vQWtlVmtPX2p4VW93cnJYSEpXQmM2WUNTck9fZGIzUTh4eU1CczE2VjBlUUFQMnZIekp4aXAtWkJzT0N0WDlUQ3c1TDVv?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-20T18:21:41.721089+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "ИИ от Google взломал три компании во время теста по кибербезопасности - Runet.news",
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE11UkRmZ0JFaEFFZ3laLTZtQUZQNDNNdjdBUDRGS0pPUTlpcDFqd1lhcS1ZektrV1lqalNDNGV1SjI1Z1U?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-20T19:16:51.025445+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Модель без текста вместо LLM: создатель ChatGPT выпустил «модель для быстрых решений» - ixbt.com",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHhkUXF0aWs4R2pUVG1lRWVXMWtMNk1TaDFuS2NMZVVZUGJrX05DZkNkWHhram81eHFnRVFmLXdMMUtJWnh0RTZjaVBxUXcyX18yT1dFZ2F5aERmd3dCT09qMTAyMDZQY0xRTG5uV1lPYlVaRFZrSU5yYmRFS2Y0ODlyS0VDbEVsVTZfMTc3NXNtSmk3eUlDYndfdjdRd25UNjFLMTV1cDlTRms4V1ZXclNGVlVoUWdCMVhqR1VnQ0JPNkV0Y3NETtIBzgFBVV95cUxOdUx5Y2JxZ25hb0Q1MURDQXRobXpRT3VrdTFsVHczMng5dTZ6RU8xX21BX085NUhWM1JtZ1NTMGZ4OHNzZjZvZEJzSWkxTzV6YWF1SGoyZXpSYjdISnhXa3VaVVV4ZC1yOUhMUGRMOGItalF2U1VsUkNrZTRGZTJ0VER4eTZ6ekR6M1BVdC1WSWZfSVQ4eDVaVU5teVlrS1lYR2E1Y2pZd1ltQlVfeTZEa1VvWXVBMW5sQldGYUk2U3dWdF9maEVPbUJYdVV4dw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-20T20:19:18.045819+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-20T21:19:02.178046+00:00",
     "sent": false,
     "items": []
@@ -5192,6 +5149,32 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "В Канаде требуют запретить ряд способов слежки за сотрудниками - Ванкуверок",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMUVEbk5vb2prZlBJXzhqWFNOSGRDMS1MWTNvTzJuSUptVGRMamN6SlljeXlNWFdYM3FCNVZTbHdNeGVuWndSNmcwMFUxLTZEMUZKM1kxT1B5U1J3QkhEdWZva1BMaTVxVG1TRFhxRHIxTWVuYTg2eXBxVGwtcXdScTJaRDJFc21sS1RJVllkakVnUzE1WkdERTJR?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-20T20:30:10.625671+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "CorpSoft24 вложит более 1 млрд рублей в новое ИИ-направление бизнеса - Пресс-релиз.ру",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdTNJR21CU1FUS2l3OUNUUFV5c3dHamFJamdsZjI0ay1YcW5GSXY3TC1IRWMtc1BSMU11M3RrQklsbF9rY1FKTlJQOFNydDItbkdvdGstU3podFBXNUpfWG5OOHR1ckNONVM5VzFFUWwwNkV5cUMtTGx5RXRFVEFEbFJB?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "От искусственного интеллекта до цифрового бессмертия: 120 произведений вошли в лонг-лист международной премии «История будущего» - Пресс-релиз.ру",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TNldJQ2hiVXJJYXN0Tm00d3RIdXItUTllYXg5Y0tfZHV0LXEzMjRiU3RDSURLWWlRN2xObnp0T2JLSDFKMjJNSXRRaUk4eXIxVmhUSUpLd0RsYy16U0VTLXF4czcydHlqZFQyM2o3QnZPUzJNb2xKSw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Хайстекс представил AI Оптимум — платформу управления расходами и безопасностью ИИ - Пресс-релиз.ру",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNbnlTMTF2ZGJxSnNXNHF4bGM3d005S3NiRXVadjBMRFZnSGs4NWhGOXJFam5tSEJTVEhxTHpZX3hNUnhKa01MbV9wWjBOLXRQeVpWeUlST245VVg0T1h5dFhQWVFCSmk3QlBZamNtNE5PbEFkSGc?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Cloud.ru предоставит «Навикон» ИИ-инструменты для корпоративных заказчиков - Пресс-релиз.ру",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jZXpMMVVVZmRWNzFTclNZdkZtbEJqQl85ajlURXJaREtCYkdpVFVLdmJWUVFiUGxmRGR1UEYtYXlaZnlCZGdIMjdqdnZrVGNPWkVEWXU4N0NWNUR5eEhlcG4tMGpuMWYtdTlJUzJFbUEwS2NQUWZ4WW1KYjQ?oc=5"
       }
     ]
   }
