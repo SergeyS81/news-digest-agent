@@ -1,20 +1,5 @@
 [
   {
-    "id": "292ff248d5da5904",
-    "title": "Жительница Челнов отравилась дымом на пожаре в ее кухне - Татар-информ",
-    "sent_at": "2026-10-17T13:39:50.541550+00:00"
-  },
-  {
-    "id": "e123a4f783fdfe43",
-    "title": "Пожилая жительница Челнов попала в больницу из-за отравления дымом при пожаре в ее квартире - Газета «Республика Татарстан",
-    "sent_at": "2026-10-17T13:39:50.541550+00:00"
-  },
-  {
-    "id": "b8f885b1153615a8",
-    "title": "Anthropic prepares to release Claude Fable 5.5 next week - TestingCatalog AI News",
-    "sent_at": "2026-10-17T13:39:50.541550+00:00"
-  },
-  {
     "id": "6f1529d7675ddff0",
     "title": "OpenAI released 722 math papers at once and mathematicians are freaking out - ZME Science",
     "sent_at": "2026-10-18T05:47:26.588833+00:00"
@@ -103,5 +88,10 @@
     "id": "f487ba51e4d87a3d",
     "title": "OpenAI prepares GPT-6.1 Terra for the upcoming release - TestingCatalog AI News",
     "sent_at": "2026-10-20T11:26:07.794295+00:00"
+  },
+  {
+    "id": "44fc02cb65c1730d",
+    "title": "В Канаде требуют запретить ряд способов слежки за сотрудниками - Ванкуверок",
+    "sent_at": "2026-10-20T16:52:50.794147+00:00"
   }
 ]
