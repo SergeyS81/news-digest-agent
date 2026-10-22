@@ -1,58 +1,5 @@
 [
   {
-    "run_at": "2026-09-22T05:21:02.014928+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Значимые новости рынков",
-        "title": "«Кризис оказался глубже»: Казанский трубный завод признан банкротом - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85YmN5NjJvc1hrVzhDbkhJTWFMeWJZcnV0UXhHaGZ5RkZFYzFxdjA4dS1DUGlTRHRQc1NLR3Ixd3ZMMWxRTHYyUVphUTBSMU9YM1RiONIBU0FVX3lxTFBkZXd4YlZqOWxLaDFCb0lOUHo0VlZURmUwLWpMd0pRQUNHc3lqVDhrY1hNRTRNME5TU1JNOGVwbmwyTmhpazFHallPVEktRk45QWtj?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Яндекс выпустил открытую новую ИИ-модель Alice AI Foundation LLM - Время электроники",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMnBoVXBCMkRHal8tcndEeXhKaEN4NDBfVzhxaVMyRUVWSm4waUs4NDktVFBIVVJFc2xURmZQTDlmVHdPcktyWmNfRmpXSHpSMm85ajNLYjZfaGRUMzQ5Y0JYNUFrU2pEMHVQX0NpR3ZQaGZ4ZEkyUVpuVF95ZVBfQUo2Z28wQW12Y0hacXVaNGtQcjg4bWc1R3J0SkdlQQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-22T06:25:41.259650+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-22T07:21:00.007699+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Врачи РКОД удалили у пациента опухоль почки и тромб самой большой вены организма - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb1JLcDF2bTZDbU42S0pMREhyVkdBQkVyWHFOUDdCWG5JUEU1SHhWRmhJZjNjM00yMVZVMnRZZEJzYVk4aVYyT2RvbUd1eURxTWNvZGdsWUFySXpTNmdvUWlRRmxVMnV4ekhpYkxMUHpoQS16YklhbmpMZE8tZmVSanlORWNMZHdlWFViU09tUHhvUVFBdkFrTDdYNzNMcF84UXl1RXM3TnFpN1d1NUtjRWlub1Jlekt6RHE0?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "В Москве пройдет конференция TECH WEEK 2026 | Пресс-релизы | Новости - AdIndex.ru",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSSklRVTJjSXFrdDhQdFQtaVFreU8wZVktazlTSGpERHJtZ0U0OXdIcUlpN1lCYkVsLXp6VG5EeUdidHlsX3BkVk00NWxtaHNuUDU5elduckhMQW4takI3RjNXR3lJbFk?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-22T08:22:19.040565+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-22T09:20:32.620164+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Юрий Подоляка, последняя сводка СВО на 22.09.2026: ВС РФ нанесли комбинированный удар по Украине — под ударом оказались металлургия, химия и порты, карта боевых действий, свежие новости сегодня - TOPNews.RU",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ieWdnSFRxX25NR3l3cDVZNXJPSkJadG1KeTcyTW80RHdmTU1zVjVadzhWZGxZNmNNVE1vbldBbzBEVGdJMFlhcHBNV3dLRE5VNjRuTzZB?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-22T10:22:01.127469+00:00",
     "sent": true,
     "items": [
@@ -4955,6 +4902,22 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Скайнет уже здесь: автономный робот взломал два десятка корпораций и даже не устал - SecurityLab.ru",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94U0tYWUdiU3RjdmtWNWVobER2OFp2aUI2VmV1OGdqamtka1QyMGlBbEVBQ3AxamFTQmNSblJfZnBlT0t6N2JTUUtOeVFkbjdlVU92Rg?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-22T10:04:00.745352+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Прямую линию по обеспечению лекарствами больных опасными болезнями проведут в РТ - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0pXQ2JkREFXSE1WODB6OVhFV2ZzX0NUT1hBbDdQOGpKeHZQOWJ5cGhJem1yUmE4RkNHTmhHd19qeFEzVW9IU0xVVUZGdWg3bFFmWnI4RUt0bVExQkxPUVZLcnRqTVhjcl9ZaXRfMFFUbjZabGJnX0NhOFhmek9uU3lUQ1N2MXA0STdvSlhlREdDNFV2VkduZnllU2JJazdmR0lNWkxPTTdKY3huTUZDQ0htQlhjTkp2RVh2UHBRY3JBQjA?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Вражеский FPV-дрон атаковал сахарный завод в Курской области - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOTdXYnlXSGx5Yng5NC1aSGtNcW43VG1wams2b1BhQWpZZ00zWWJkcjBEc2o1OEZuTlM4SmFKRDBUOWIyZGlTZnZQVkxaM1pEamtCM1pPOXQ5WHpIRGZDRklDa1hBWjlrcXdNWlRscnZUazhtaTZ5UzNGbTA1aVhUaVlCSmJqNlE0am53SU1CRWZMM0NGQ01mX0FWaTMxaFFzLWdn?oc=5"
       }
     ]
   }
