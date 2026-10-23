@@ -1,26 +1,5 @@
 [
   {
-    "run_at": "2026-09-23T19:19:55.794434+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-23T20:21:32.987023+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic launches Claude Opus 5.5, cuts price 20%, boosts safety - BetaNews",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4aS1TNmpMemxLSUxpeGRsaEVwU19tNV9tMlhpUGJZcmxQQThyU3RWdTZmcEdkMFYzYkRQREdMd0wtSzdIVTRZR3JzenV1Q0M2Ylo1WHUxU1Q2NThLbmx1SXB1a1dRcmdaV1VBcF9JQQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-23T21:20:31.624887+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-23T22:19:47.565509+00:00",
     "sent": false,
     "items": []
@@ -4470,6 +4449,22 @@
         "topic": "Здравоохранение Татарстана / РКБ",
         "title": "В Столбищах к концу 2028 года появится поликлиника стоимостью почти за миллиард рублей - БИЗНЕС Online",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GTHBRNGpRT1RpOWZVaU04T2dGMlNQMUJBR3dWZjE0T1NxaVNnendMd0RQTUFpMXNpd2I5cGNUX0c1SGdVeDgwbWEyTTN4WG9XV3BRYk9B0gFTQVVfeXFMTVVJZzBYelRBczQwQ1VUNFdsY1J4bzFoYkdDb1k3OUNUdTlURWoyZ19Xc05OOUpVVlU3VTJJYnBhY3lIY1BwLXdIN1RpNnp2S2RVcWM?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-23T22:06:36.771219+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Курильщики должны проходить диспансеризацию, заявил нарколог - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGdHMHVnNnFQV3JBM3JTV0d4QUdWUExqLTVXdFoyc1E4Zm1xX05DdnJvMGNkbUJpZkN4LVJ5ck5ERkJWNFZvZEpuVjQtQmVhVWF3ODlLdzNIY3I0Y2UyNFpnUlppUHVIbGcyRVBWNEJHdUptWElyNVo2Z0N6MzZHdC05V2pRdFVlaklyYXg2T1JPbDNoODRJbzBxcUtfRzVIUXptQw?oc=5"
+      },
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Новости СВО 24 октября: ВС РФ наступают у Красного Лимана, в Херсонской области объявлено перемирие, США предлагают демилитаризацию Донбасса - Life.ru",
+        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9iOTZUWDh4X1d4Wm5qb3BNYzQ2b1BsOVpkMWV5U3BjaWR4UjQwLU96Y1RZeDg5ZmdqbEZWVndB?oc=5"
       }
     ]
   }
