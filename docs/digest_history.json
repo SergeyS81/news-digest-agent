@@ -1,48 +1,5 @@
 [
   {
-    "run_at": "2026-09-23T15:21:21.729068+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Усилить регулирование ИИ призвали в ООН - 24.kz",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObFhkVGtJLUp2bHV3ZWFhU2tJUlpaNHFaV0k2Z25MYTZFX0NBbGVPRXhBTzY5dmxtM1MyQU1qZjJLMm1ZM3hPSnZWRmhPRGZFRF80Q2hvenFaWmotWF9OYlI0NEhTbm5RdmYySWsyTDZES01TY2V3bHAzNkNreGwtMV9Qd0RZZDDSAYwBQVVfeXFMTXNoWFRWQ2VJVmdHeUNKeHpUbzY0Z21RcVlxcXU3aFUwNTN3OEtQS1pXaWxTbXZKeXJmWHhmU2Y2WFRka29xbHpPZkdfYjd5S3AtQkxLSi1sdHRkVGhPLXJTYjQydU9RcE9qREloaS1MZ0pQeklRczJXMU92U0prOXNjT2pGTVN6SnJrZFY?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-23T16:22:46.406816+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Казани на пять дней ограничат движение на участке Карла Маркса – изменится маршрут 9 автобусов - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WaHNDRm1qSmVMa0FIbnZoQVg2Q283Y3lrRk1Nbm93Qmh1a08yN1NkVkhSdlVLaU9jRDRPWGRaa18wa3VaR1dfSDZjRWtkX0VXa2xHUdIBU0FVX3lxTFBFdzZLSHFSUkRHVlhsaWFRRmVIeXpfdG5vckUyTERSdkE2SnZQcWhuNEMwelJ3TklJX19lbDNIb0Z0Q3g2eHJpeVNNUjR0bmF3aXNJ?oc=5"
-      },
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Российские войска нанесли удар по узлу связи ВСУ в Киеве - Главный Региональный",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRnJNRGtLdjZ0TU1mZHdzNFlxOUota2l3VHE3Wk9qZDhYRlYtU1NXdWQtTXNXUk5EX0pkSWV4dlllWGI4YkFQWUtaUS02dlpvQS02Rjl5dUpXZ0NJTC03RTVoSkZBNGx6X2I1MWhPbG84c0d2Sy1oRWRrWE9IYWpCeDgtaG1xLUE?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-23T17:20:45.875287+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Переговоры по урегулированию СВО: Россия подтвердила готовность, условия, заявление главы МИД Лаврова - Росбалт",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHA0UW4zLWI2bEk3WWQ4MkNzVXZQMTUxc3N3N3VRSHBKcTlQZlhxV3dCUUZ4bXlsVWpSYnVsUG42S21tRjhFaXJpVGJaNjB4bkRpWllnOEJEQUhJTVZaVHNoNTJ4SFFGZnBoeDhpVkJTQTVkS1YwYXh6dk5hcURiNTIxLVlMQ1NyUXBXUmtOcWo5VWlUOFBaelFIaU1yaGpENEd1NGI1TVo?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-23T18:24:21.344666+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-23T19:19:55.794434+00:00",
     "sent": false,
     "items": []
@@ -4504,5 +4461,16 @@
     "run_at": "2026-10-23T14:57:57.116486+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-23T19:06:56.592346+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Столбищах к концу 2028 года появится поликлиника стоимостью почти за миллиард рублей - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GTHBRNGpRT1RpOWZVaU04T2dGMlNQMUJBR3dWZjE0T1NxaVNnendMd0RQTUFpMXNpd2I5cGNUX0c1SGdVeDgwbWEyTTN4WG9XV3BRYk9B0gFTQVVfeXFMTVVJZzBYelRBczQwQ1VUNFdsY1J4bzFoYkdDb1k3OUNUdTlURWoyZ19Xc05OOUpVVlU3VTJJYnBhY3lIY1BwLXdIN1RpNnp2S2RVcWM?oc=5"
+      }
+    ]
   }
 ]
