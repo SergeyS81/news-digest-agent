@@ -1,36 +1,5 @@
 [
   {
-    "run_at": "2026-09-24T01:19:23.148885+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-24T02:20:57.295716+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-24T03:20:55.080784+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-24T04:21:21.392925+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-24T05:20:00.618853+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Google Nears Gemini 4 Release: Post-Training Underway as Leaks Tease 5x Lower Costs and 3D Upgrades - nokiapoweruser.com",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PcDFYYTBqcW9mazRHNWttNzhfUzZYVk9zcUNDQUI3cWgtU2s3V2xSUmxtZ0hvN21iTjZ0WEdVNnlBNjF0YTlZNEg0OWVwT0Iwal9sNWZkVlF2d3JwdHQtQVBiT2k2ZHplQk5VMzlSRXVzeVlr?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-24T06:26:19.558189+00:00",
     "sent": true,
     "items": [
@@ -4457,5 +4426,36 @@
     "run_at": "2026-10-24T00:37:44.032721+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-24T05:43:23.911512+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Не существует бойцовских собак»: владелец ротвейлера развенчивает мифы о породе - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXhWaTRwZHhSZVVrZWxqQ1FRWVgwSVZNUHNENDRoZkFBdnhyWmwydGN1OThkSEhnYjl2TGRVa3RtUEt2Qlc4NkR2MWJZQjJ5VzhtdzdWMVBlbWpMMjlPbGU5VjdTclRyaVpaN1lwcG5kYjFDVnVJZ1V4Zi1OR2QwdWlibjdEMWQ1WDhmUlo1eGhjV3Fxdkk3NUg2Wi1WdW5ieFdwNGswLXZvbTJxMXJ6QjVXTkJiclN2SU01NQ?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«В музыке Губайдулиной не стоит искать мелодии – нужно ловить ощущение» - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVW9NZFFtdm83QnFhckM0Vmh1QUxMWDBmQUFUOE5aX2dlZmR1MmJPaGZzN0tibVpaWS1WczgxcUF5VVNYZXlBcHFBa0hXR0E0cWFJYzZOM1daaTRqUkFIb0VlTzNFZFFqV0JYellzWE93MVlNQ1Y3M09XQVlUQkI3Y2hROVNUOWFPclNieElpYUZCYmZETndFRVluSW5wemlTcVExRFJKakRicFVLWEJr?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Казани может появиться парк альпак - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fbW1PMTk0QVY1TWxWMkFBb3NIamRwelkwR3BaOUhNb3pONmNybWRJUFdtUXE3bElPRW51Ti1lZlZUZmNiajJfTFdLaEJ1VzJsbFNmR9IBU0FVX3lxTFBBWHZUcW1nUmxSUmhKbFRuQlBZMGNXOTREYTFzdkIxZ2JnMzhVRUJFSXVjWXR0bmdNMU1scWRrMVlFcXNUeFduUzViTFlwdmRCRmpR?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Прелюдия Kazan Digital Week, АПК Татарстана и китайские авто: акценты недели - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdzVHb1lhNEpXVTBzVTdwbHF0eDdoQ0VpVGh0R1E4aUpBNTF0NERmSXhXSHVjMDB5ZGNwTEwtMzRxUGZDZWRaNHdVcEVGOTdKZWRHemNiUWIyRzMtb0Fsd25XME9kYzBLUlRhcFJqbjdKWWRYSlE1Nm9Jbl9jWEtnR2JuV2tnUVBSX0NacmF5MmhMd3ZIcUFEU1pLWG4xZjllYzdPOGNqb041NXN2WVZudnZMZlBsLWl2?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Волжское дерби в формате студенческого фестиваля: «Рубин» примет «Крылья Советов» - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zd09rd2VZakpsOEItMUdaM0ZnQzM5WTBqengxbnVwX04xRUFrb0JlWmFZQzJqS2xrWUZYWXdSNnExV21zV1NUVy1zZjhNb3ZqUmE3Wg?oc=5"
+      }
+    ]
   }
 ]
