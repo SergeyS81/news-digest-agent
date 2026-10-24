@@ -1,37 +1,5 @@
 [
   {
-    "run_at": "2026-09-24T15:22:30.980937+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Google Races to Launch Gemini 4 Early to Catch up with OpenAI and Anthropic - Android Headlines",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOW5fb3BLUlRrYlFfYW5uYUx2Y29acjk1Q2ZJc1hBYXV2SEVCQ0VxOG9hM2tIdVVINk1GakthNnNmQk0zbE1VbHFmbXZWU2VKVE5DVGRYdnFwSnNQbFFmV0Z4THVMV2k2QVcwUlhIT2N6WVNqYmZVYWhwUi1LWVFvamxTdXY0MDZxWTdmdHdSb2VPbnh1?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-24T16:22:34.696044+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Перемирие на Украине в зоне СВО: реакция МИД РФ - rosbalt.ru",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeS1JMVRxQTNlUTl0cFRXRnVzdmtCaGVyd0taZ25VVWdxeEJORnVzQlY2OXczYUlEREpMUHJVZnhqM3lTUFRnSDNqdGZGZlVaVGVVUnNZV01URUpGZnhRc1ZyWFJwNTBucGRtTjcySGtaOVBuNTJYclcxWEFYQVRqQVBadkJUa090MllNV3d1dC1rbk5fck8yOUZEVVVoUXFRTExSNUg5TVZLR0xtVjMxZGlkdl9Cdw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Из-за прорыва водопровода в центре Казани приостановили подачу воды в части домов - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tNF9aNGpSbnZGY0V0STBlQWhkdlNUbkF5aGZmbHdCNHJuWTYxRW5MT3RXOWRkNGtNUFFpQWZpTk5ySXU5NnZjeTZJM0poemJ6ZnZXUNIBU0FVX3lxTE1SOEhzWTVnNmctOUtmRUM2TUV2bDFXVnE0OF84ZnNOVHBYcGJDTmprZjdweXdfT2t6cU1GSlp5b1NWR3k5X2l0cDZQQWxzZ05VWl93?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-24T17:20:12.475287+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-24T18:24:27.111029+00:00",
     "sent": false,
     "items": []
@@ -4273,6 +4241,11 @@
   },
   {
     "run_at": "2026-10-24T14:27:16.158188+00:00",
+    "sent": false,
+    "items": []
+  },
+  {
+    "run_at": "2026-10-24T18:04:09.704481+00:00",
     "sent": false,
     "items": []
   }
