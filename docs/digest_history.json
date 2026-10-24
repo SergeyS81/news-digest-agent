@@ -1,20 +1,5 @@
 [
   {
-    "run_at": "2026-09-24T18:24:27.111029+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-24T19:19:25.476195+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-24T20:22:22.833614+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-24T21:20:11.858102+00:00",
     "sent": false,
     "items": []
@@ -4248,5 +4233,16 @@
     "run_at": "2026-10-24T18:04:09.704481+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-24T20:42:16.328118+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Депутат Миронов предложил запретить пальмовое масло в школах и больницах - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU9QLVVNTEJNa1E0QzA2YzNkUGJUSG1RN3JPNkpPUmpsal9kcUlmcTlGV3czU2JrY3NublNqWldGUVlpekVYTVg0akV5WXhTem13RDlMWWQ1Z0tzVHZlLVdmYjVpTXRWQ1dnMDZ5NnE3X0tTaGhpakR4WW1xbWlJdWJ0cDFCVVJ0RTN6RnlGdmVKM01kdTBxY0J6MnNVYkFkY1FrNk5Ca2dVdXRwQ29V?oc=5"
+      }
+    ]
   }
 ]
