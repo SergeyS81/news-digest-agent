@@ -1,62 +1,5 @@
 [
   {
-    "run_at": "2026-09-25T05:20:21.310488+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-25T06:26:34.708375+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Конкурсы, агрошкола и форум – что подготовили для сельской молодежи Татарстана - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVC1rN0ZwS0txMjMtNUlweEtpVlBGd1kyODFybUdYRXlfLVBzU2FuN2JaeGNseWY1cVRRU2ZtTE5McU5ic3R3dnpZakhEQVo5RktDb3R2bTF1aGFOSGo2aHBaaUVNVkFJbmNxX1FMbzAwUDNEblVTOGo3dnByT2xwbXB5c3FLdmt2bkNOSHhLNkExenJQS1pZZEZzNE9Na0dJUlpvY3RocDJNSlM0OG1YOUJvMXdmc0E?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Татарстане спустя почти 9 часов отменили беспилотную опасность - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uX2RReG1LaTZ1eldEdXdaMFNUOGRLRHpQZkEtcGtmc25yTkxKQTlQS0RkWTNaNUlnOG5IeGt3Y3dUeS1Qc3gtcFVKbnE2cWpfQjNsetIBU0FVX3lxTE1EUS1iQ20zeHdUQVMtb3RLMkoxZnFOc1pZazIwYnpESDUwbHFSNUhxbkZ3amMyajBRQ2NNbUozVlgxMC1Hb1VSYS1vUmNSRWhRY2hZ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Прорыва не произошло: Трамп и Си на банкете в Белом доме обсудили Тайвань, Иран, Украину и ИИ - DW.com",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc1N4UjBjNHpLeThKdTZCZWRPQjlpV2pWWENrb1dKVldCeTA2UzlyUFVWMl9NYWtmNzI0My0tUDhWQkhFbnEyNnFNcUN6Y2VmMjIyaWlhZzNnenp2UVpxNkJMMC1VWFdEbHg2VDZRVktrV1FtdmxBRGpYVEJKT3p6NmVpNE9tTGxaZzVqa0stcll6ZF95RjVWdVRORTFnQk82MFl2ODVpaEpzOFZ6TnBFUVppQ2hKaXB1bmhtVnpPTzhJUl9kWHJuZ3doSzVlb1o3a3JsYkp1eWdJR18wNzhHa0ZFcXhZS2Jn0gHoAUFVX3lxTFBkTEtSWkJyTEE1WGZtRVdDMmJoQTZXWWlPS0MwMGduTWRxaUQ3SmlzcHRXZjk0Uzl0ZVNtR20xZDhmaXBwMnhzd2ZwUEo5elpxRm05bG55UktMazc2OC0ya1RrOXhBc1hUdGQwVXJsRVpDY3NDcGlva1pkQUhYbmdTR0paek9xQWhQRUNYal8zZUNnNXN1ZU9NSW8xbm5SVUI2cUNwd3BTb2lla1pZZ3Etb09NU1hpSUZweW9za0FzOW9HU21DMHlBT0pNenFMeFV2RTBta0J3SU4yOWNKZlNURHdxZjhtN2I?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic Releases Lower-Cost Opus 5.5 Ahead Of IPO - Silicon UK",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HaGMtRTBwVVVwamp6UnhoSEVXTVRjdDdwT29KV0lkdVJzZ2IybklzYmExSGR2N1VDLVlVeVUxcG9yMmJkRG1SMDN5V2RlTXZCNXBOUncxWDhKY21EaWJwS2F3UTFsNEU?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-25T07:21:57.019377+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-25T08:22:54.153799+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Художественное сообщество России выпустило Декларацию об использовании ИИ в искусстве - Президентский Фонд Культурных Инициатив",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VMUU4allMd20zaGplTlNSZWY3S3RsVjYwaS1rQ0lJZzRnWExJcUxkdXpJckluYkdrcjFFalA0dGYwb0Zkcm5hcFhrYTRyWGdWRjBRNnl4U0VueVNDT3lIbEVJZ0JfNDd4NjlOVE9n?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Взлом австралийского сайта ИИ-агентом выявил проблемы в уголовном праве - Рамблер",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3dmMjBOVkZ1eUx1YzZPRlBuQzFLYUhlS1BVX0E5bHVINGdnX0M5amxzLVZIYVVCQlhFOENNQjVkb1RSNUpkTWdobmVRaTNncG45YjNXdklEODBzSEJTc2Mzc3c1TEduYURrbkVFcmJQeVhXN3V4MXRDXy04Ty1XcE80bEd0S0ZDc0l6eVhGRjVTdnBNdTdWckZGeU5IMUVfbzhoWE91NFlmM0g1XzZ6MdIBtgFBVV95cUxQT1o1YklrVFRNMWRNZDh1QVM4VlBiaWNrLXFKbTF5cDZDODJuS2RLSzdFRHVZcmRmQXJLQ2p2SUZEM08zSmJnUmE1ejl0OUNHRW1XUWFWRnFwRzBXa01jREdnU1c3bEtHOUxqRDZGNDl1TkR1U2VyWm9KalRuaHdab0VZSjY5cjF3aktmWVBVbnV1WW45djRqb3FYTmpYOWNHblk4dlJvTktVTDN0OHFVNzVkdDBPQQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-25T09:22:13.762941+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-25T10:21:38.957678+00:00",
     "sent": true,
     "items": [
@@ -4185,5 +4128,26 @@
     "run_at": "2026-10-25T04:30:56.931546+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-25T09:44:50.955982+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Чай с хазратом: какие роли ислам отводит женщине и отношение к феминизму - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFB4WU43dTNtbXZvVkdKNjVobVFjR2tPWHFYRWxoYTFEbXVuMHd4UGkyUi1KTUFWN1E0V2ZZQnNaTnNiX285cERyTnpGbjRRalp0OVN4bVVjeUhmZGNBV0k1SGxLU0ZPNV8tSnhrVklKMW1PdDZSUzF6dUFEdWRqQldNeXhwVkRybUtRVXlvT1hUb0JvZDVMaXE1THlMTlJtLVFuVV9pSDZodzZ1Z2g4ZUpibXg?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Над Татарстаном уничтожили БПЛА - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONDBfa1NMN2M3dXdnMUpBS3RCelREeFVjYnRRcm83bTZJOGFpaUw2YTBsZ2QzZWEydUxMdWdGUk51S1hhVk0xMG9uaktPaWxBc1J5MGh1WmpPZVRwbC14TUtIZUhKZEJ2WkhJWWJuUnFPZkNqRFhZeVYwRTVTOTVYYlJ5N0k?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Зенит-Казань» сыграет с «Динамо» из Ленинградской области в Сосновом Бору - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWHRBR0pqVUE4cmJNb084b09iYm42bmo5UE5BNzQxb0dWdmQya3paTC1TQVBEX1lHSnQ5ZUlINHFVSmFwa2RhMHlpcWl6ejc5LThLUnRQSUxJY0drVGtHTWFDUElfdVdMVUtkRzE1ZTVYVHBsSDlJYjhuc1l5QXNoUUw1NnlPN1huc0kzLTBZeXNpcXY1dXUtQW81NEtVTHBfaG9fZHVBVXhhMlM2V3Nz?oc=5"
+      }
+    ]
   }
 ]
