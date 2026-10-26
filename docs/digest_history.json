@@ -1,46 +1,5 @@
 [
   {
-    "run_at": "2026-09-26T00:26:43.057622+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-26T01:18:56.715520+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-26T02:20:20.116883+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Онищенко рассказал, как нужно бороться с гриппом и ОРЗ - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3pCc1ZhbnJWRGE1MjJZOFBTWTJCc3gxSFdnQ0hhTzQ3UmJ3SjBOOGx5MkI3Uk92XzZzakt2NDJjZ29xb2M3amtRWkphOGJpNHpXb0xld1pIRFZUb2M1d0RSbVRKU0I1WXJELVVKT2RxenlmbFY0V3JtNl8zTGxRbjBJWVZ6b3k5Q252cnJfREpfY1JfRXNrTF9LYnI?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Минпросвещения запретило использовать ИИ на итоговой аттестации - ЯСИА",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0cyQng5RDdiMm13U29hcFVOUUFXV0dta0lMQVZZbVgyeGdZcklxVGFLWlREMVNxT1E2S1NGb0ZSTUo2ejBLM1A1SDBoSTI3eklGVlQwTWFDcC00NVR3U01UV2l0Uk9ya3R5M3N3UHVBSFNzZE9vSmJveWUzbjMtZ0syaXJsNlQwZEE?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-26T03:20:11.007875+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-26T04:20:22.167024+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-26T05:19:22.460117+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-26T06:24:56.941583+00:00",
     "sent": false,
     "items": []
@@ -4040,5 +3999,46 @@
     "run_at": "2026-10-26T00:12:09.167706+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-26T06:02:58.276508+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В РКБ число операций вырастет в 1,5 раза, Абашев анонсирует робота и нестандартные управленческие решения - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EVGVCQ3lGenYzVlQ0dUdvSXFfc3BLYTZwM3N0bEhXTWJQd3cySXByX3NYbDNUQlJnV3p5cHhtYU9OV2FUT3NYUEtwd1J3T3dubXJLWjZKSXPSAVNBVV95cUxNamV4YjJRcldQRW9UMzI3ajV5REdqTDc5UU93RHVqSGhhLUtOZlk0NFg4Skdkd2tNRkV3a1Rsd2VLOHlmUjk4SVh3U1NhQ051NnJ3cw?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Пешеход в больнице после того, как его сбила «Лада» на Вахитова в Казани - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHFvTlZVWDB4S3FmeEpkZFRuaVR1NnFMUTZxOWwta1FySTk1R0NUa0I5YWRRRE9aVkpOTEhMVVlnMGgxalZrMjBDVWtMX1JLUkExdjhaQ1FQRHV2Mi1hQ3JaUmZtQVhlenpKRXpBYUF2RjRKeVdNeXIyY3FHVlRjblZ2QnpGQ3V2d1dNdUt1WTA0akhKbTdTWjJvcFZOOUJDRzJ3M0FWYl85Q0l5VFE?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Невский лед»: первая медаль Хуснутдиновой и тревожный вакуум вокруг Валиевой - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGdCY0szaWFyQ3ZQWnFkWWxZRW9VNzNyZmp5THJTQmFRMjlOVURmVmFuUkIxNjZvRjFnOGRlRWZhYllubzJTQ0Nva0I2VjEzR1Q0bm80VUpmekVWb3FzdVN3TlNDU29tX3NMUnBHOEk2Q2R4T3lfeUZLZkJ3QTY2TkRXS2NESjlwU1BxdC1NTXNZWU5WLTF6UnZwS2VZcjVxMVJpdHE2QThlZUhFVURPd1dkbnNlZw?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Сварщики получают больше юристов: какие профессии востребованы в Татарстане - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTBKb0N3ZnJaTHluNnV4TE04Q1NNOHoyWlpvZW1fdm1mY2kxaG1JandVUDVqZWpZY3hqRm9rT0wyQ2R0Y25ZUnNhR3lhNEJEcVBkajh3TkdZcW1HUm9HM0VDeDdzSC1mOXFzRVpnWnhFM1ZWc3hnaU5DbVhPTnhFY2FDMmp2ZmhMNzJrNVdrR29wZlpyX19VWlowWFVMWWptMVFEQ2t2dXZXY0dFd2VOQ3VWbWVnX1gzWFE?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Свердловской области пожар начался после схода грузового поезда с рельсов - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQamxRZUtGWUZpQmFXR09aMnlvaGk4cUlqTXBYX3NYQlZuandqZFNDMGRXMXEyZ0JvZi1MVndTMU5pdk91YndILWpST25ZUFRxQnRHU0xxSUJUNzN3TVJlUDcyanNKN18tUG5VMVZwbmRXZTJweTZ5T3ZBRHlpRkVjU1ZZQ2hGaGxleG1ucFBkdnVzTnpUdWJnOXRXbU9BVkJxYVVtOExFc0Z0TGd4TTJZMjZ5dXhvc0E?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Песков: Решения об изменении формата послания Федеральному Собранию пока нет - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZFBLQ2djelBidGdfcXRwQUhtVnJqVDVuQVNpQTdDbXBRbWx1V08zYUg1TGIyZGxUWFBJVnVpak0wUHBVZzR2bmtIdVVlWGhiR2piQTFEZm5ZdHNYOUFobzV2TUZxMi1RSm04MFduV1h6dkdxbnNueUJhWFIyTFRudnZtY09nc0Rra1lLMEVtU1FjQk82Qi1zdkI4TFh1OW1TOWlqaDVkLTlEeElNdWFFc2Z1dDJrd3owTWc?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Нижнекамском районе назначили помощника главы по борьбе с коррупцией - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVmdiMkhDRDhUZVI5Mjd0NmhXVUhTTHJ0WklRdllNR1dFckhTWGw4SjJrUVJkSS1pemxlcFN3YndiS3pYLWVuSkJSNy0xc29FY2x3MWFhOGtXeXdReUd5TVdNRWJDc1didVdqMnppVVhiZUYyRk14TU5WLWd2UWxMb1ZBUG9GM1JvLVRXS3Q3cHdxeGdaWjRXNk0zSGpPQW51V25BYjB1SkJRMm9CVkFoRV93?oc=5"
+      }
+    ]
   }
 ]
