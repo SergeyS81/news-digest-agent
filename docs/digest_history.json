@@ -1,57 +1,5 @@
 [
   {
-    "run_at": "2026-09-26T13:19:18.565518+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-26T14:19:42.682117+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-26T15:19:52.970234+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Гатиятулин: «Ак Барсу» нужно быть настырнее и точнее в завершении - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmNhdHJOTnlkUTV6SWlrWnNpSS0xMzdoRFptZDBHSTVoZWFadE01X09teWl4RG93c0UtenBnNGNmcTFkUDJBX1B0SzJaNVJUY0Zjb2dWWkt5ZXBVdnhvZUNDeGVNRmdHenJySlduYTFRZ3NwOFBtd1ozZC05cm02RFF4Uk9qMzQzdmxDZmkwajdVUTkxZFNTMkNMb3daV3Y1YWlaeDRB?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Минпросвещения запретило использовать ИИ при аттестации - Вечерняя Казань",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOTg3djVvQktRUU9hNkFzbjkzN2ZpN3VRWXZ3LU9GTVd2cEY0OUhKV3Fmakg0TDlxcWl0YktUTDRnTl9BLUt4ZlJsV29HalJHblJqZlpYNHM0X25EdG80bXpoRlJ5eHd4Z2lmWlFuQ1dCYURkZmR0aWZCdlljeGhJWE9GYWswTmZQdXM1Znpvcjc5bVZvUzFYQlRHbF9VUWxJWkYzMTZB0gGrAUFVX3lxTFBDcFYyS0w1WVdDanBXbEswenJpSEpYUHc4ck9HOXpyVE1DVWtsRVZYdmhHeVBwUndrX3ZVTnRyQ0FGamtlMS1qWUFWSEtMTjZiRVlGN1dJc1lLQ2xFTk1MeC1mS0JZWEhYUkZ4UEpvbktnVDgtN0xNYUc0N1JrRG5UTXd6TXpBaXFwTFBJQ0dFeWtjLWwySmNnRkUtNEhKXzN6VFd4VGw3OERYQQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-26T16:20:40.294228+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-26T17:18:38.560479+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Рассечение Галимова и провал в обороне: «Ак Барс» вел, но проиграл «Металлургу» - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWUtWM2NkZUhfcF9BZE96cVRwTU1GRFJRQTJJUjFhNGxYd2RsalZVSUs2V2UxWmtaWmtMVnEweVRpWFE1WXRqcTNfU2JrWE9ISTk4cnpFV2dmM3dnU2ZVUmFRMGRnOG45dUI0WHlZUmxuMVdTUm52SEpCYmVzcUFfY2RJcVZ5WV9vX2Z4Wlh2aWlGMmFkWFktODdHazEwRzB0RkJtS29zQVZobmkzbjZqeFhCbWY?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "В Каму выпустили тысячи мальков стерляди - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGZpYVRURHVqaE1vNG41U1hIRWxqeW1yWmlhZlRlSGV5aEZHLXJyNnRlTGtsUzYtWE82SHhWcjJHNGozRF9XUUgyQUppUk1sc0ZsdWx3Y0ljQ3lwUW85amktT2xINFU0MFNSZXBMejYyaGxwOTdiRVlyX2VEZnpFdDFRS2ZxNmlYRHc?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-26T18:22:53.963118+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-26T19:18:24.220122+00:00",
     "sent": true,
     "items": [
@@ -4002,6 +3950,37 @@
         "topic": "Здравоохранение Татарстана / РКБ",
         "title": "Активисты «Первого Патриота» навестили пациентов ветеранского госпиталя - Татар-информ",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFpYalVoclFIWHVZd1EyZjlOUkRFRjM4aEYyR0tZSDE1dG1KM3dRVHRudzNXMEdKbktVVXluaEh6dXM4WVFuZkYtdjJyWnMtZ2FROVJPcWoxcFFVRUNWVXNpanpOTWlEWWY4bHc0NTQzelFxRE9UOFVrb0EtU3U0TklOSmVkWG5MQXpKNHdMRzg5cnhsZk9hVHdwcUNfWjJNczhMUjBqaFkxX0dqWlJMNA?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-26T19:12:14.893210+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Путин поручил подготовить предложения о корректировке поисковой выдачи по запросам об абортах - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xMFdVLVhqRmVlejRmWnZVYllUM3pHMlFia2VISkdmSWVxMWJES2RHZ3hoQ2dRdEpCYzB0ZEtYWEVhRS1QTWhmVGIxQmd1emxld2Y1ctIBU0FVX3lxTE1jbm9vek4zVW5yc1hLLW53b3N2WFpJejFuQkFaRHFFUnRXdkRYbUFtVnJwV3JpSXktWG5zTlZTdjZJdGlRay1FMm9FTVlqNmxuMmxZ?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Битва моторов» с Борисовым и Янковским заработала почти 800 миллионов за три недели в прокате - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLNVZkNmNWQlJtaXRRWXJfZV9IcHY5RHlyVTJMQWJOd05QMktFRVdnYmZJVEJXNXZUVjc5RklzcC1uUVNwNUd5MkRjUmtIYXlrSVBDTNIBU0FVX3lxTE9fVE5XWUZON3JqSGJIclFZVTB4S3N4eUg3R2syQ0JDcUJjdFFMQmV3c1ZvYnJHX0l5U3VHOTZtc2hFcGpfTHBrbXVlUnprek90RnRB?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Шантаж, взломы и угроза человечеству: Anthropic предупредила об опасностях ИИ перед IPO - 3DNews",
+        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB1N3pqQl9rQjcwLWg0Si00dzU3YlVSX3pPTlk1anBUTUs5N2g1Z3BrWkFIcXFZbkRHN1dKUUVB0gG7AUFVX3lxTE10UEN4UWhsMHNGd3VBRGM1ZW93X3UxR1NPTWxjR2dVZjF4QWE4SVJNSG9nMXhnRU5iVDZmOTM0ay1HdTBEcEZxNGhHaHlZYVduQjJqRGpSVTJKVm9MeW55YmJNV1FiSFFNa3hQNWEyMHFoSWNnZ3ZYN3loMmdHRVBhRDdmbnFnOE5zMUhESEVWVXd0RlBKTkM4ZnliQ0VfTlBmZndQSEtqSlJPUVFKRnBqbHBSdEp6Z1pPVHM?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OWASP выпустил GenAI Red Teaming Manual v1.0 - Хабр",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02TlpGSkxZOXdRd2tRdndaQXVhaXZHeGU4RXg1Z29KVjdvaVlsU2dEaTdnQ1VoczBuMkNIbEd2RDhWb1MyTWVQc9IBWEFVX3lxTE1fT1B1S19ucFNWNWVXajU1ajBVRHA4aGhKZUVjUnRQTlJRSU1yUHFWaWg5Mk9LX3ZnUmhKdEFyOEJYTmx6a3NNekd4UnVpQzBRTkVybkhDS0o?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Warner, Anthropic launch new AI tool to help military families find resources - The Virginian-Pilot",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUJvUllVM3VNR0tKbTVjT2tMRUZBaU9xQUVNamx0YTFKNFhPdS1fTFJKYWpHRjVDdFVNc2lJSTBrc1VJQVJRZTZqSWFHZVFzbTZab0p2M0NkSnB0cUludjFoUXhLX056MjZFLXpCNnNQVGR1MnpybDFNUjU0OTdqYmFJV0N2YS1GMGZ4Ni02dTVqUUN3RklTNUlaSXN1c1dlTVN3Q0tFblcxbTBYR3ZFbGY0TVRHVHM?oc=5"
       }
     ]
   }
