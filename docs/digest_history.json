@@ -1,47 +1,5 @@
 [
   {
-    "run_at": "2026-09-27T05:19:49.732637+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Искусственный интеллект от создателей ChatGPT взломал сайт правительства - National Business",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRTVuM240MTU5aDVGXzlyRDN4ZWJjVllqQmh0a3UtSzczWmtDbG1veHpZaDJ1VVdBMjY2UldaMjg4ZjZ3cnRaX3B6NGN3N04xNmd6UlFWLVpMb0UxZW9FYWxnbFVOVk9uZURMOUVCUWdUUFVqVzVSckg3VGdxRnh5ODlOaWM4eUk5dlJaNjNILUcwM0YybzJMTE1JTUp1cFRRdlRzdzI2My1LZFVnV1cwYlJ3?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-27T06:25:43.647263+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-27T07:20:45.717341+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Удар по штабу Украины под Одессой: сводка Минобороны, ход СВО: Политика: Россия - lenta.news",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcEFRSTdkQ09mQ0JLaG1NRXdxRzZUN0s2dU91RHZRTzd1cU1vLVYzZ1lDNTN4TGxNS1FDbDY1Y1BKTVpvaDJMSDhCRnNKVWktTTYwdXBmX3VmY3VwVGExTGRDYlJhbjZsQmhTdlR2UXJfbmhvc3BnQmc5d0hWb2NOdFdzWHZ4WVVHZXBsWEln?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-27T08:21:23.314728+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-27T09:20:31.166173+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-27T10:20:00.274782+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-27T11:19:58.531284+00:00",
     "sent": true,
     "items": [
@@ -3931,5 +3889,31 @@
     "run_at": "2026-10-27T04:53:36.856156+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-27T10:26:27.245959+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Врачи ДРКБ Татарстана спасли ребенка с заворотом кишки - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdm1pdEY2OUIweTRvenhTX0E2V0RzRXBubGNaUU45VkJ1UV91cEVOc1ZwRFc5RGFxV2tCdG5QZkJnR0E0Y0hzcnMwRmRWWWRLVnZSNEdrZzNYc0ZjRi1rNC00QlE2cWYwYkxzYlNRMWZVRVlmUEp1bkZCZGx6cGRHeTc2dWIzR1FwLVB5QnFpX3hWb3pSeFdvcjlBcw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI выпустила мощную модель GPT-6.1 Terra для управления компьютером - RB.ru",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcVZ5dWRtdW5DTVRTRUVPSkNGUDc2czF4cWpMb2RHenJBQ2x4VVdkeTA2NjcwZlp0N3E3Y3VOX2NadkdYYXdnMFdXZ1V0ajhHZUEtLWdaUVltQU1oTzdzX0FyRWtQSnZmdUN5eW16R3R3Zm9tQWhKS0ZobUdfWXRvaGlyT2lyRndsMndONFVURkg3ZE5SQkxSOHZTTDdLSTB6Nk1MV2NUMFZ0SFRneGVPLWVTTGFfdi1jeWE5cW9PbFE1Vm5qdGhF?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "«Яндекс» выпустил открытый тест для проверки способности нейросетей рассуждать - Компьютерра",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLTNLazhMM1Y1LTVrenhOWFpWYy1weUVKcndFWEVVSmFLQ0hJT1ZCcjJRTk1IRHI5c00zblNvTFVVUkh6MWh3VVl5YkluUVg4ajRTZTktQjBydVNqeUhudUlNQ1Ywei1Xdmp1MWtZZTRiUW14VG9IWWNHTUktZVNTczAzWGZYdUllZDltdnFlSjk0TmVzV0RQRXlkS3F3Z3ZQOTg0bEM3aWtjb0dLbEJZd29B?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "В Швеции сотрудникам правительства запретили использовать ChatGPT и Claude на рабочих компьютерах - Anadolu Ajansı",
+        "link": "https://news.google.com/rss/articles/CBMiygVBVV95cUxOOVNVMjVSY2pyS1I5S3lsT3Z5TzhiNVVHUU9xZjZXckFSb2YyOU1TSVZRMEQtdWMtN0pjZ1VhMi01ZXFZMHY2dW9qUTlmY0lKTWxJcXBmWlRrUVBodDU4STVHaVNfVVVkaFNHb2tFSkxXek9OOU91ODVjRFU2M0dBZjRJc21wY2hVLWdjUXFneFMyUEdFRk5ULUItOWl2TTQwcTRMOUxnX0dKcTJHQTJwUGF6NGhGUGU3TkxESXNIazhMNkJHQlNTNGxHdDM1eWVDSXVJYVpCZkU5bzlTazFqcHJvRVcxVlY5MllZNmNfRkoyYldYVXBZc2F1MDBHbk4tR1Z1R0JhendBU042Y1pScTVWX1g5dkNYQU4wNThCQXh2VWlTbXYxbzhKdlhlcWFnbFc1SWNwMTA2TGF4R09wZ3ZwTk9FR1BlbldrNEFWTTlvbHVNc3F0aXNCWW1tQXRhdnNMMm0xd3FsV0tXN1N0cjZobWV0WkRrQmZzd2l2Ulo2d0dUUHZnTXE3R3J1UFhiZHh5a2QxcXB2bUdISlUxNGpTcDM2VkdlYzBXaHhsSXhibDlhX3F5QkVBTE43ZElxcm9qQlNnaE1xODA3TmpVMVVtdEtkcy1RNHJkM21jaXNmajFSS3pPSllzX1VsNEZMbVk0amJJcnp6U2VfN3pQNC1LWUp3OVVHdUx2dnZNOFI5M2NqWkxuSnJNTWNLODlqTFV5TjdHYWZWQ2dyd25hTkJmYzFRdDRtdTdWMG1YNnZiUHFLR3ZiaW81WFZ6dnRKeFF6aU9PQlBrYXIySW1yUkxwYWdfZ2lJUUxYNU9hT1NZVFVDd1lMNGh5dEoyV3AxWjdrRU1oeWJmNjZpamJieDFKbVFBYkxERmJyN3pjTGxjQmYwd0xMdEQ4bmFxY01reEotTDlWXy1KZjNDOU1kWmhGUDk5TGhHS0E?oc=5"
+      }
+    ]
   }
 ]
