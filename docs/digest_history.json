@@ -1,37 +1,5 @@
 [
   {
-    "run_at": "2026-09-27T17:18:55.701453+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic launches Claude Opus 5.5: Benchmarks, pricing, safety - Mashable",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3kyT0JlSC1QNUhOT0RtQ0VZVzFRSF9IZVE1TlhmY3RMU012NENzcm9IVXdXM0NQMmZRVVRxV0d4QmgyUHBCWXRsQ1J3OGhCZ1JPUGhJOG1ZYTdXcTBLVG5PQ1NHUzB6WEVlZFl6U2tDcUdqVkYzSndmOGxlREwtd05Fb1VIUnZpT2d3bDhKWQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-27T18:22:57.034679+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Пользователь задействовал ИИ для взлома Internet Download Manager - Хабр",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1uNlFQT3d6YnoyRm1UWlFJTDY0ai1mdUZwY21BUi1Zano0VUhnVkIwdWowUkZvdUh4MFNXeUVNcEJNSDJFa08zStIBWEFVX3lxTE0xTkl3T2VlNGduZmVwaXJHRXhONE03WVlWRnA4V1M2SEFtUEFabU1rOVNkQlFmbWNzdzdQWW8wZGJ0UzBXWDNHd0U5WTBFYmtlYlFmUFd3T20?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-27T19:18:25.461906+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-27T20:20:02.036372+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-27T21:20:14.235814+00:00",
     "sent": false,
     "items": []
@@ -3867,5 +3835,26 @@
     "run_at": "2026-10-27T16:28:38.327369+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-27T21:15:12.785831+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Трамп назвал термин «искусственный интеллект» неточным и хочет его запретить - NV",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSU5wNURBcGtGVUtHR3BPajRMcXBBQU90M0NBN0NUS2dVc3F3NzZGZEppdmZLUHdDTzA1cW8tVDJBTm1GZ1Z3QVEweUp6TlozaUdBd3BCWUREaG5XeVRQcGx5V2RKVF9LeFBicmY4WWh0TklpQXdyZlFJQVFmMzczWjVfb1VkaF9zYkZRSHViNHl1OFdUWDFaeU5VMHXSAYwBQVVfeXFMT1VqSF9CQkw3cFJtV0JFYWI5N3V3VEZzcWJsbDdtQ2xiVGpmYkxNSVhxdTRtMDZZWkRuNWd1aDVpZHFvVGVuM2hza2oycUJWdjlncmNvR00xbEtkaTFvZnVDaXRYTUk4LU5fclBOUFNXcU4wc2d4X3Bua3NkZXA4SW1ianNMTjhQVmtQM1o?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Трамп заявил о намерении запретить термин \"искусственный интеллект\" в официальных документах - Цензор.НЕТ",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0pxcERJek5YNDBITkdtS01LRWxZd3hfUDNiU01RTnVVRUVyWjZwSjVvUDFzUUZsSWdESTYzMzJTdzJIdzh0ejRvOTVnT09mNUVOMkItQk01VW5FV2dUc0NGVk4zX2RfQkVnNWVPTndfSWRCdC00SzA1S3ZBUnhTcGw0MW5SYkhaVmllZjdzd2Q2Y2ludmJ0RzRjcFBrRzhNMFhhbXBFb3J5NTlf?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Трамп пообещал официально запретить термин \"искусственный интеллект\" - РБК-Україна",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMldDVUZSbGhpZUFzZTV1UkM2LW1VOTZmTmFuTWZZZ1g2bXIyU3dsOHVicGs2ZFZKVzc2dWZKR3JmM01FaEZMSTVMLThETTFyenNWRHZkU25KTFYxTmFGUHpNbkZ1Sm9CenU2SXBTMGhwTW1hYkxkSVJCOGR0emx4RVpZb2JFRm1GZ0pVVjY4NmpLZ9IBlwFBVV95cUxOYnV0dmpNTTVsNWlzZl9CMV9lb0tKMzZkVTg0SEktY3RxcVBmU1doZ0FEMjVDNzh0aC1RQjU5eVVEcml1R0lpWWhib2RnYUY5Y0ZYYnNQODlaMkxycWhvempmUF9fU2hCZUdfb0ZibS1XOWhsOXl5X0Y4RUltOUZ0MVF3aHFIeUhJdVBHWGNZUUtlR1Z3QkNn?oc=5"
+      }
+    ]
   }
 ]
