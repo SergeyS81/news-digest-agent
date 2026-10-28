@@ -1,117 +1,5 @@
 [
   {
-    "run_at": "2026-09-28T08:25:50.784683+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Татарстане диспансеризацией в этом году охватили 1,5 млн человек - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVE1SM3FTeTJ2MzhUdXV4MzlDUzZ5cFNMSUVkVV83THJVbGh2WmhCNG5SRWFmQmYzLW92QmI1SVMyZllwLTlxcG4ybU5MNElLNGpqcjhhY1BjNWRraHlJZTBwMmxrZjF2eV9uM0toVnJkQ3hWTE9mbjk1T1NGQjF1V1QxYUFWYjVhbDFFMVI1ZGlCVlcta1Z0anNPMjdvS3BuY3JMdFJfR0JPQQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Российским школьникам хотят запретить использовать ИИ больше одного часа в сутки - Life.ru",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHpjbkJRWVNyd0wwU1hpRlprRHY1YXZoV1dyQU5GcGlGbTNsS3dTX3g0XzRJRUVGbkIzZTR3c0syTzhhLVRVbFV1WjJ4aXAxaS1hcmhOemdpZ2FXUHNhdGtkTXlBcUVJaUNRTFl3aUJtTG9YMllCenI3Y0M2TVVMTVhldDBFVVdNRWVscGxDTDU2N0RiWlRQQjZ5dGpLdw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-28T09:25:37.768424+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Прием по вопросам здравоохранения пройдет в Казани 29 сентября - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmlWYWJ3QnJmZnN0NGs1c2VwVTVnX1dsNms0dVRrNWNFdUNZZnFhMzRtWl9DSUtmSnZCc21USHVvREJneU1UYi1wTmQ1cy02MDdKUXVlb0dnd0NDUUNnN0Z1OFBOQkxEMkd6cEgyUFQyaDFWYVBEOVR0TWJmRG1uNUE3SFZqSlJWWDByY1Q0M2JWZnRWSkloOVlMS1NDWGdZS2JYUHh1QXlBZw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Ии о театре: запрет Вирджинии Вулф, дипфейки и конфликт Трампа с театром - teatral-online",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iS0d0Mk9hV0NxZWJUTngxVmNMYWFKQ3BueUVWQWU2OHg4RlZNZE9ENGdqZ3pyN1p1NEtrSDUtd3Jqckw5VFVwUkVWNjBVWm95MW1z?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Минниханов отметил положительный опыт проектов «Физматпрорыв» и «Физхимпрорыв» - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTENOOFl3QUE0YXhFZkRHX0FRQTQwaG52elpmcXV4YWxHR1FsWElJZkZPNkFXNjFoSzhhUjJ3MjFRM1JXNjN3TktHVlY1RlRnVkxNRFhpN3BqaEpNZEQ0dTMyZnNtbWF5MVl6cm93dUlYY3A3NDEyZHk1NFNQTkQyazBGSUhMS2ZGWlRZNTBVWUVGeVBOdFJBNXhzSnRueE9MSzZEZlZsWDQ2TTBOZ19aa0p6eGJTUQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-28T10:24:13.124476+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Врач напомнил татарстанцам главные признаки инсульта - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWG1FbktwTnJWMURkNEllR1NFeEtWUXEwempvNGFOZlFpMTRlZXIzdjJ6MXQwUkFEOFoyMTE4T3VqOHI0VUJRY09taGJNTW9KbUJqWW0tTWU1Ny11WGhLbnVBNHFmOTZqajB0eGtreDVfTHNfc20ybDVsTjFzZ2YxMHlfX09YWUhpS1pLakZfaUx6YTFPLTZB?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Nvidia releases software platform to stop AI agents from misbehaving - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4weHBRVEI3cE1uNDdNT2VtbWxCMm9iWkpzWVY0dXc4X2hGanFpZnRVLW9JY3IzTXJtMWNFMDRaNlJKZ1BUWkNfRlp2Yk00emxRUVllS3N0NlhtM0lTRHp4WUNR0gFnQVVfeXFMTTR0S3E4cUJLNEZjYmtKT2c4Vk5kXzFXQzhVOWVzdFViUlUwYkg5Zl9kVmZzdXpXVldGdW81NHFzVVZhMWZwOXE1TVVEdkdyV1VtRFJZV1ROU3JOblA4emtyTGVoaFF0MA?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic Releases Opus 5.5 Migration Guide: Agent \"Mid-Task Stalls\" Caused by Program Misjudgment, Sonnet 5.5 Could Debut Next Week - finance.biggo.com",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ObTZId285b09ydktfWlJYMkhWNU5mdXJ3ck9VNlFBNFp0ZXAzZnR5STdQTExnSW84eGlsdTlBWnFGdS1FWUloWHh2NmViNGI2RTZZWGxOT1BiUXZyYzVNamdyMl9uSzctVVpVSHI4YnA1MktUUnc?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-28T11:22:04.445210+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-28T12:28:26.694084+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Само не пройдет: врачи о сигналах сердца, которые нельзя игнорировать - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNDI1WDluVnV1eXdlX2FScXhEcnRUdFBQMVN6cXE4ZDFBVmliSFhXeldsSF9ucDJjNmRBVHctSEdaWUZZNjNTbnh6d3RtcUpubkZ5cV9FQXNyUTU2cUxsWHpHcHJEZkpsNm9IdWNCT1hic0JadFQ5UDdJOWU4b0FMd1RMVUo4aVgxVFpMcHVFYUZlOXdnaUgwSUdraVROR2VhRUUxZnc3Q3ZldmM?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-28T13:23:20.710890+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Всего двое из десяти пациентов в РТ обращаются к врачу в первые часы инсульта - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ3RCTDROZF90YUprb3loNEliSXZ3bVNhdERieTNySnREY0tMVXFXc1BVdnVQRmFjM1dKTzVlN0FxdGk1OGNHNWtpU3VSTVIzUmtxaVhTNi05VGlYNkxuckMyNjNpaktFdG16NWNOc2xacEJ4YUZyUWpxc2Q3Nk1wNFp1dTFqcHJSdmJqdDBDOTRiak1lcWhoV0l5ZWxaOEdEcW1oUUxQQkZTQjZ1V3dkY09OaHlTRGdkVlVMUGtHaw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-28T14:25:22.762927+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Мендель призвала Киев пойти на мирное соглашение с Россией – ОСН - Общественная служба новостей",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU2dkcklYVHZkT004YU5EM2hwWWlIenNDQXFKYjdNOEkzSVZZcmRXTk52aWstNTM5Z2IwMVFvbnBtWFdDN1ItMmx3d1lraTZuaE92aFhaMzJHLWphTHkwN0daZlljSmk2Vm1SUjFFSUcyX0RCamN4V1dfR1BMdXZtbzhMQ2dNaFhybGxkcXNHb2lkUXdjRFE?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Власти Австралии вызвали глав OpenAI и Anthropic для показаний по поводу взлома правительственного сайта - Digital Russia",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVU3Slhzcmpxc2xYU3RKcEpCOTZUYTZtcDItUmZRbVo2MDFvTlpNaUdGY2hZQlBPWVBKNkhnWHF3VnF3UTB3TkpiSzl1N1o2WWpWWllQbzVQYnFZNDgwd09CMXlQc0V6VFhiYUVNLUF4TlVNcFJkeDVWVVJrY0RENFB0X3NQMkFVRUZIY0JZLU5xbWRoQkRYQzAwZGxTZWgxaEh4LTQ4dGVDdElxbkZkNEhZeXFaTW5taHZIQ3FKY2ZMSlV2aDRvYQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-28T15:24:40.718923+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "JetBrains выпустили Air Teams для работы с AI-агентами - Хабр",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE10eUZrWVllYkFuZklwY1JSTl82YTd4cHd6ZF9NcEp6LXF4OHFaNU5zTTFiMkJmcEpoT3o5cF9ZNDJxQkNXcTRlUNIBWEFVX3lxTE1BdTk1NHlzdV8tdTlMTkx5VGhITGxvRENWMjY0YkNScUNOUXdkMk1uQTdMOTJ4dktwTW1BOGZkR0JfOUw5ODFHM1B2VEhYU0RIeTlBV2FDVXA?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-28T16:25:21.745972+00:00",
     "sent": false,
     "items": []
@@ -3812,6 +3700,27 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "ИИ вместо лучшего друга: в Австралии хотят запретить чат-ботам привязывать к себе детей - КУ66",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGY3NnoxaEdFMG1BMmxpTTF6SG5sTF94bU5uel9LbEJWZ1ZOSUNfajlDNVBCNjdpY3BDMzgwbGZKTXBDRy1xN3hDUk1JQTVERXlpa1JYTy1aNjVxVlBXamI3V20tdFFhc2lBaTFWeWpXQVhBaUZMQzRkeDJBT1NPNWRoRWUwazZxQ1VfTm5yS1BJZFF5VDRfci1xcmItdXlUbXhQVHBEaEk0VTZOMjNWTQ?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-28T15:57:19.249837+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Халяль на $50 млн: Татарстан ищет новые рынки сбыта в исламских странах - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbm9RUzhnTkJqdk9HcjFsNTBjSVVvRTZlM2JLTWpjMU0xMXdkTERNaVl0SEVNRHZtdlE5QlRreGRtTlZJSDZLcTlfWTc3SEFNZ2dUTHdoYVVvYWM5cFlMaHpNR2ZJRWxGT2Q4X0ZKclAxWlN1R3MxaWNGOUkwWWpYRGZiOUNKckZWZXFMQ0l0dnlrazFrZ0JoMlRYeUZ4bzQwczZrS2xQY1RZbi1DS0tEZ0hR?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ сможет взломать защиту банковских карт: криптографы бьют тревогу - https://hightech.fm/sitemap",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14dnRXMWx4RURBU1dYX1o1WVBTakw0U0VvRzUwVFVuQ3hxYm53d0p5U0hwY0lyVkpKOE5ZLWxoeElkSHNBV3ZYblRudzRxUE5nQ1VfLUZFX1ZSVm5fdFVfYw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic Releases Claude for Legal Artifacts, a Set of New Interactive Tools for Legal Users - Law.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTJlbERhR2hXeUJNbkw5cUVwd0Q1MTZkQUNMU0hWbnlfZmhlTmdOVi1CWm8yVjMwZ1NGaC1TZmdkOWg2S1c5bUpxelowTXdXcTh0aTExU0o4d2lEaDZHY1BIVlJFRTFpQ3FZUHM1VnZmNUxEb1d1eGpkR2U4ZkdvNjVnMGc5VEVpQ1pON28yaGs0alY0Tm1TOGRaQ1BMWWJmZlFYRm5nZHkxYXZZOEFxOWs5YU52QzI2VFBybzU5MW42NVpveEkxdGFwUEZpSWtkZmp2MThR?oc=5"
       }
     ]
   }
