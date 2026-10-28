@@ -1,63 +1,5 @@
 [
   {
-    "run_at": "2026-09-28T01:20:52.492534+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-28T02:21:46.563687+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-28T03:22:54.787758+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-28T04:23:09.995841+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-28T05:22:29.196708+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Минздрав хочет разрешить хирургам оказывать помощь за пределами больниц - Газета «Республика Татарстан",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbG5TVGRPb3kwM2lUZVp6ejZnMkpHbTFiMk9uV0hod0E2SXB4TU9ta2tCMzdMU3ZHUm5fdF9JU1RkQlduY3NZWjhHbUtRWXRnc1ZoOEdLTFR1ZlFXa0Y5eHdtVnU0MnVaOVJsTXZvcUxUQjR0X1FudXhGaWZ2MUhmRnFEcno1a2c1bUxWd2t0Mm0yV3dyTmRXV3ZrcDIyUUJrWjBWbg?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Как мы с вами будем платить больше налогов, а также битва за регулирование AI: главное за неделю - Хабр",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54VDNVZFUzUkUxZGFjSEdIUVlkOVVRbVAwWllLNXhzeVJJRFk5ZHJkX1VPWElxSlk4OURWVGdGN2lwUzhUclpVV2JlODA2Z9IBWEFVX3lxTFBtQ21iZzNoM0hTcElsYWhYaE9BdUc0bGctZVVaQ2swWnBPUjVsdVR5d0otWTJZb2MyM1F3M0VjVlMzOF9Jc2dOVDVtYVJHOHJEM1NiMWhjTVU?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-28T06:29:49.389368+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Школьникам запретили использовать ИИ во время аттестации - Правмир",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFRPSUNPTDdkQlQzakg3WHV4MUwtTk55Sm9tdkpiaVNoVXA4bGdKYmttZUVSeXdiNUpyTWxlNXJYV1BuRmhRbzZ6ZzBrdmRZZC1QUkxYMFF0MVNLUFAwMjNFMTZnMjdyMUtZNEM2S1FWa0hvT200WTY2VU1aUUpfQzVuWnU0b00?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-28T07:23:53.582165+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Трамп обсудит с главой Anthropic регулирование ИИ - Runet.news",
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ZM2Y3Mmd0cDN5OUJjcTVkMWxKZTljeTg1c2VOenZGQzVfb2pja3VzdDBGQmtob0ptSlFUbFJQRjViUUE?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-28T08:25:50.784683+00:00",
     "sent": true,
     "items": [
@@ -3839,6 +3781,37 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Трамп официально запретит термин «искусственный интеллект» в США. - Сибирское информационное агентство",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xWmxoYmp5WTVwdGYxcFp3RDZPTmFxY3NiQ3oxWTEyOGpvSzk5cnBQNGU3UkJqZk93T3JrR0gzMzdTWU9KdGVfX1pkNENMUXIzZG9fVGhUZjFSbDdOaEtKSldWakJEZWc?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-28T08:20:06.225103+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Врач РКБ Татарстана объяснил, как отличить инсульт от мигрени - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVEs4QnhzUmcxQWtfQi10al9rTERHWlBfcHhxRnhvN0w3WTA5Q3M0eTY5S0YyVTBuY2gwU1JNQXBpV19TWW5kTV9zOUlid3lmb1ZXWENxTk4teV9rNWJTMlR0MzRHMWpGOE5YNjB2R0t4WEZvYjh6Uzl0TXpYcTltdWFVQ2xjS0ZCbzJzSm5oWklxeUdUV1RnM3dSVnAzTWVu?oc=5"
+      },
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Казанский «ЭНЕРГОПРОМ» и Белорусский энергетический форум подписали соглашение - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjN1TTZRbkNfVW5HYzBOT2FVSzZQbG9EcUxDdFMwV2Jza3IxbmR6R1pac2dCRHFQODVXYlA5NkVBbXdUUXBtSmV4aUlyUlktUXhEWjA4a3dST1pzV0lORW5QMGVSbDlhTTZMYXB2Yks4ajgyNFEwc2pnd0pMQWFoMzBtRVVkeDZwb05iZk1qbVFvem93U0xkS0F2UDB6aUhCcmpYSGJvSU1ocENvaVBISDJSWllDT3Vn?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Конференция по искусственному интеллекту и нейросетям пройдет 16 ноября | Пресс-релизы | Новости - AdIndex",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlQ3dCUE9GVFdXZmhDLWdPclR4SzAwN0JTVTQ2di1QaFNmNWhMdFVucVduSUJzM0poQk5na3dpTjNNdExzYUE1R19ucC1fNkN4a3lGSXpaYVBTOW5HTWdyUmxzYzVHaFU?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Microsoft выпустила ИИ для редактирования изображений, который обошел GPT Image 2.5 Flare - Компьютерра",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelFGeWZSLXpoQVN6aTdlTGg1TmVVTGg3VHdqa1Z1TmRfdjlXcV81MWh4b2lLd2VmRHdQQjRQaG0tWExvd0p3UVNHTTROSnlJbENwSHc4UU5yQVFyMDhEc3RPcGl0dENscU80ekZ3UlVxOGNEYU91d3BsSW94TnF4eXU4UkI0d21kX3MtUXpLVDVhVzV0ZHJEaVZDMEhTUkVtMVZBVXBGVXZSOGwxVVZnX3A5SXVhTmZTVi0zVjRUbWhJei1B?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ИИ вместо лучшего друга: в Австралии хотят запретить чат-ботам привязывать к себе детей - КУ66",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGY3NnoxaEdFMG1BMmxpTTF6SG5sTF94bU5uel9LbEJWZ1ZOSUNfajlDNVBCNjdpY3BDMzgwbGZKTXBDRy1xN3hDUk1JQTVERXlpa1JYTy1aNjVxVlBXamI3V20tdFFhc2lBaTFWeWpXQVhBaUZMQzRkeDJBT1NPNWRoRWUwazZxQ1VfTm5yS1BJZFF5VDRfci1xcmItdXlUbXhQVHBEaEk0VTZOMjNWTQ?oc=5"
       }
     ]
   }
