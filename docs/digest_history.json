@@ -1,31 +1,5 @@
 [
   {
-    "run_at": "2026-09-27T21:20:14.235814+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-27T22:20:55.505190+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic may release Claude Sonnet 5.5 within days - TestingCatalog AI News",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzNJRkZUdEJ2S1AzSEQ2NlVCT2JwNl9ZLU5reFVZT19CVEIxa1JLY3Fud2NaVEg4b3RYbnFJd2VIdmhGamxUSzd5WHFMTUlaVDV5VURvbUxHVDFSa215U1ZlYjRIYkdiUXpxQjNkdHNNQWhyeG12RXZzQm9ySnczYWdpdGo?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-27T23:19:05.754450+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-28T00:30:02.730647+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-09-28T01:20:52.492534+00:00",
     "sent": false,
     "items": []
@@ -3854,6 +3828,17 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Трамп пообещал официально запретить термин \"искусственный интеллект\" - РБК-Україна",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMldDVUZSbGhpZUFzZTV1UkM2LW1VOTZmTmFuTWZZZ1g2bXIyU3dsOHVicGs2ZFZKVzc2dWZKR3JmM01FaEZMSTVMLThETTFyenNWRHZkU25KTFYxTmFGUHpNbkZ1Sm9CenU2SXBTMGhwTW1hYkxkSVJCOGR0emx4RVpZb2JFRm1GZ0pVVjY4NmpLZ9IBlwFBVV95cUxOYnV0dmpNTTVsNWlzZl9CMV9lb0tKMzZkVTg0SEktY3RxcVBmU1doZ0FEMjVDNzh0aC1RQjU5eVVEcml1R0lpWWhib2RnYUY5Y0ZYYnNQODlaMkxycWhvempmUF9fU2hCZUdfb0ZibS1XOWhsOXl5X0Y4RUltOUZ0MVF3aHFIeUhJdVBHWGNZUUtlR1Z3QkNn?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-28T01:13:44.715838+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Трамп официально запретит термин «искусственный интеллект» в США. - Сибирское информационное агентство",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xWmxoYmp5WTVwdGYxcFp3RDZPTmFxY3NiQ3oxWTEyOGpvSzk5cnBQNGU3UkJqZk93T3JrR0gzMzdTWU9KdGVfX1pkNENMUXIzZG9fVGhUZjFSbDdOaEtKSldWakJEZWc?oc=5"
       }
     ]
   }
