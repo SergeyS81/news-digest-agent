@@ -1,52 +1,5 @@
 [
   {
-    "run_at": "2026-09-28T16:25:21.745972+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-28T17:21:37.939663+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-28T18:25:02.569637+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown - CNBC",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qRGtiMER0c2RNRG5wOWl1ZWd4aEszaTJqWW5hWnI3cXpVaHBtTzlGYnQ2bTBsMnhXSkxONXdLVVpXQ0IxSG9RR2tXTnNiM2J0Qk5sbXJqVTVQRUFERXBSNEVPa2NmWHpYMDNOaktSNUNlUdIBd0FVX3lxTE9VUlRzOG8tVjJtWXpKb0hFNlduRU1QU1dlS2xPaHpBSzlxcWxzbFRBT19oMEJMdjgyd0c2elZXcV9vT1lGNU9VR0VqZGZxTThIRW5kLTlMTEUxdEhhUEs2NjJabER2UUdpaTVFdzZxWTVkX0JTeGU4?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner - TechCrunch",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT2l6M0lzLXZOampyMGFyal9PSk9WSm9TMU1ZSFVDVUgxNjFGV2tnYThqTm05RjRqOGRZaF9IeXBTRlZjNVNZd19fclVvNy1wVGE1bzM1NDl5RnZjWHpTTDBadllvejB2UDcyRWZ1bFdJem5TbnVwbkdJeldwOW5RbzhoUkZwZ2JULXE5Q25xUm9qX0RIakZESWJySThneFVzZTIwOGVUaWhzVS1HbWNjVjBGakhGazJ0a0RvczlZTmw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic Releases Claude Sonnet 5.5 at Unchanged Sonnet 5 Pricing - Unite.AI",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcUtqbW5lYjZ4ejZveExQTmluZ1JlSWEyTFpKU1hJS2Ita1prUFFPbEUyeTZ6RWlsSlpHTklBaEVNbERsMXZDZnY5enRVRi1KNnUwU0pydmpoNmpZUFpRNkctcnhUT2tHU1RSZzdHNlEzSTdaaWsxU3ZaN1pHMFZKRDhqS1NFVTN3VVB2a2VYR1ZMdw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-28T19:20:36.954009+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-28T20:20:31.472440+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic releases Claude Sonnet 5.5: Details, pricing, how to try it - Mashable",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNXzZmVllHd3ZISlAtUEZSa0xkaExzZ1RfNl9LU2dGZUdiU0xNb1FLZlNlMldSc2pFWnFVbEhPbDRKbG50bXlNVVRqcEpOUEl0VTdhZXpabFg0N29fbXVMYlM5TlVSU1hDZFU1NUxnd2N3SzNVb0dvMlRQbmJtSnVDcQ?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-28T21:21:17.492392+00:00",
     "sent": true,
     "items": [
@@ -3721,6 +3674,22 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Anthropic Releases Claude for Legal Artifacts, a Set of New Interactive Tools for Legal Users - Law.com",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTJlbERhR2hXeUJNbkw5cUVwd0Q1MTZkQUNMU0hWbnlfZmhlTmdOVi1CWm8yVjMwZ1NGaC1TZmdkOWg2S1c5bUpxelowTXdXcTh0aTExU0o4d2lEaDZHY1BIVlJFRTFpQ3FZUHM1VnZmNUxEb1d1eGpkR2U4ZkdvNjVnMGc5VEVpQ1pON28yaGs0alY0Tm1TOGRaQ1BMWWJmZlFYRm5nZHkxYXZZOEFxOWs5YU52QzI2VFBybzU5MW42NVpveEkxdGFwUEZpSWtkZmp2MThR?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-28T20:58:53.828350+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Рубин» минимально уступил «Спартаку» в дебютном матче Кузьмина в Кубке России - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamF3ZkxCaWZzMWVPRG5PMEh3NzFrR2Ywci1maVZYNWREb2tjby03QXo1cjBvUVlndmZJTDJhbnFHUDhXY3k0dENOV0taTk1fekVBdWVNYVktRWFHalZnalBIVWNtQlBqMjZoRy1aNjlveFZZZ2RQR25qeVp1R0xIMW9nME9NMVVEQXFXOHFLc2tqbjZQZU5uckNVVUg0UTBFOFhYYmZrRThrLWdlYXRBSHZfNlo?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Казани открылся форум «Архитектура духовной безопасности: женский вопрос» - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlo4ZmlBX090ekcyeENHdkppVWFLT2hqTUtLaV9BR09IVUU3V1ZfWUxEdFJxMGhRSFl1WVB3TWd4WWZrUFdkckJSMElGT2YySzk1MTRhbTMxc0dsLWV5RmVLTXBWZWVRcGFVWUpIZkpfNm5KOUoycjdIZjdSdWRzZnFrblRhbmU5WXVDNUw3b3JWMmdSZy1EUzFScTlINTdDZ0VjbkpzVWtJZ2dxbVQzd1ZvQlM?oc=5"
       }
     ]
   }
