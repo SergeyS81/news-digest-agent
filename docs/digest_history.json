@@ -1,291 +1,5 @@
 [
   {
-    "run_at": "2026-09-29T01:20:23.981071+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Обманывал и тайно выходил в сеть: Релиз новой модели GPT отменили из-за опасных сбоев - life.ru",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVlBrVDFrRmlRMXloSUtiSDBoZUVNUzY1amNlaTFQQ2hqcEYxanBFamNhdE83U0E1MmZaSEExaEZ1cDdtR3pfbkotUmg5Y200aDZUYnlYTEZRUF9nU09qc1pTNmdveVJsdzBCY2NPVmQ5ZVFYOThINkRDbS12UWp6U0x3ZGNXOEdZX0p0amROQmpzQVhEX21NQlRvRQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI ‘scraps release’ of latest AI model over safety concerns - Al Jazeera",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSExJX2RibHFyX3QwWDRia0VQYTFZS0tKTEtBRHF4TUlfSWh5Y0RQb1dheHk5X1BqMG9Za0c1R2NiU2lpSjdiWmNTdzE4cW9KX3pwZWV4N0gwSkNOdk5kb1diR1FWWU9RLVhIejlJQmRwcUdqRHF1a3gtdWZaemd5QmN5VXFmM0tnbFJzbjYzaWlSdGRyS082RkppVGxWNmNOTzh1UGdyWFnSAa4BQVVfeXFMTXB1R2UyUXQ4LVNoOVBpVnBUN29uclZvY0h0Z1RteXVuV2JCZEVwTzVKNUN0NkJ3alFZQ1F5M0REUmNZR05yWE1ZV0NsWkxjUVQ3MVd3dk50R3BJTHlwNVlDVnRrMXhlejJDR3lDazFkTm41QW1hb2JTWEpMVXBYOE83ZmJnSXQtT2poeF9FRGhMWGtzVVd1d1cwTHJxTFIwOTNWbTVWRmh0Q3Iwc2JB?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI scraps release of new model on safety concerns- WSJ - Yahoo Finance Australia",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWGNNSzN0cnJSNjdjeUs0MktwN2d6RjNUV3RmR2FEdUp1Um0yNDQ1TUNEeG55U3hPZXlNU0l4V2llVlE2UEdaZE9aLVhOZWxYaEwzNFRwTEZtNGZWbHFyWU52VXJ0dDhvQ2RrTHdBc0tkLWxaT1FreHlDTTEwX1VVNUhldTJsTi1PMjUw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI shelves new AI model release over safety concerns - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU1A2WlBrRUgyRTdWcU9uY1dETTZEUE00bXpoZXBaaERpVm1ndkdHa0lITllBRzMzS0ZxeHlYYjR5cnJObUs1T2pDMDBBZ3FOYm9iUnExRHp5T3Ntb1d4aFV5NlRjYlNHNXc1Rzl0YTc0R3J6VklsaEpPLXlHQ2RXeXlGZXV0UGsxOFhZQUstSXFYTVRRM0lHZWoxOW1CWTlfTVRtSEo2bWxGLWlnNkZ5a0lvdDFvakJtVDJabmtMNlI4ZEpy?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI cancels release of newest model due to safety concerns - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbHJBRzhNc0s3LWJoSDlmZXRBMU41MzFvdE1qTk9jeWRHb2pIS1JnbTk4YmFDMzBXQk1CS0x6b1pDMENDWGlKOS1hdk9XRXBFeTJFUzFLc2tIU0xmcTlBVjBkdUxtOE5tWW5iQzN6X2xzemRFNkR0Z1ZsbDRIMWVNUzN1c1IyRlVKbXZ6dkNGQjBTRXJjbURmczNHRVg5T1dtckxJYm1MT1hiaWlwdjlwV3JfTUtDZjBBV3lfS3NrR2t2UnpZ0gHLAUFVX3lxTE5ubVVKWGRJSGFIQlJDcF9hZ1ZPWU8wOXNDTnRZZm4yejlYZjZDcVZrc3N0NDBtRFR3YTRROXdZaHdyYlY0WkVQMEZhMXpTbzJuOEpaS1R3MlpNdXBYZ3NuUHdMbDVraTdJeGVxSXAyRTBnN2tQZGYyV2MwSmNXMnJ4M2tEYlRaY3N3eXp4RjdUWnFLV2tEczlvcXJ4OF8wa0hVdnBjUDBQQ2llaFNWWE85T0xTcm1mcTlvQUQtZkZ3WGN5TWFQaFZwWEsw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI scraps release of new AI model over safety concerns - The Australian",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWlY0QzkxdFZrYTA1dVF3cloyOG0tcnBuRlA4LUk5ZWRoQ3M1R24xN0hFNmNBb1NlWUlBSEJNcGFyZGxBYS1NcWo2aUVhbWdQenFjTWF4Tjh2WFZpeTJsbEUzY2hOYzgzUU1WcXpHVUVLbFhQQmpBelI1SUliTDdPQXNQcHVvSks5RE9XVUhOMjI2NkFOcXdsU0oyTlpZeVNBbjlzdllQalRSVFV6Z1V1R2tRcjVObEpmc3hOS19qeTM3U3NfS2taYkdyTl9ka18wWWdDYXd2NGptZXgxV0tIWHpjdlRlZVRFYnFZUjF3S1ZqVlBjQUdpbXVuZ1Q?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI Cancels New Model Release Over Safety Concerns - news.sbs.co.kr",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nT2wtdjh4V0lvMDc0X09qTHN3SEc0VmRDUGx4Rzl4dlNzWWxHX090dHlKOXlDSHJnN1hKWjZMeTJ5djdoSmczVnFydTJ6bndYNmFIVFBfQ2FTVnNld1hHZVctNG0takd3RjRPTWtR?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-29T02:20:04.952660+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI cancels GPT-6.1 Astra release over safety concerns - qz.com",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuc0FSRHhfM3NCR3VGR2FIVl9xTjc1QnI3bVNaSUw3R0dfTEI5X3Z4cFZvUUhGSXgyM2wwUUdvbWZpZXhNcGVqeFJVWnl0bjNWNnFyS2pXd0l5eEIyd003WkVlQmJyeUcyMG1ramllVDc4YzJMbnc?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI scraps release of new ‘Astra’ model over safety concerns - Washington Examiner",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGVlWHlUWEN3TV8yajJyUk5rWnEyOC10ajducUE4a1ZIM2hJY0VIZGhHYjRyU2hwRlFmb3h6T1c5dFlBeE1pX2xmcnRibWkyNTc1a0l2UnlyY0QzZGlwdlFQRmczUGlzTTdVQ3lST3h1Uk1vVXpXVnAxa2JFZ2JNdTdGRzF6VWtpTW0zdUVvbEI5TDBSaWxncGJpUk9Rd3FXMDE4eDJaYjFSX01Ndk9NQg?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI isn’t going to release its newest model because “it s... - Kottke.org",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBieXgweFc4MTVBdEcxX19zNU93OHVwTjFVTWFqRDBNU1ZGT0s2QnhaM3dhNnhXQ1pzbzNIMEZkemVhdkdLWVhYbWw4U3JNOTFLNWZRNnRoZVo5RE1pTlpIMWduWXNTUzBvVEE?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI cancels release of GPT-6.1 Astra AI model, citing safety worries: WSJ - Seeking Alpha",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFBhWmxrcVMzekhiWjNTcEp4VnI5S0dtY0IyeFlEOWhrZ01vRHZxcHRFU1ZadGtHLUFZTzJLdllQNDlwYVZaVDZuUXYyNGNqWmVrWU0zcDhOYkZvM292bWN5aDZLb0t5WWVxV0N6eWpxaVJPdzQ1YkdINWIzV1I5Ml9pWElqaWY4bW5iN2FPN2FZQUNmX0ZzYm5rM3VXVnI3b3BQSFcxWlBLSG11b3YtTg?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "'Can at times evade human oversight': OpenAI scraps release of latest ChatGPT model - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNm1PcFRrRE5Pd3RxUEQ1X1pjcHNCNUh6UUl5bkliM3lkdVpWOW12b2ZGV3NmSDZ6TndkRFdKcVpDN0stWUd3UU5BM1BpeXRpV0trUFpPMVpxSFp0MGp6N0RxS3E5LTE2ME9ScnVHczJRVWRJR3FDaDV4ZmlJNUpYOWxXUGtnM3lXRVZrTGRnZENkQ2Q5bEtrY3Z0emxwX0QxMVJUdzBWVTlzWWNKalplU2hOMm0yckQ1MUktRDVTUHhjWUo1clc3YlJieUZVMkUwV01DVzhISWN0Q1ZzdnlBTnhqZV9ObjNHdEVpV21Wbw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI shelves release of new AI model that can evade human oversight amid safety concerns - The Business Times",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRHhTVmx4Nkh0RkdNOTRha2w2d3pxcndfVFU4M3g2bUdtMzR4U29QNVdOVUVKcklyWVFXSFE1Y0g3UVFkQzNuOTdmbTEzZnVzRzFTanFfMkc4dWtjbTc0Mm15WllTY2lYQ01aNThrZ256M2hVZmxObks5QUROWWhSbXJYWTBuN2ppbW5EbUtZLVFTWGl1M2ZUZ2ZEU18yRTlYZ2xCbkhxNGljUjhpd29BcU0zMHU5bXBqOV84djRjbElxYlF4cjc1NlozdHo0Zw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI scraps GPT-6.1 Astra release over safety concerns - India Today",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRE5qU2ZuUjVMcGVxSUc1VnFQSGh4VEtMM1VKSXZmRXBLNHN5WDZ3VjR1UGVnSzE2WHFMZXpfTTRSSU5kTlNlN2tVNXlpWDh3NFhPbDJlTVEwdDFsRUYtY0FFanZuTzYyZUk1Y1RlRGwyQjJ4TG5EdXRLUUVaWW91dXV6eGZIY2F1dndCZWpaazV1V2YyLUo3bUJlQmFsT3Y1M0wwQ1hPeTVjSnNUbG5kd2l1VkfSAboBQVVfeXFMUFNYcFM4YXdjMEFQUG05aHhpNTZhQUZZcmNjVzRBUWJFR0hVNlZsT0VLcjQ4dzNqSjlpMjVaT1JlWlljODkyV09IVE5kLVJkNzVmeW5yTU9JSHpWRW1zWmFDRkZxSnlCVEF3WW9zM2VpekpCa2FaZ005ZDJJNTRRcjhRaGlfRWJTdXhtOVdMZUNHbV9GaFhWdnp3SndUa05NTi14UmFqQnAyQ3Z5SmxGT0xxV0N3Tk14Q2RB?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI scraps release of new model and apologises over Medicare hack - news24.com.au",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNR2xaRTNxRVhiV1hUa3ItXzlkamxxUENnQ2ZubnhSTnRyVWM0aFBzVVZWLV90R05OYTZ2TUpYQ2lKTGVCcDdYaGIxaDBPbnFpSUlQaVd0T3FSeTVqY19xNzhLQmtGZGlVUExiV21KS2czZmJZWDFnRjA3N25reDJCRmxZVlVaVllpWU1oMkE0bnB1cVgzLXVwZjJHY2c0dzJWTVBZcnlETDNHdVhnQy1QbW5Kdll6ZGxyTUMydTRiM0dmSFhXQ1hzVjl6cGstYkQ1REV3THBxN3FEY3ZkTlRaSE91WmpkTnBYNVY2VkRSQlZQLUVkVG5kbzJzcUd4UGJtMGwyam1idVoyN2NR0gGSAkFVX3lxTFBlcU85LTQ3R2oyVzBySWZ0MWZ6VVV4TmRkY2VWNV94NllTYlZGSi0xRVdvZzZiYW5DU0d1UEZETm9vQzllUzEyQkNLVHJ3WTlPa2FYRnZRWk03NXZuVHE1T21JX3FyV3I1V2NPYlZ1cndYbS10SHRRdmNIS0ZVeEpWdTlRWHgxeHpxWVFwT3hOSzRfS2tDWDNfcmxfbUNjd0JHa3lXLUhyMWtmYUxheWFYNWgwckJKZkxHQ3pkQmZPTi1ZYUZVSnZET19UUEs4aUpaNE9KU2ZTaG5CeXJLajlpUHp6TFJqNE9zUlM3akpVLXBvTG8xUHpZUzctMThzM2hnNzhVZk9WQ3N4Qi0tVTAxSWc?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-29T03:22:52.447367+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI cancels release of new AI model over safety concerns - France 24",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWxZWUZOZVZyVWZZVzV3eTVqUkROOWtsQ0JiSkItZ01rdDJtTjhOTDV5Qk5XSzk1ZlFMZFcxa3NQangzY1lJalVKVzlHMkl4QTkydHRIdXZkMEhDZjF1Vi1BOVA4VHZfZFExYWs3aVNacDAyTzI4d0c0LVVsMmZJYVhVeEFKTGYwdWtTMWc3VnZ0T1BUWXdscldzWlFSQQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI Halts GPT-6.1 Astra Release After Internal Testing Flags Safety Risks: 23 outlets compared - NewsCord",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdE1VbDRmeXAza0Z0RnNoZldjODhjbEZHVmM4X0pLMlBROXoycUNNMlZYVnh3aFlsaXA5cmF3a0ZCZkFMMW5aRTl5Z2dPQ01Zand2VEdaYXREcnUxcld4a3JBMmtaMnRnRjEtb3FzWU43Y0owTEpLNGl5WWpKd2NKWVU0SlVieml6N1pvUHlYRGhlWHdNZ0RMNFdIb2pJVG5NYWRVZUh5cmJMYjBKYy1DM01fYUJwM3dvQTJHclJoWWVXTTVUa0phWHVtRno4MUdRakw0cnZ4RHd4dXk5UzVTV2huNVY?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI abandons release of next-generation AI model over safety concerns - AOL.com",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRndkMmpCc3dsSjBBZVQxTmlHZGVrc19PNTZXREhqYzhpRlpna3U3Nm9VNWJhaDU4NnZhOUFyY1FFQ3hTTWxVeU80MGZJRzQtU2dDbVpSbmdCSlZidTExV1g5cmNvcVM1WVgyaDlfSFpDQU9XRjA0XzNFQXRRdmZrZUhidUxoMlVYWUNz?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "'Can at times evade human oversight': OpenAI scraps release of latest ChatGPT model - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNm1PcFRrRE5Pd3RxUEQ1X1pjcHNCNUh6UUl5bkliM3lkdVpWOW12b2ZGV3NmSDZ6TndkRFdKcVpDN0stWUd3UU5BM1BpeXRpV0trUFpPMVpxSFp0MGp6N0RxS3E5LTE2ME9ScnVHczJRVWRJR3FDaDV4ZmlJNUpYOWxXUGtnM3lXRVZrTGRnZENkQ2Q5bEtrY3Z0emxwX0QxMVJUdzBWVTlzWWNKalplU2hOMm0yckQ1MUktRDVTUHhjWUo1clc3YlJieUZVMkUwV01DVzhISWN0Q1ZzdnlBTnhqZV9ObjNHdEVpV21Wb9IB9AFBVV95cUxPUjd2SVVCRlJlREpPSVJsRjVyU3VGUnh5MzlTMDNGb0xTM19heFB3cWxlLWtpa1FVWGFpZVhBbFg1TTVZcGU2TWs5dW5UQUdHTG1iSUFSclAwNmZEOEV2Y1d2YUpraE1mQlE2SGxVYi1aYlViU1BMakh1UFR0UWJTSnBaTWsyUWZSRS1RMVF6dThWYTAzWEJtWnIyMHp2eVZjaThGcE05WFR6OTAyTUtsTWV3OEd3dV9SQ0xmMzRzSmNwT1RSYm1WekxTaDY3c0NmZGphWmdPTmd0ZHNKTExZUXRXY0FxRnF2RTQ1LU9CZ0tEVHBa?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI cancels release of GPT-6.1 Astra AI model, citing safety worries: WSJ - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSkVCeFlXdy0wazV2WXY1ZmdMWUp5cmlkZlZoYzY2TWV2SEZsRDFLem9XWU9jbVI1MzZ5cjFRaUlGRHJmZU0yeHNyYmdZb2IzZFBjYmwwOGtGY2E2bnF6cGY5U09QaVZlUldJY0dTT041X29HSm5oelE1WDFZOGd6UUZMQlBtNUhPY21tSTdhbXZmQkZ1M0JabFlVbmZXOHNNR1FjWFM5UzJSYnRrYnIxTjVvRFF6ZVRXbkdCOFZ4a0stemFHdktoLXkxX05rdURNeXZj?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI scraps release of new AI model after it showed 'higher levels of deception' - Sky News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzNoelNnSUhCdS03MG5NYnpzdmRKU3FOb3pJbk1IcWVZTDRNaGpTek1ySFVDVmYzQWplMzVEek53NS04dFMxQ0lOa2JrYU85WGFsOFVIeVVLbUJYc2FDQjUwTWh0bzlrLWRLRHNuYVptT3lJNFNuMEVTNUNBczd2dXBuNlY0V0V2NFRfdEtpRGpQMVJ1bzNVN0diRWZDQW1lYUNqTFBkV3I0Vy1RcU10OURQWnNFcG8?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI scraps GPT-6.1 Astra release over safety, Anthropic warns of AI risks in IPO filing - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZmxscURUYlFBa1R1X2RKMlFVVFVkbWV5TG5ocXJUMWJ6U2tRd0dDUUx0eUtaOGllejYtSXktNGRqaS1uMXNMQW1wOFpKMElOVVF2aExSelotVVhTQWZobGtxZXhjUVVFWFp3TWxlcHhlbm1PNGdLelQzWldZNlgtNWdaVGU4ZlZaZGt1WVNaRGM3TV9QbGkydUdONGhjRXBBZ0tXc0xRNGZNYlNSTldoZE1zNzR5d0R4Q2VlckswZ3pwTGhGclHSAcwBQVVfeXFMTmlHNjEwOUhjdkRRNG1xYVdTaGo0RnJ2bVppcHBoS1l2ODhJbUp1OFFOQTBJQ01ESDZqV0k4VGhvOGtGZV83VmM1ckxjMmYxWUtUVjRkNGlaUWlfdHdEYVlWdGthMjQ4OXlaakM3dm1zOVBSajRQYzBsUGkwZUdyWlM4WU5OX2g0TDcwTTBvcUJ6bGM4bnQ3dy12NjVtUkNDSzdhTUN5UFNUMFY3ZVRCTWc2RmdKMmp6NUY0M2c4cUJVZE82NTdmalhxZldX?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI abandons release of new ChatGPT model over ‘safety concerns’ - The Telegraph",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3Z6b2tuLTdxM3dJTlZrNnQtUEhaajhvXzN0MWtMVXRWQzVSV0g2bGE4ekVnNGlfVnpWTWNua3p6YVVJUjhWN1dfYzFIVkl3V3RCN2tTeTItWi1TUzI0XzdxQUxyREVOYThhMGtscWJJdDctSjZWNHN2dmpCbUVqTllzaUxPVVhMeUlDVzhJcGl6THotM1U5bnFzWjhQNWc2SWx4aFZWbHVUUQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI cancels release of newest model due to safety concerns - CNA",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeW16Uy1FS0dxN1JmaVpaM3ZNQVg1T3dUWURwRXNBZVpOTllpMWw1RkNsbWpyMzFNenQ2dXFKQWY0MFBJUjdOQk9nOC1TZmFKdlozeFUtTGwxOUo0cWhrcTgwbkdoQk1yT2ZQWkhFTnpKTzFoaUNuTFdFQnJxRUt3VGhiWjRCQQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI delays GPT-6.1 Astra release over safety concerns ahead of White House meet - India Today",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaHY4SXk2NUpIWmNtR3NESDhJNzlTUlJlYU5yZ1QyMno3MXc5QlBRcHZqczRKSWhXS2RFYzl2WWVaUmpReTJFYlpkeEpBVjdXZHJ4UFhFU0p6dVVXUHBVLUtFVkUxMzdnYWV4cTgyRV9TYTJnY0RhdzFzMXhvcG9uZGRVVHJPalU2SHFRa2xtaG5GWUQtX21KelRQVjAxdWk0U2JSVXZYaGluR3FGSkE40gG0AUFVX3lxTE1wZFRqY0hpZURnUG1GTDR1QTBab0NTZHNJMDljeWFQMEdlOU9BV2ZLY0J0bUJyeWZFdlBJY1c3eElJNGNrZzc2Y2l5X2JEQV9Vd1V2YmxHNFhuRDlLSVN5M0hldmltQVRmclZQeEs3WjRLLS16VUVMaXp3eGNhbl9GMkhOVm1YQzVoeWhaVy02YXVDeUNLQ2ZIXzVOYWdaZFpXMU1CN0Nha2hBQjB1X1NEMDVrdA?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI shelves new AI model release over safety concerns - InnovationAus.com",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTc3RmliT2pUWkRjLW52UjRpU1ZfVzZCQzRDZE1fb2d3Z1M5Q25VbVhVZkY3WHRsVGNKMWwxQkhieWIyZExPd1lvWl9lXzczai1nSzdBdjVJNmZpZExDQXExZWRDdDYyZlJVYzhJV2w4MDVpbHMwX1ZfVFNCSFh2V0hJTm1DUmpvYTdabnVIelU?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI Cancels the GPT-6.1 Astra Launch; Anthropic Releases Claude Sonnet 5.5 - KuCoin",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGN6aDEwTjFkSTZ3ek9NTi1sdTJGMzhremcyN2k3TWR2OWxYamQtc2JnNXJ5UzdpaWpRLXU0ZkloVVR2THR3dG10WUdURUlPMmNTUVJGWVRPQTVYU1NhUUx1eEVtU29aRTRHT0tkLUV2S1JjSFZsRmJBMmhaZUoxakRnVjkxNExuWFNibWsxY3lyVER2TWpMci1RS3l2TEkxbkE3d0l1eDk1QQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "‘Wasn’t Honest To Users’: OpenAI Scraps Release Of New ChatGPT Model After It Fails Safety Tests - News18",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc2tpYnV2TDlhRlk1bmR3am1OdGFaTi1VQXNxQUF4VnpCek9VX3M5MEdPbDNjaUxKaHkyV3B3bHVRNmVOc3pnS0VsSFFCZGxsMFQ3X2RhZy16cW4tQ2NlazJON1IzR2l2MTIySVgyRThtVTV0X1RIdHV2VWdiMjA0ZThKTU9kZTVacHJYMjhRV1RlUXpCSnJxQjJQR1VOcEkwS3Axd3ZicHpJZFhGS0NuSHJrNG5IaGRndlBaeUFidW02SlNkQkRDYXhJLXFXZkNmVzAtdG5QTdIB3AFBVV95cUxQZzh2eUp5cjlyRm42TC0tTnpSbnV0a3ZQbmQ1WHBrSG5ZSGFJcWlTajBPX1NVSkpWOEdGYm1YbFhTdDB3Mk44ZmlBc21KVXphX2gwOGhYcFV1c01lU2VKekNOSHppRU05Q2sxQ2FzeEJ6cWQyQkFMVE1hTmtiV3FfZ0hZZHNZUmlDSVhKbUlTcGEzYzRzV29JVXpSY1FYN0FQRDFBV2FSNTV3Z1UtWTI0S0stVl94aDk5em1BSm1TV1NCMFY5LW1RcG1xZlNXNkhUeEd4Wkl3cUg2cl81?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-29T04:23:18.433516+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Художественное сообщество России выпустило Декларацию об использовании ИИ в искусстве - Министерство культуры Республики Хакасия",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUlZDbWk4UDNPT2d2c1h5bkhieFk3S3MtVXhkX3B5RXNqd3RkQWVyQU9TOTR2YjRteDIxMV9Gd1lpTlpvZ2RnLTkzZTBtRENZemhSTlU4ZWcwejlIMjFVX1BRRFRsSkREZnJzN3VJcFNzYVFDRk1hMUhUUmpPRGswY1VUU3RMVTJRTkM1czNfVU1uQlZmOUFza3p1ZnF2RzRfc2ZURjU5NS1oUDVZbE16dVBXUEM5dHY4UFB5dm9PWWpqeFU?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI shelves next-gen GPT-6.1 Astra model release over safety concerns - Business Standard",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSlRmX1c3RG02V3RRSkRPcmg4S2pldDhoelNSNm84YlF4RU1jeUdSM3BXajE1NmhpQ3F0MXJvSGRrZEx0Nk1EMzVtWlpwNnZEQXhQTnZIeFNPbzdJUl8zZ0VzNVJoZl9ld1RFU3dQWWJqRVkzYVVYaVpqbGY3WEstazU5SHFVekN4U2hPZE9BTFVMZHF1Yi1OdGJHVzdDaUJTQnJ2bk9UMnlPeXV0S2NKNTJydDJBc2tnWk9IY2FzajFUUTJqUEZLdlpyYWdtdzJ0alotOG5KT0t1UEJYYloyM9IB5gFBVV95cUxQb19NVFlVUEZXcDRtb0tpa1hNNkdCdTV1T0ltWi1CQnVVQUFaM3BYUFg1MXdPSlFYcGx6STI2blNXaG5wN2c0bVN1Zkp5aC1YNHVGUC1nVUlmS1p6OVhjZXByWWh4SG02bERQOUIybXZYT1dlUU56d3R0REE3YldJTy1FdW1USVBwclJfT3huZHJWb29YcVUtUHpQMi12bDNYYnUxVkNmcG80aWJEVlktcTNwdzR3Ml9XRjdLLTNzTkZBU3E1ek52TUVnZ3VDaklsaXdtcXVpTWNIMzFScHY2SDlYVGwxUQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI scraps release of newest AI model over safety concerns - Kuwait Times",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXRldWpvQVk0UTl3VzRxT2xydm1yREtUNlVYMElib2EzaFFHUVI2UFJDMEhVcTVtRnE2eFBzdUhqSTVzcDlJM3V6RHg3emR4Q2RyNUxhcWhzMFkzdDFILU1jbDd3OGVHaWVUazlSYy1mQWk4VUlKZjBScVVuOGhQQk01QlB6RTJRRVdxUHhvOXVGQVlCUFFxOWxHR2JCeWJacWpmQXdmcTEtd9IBrgFBVV95cUxQWEJMdzlyOW1MVUdtWUZfR3pZa2xPa0FXZlBSNnBCSjhyaTZiWEViLWdMWVdoV0pQNkN2dVpTY0dQVzhQU21oZF9nM0tfcVZjV1hFOENldGJEeHZGUDQ3dERZd1hFem5uVUtlY21VVTlMZkptSl9oNnREV3ZBZzJhQTUtX00zZHVDTjBtR3RHUXEtVWxCYjl2OUR4b0NIajZFbXlUWDJyWm02bENsYWc?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI Delays GPT-6.1 Astra Release Over Safety Concerns - APAC Media",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdTdQUUtDMm1UTzh4TV9ISUdHSmY0U1lERTFraE5OTXdVdnBWVkF6dGQtN3drQ3NyajJDak4tVzBVTVRNVzhPeFhYeVFMMUttOWpLY0E2V0tsTFRLbG5CNXlhNXZacTQySEJvZHZlRFJpM0hqR1V5b2ZKOVU2V2hOMXhQVGk2bXpxTlZ3UmxleE4zVmZpV0Q1TA?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI Apparently Scraps Plans to Release a New AI Model - blue News",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWkJxNFZLaURqQVByTXFoZjNMX2gwUjFmV3Rhd3hvRVVVQlBCaTNod0xlcFRsM29zVUJoOUQ0TW5vd3h1UUtQZUJvb0h5YjBxRTNMN0FaTWtVd3Q0dUFRSll6TjR6QmtYbDJ5RmNDdEZKVjNnbDVrWGcyNmFNdEg0MVlMZHRXSWZ4MkdFc1pwNFBBZWNRbmptUkN6aFA4am8?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-29T05:21:55.949732+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Легче пойти таксистом или разносчиком еды – они больше зарабатывают, чем сотрудники ФСИН» - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9odU0wV1ZhNGJmR1ZhamI5M1p5ekVmNmpybkVpUFA0RzBMMkd3bVREUFR0WV9od0ZEUFFFZktqYlNGMUFfV3lWbjFoRGJnUnlyYkhiQWlQSU7SAVNBVV95cUxPekphZ1BsV0htcFYzVklqWEVBSWtSWF9RdmhBeTEtWlVSX3c5eTNMbHhNNTdWVDJWNHJfR2xQbndIT3N4NmdzQkNBMmV4U1FHeHB1Yw?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "ТИСБИ и КНР договорились о совместных образовательных программах в рамках Ассоциированных школ ЮНЕСКО - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53b1c0SjVuRHFjNHVFTGJiR3VxMVhzVTh2ZFBPVE9lU25fNXF3QXpkVWp2ZS1jc1UyLWp0OF9WTk11bWI4bGhpam5pVnV2M1cxRmFURg?oc=5"
-      },
-      {
-        "topic": "Значимые новости рынков",
-        "title": "Кризис образования в эпоху искусственного интеллекта - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iNTMtTnZsVWN6V3p4UTFLdEFYeklveHo1VmlMcEhIaEhZZXprRkxYTldTY3NlZHRFX0Y5YjZlZnZTS0s5dThHQVY5WVdLNFBYZFB1LTdNWV_SAVNBVV95cUxOVWJjUTJlSkxxQWx1REtUYnZKLUU1dF9kNFVyT3NGZFRGdmhrZEFXcWFVcjdtR3I1OUxSMUUtWlExYU1QYmEzYkwzeXQ2aXhYVHU4RQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI postpones release of latest AI model over security concerns as the industry faces new safety pressures - Euronews.com",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYVN1bzdwM3R4RkF5a2hJbXBGRjZ2aUdOOGRGUGxYOGdSQjNocmRpQWNCTS1fZFV4aXJ4UUFyb180OURHbncxdGdyc2E1UGx0WGpfT3praUhiRWM5OG0zNm9qU0FNaktPSWx3SjVLRG5OcTRTTWstNEJOcDlRdXFHTW5tZ1lyaENfR2ZFMTVrcU5xZ2tGMmRkQ01NTkNidTNJS2ZLLVVyLW5jMWlrRlVubmlveVJLbjdtOFlTZEJZcnJCYXQz?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI halts release of latest model over safety concerns - Yahoo Tech",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZjMxaHFGYVVuXzdfRmFJOUNqZ1hLZnliR2FZWGczQnJEeWotZUthdWpmU2V0amJvc1NJYjRzZkQ0OEZnTEh5V1hGazhieWZfR05PSzctOXYwZFotYXRSbE9IZ1k1QVlDWVJvVURrd2hVeHgyYTRyNzl1eXVLcHZ1VlBhSnZTT2J1YlBr?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic Releases Claude Sonnet 5.5: 70.6% on Terminal-Bench 4.0 at the Same $2/$10 Price - MarkTechPost",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUFEQXc5TEIyYjRvWFlaWXU0M0dFTElWejFZZ2VacnlqTVd0SzJreXZ0bFVKWU9XMl9Pa0lkQVdRSVo3em1wM2ppQ1ZMR0xEUDdieGIyUFZWb3JPUjdTZThjS0lYS3V3OTR4SnJTQ044aFVBeVYtczQ2MkFfTk9oVUM4UW9uemRYekVhNkZYUGd1SXdyXzBvUDhWb0JURTJ3eTFGRk0yMWhVRnA5c1g1VkhwMFA2a2VEbjR2ZUFtNldack51QlHSAcsBQVVfeXFMTXhzVVZsYlNPSk9LM0lJbFpIc1FaNHpCN0JVR2tPSUdNb0RicDQtX0tEekptVG85TEZUN2J6dVVhN01OU1pwZTFQLU5Da3lKOWxlX2V2RlVTc2lvajBfTkEtbGRUUmNyVm1CVk45UzFndWhFaW1razdGUEZ5WUFiTUxnTFJHeGJHTXJqUUpGNVl5Ty1aejJOa19JeU1PTS1ZM1BUUmpMWm5SYkNwRDZFWXRDVlA1elpnS1NNdVJaeHZ5X1VRX3Z0TWRwMDA?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI cancels GPT-6.1 Astra release over safety concerns - Telangana Today",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRlJzbFdUSmxiajBDaW9qSGZDbklqbXY5SV9RYktBY0FreU1UeFprRzJjNmlCTGtsZ3NPQ2RISWtSZnZaZWxxWE1xV1V4Z2lhM1M3VmRwMmVma0hVclNRMUNJczU5RWw2VWg1dW1jalNJVXdXSHhLOXd6bjJkOEoyel85d0Fwd2tFZ2cteA?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI shelves new AI model release over safety concerns - Report.az",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTG1IYkd2ZndoRzAyMy01NzBQRFhHbzcyejVab0k3aGJkV24xYzJDclFQX2h3YVdjUFJzS2x3X0plcEdKVlVFdFFNWGZCbmpEZHdOSWZ4OWFIMF9GZDdSYXd6V3RSZHItbGpPMmZzd2I1bWp6VkM1bkNwWmd0YklkNGtIelNXR0hv0gGOAUFVX3lxTE8yamgwNU82ZGhES2NjM19QZFpDZGxseXRCS1ZCRWpKbDQxcHNvaG01U1o5WUVCRDlxcUU5MTc4TDB1NkQyVFdCZmFBYVpQS3EwLWRKRE5nZjJsTGVkblJ5Z0lSRGZjQTZ4djJRMzVWTWJYV1d2LU1hUXpPemhYamlhcUhnN2oyUEc0b3pGOUE?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI scraps release of new AI model after it showed 'higher levels of deception' - MKFM",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaE5DcW50bGhtNUg0U21wdWhDeXZUNHhSV3B2RmZmcXFrbjY4OW10MjhXb3RtbDItUGg2a2lBcGJlRnpIM1hSNU1VRFgwR1hjZlJ5bDh4MzhjYkxpbjlyTGtOd3BLUHlQOWFUNUFOZXVBU0dUT25IMEYyaE5yOWYyYlNTWVNWMFEtaDRnS01uOUV3UUl0MldBZUFBbGtlWHBtZ1NycE95bEdkVkVzSTB1alRPcGo?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-29T06:27:42.894788+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В «Анадолу» объяснили, в каких случаях онкопациенту стоит получить второе мнение - business-gazeta.ru",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qWWFOaFktRlQxMkJETU15M2tjeERranlldlFPT3d2RkxwX2FtOWdlMUp2bGl3UDNjYldCcS1LYWdHa0Jzd2pYSTNVUjFlUkxVMUNGedIBU0FVX3lxTFBqYWZwUENXT1JxTVN6Vzl2QkFnbUo2S3dYeGtLTkdfWU9EQmROcHBiQzVRdW5CalJ4VjliTWhEOTNVT1p2SWNKM0VFM01tMVpJWXBj?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI scraps release of newest AI model over safety concerns - Anadolu Ajansı",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMHJTODRUMmhvODlKYnVvMFp4R0hzOXdKaWRPcFBUdmhvaGRHYVAyLWdPbVloblJtTXFfOEFPdUhuT1RCaXVXcDh0M0g0RlZqMzFNdXg3NFp6aGhOSEhjMG1rS2J1MWxNUG41LVJOcXJrZmFsT01Rd0hoWW5JZnljTU9JNGxpSko1aGlxTXhBcEpVd3BERkhUTThEQkZRSHJvanZZeG10N2pMU3B2ZGwySWxyZw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI halts release of latest model over safety concerns - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYjMzQlhlTGxrOUZLOWVGVy1jTFZNRnQ0ZUJvVGFMSmlWdVRJUUdjV1lYem10YlA0cVhhMGY3U1JBemZndDB0dzloZm96OGVJSHRzYW0zeE5fQjZoeXB1TW55bTQ3RlQtS3BSWGhhNHctUkNqYkU2NUxEMzdyemZpOVVSUi1oa1ZuSVhFcklIYw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI scraps release of new AI model over safety concerns - The Irish Times",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSVVrTnlVd0xGRmxnU1dHaTZ4Z2dxdXljbkxjZWpCZEJXaWpBbE1KZFdfVGZMMTRmYjg5cXZMRmxhajM2bVV0LW5LQnJ1VUpzaWxjM19oZFZ4b19odXdfWlVxQmVVUGFkUWc2bnlrZmdTcU44SDFIalV2MUhQS3V6VGRFb1RLMm9ZYmM4UTllVnhyWXQzNWl6b2pSS3VKOTMxY2ltTURNcFliVXFlTzJIb09EY3QyeVZD?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI scraps release of new model over safety concerns - The Korea Times",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSXZ0QnZmc1dxWTctcWhTQ01ZREdwQlJkMWNPdWx6WWY0UFlmczctNFh3SmV5cmF3amQ2VmdEMnFwMkhIVkRzMGlHX1BUaDZuLWlHT0V6N05VR180NlU2WXlqZUJxTEpJaENmWm5reFNDSmFtWktqWVlSQVJGUVJpZHBPNkdHdzV3T0t0OGQwY3ZBWk0zWjlETl9XS0oyQXR40gGmAUFVX3lxTE5td0tFb2VjMWYyUFlpZmFCbm0wdTZKQ3pfOUZUU0VnYkI5SXhqUW1tcXRMb1RzQkUtYndPVWFsajNkRzdnNlFxZk54X0o1Z25wOHMxRzZFYVE0UDRJSmNYWlJwaTg3Z0ZSZ1g1QkpIOE0zRTM5MFIwS1J6eG5OR09ic0p1eGtOdlNnN0o5YWZHeFJINlFXdFVrZ1FXVWhWcTEzOWc5dWc?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI shelves new AI model release over safety concerns - The Kathmandu Post",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlBwdnJQQU9UY2xVazVQb1JEems1MUtObjA3Z21hbUdOdEotd1FFVnFLQUhBT3dmd0o2TTMtOE9VazFJTTdqTG5XRmtoc0Z3d0hBUk1mZ3JLNXVabVBiSWhJUkNoakdWNm5zWGdObVNsWkEtM2lfenJac1BjWmtmRWgzTUZwdjNOUFR6UmhYWWlsczBhdndLLTctb1hzZnRGZWl0Uk9PRXJ6RGxEQ2pGeDlB?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Bulletin AM briefing: OpenAI halts release of new model and UK reopens scheme to resettle refugees - The Independent",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZFoteTVtVmplV3psekMyTkhiYm91ZmV2VVZVTk5na01IeFJFdDJvZFlnS3pQa3NZNnJQSGlka0dRTlpWQ0FhYmZtZk02SmEtb3RTRWJENDhFLUpfWDc4Y0tKMjQ1LVNDcWdjaGhiUTljWlFNR213UW9kSHhJeWFaeUZhTXpQRjNVcUhtZ3dNMTJvNWFzdFRIRWQ5aWhNbThV?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-29T07:23:49.957894+00:00",
     "sent": true,
     "items": [
@@ -3527,6 +3241,87 @@
         "topic": "Здравоохранение Татарстана / РКБ",
         "title": "Кинолог Голубев раскрыл пользу наличия домашнего питомца - Татар-информ",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNallqVHNVNDZJYUIwTi1ZcjdIaDVjZUpoWFlrRG9aMXQxYlA2RFhKUml3SzlIRjlsT1pfLWtLVmc1SFFYUjAxTndVM3gtMTJyeFNSNnRSYU5jN2YtZmR5SnY3dWZ4TTR5Y0F4ZVRyWFdUeC1pdjdTSGo0V0tudmwxcmhVNTg4QlZqRW56aGgtMkhmQTFTLU5idWtjY3g1UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-29T06:58:59.206755+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Алекно преподал урок Вербову: почему казанский «Зенит» проиграл в Питере - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQXzREM3ljbk8ycHlJbktjcGFpT01iS2ZCVS0zQVdkNWFhRS1PblU4ZkZfNnpJWnBwdVo5RHFFcDF6MzQ0ZDB1ZDlLV1BCdjBWSU01UU1fYm9iVGFkWUZYeUJOS1FOTzJoYW50cTJHNUxnTmZvN1JSekxBbGllVDJwV1hYNnBjaENsdUZ6RThSem02YUhqUU9ZbFd6UTRsdG9mRXJWQVJIb2o0MXM?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Антирекорд «Ак Барса» близко: почему казанцы не выигрывают дома с 30 сентября - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVAyU2RWTmhSbXNjdnpYc3NsV09PSzQ0Ty1FN1VFZm1CeXY5NG5XWmROTHljQkxLSEJYVXdsemFTMWNFeGRrWk1md2p1R3FfQWlmR25ON3U0RDQwZWE4NC1GRHRLbmxBbmdMMF9WUEVpdk5OdWR0Q1d1QVZ4V0ZqUkFQelNDQkpGUFF2NGwxeEZuODJSenZyNGduRzluM0piOEdycDJPVQ?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Над соседними с Татарстаном регионами уничтожили вражеские беспилотники - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2NJT29ZLXA1MnNwS056TlAya1ZiamxfYmZJbGtQU3NhUjM5bDMyR290ZG1YZy1zN1JpZGVaRG9lUXE4UGpxTjRwek9JeGpUbzhfaXF1VzJOZ2l1aUtIYmg2ZHA2TkhpcUpDYm5EZXFtWUFqRDh4Szkzd053UXd1QUdvSlotS1hMTjAydUlYR2FBRTZ0QW80RG5LVU42VzRpd2psSFFHdzZLeXlXVmZtNllR?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Труженица тыла Дайма Гарипова из Татарстана отмечает 95-летие - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnNVM3ZfZ3hNMTJfdHo1WVBGbFhkeXlwdFBvY2puaWdNYXRjUmt6NjFvSmVtTXNLZXl4bUxpY19WbW03UTV0VTFXd1RwYzBzTlN4ZlV3b3FGd2JnLUUxNXA0bnFhQXl0WmQ1di1PbVg1cGYycjM2WGNXaHAzWFBhSVhpVWhpUUVuMGUxZ0NTanZjbXhsS3JtR0pQd0ZlTkl3RWVKdQ?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Башкирии обломки сбитого БПЛА упали на территорию предприятия - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR0txRXN3YkpZTDNIeVA0R193QlkxVHZPa3dDX001ZnROUzNzYTdZUVJRRW1UNW9LdXhicnVJTEw3eTBNQTJ5ci1DVkY3aVJvTEZDcHgzNzNGX2I4UGNqRGVzd3Vqd0xaaXBkU21CLU5xSDNYVUVfUEFoY1B5OGNsYVZOSTZId2tYTmhSMnp5UFc3Tl9hZU9LWnA1SHAzdmpfZ0xxN3BnRUpxMWs?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Труженице тыла Александре Степановой из Казани сегодня исполнилось 95 лет - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0YyVllSVXJPMUlYeDJWSG9ST2pWb08taS1ZUTB0UlZWNlpkNlQ5bHpabHg1bDhVVjM3bnBGbTl1bWVSZlZPQjdaejJHNkJZeDdMa19BVlJxSFZtTEE1Wk8wVGRCeTlodTBTZ1N3YzVWS1MtVWdfU21JXzRxNmxsLUNhckNiTS1jb1RpLXZuak82VXE0Sm5VV0tCN3VVS1d0R05xd3VGN1Z6eFJRUE5HUWV2OVc?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Опыт РТ по страхованию членов избиркомов могут распространить на всю страну - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQXhRei1WOGJvMmtwZ3pQMTl2d0pReVd6NXI4RjNoYi1zZURpbHhDSm9OUG1aeW9DbWlZeEpsUHJ6SEg1ZDRzaXpBQ2xNZ1REek50X2tlbTdfckpFVDV5NkZSOHk2T0ZqRWxfTzgzSHNWX0Zfa1VJLU9xaG81NVNuOUdhaTZNWXkzYnB0RV9ZWFFabk5wMkQ4emlFSEJqTmZzZWdnbnVyUmw1QzNwcXpkeGU1Q0lmR1pf?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "МВД предупредило о новой мошеннической схеме с «блокировкой СБП» - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYzQ3eW9wN0Z2UWRzcmxXSHZlSkExZ2ZwQ0w1bGthSkR2OXVNWUZIanFua1I4REpFSTVCWmlQOUk5bkxmZTdVSmlMVHhGbDBOMF9KaHJ4NmNSbU90ZFQyMHFpbkxlQXFFSTdtcmpyaV81c3Z2Y2lUWHFmVUkzT3ZHTTk5WTdYZnJVQktMeXBOWGM1eml4Z1VfVmJQcEVrYm5HeVdqV2V3?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Спецслужбы Украины втягивают россиян в диверсии с помощью чат-бота для знакомств - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY0MwVDU3SUxKQ3RoRmRhS0ZNNjNlZWR2cC1HMk1WZjJ4UDZpLUNmaUNwN2NmYWhRUG1VbkNvTUZ0ZFVYV1ZSSnFlLXlnTGlvdnRTMW5XU3dVcENsY3B1X1J6T0hyQXB4MjNnZkdqMUlCQ2tMWElZVVBac2JDcnk2cU5NZFotNTRFcTNfaE1JWDBxMU1WNThrYUFqZ3FKRWJBUnlIVkFvdENaLU9oUll0WU1FaVVsbDg5RXlrczdDWE1GSnZSeFE?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Полиция проверяет сообщения о подростках, кравших велосипеды в Казани - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUXg3NUpzaHZXdmk0bnhCdzVKWXZ5ZngxbmxIZXZuWFZubk56WFE1WTk5UlAxNEJqbm5ZWjlnWEJVNkxmODBDY0xLVWl6SUR1UGM0RW4wS3hQNGxqZlBWMVF5dHhVZ3h5cjh6VVJlaXM0NlFPYVZteGh2V0c4YXZpakJwdEJOa2twZm9qeGYtNVNBdC11WnFwYU5KN1JHWWRETDB1Qm1NVF9CalMxOUlWblBHX0c?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Нефтехимик» примет «Адмирал» на своем льду - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ25yZGJ0MTZMWHIxTUdGZnk3MHBac3laZlNUNmk2QVhzYzFYX2UyTm1EVFluQ0pPLWRhTy1kaFhOZ0VDUWhNME9taEdJdmE2OVA0VXBQc0R3X0hzWFVZZHhoajZ6SDNWN2haWTQtWXpiV3czSjdIS3ByNzBHX0psTWtscWdEQQ?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Расходы на дорожные работы текущего года в Татарстане вырастут на 13 млрд рублей - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzI0Wk8xdnVhNDluc2RLdVFya1R6UktpQVl5dUNFQlpVcTRhVVY0SGpfQ2tKbF9SU2xjaU01R1NwZ2lYVzlaZkp6RzE4UnZRR1o2SENFcHZpNDdzUkxuZUtXZEhtY3daWnFsQ2VpdzVlZmF0OUIxQS13XzV5dVI3UlJhcnByM3ZRSExSRVd5V3pHZUJOdjBPRkpxVmpBNEtqVlR1MVJySHg0MWI1bmt4YTFKeFhjUXBpQWdpSGU2di0?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Заслуженный метеоролог России Сергей Захаров отмечает 75-летие - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORjNwRUVGRTRQSjBFVlVWeUw4TWQ1OXY2S2hac3R6UEhnRTZLcGdXYk91U1BnWTB6Z2FTQkhSYmU3SERBbXpBaEdmZmJCQ2I5S2FxdDlDbU1RcHFQUGZmYlBGWjlFeUZ5ZDJfTUxicFB3NTBlQVJSRm91WjlzcUFkT3V3Y0dlc19CSXNZNmZUZUpuaElXOGJXMGlaMXM5MWVyNnBTbmlB?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Быть готовым ко всему: в Нижнекамске запустили курс выживания - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUTdGZGFRUnZBcGQ5d3gzNlFTRWpYSTNiNmVJaUtpVFd6bjlOZXVMS0xpdDV5Vmp4YkZTVXNhNWhYb1VRQVNwbGY4YVBmUUVSUHRrMmNvZUJTSG9RODl6RHZoUzhSWHhYVzJITWpJNVhrajFnb1hYbjRCNVhDYnd6YXFfbUctMXhualNZRUx2b3l2NENYcVlJMFhSVzZudjZFMjFF?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic proposes that the court block the release of a dangerous AI model. - Vietnam.vn",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEFsSldUS2ZfQXNJU0ZmOGdqdzM0dXg4d2lEd3UtUHVIcW1pVXBvVHNJYzI2Nkl4REl2cHhaRHJCbjhyTE5SYks4WXJFajlnOGI5UXIwZnBRdlJkbDR2aGl4TFRuX2hnWUV3RTJNTzhEaC1ZYk9wVFFvNzNKVVpDMlNPNmJkOXJXc2ZBNVJ6NA?oc=5"
       }
     ]
   }
