@@ -1,74 +1,5 @@
 [
   {
-    "run_at": "2026-09-30T01:22:31.700039+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-30T02:21:22.332362+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-09-30T03:23:04.663511+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI Releases Always-On ‘Dots’ To Take On Meta’s Muse Agent - macobserver.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVHdJb0M1aWpLZEprWnFST2lacDE1SnhUZXU4MkhpUnAyWUlucGdNeEtSOFhMend5X1Q4WGxBXzhyR3hsZk1kbGNkWEVfczVOb3NacUVvQnVPZml2WTlMczF5dmJ5Z1d4SUprUFlZZjZBMkJXQnNNbVlweUlOb2JpNFJyckVxbDcwNTIzb1FsMVRDWTVfY1Nj?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-30T04:23:54.417300+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI Scraps GPT-6.1 Astra Before Release, Citing Safety Concerns - PCMag Middle East",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakd0Sk1LQlBvcFRyVndEUDViN2tHSDdwejdGY0h5bmlQMmppQWNzWTU4Qkl1ZEJqdGROeHh1SElfOFRPN3dOSy13M3dMX3AyYzcyOERzdl9FNktRV1R5ZUhxUnBvUnhocm1fd2Iyb0VLNFdPblRRakVwNGgxQXM2WkhJNklzczU5YUY4NHFkMjlUWk41d0NjWHdZZXljQQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-30T05:23:13.318930+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Минниханов: Мы продолжаем поддерживать Лисичанск и Рубежное - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0wtWUVuZnp1QnVxMGE2VVBZMUFGdFJJaTRvbjZncGlkV0MzZi1JdEJpbjBmU3B2M0ZpR19faUkxeFJFVmVqaFNJZXVfOEE4ZzNNQzdEamVmU0Q2S2t2ZWYyVEF5b2dlTGEwQzZyMy03TGZJd2J6S0xyQjVuQjR0WlAyVC13U0hYeTdpbDgxOFFneWRfR1RVY1FWYXpxOTQ?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Подружил» республику с Wildberries, ходит в мечеть, жена – звезда пандемии: who is Mr. Абдулганиев - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlLWxyV1cyRTBwWkMyOVlLZGxnNkNXNDh1M2poTU5CSVg4dnNycG5Ua3R5Y04zZU9nZDJDNG43NzA1U1JzMlVGdkdFSHdnVGJWTUlUQXREU3nSAVNBVV95cUxNQXJsRm5jcE50czJ1dWZrLWtFbjUtRHRmMWF5M3MzVElfV2RMMnlVRXEtZk1uZGdra2c3Sk9MdEU4dDdtbTNTWmtUOC1qMWw2dlZEYw?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Артур Хайруллин: «Врачи давали мне два месяца жизни – я решил открыть пекарню» - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PSFdDUmFHVWVrV2VraEhKOHJ5WlhCQ3RHdEVhVU95c2l6b0YtSzBiZXF1SU4tSEJIdHdMdDF5QWZvNEd3SVlNQ2dCVWltbmVPWV82YjBEazjSAVNBVV95cUxON1JGdWQ3ZzNFeERfdjZxVzV1bGRDVXFKX1N6OU5PTVRYNFQtM3JBYzVDdnRlbzB0cG4wd193ZUhrZkRBSDJzYTdCNFdJTVJ3QXIzbw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Why has OpenAI cancelled the release of its latest model? | Explained - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQnFuN2lOR3FZazZ6aFdMVzlwM1ViZkcxN1NCZ2ZwNnFrMS1XMVhXY0RkdGFwcWRJSkJDZ0FSUGVRN1diNzkwMlV4MnNlakF2OVNvbGlGbkRjMDlkQjk4RlBTRUZNYjNuNE5wa29WRnBqcTdqZjVJWGstTDNFVXZ0U1hkUDNXTXZHVEZZVjlBck5LMENUUDV6bnVTc2dqVXpKVFRLZURKcGVzOHBoMWpDcXhZc1JlRk1SRlhRcnZTOHg2QUdpYlA5Y3VEWdIB0gFBVV95cUxQbHJzdVNoUWpUVGw2NUlUUTVWcUM2UXhWSDV2UGtFd1FWc2oxUU1nSTEyVERITWFOTGZhYTRUY0NFcm1Qd2JWU0E1ZVQ2UG9vZXRRQ195bnliaDRwZHI4UDRBbHdkbkQxYUlhUElIaENsOTJRVnBHLUxROXhyemRxX1JLRDBPeEVvSlFYSnpDcjdpTy1TeFpvS1BDOVRmbEhWRVJkMHRjTGpqeDJONlZ6TC14aHNPaTk5V3FReWpla0NwX0VUY29qdzlzUTRjUkxkTlE?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-09-30T06:28:00.479776+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Axios: Переговоры между США и Ираном зашли в тупик - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1RFMy1Fei0xUWgxUkZacXo1a2x2elpJd05vdHFnNHZqYUVlQWZsX3UzXy1hR1MyZGt3YWxrRWxmMExGZVJLOTBKM3ZuOTR0aXM0NkRWNXl4S2pQWmttNUdVb3BtZV8zTGY2UjJCQ2ROYV9RQk1PNWpZdUFJMk1IdmdKdE9VMnBIMzkxb1hiTUpFYUxaZzY0RU1ZQVg3cmJtWWgw0gFTQVVfeXFMUEJpdzU2ZHNPeTRwMzQwWjI5Y19QbHlXb2libFhQbWRJcW1EY2RtcHZrcHRIM1dOcU1PUkpDejFUbXdSdkdiQXRpMlFfVHNoNWhsVzA?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-09-30T07:25:05.138117+00:00",
     "sent": true,
     "items": [
@@ -2796,5 +2727,21 @@
     "run_at": "2026-10-30T00:50:42.840674+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-10-30T07:01:12.682291+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Девушка за рулем KIA устроила массовое ДТП в центре Казани, выехав на красный - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNlVReTdnbEJwYWdCbHVxYXJKVXRTZ0hKTEVuNV80WEJsOEo4a3Bsa21XYVNXQy1sSDVGR0ZnZmtuQzVwNkZfalJGSjNrT3FoSm93MDlDcWdGNG5JeUY3QnU3RGdzUTBOaHlvX0d5QU44VXlscnlzcmpLalJKZDBwMHg0aWxpaEZoSjRyRXdydEMxakFvQm9CWllLcEJQUWFuMzBMeWlzem8xMnZjVVp1bUlMSzkyQ0Nk?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Маск оценил взлом Binance фразой о нулевом дне и порассуждал о сверхразумном ИИ - Life.ru",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVdqUkFXaUd3ejF0amJSYjRQUlBpZzJ5cTg2X2RZRV9tel9BYzhMZFVnMXZwaVhuLU05RjRmZHJ5V3ZSc2w0VFpzRXZHQzhiOTY2NW9NcDlOazN6QVFfaTkxWmp5eGQ0R3QtcjViU1JvdXlSTXdkbzBXUjVZSEdWb0xoMDQyYUlidlFfZXZ6Z3Y5LWp5R182c2tWUkI?oc=5"
+      }
+    ]
   }
 ]
