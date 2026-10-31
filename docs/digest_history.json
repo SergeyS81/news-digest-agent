@@ -1,37 +1,5 @@
 [
   {
-    "run_at": "2026-10-01T18:27:33.392745+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Казани почти на два года ограничат движение по улице Фучика - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQnhzdGpBM2VSejdadVRjTm96RE1iQmVyd1l6QVVhYmlxTE1ZYlBHX0J6amMzUDRHUG55eV9hdEZacFpaa2xkTlo0MmtoN1oyaDRiU0xRNk1GUllNWGlyZEJuYnhjajNhaXdGT1g2SUw5SVd3eWppMGZHeTAzNURzaWZpNGdENkliaWZXc1NiNVFjRVVibUhkRFNwRWdtZzVtMjFsQg?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-01T19:22:56.494887+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-01T20:23:55.381483+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Переговоры России и Украины: будет ли новый этап – заявление Путина на «Валдае» - bel.ru",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDlMdDhDbFMxV1o0eDZ0MXBHbjhoRElpVV9hX0pIbWpEUTJwbzAyeVdjTjhfZ2JpV2s5Nld5Ny1GYU5rWF9FcURibnhqTHlHX2RUWS1weFBtWHVLbjFOVmxKWkl1NHljTDRvZFVySC13dGJSMmthd2VYVm5sZDRyUzh0YVBBUGNfTVRwZm81ZzlTUFlMQmlFSHJ5N21tTXZmUUE?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-01T21:22:06.197703+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-01T22:20:42.072080+00:00",
     "sent": false,
     "items": []
@@ -2403,5 +2371,10 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1l4MFB3X0VQVExJUjhLUWp2Q3dkTjhTUl9ybVpuMlY3eFR1WHFleVVJUlpPR0NBOVFNcGxWbXZkYmRvRmdQVnJaN3FwOUNHSUhKTFAtQm54bGgyaVlMd0x4Vnp5MS05anlibkdHbHRYTG4wU1hLZUlwUWNxaGFvQkFUMV9uZmNXSjA4Nk13?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-10-31T21:26:20.174509+00:00",
+    "sent": false,
+    "items": []
   }
 ]
