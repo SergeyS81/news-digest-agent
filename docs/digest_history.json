@@ -1,70 +1,5 @@
 [
   {
-    "run_at": "2026-10-01T12:29:49.776662+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Водитель внедорожника госпитализирован после ДТП с «ГАЗелью» в Казани - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdEFNeXB6X0o4em14UFZVUHRKYnBFTXFxa0h6TzNva1MwM2NJMWlZSGk1WE1yQVdwYTZ0eWVQMUs4bFA0S0UtT1VhMkdGUkJMTkdGSDY5WTI4dWpqUWFETUFrX2lCR2t3cHN3UHdHLTlueVBiWVlJSk5YV1FlR25SZGxPOUFZXzVKTU4tc1BucHFIOFJ6NFE5TnpsaXpnVWNFX0R6WVRqNGQ3TVk?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Он у нас был «төпчек малай»: в Казани простились с главой Алтынбанка Ринатом Абдуллиным - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pTTFSU3hwT01xRjlHblBMRFZRejNnWjc2NTRoQ1YzWW1vR19fVEdXZmFPWUw4Mk1SanluRjF2cFJEdEZLc3dHSGtKUm9lTjhFVnF2MXF6el_SAVNBVV95cUxQNDQ1Um00U0dLTU5kWXZ1ekVMUF9hSjc1RC1fNE4wQVJpZmJnUmI0enpoTEZLMUlEMVlWRVVWY3dJcjJHVE8tWWxJZkJxVmJyd2U0QQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-01T13:26:46.635207+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Дандыкин счел удар по Южному мосту в Киеве предупреждением для Украины - Общественная служба новостей",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHV6OWR5OFJUWlgzVzJNdVdqbVczakE5S180b1NTb09yZjk0TmhRV2ZwMU1nUjRwOEdPNUtPZmItOWxSeUJSb0JvSVZ6TWhkY0tiQ1JNRFBsRTIybVdGeHFFOFNnM2xYWVhMamh6VktlZHVFR3VaQ2NpOXI5QTZQTUR2ZnVUNFNBU3RKUHEzbkdPNWtiNFdIaDV3dkVOZVNvVXVad0Rnaw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-01T14:25:47.852808+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Китайские хакеры, связанные с властями КНР, выдавали себя за бывшую сотрудницу Белого дома, для взлома почты американских экспертов по ИИ - theins.ru",
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE85WDlQemQ3bVMwb1JTTGFELVc4VjRFVmpLa1YxZlNCY3pfREo2SllmaENkVkJiVkR2UVFiOC1UNVpzLXM?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-01T15:24:38.250234+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "СИБУР выпустил в Волгу у Свияжска 50 тысяч мальков стерляди - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObGc5QXZveGU1RW84SXY1S0szdDlJT0NEQzg2ZllDRGZMZEdrOFRyZ0JjcExpMEhGSy0ycHd2UjZ0eTMzNEszVVFkdk1JLTNtaTRnb1F2QnlEdTNseVJleWt6Um1aV0E1ZHVvT2g4dVM5eWRVUWxIREgwcVgtcWd4RHBMNDlmY3dXUmNrVWdPalAyOUFzYWFkRXhGSHpFd3NycThVNg?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-01T16:23:13.914144+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Жителей Казани предупредили о прекращении вакцинации у метро с 3 октября - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQjFNTm1SMmg2T1ZwLUJXd3h3azJoOGlVTkc0NG9Ya19XN2VJQTc1TUNIc0kteWplanhuNldyQVdDTjAtLTU1bWNycWU5QWNpQ25mS1JvV0Vod0cyeWJiMGltbUhXVndWenk3VzJFOFFuWVp6ck1KTVZuMWU1VU1ucVJBcXkxZXc5VDRKWUpoNWFLNUtjRmhwSGRVTGpCamFlQ0pTNHVIbUN2MEVaSFpEaHlTVGRmc3da?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-01T17:23:02.287927+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-01T18:27:33.392745+00:00",
     "sent": true,
     "items": [
@@ -2455,6 +2390,17 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Правительство продлило запрет на экспорт дизеля до февраля 2027 года - БИЗНЕС Online",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OaUlsQ1AwV21ZQVl5ck9wQTJTXzM1Wm9BRmVFcmsyMFBPdE1NR3FzNWcwcEVLa2hmamVMbTIteE1oa0NNaDM3WDNONTVlcXRHYVpuNdIBU0FVX3lxTE8zNUs1NHR4SmdBZlFjTzloaHVJVmxoV0ZqcnVVSUZ0ZWJKWHJBUFpnNEotRHNjd1B5bnpyWkZwZDJBb0JfOG1vcVZiSk9obnM4a1dB?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-10-31T17:40:00.455703+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Microsoft выпустила Mage-VL-Cowork, агент на 4B набирает 66% в OSWorld - Pasquale Pillitteri",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1l4MFB3X0VQVExJUjhLUWp2Q3dkTjhTUl9ybVpuMlY3eFR1WHFleVVJUlpPR0NBOVFNcGxWbXZkYmRvRmdQVnJaN3FwOUNHSUhKTFAtQm54bGgyaVlMd0x4Vnp5MS05anlibkdHbHRYTG4wU1hLZUlwUWNxaGFvQkFUMV9uZmNXSjA4Nk13?oc=5"
       }
     ]
   }
