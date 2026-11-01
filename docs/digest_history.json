@@ -1,31 +1,5 @@
 [
   {
-    "run_at": "2026-10-02T20:21:27.934640+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-02T21:22:00.184022+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-02T22:21:15.777132+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-02T23:18:38.636856+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Разработчики COSMIC запретили весь AI-сгенерированный контент из-за перегрузки - Techora.ru",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOajZFZlpaN2dLQWZOMVRrNlpJVS0taUhqOV82dXEzb2xtVFZFandfZDBick0wT1g3ZW00YVBwMXMxWFhnZDNzX0drdm9UWUtTRXBYX2pveTREbndBSno1ak5VTmd3TTBRS0pNZkN0UG9LTGtuYk0xWDNvWUpFZUJkOGlONHh2ZTIyMm5YTzNLeXBGdw?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-03T00:28:22.798548+00:00",
     "sent": false,
     "items": []
@@ -2220,5 +2194,10 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTRlc09PNkF6OHBkRWllaTU3bU9KN3pWTFhTSWtyYmdvV1pSdWNXVW1Hb2ZJVG5PMF83QXZ1ejBLREJTNFplYnM1OWFzSFFxRE94dkg0bFpzaUVMcmgta3JpVmhneVlOdDV3aHhXdGN4Z3cxYTE2YjBhZll4RlJwb1dtSTlvYjI4Wlk0UUNiVjd2UG9Qb0dHM3N4eC0xSWhnWnpCTDJ1WUFDRlRGZ2xn?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-01T23:30:46.718668+00:00",
+    "sent": false,
+    "items": []
   }
 ]
