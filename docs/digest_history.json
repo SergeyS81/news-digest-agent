@@ -1,51 +1,5 @@
 [
   {
-    "run_at": "2026-10-02T01:22:28.306544+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-02T02:21:25.285845+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-02T03:22:43.398498+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-02T04:23:20.217403+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-02T05:22:11.949278+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-02T06:28:00.533528+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-02T07:24:33.246620+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Минфин РТ: Медикам продолжат выплачивать компенсации за переезд в села - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkNzZFBwV0RGWEc5SGNlSkE0amdjQUs2emtUa180WkZzRVVnQ0g0eWpXZldNcTZfOFNsRS1tc3hDQmhkM1czNXhnZFNtMjhpajV3cUdsaXlBQU5oZkxPcVYtWnU1U1JCcng4c0puc1BaMXNhMkNfWTBhV2pSUlVVM2c5ZERKaUdCdjBKd2pUZDZvejQ5YTZWWi1NMXRBbGF0ZU8yVXUwVlFWZlIyTEE?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Доставщик на электровелосипеде влетел в иномарку в Казани и попал в больницу - видео - Газета «Республика Татарстан",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3hteXRWS2tFY2lScFBXb29NZFdIR19LUVpia05iZ1R0QWlicVdnT25Hem5OQW1FM1NqSGtBVWxWWnBlaV9DNzNTLUZRQWRpTHJZMlJqYUdiRVJxVFBaYy1obTM1YWthbGYwbE94d0lwMklCaFU1cDA1OThTM1lVbmY5SE9OaUtVUjNzYnBNSzc0U3hvQml5TmNfdnJTS2lOZUZlUWJ6V2VIMHhCdm9KNVVicGs1RVk?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-02T08:25:18.475822+00:00",
     "sent": true,
     "items": [
@@ -2360,5 +2314,16 @@
     "run_at": "2026-11-01T01:01:46.450234+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-01T07:26:01.656409+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«После 80 лет я совершил революцию в одной научной дисциплине»: юбилейное интервью Кева Салихова - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43X0taem1xWE5faGRJMW1jWlU4RENkRVJfOG5RQi1QY1prNUxnN1NDUlZUMjR5NmI4eUY1Ync1OFp4cmt0ajUtRDFjZ0wyemZqZUpoUlVTTkPSAVNBVV95cUxPU0lOY0FSWXBSRWp0VlRUUHFnN3pNT2UwdzJCX1k0azVQZzFvZXZqczVyd3hWM19EcGpqc3Z0aVROYlB2QmtWTjFQSlAtRFVlY0J2NA?oc=5"
+      }
+    ]
   }
 ]
