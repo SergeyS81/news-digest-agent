@@ -1,47 +1,5 @@
 [
   {
-    "run_at": "2026-10-03T00:28:22.798548+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-03T01:20:48.671782+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-03T02:23:22.630561+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic releases Claude Sonnet 5.5: Details, pricing, how to try it - Mashable",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNXzZmVllHd3ZISlAtUEZSa0xkaExzZ1RfNl9LU2dGZUdiU0xNb1FLZlNlMldSc2pFWnFVbEhPbDRKbG50bXlNVVRqcEpOUEl0VTdhZXpabFg0N29fbXVMYlM5TlVSU1hDZFU1NUxnd2N3SzNVb0dvMlRQbmJtSnVDcQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-03T03:26:50.124635+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-03T04:22:56.037624+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-03T05:28:29.286614+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Прецедент Года Шаймиева, дело Муллина неожиданно засекретили, коллизии вокруг Счетной палаты РТ - business-gazeta.ru",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Kd29XT3kxWmc3bjhidld4emZDS3EtOURIZjVzalVPazkyUTZaRFJqM2NKcWFvWFMtY0dvak85VGpNR1haaEVJTmRTbjdJS195YjcxbjVmNlY?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-03T06:28:53.747149+00:00",
     "sent": false,
     "items": []
@@ -2199,5 +2157,26 @@
     "run_at": "2026-11-01T23:30:46.718668+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-02T05:52:51.764306+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Умер ветеран РКБ Татарстана Леонид Рыбкин - evening-kazan",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNHFFSUdUTzNSSzVyOUgxWGhkalpHNmlCX1NqZk9TTmE3SDRNZzE2ZnliYXdRTUh5QnpubWVSY0dvYnpiZzAxRGlwQ3RDSzk0TUIxNWR6eEVvU2gwVlRub3ZDVEc0WG9FQmJ5MGZyNXVEMnR1eUtYUC1HaXlWTDVfbGtPYTlJMEh0OWhESVp1c9IBlAFBVV95cUxPb2pIVGUza0VtYk1qOXBoQzI5TzFSeUZBMHkyQmVWdWVrb0dkbkxHVXBwaUF4WENzc1p2YXE5UHVHT2RKTkhBQzZJVVJJVDNad0dSNTNidFVzVjNsc1NLRkxESlZDYmduUFJLVE9qMjRjYlZ3RTFDd2FRQkw3ajluQmkwV3RwNHYtdW1IakF6bEdNaGxO?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Топ-300 «БИЗНЕС Online»: кому принадлежит Татарстан-2026 - БИЗНЕС Online",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1NjlPLVFjT1phR1NPeW94ZzBaNzdXWi11RWRsemFvd3FsQWo5VWhKeW5jTVdYSDA0cUVibXV5QUQ3czh6SHhFcTRCQ3BtX2lFVUVwdjBNV3c?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Открытая ИИ-модель превращает исправления Firefox в инструмент для взлома - Компьютерра",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUGVoUHpsMU1GZHFQUzZ2UURCQTVIOFJlQ3YyQWk5X21SOXFQbTVFSmw5YUZIYW5TdTJITTZCOGhTNEs1dUhmU2V1U0VFdVBkSFJFb2xFMDFKNXhObDdXV0hld1R3SmpDSjBCc21KajlvYjFYSk92NWhJcFhqcGhBU08zSEJYR1pnX1dWTXJJbTNMbWZ1dENDalgxTkdvNThRUjZvMHNJc0NJRGFOTEpxaw?oc=5"
+      }
+    ]
   }
 ]
