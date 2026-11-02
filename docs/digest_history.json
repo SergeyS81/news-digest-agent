@@ -1,16 +1,5 @@
 [
   {
-    "run_at": "2026-10-03T18:32:52.944256+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI выпустила официальные гайды по работе с GPT-6 Astra, Sol и Luna - Компьютерра",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzNOeWs3SWJzVHZLY08wdnZLalhTRk50QW55Y2NwaWtSVjZUWkRxaG9CZ2pmYzVOSjkwNVNabmQ0Y0tsM1QzU3E5Rm45M2FkRGd2amFJZ0FLdjQweUN4bWN0TkRmQzI5Y3RGem1fYkFDYVpJYkdCa0ZLOGMycE9CMHdEcVhTbDdtV3JBaUFrbEw4eklDTDgteVd4WWYxSURSODF2empn?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-04T02:33:02.157707+00:00",
     "sent": false,
     "items": []
@@ -2151,5 +2140,10 @@
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5QkJyb0NiazVzOVAzWmRWMXRvd3UxVVRNQnZCS09RRVRWX3Y1MDFBUDlkUEtrWXpMVFY0bjVON2JJMkdlQ2dUN25VMlFhSEtJRWZYMDU1TQ?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-02T23:26:43.598846+00:00",
+    "sent": false,
+    "items": []
   }
 ]
