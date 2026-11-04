@@ -1,173 +1,5 @@
 [
   {
-    "run_at": "2026-10-05T09:26:59.339947+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Заболеваемость гриппом и ОРВИ в Татарстане на 39 на четверть ниже прошлого года - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcC1HLWNEY1NzekN5cTB5Q0JIMkUzUjl1UGVNYjQ2dWtuSnhZemFMU3JFdFEtTG4zb2VtQUxEUmwxQUdhMFdwdnhjbUpTNGNkbWFFR2dIaFZiajlZc3JMUDdyWndSV25BUE9VRnNBZ2tWVUVnNFN2Q2RfMUJkalUxbGZTamNmSDZCQ05SaGZMSVd5bmdUT3FySXl1ekxUaVY3MU1PYmdOdnNyTVpVU0RZLTloTEZYVTByMWc?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-05T10:25:29.964453+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Гоголь сжег второй том «Мертвых душ», а Сбер выпустил его заново — с помощью нейросети - BeInCrypto",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05QVlUb3VTdEU3Q3JBVDNwZEZvSVEyWEdSR1ljR25XMUZYQ0EtR1pFQU15ZUh4NTBUOW9YTGdianhpV3Uwa2xfUnNldXJjOWZObk1nQ0dFYTVKTnA5Y3dnUnUzY2l6dw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Прорыв «Барыса», носилки для арбитра, «Спартак» - на дне: обзор недели КХЛ - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWlcwVDNQZmpJWWRmM3p4c0lHNVNCUTFrdWlvTDRZRjBXQ1ZwX2JEX1lBN2hwZXFBSlN2bnNKd1RNSXctY3Y2T2VicFgwcV9RLWtxcXh0U2ZYR1pCa2FXY1VtTUVxN3g2clE3allkcnFPamJJR0RJVDlRWHRDeWtCclBCckxaZ2RINExmWG9aY2UzUjQzbUJnY3hWd2NmWlI4T1hlQ1pib1NZeU8tc1E?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-05T11:23:42.127701+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Ильсур Метшин: «Отопительный сезон – это прежде всего испытание на прочность» - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5aU52czBQQVFGSkVpY0k4cHljc1ZnRlRZRm9zdTFfRXZiQ2VETlFuT0ZPMHZPTGJ1YmdKWTg4dExFSDB6eDRBWHBRRVNBZEpXWnlDMmlONmQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "В Норвегии временно запретят использование ИИ-очков в общественных местах - https://expert.ru",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTms1SHdKTUtoY0g4SzZLeWlpajZNNDY0LTF5WHNaMDdJWHltY1ozNTNwTmw2Y3R4QzhMUXlzc3AzN2x4aFExTmdNZ1g5RjFwaVFlaDFYU3FRam40ckg1UmNDU1BtVnhiV1A4Z0xCcEpHTHMtVGdMTWNZSGpPN0FlTDBOM0FwSXVCeGI4SkxZRzRlTzFhbEc0ZnRkLVdmLWxwNzE0?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Запреты на ИИ-очки добрались до государственного уровня: что уже нельзя и где - BeInCrypto",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fbTVObjB3bk9Wa25fZmVUZV9ERnF6TTIzWW5Rc2x6RW5Pd1ppanEyUVN4bnFUNWJ3MTgwWlhmMXY1dkhRczc4MldHWktiQ0g1SjJLUy1oanM3LUpReUs5NDhRZVdheWUw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-05T12:29:51.231055+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Роспотребнадзор РТ: К новым штаммам гриппа иммунитета у жителей еще нет - business-gazeta.ru",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yTlNqY3htU0tZZ0F0M2RUa3FCS20zWTJkQWxNQlEzeEE2bG0zcnZMdFhKcWpkdG1hUHZ3RFNUWFZEemFRa2Z0Z2tsMVJrLWZwUURWRdIBU0FVX3lxTFBKeXhPNy1SNmZiQ3JpVDFaSS1vc0U5X1FSSVJXMjF2OF84Y1h1MGJqSFZCRmQweFBVN1NGMkd3b3lVYVZIRGc5V2FtcEUwbEM2WENR?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Тепло подали в 91% домов Казани: как город входит в отопительный сезон - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXlTd0dhWUpTQUk5dDlLX051TUFTS3BDQWZfTGpFSW05cnFidk12RDAxV0IwZFlFZWJxVFdyTTdSdjU0di1vZ2ZiLVpMODJha3NFNG1QWjUyclpwNU1VQXYtanp5R04xb3QzMmR1Z3FzT3RuemJBd2s2ZkJ2TWZGQ3U2em9qa1Rwb2ptTnd3VzhpNDNSWlloY1BRaVBiQ0VGbUd5dER3bnlSUjFX?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Жительница Казани, сбившая переползавшего дорогу мужчину, пойдет под суд - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEkxUkN4UjRVNnl5eEJsdHpKaEw5YWpQb3gwYmV4aklFWmFTSjBLaVczbUkybWwwMFZSNXlOLVBaNU92OVFHMjZvck9fS0pCZG1IOHFwRUhmbzlXdlMwSHNyX2l4bnloRlh6YS12cWpfXzJGUExpMkNSVWZ6c0dqUVB3el80OW9GZ2l2MDVqVmk0Wmp2bGlVMUdQVV85eGtXb29WTFo5NE9Lb0JwblA1Tg?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Норвегия первой в мире предложила запретить ИИ-очки в общественных местах. Пока временно - Meduza",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZlhTaTZvZkZueTJrRWJKNkoxYldXa2NNRU90T3pkZ3pRWnZyLXctZzdEWDZMdFJfaTlMY2o1eWNLNnJNZVNiVmIwUkJJam1zY2Q2VkhzMWxBVzhPa1NMT3dwTEJveU9ROTcyeHlqOFN5VzA1dmJaRlpFVWtRYWxmZVBVRVpUWi0yV19Pci0zamZMRUkwVEhuUjFyUktLcjNoNVd5Mm9vbkRxYzdPTHpYZTNfSlhWbEo2ZTZ5MktUTTc0dmfSAcgBQVVfeXFMTXRnRjl2NXFaMjJOazBRRVZjMXZUNHhSa21RcmV5MjI1U3VXbWJqTlNpVEVxZDNCZmh2WXg2NEFyZGRZcmRkaThVc1NTNWFuOTJlRmxxYmtTWUh1RFNJdFFiQ19xbUFYa3BfZzFIbXFkcERXRnhLVjdGc2Robl91OTJ6OHk1YUF1UTljckxnbjg5VjZlWHZHZi1LdVdOci0yZU5NZmFBRWxmWkE2ZkRfbVJVUV9GRmhiRDh3RktnNkx6WmpNd1VTcDU?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-05T13:28:36.777448+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Минздраве РТ объяснили, почему пожилым принципиально прививаться от гриппа - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWEVkUllQU3ZJeTZzRWdwc0dna3hOT2JwLVU4aHQ2RzJSN1I2dGN3RUNRaFhRSWtxc19MMkIyNVdaYk9ESUVaOWFTbC1PQ1R6NXlidHFYdDBTLWlCWVlLZWpEWUphTllWaWRVcDg4bko4MF9OZVJpRDVCQzFqckFZZTZURWkzcFNPNVFCbEdLbEJ4bjBGcUVBbzVSNGM3NHJrTzJSWVROcW1qVExSVXlKaGZkUTlZUQ?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В медучреждения Татарстана прибыло свыше 900 тысяч доз вакцины от гриппа - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0JQVHdkeHJIZzJOdzdGdkNmRzdvdDlOV2tfSzFDOGJOeWpEQng1Z2tnUVBYUVJTQVBac1JPaDhCWGNoSk1jQkp3bDlVYmh1My16ZWJHNWV3TFptSUtwLUx3c196bTdWOHMxRGlZLURacDRzWWZjbDBQazAwWGlRQlJZQnBtd3pCaG84Y1h2R0k5VEJ1dE5rVmtQUm1xbVEwaWEwckJTa0QyNzB4eUpvYWpzVzN6UQ?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Почти 9 тысяч человек привились от гриппа у станций казанского метро - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWlhyb1FFbTdZRlFtUnNSaGFpeGhuMnhFVGdrcURxWC1xRTNWblZfZkVwQTdlT1dpVElLU3hGYjNNQnEyWjV4cVNiS0RPTmtudFdBWmo1aFV5SkxKT3Y4TS1mUzlRLXpxQXRfdVp1YmhHbzhWZGtHUDd3RnNXdDJGZXBTRUJ4WWhJaGdpZkNiU1Q3blIzMDRyajZMcVRQZ3lROHpxcXRJRWlUVEpNd2c?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Правительство вдвое увеличило требования к территориальным сетевым организациям - business-gazeta.ru",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mY3ZDQjFmQXA1TFlyUV81dV9qMkZoY2gydWRqRnhnaG9pSkNfci00Z0dmbm94RkREVUhvc1lDQ3hoTFZvcm4zdGs2aHBERm04bXpqNNIBU0FVX3lxTFBEWWhUd0p0ZnRYNjViVnk5cFpRbmdSRzJocXlLMmQyRTNsUnNBdUUwQVBjUm5KeVItNkswX3FvbGJ3VXpqUlJBSWkxa0J0ekpBQ3hz?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Матвиенко предложила отменить льготы по НДС на деликатесы: «Любители лобстеров несильно пострадают» - mkam.business-gazeta.ru",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rREY2S3hNVDYweXY0S3VUS2V0MGkySUx5WGRwT0RwQWJDOTBGeXhjQzlCa0ZldE5jTktvZ2FrVmgxRDBtZUxlV0xYOEtaa1RLSTRPcXlB0gFTQVVfeXFMTThrRlB2VnZFVGptM0liRVJvYUd1ZUwyYldKOXFjMU5Yb3JqcENhWTBlbmNpRW9OSnJfV1REMlF3TmFjSjA2NEl0VXdpVmN6U0ZPT1U?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Норвегия введет запрет на ИИ очки в парках, музеях и торговых центрах - TKS.RU",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGcyelpkaWxSMy1NQ1ZONHJjOFVaVEJSaTVId2tVbk1yZ1M1cEZ6S1Nvd1MyMnZGR2VsZGhrVEFCM1ctU0ZmZUR6ckFjelZYeUg0Q0ZkdmtUaG1tRl9WR3BqVWJSUUlHc2lJTldEQ0J1WkVtMFRLeHNCTFNmbVlmdG1CN0NTY3ZDaEoxOVdhT0s1UmI1SWkydVRhUndnNVFLS3hwMzA5R2N1QnUtaHVDOXRnUWNmOHRyWjY3ag?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "В Татарстане хотят запретить розничную продажу вейпов с марта 2027-го - business-gazeta.ru",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSndFVzYtUFpKZnNCS1hRUGlKLW9PQWxGU0Z6U0EteV96Qkp1TzZkTEVDTWx0ckZ3elJlMlFaeU5MUks1cXE0Qm04YnVhaEZXRFlyMmhfWlNSQ2U5SzVVZlN4TXBtYU1VSmthOVMwX0Q1ZmJDb1hmVW9rT0p4bTlMR19DU2ZvODZGQjNWVkF5STg3ZFZoSFRadEc2WFJLOHRDRWpz0gFTQVVfeXFMUElMSWo5MzB3dXhPN3kyaWwwXzVSaDZMYmQxWlVEaFhTR084dHQ5dEpCTDE0NEJHYUY5OFJubl82QVpDTjkyUUFnVWppckRyOGk4OVE?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-05T14:28:18.835018+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Все врачи хотят работать либо в Казани, либо в Москве»: в Татарстане взялись за кадры в больницах - business-gazeta.ru",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kVDl3bmdTc1BfaDhsdkJzNlVLdktqMFNjZ3g3blhIMFE4X0VqRHFYdEpoYkpWdVIwdVl2OVdmMWtYTkVFUnk1YUNYdk1EUGI0OTE4SmJzNznSAVNBVV95cUxNU0N0V25EbDNNZkVCN1hVb0FsVi1KVnBGQm5ZSzg1TGMzSDF3d3VOZ2JfOC1sNGJLTHZNRG9CejVRYTZJOTdiVEFhTlpyNFd6LUNLZw?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Начальник участка стройки в РТ получил срок после падения балки на водителя - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM2I3SVNTcFlkUkNvUjBqMG0xUzVlQ3dpNEFfUXY0MkoyS1pKVkdpbERQWC1qZ2F3OENPV2VuUmFtWnBRcXpRbWZvLW8xYXplVWxPa3ZnSUdaRWRUcllBZDNMU2FON3JwVlhlc0ZNWk03dXdHUGxiOFgtRkZyVVhHcVQwSksxaldQemw4clhuaTJNUkw4VlZrZ29zamNPS0k3UVVhUmZJN2Ftd2FPT3RfeHBwLVhRc25h?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-05T15:25:54.559025+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Игорь Бутман и Московский джазовый оркестр выпустили клип «Русь. Ожившая картина» - Сноб",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczNPNHk3WmktT2tONTNScU1VOGNkWFZYWlA5ZjFEcWJCZDVISlR3QUxVOGNoTFdFbVdneDZGY2lrV0s0Y2ZxUEE5SWNyOEFPQXk5dWdXWTNFYVZURE1CZlNrNUhwcUt0Z2xYYjBjMUg4dDlKWFVjZWxIenRQWEFCX1dJOVBUdVVhZlNyUXE3dVBhQkRUcGRXLVdhVURnR3hfMThpRA?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "В марте 2027 года в Татарстане могут запретить продажу вейпов - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDFuSktyRnl0ejlKeEJpaUhGRVVJeW5ITXd0d2VqcXZreW9NcWhDWHlsNnRkdlNqT2tqcXZBNlMxZnZCUVJpakVvLTlYQXRxaEZTdGZoNjZqVnREdENReEhhTmFBLURoWWVRdEl6Zno4eHFla2o5UFBCbmlrYzB1Y2hnWElicXlORGU4eDhZVWZsOW1iLXFJNVZZZzk2eWl2dno4?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-05T16:24:59.251628+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Материалы за сегодня - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ES19ZMGdieXpzdlNROHctWG9MNEN0Z0JIQTZ5aGlKYkRmRWVsUXBWanhhbHdYbTJFdFo0dzlBMU5qQVN6bFNyZ1Nxai1kWnhucXlqNlJmYnh0QktYdnc?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Все подобные инициативы будут половинчатыми»: Татарстан готовит запрет продажи вейпов с 1 марта - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EWXRNb3FUM2dZZ2NnUnlLTm9aSW9EaWlkcXFEQ29XTk1fMUZCaERoUVJoVGRJeU5TVm9jVkI5VDRESVB0ZjgwSERMWjRaLWZEV0dseEdSRnY?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "«Все подобные инициативы будут половинчатыми»: Татарстан готовит запрет продажи вейпов с 1 марта - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XVjVuSkwxMmNwNU5XYm5MX2FLUlFhLXR4MGVhUTZFYnBmMko0cVNxTHJaUUdCQ2RGZzhXb2x0N3RLU2w3c3NqdEJRVENjdExvZ2ZMWk1KMnI1Z9IBU0FVX3lxTE5WZTFTN194cFZjMU5BeEt1YU1uQjJUMmRYVjcxWmdPM3FZTVQyRVNIblR5LWJQTE1FNHRhWjE1aloyWndQRl9fQl9iTGV2bTRDcXYw?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-05T17:22:19.824943+00:00",
     "sent": true,
     "items": [
@@ -2099,6 +1931,17 @@
         "topic": "Значимые новости рынков",
         "title": "Обвал фондового рынка Турции: арестован глава Стамбульской биржи - Мінфін",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vZU1qNUZ2eVZ3NUpDTm9PQlF5cmpQNVpHMDlDajloQ3lnUEcwVkpqYUpzU00wTnl3anNXeEFZZkEwaGdOZ1ZLSGxsVnlyZVZsb0hSTnhR0gFbQVVfeXFMT1JvTmNtSFgzWFVHdF9tZXRUVlppT1NzVDhJdUVmTGh2Rm9qa1BoV3lyRUx0X1VSSlYyR0FfdTNZSDlDQUlvc3c1WlBHc3pWb1MxeXpuZjZVVVJOVQ?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-04T17:07:45.369947+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Власти Казани рассказали, зачем городу тропические растения и как их спасают от морозов - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4dWFCT21EanZIRWx1QVk5TVpZcmxMWTRBNkpDbTZ4NkZEaUluR0Z2Zk9mTlpjWm8xZ1V1UXhrMThqOXhna0ZSRldZWmdGbm8tWndoUA?oc=5"
       }
     ]
   }
