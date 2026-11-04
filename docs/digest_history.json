@@ -1,41 +1,5 @@
 [
   {
-    "run_at": "2026-10-05T17:22:19.824943+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "В Норвегии хотят запретить использование ИИ-очков в общественных местах — из-за риска скрытой съёмки - rb.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMEg5c0RvdmZ4YnpBTHVtVUtyV1l2ZXNTNHZYRXlaUF9LcHhsYXN5YS11SmV2dTYyREZKcG1OZVNERjYxbDlfaUJNblpQT0d0V0QyRUd6dDhDMkgtMmJQZkRwVmc3ZVRPWXJHZ3c5OHZ2OFNRakcwanBqZmN1LTVGcVVQSWxYSDlSNE83alAzZlA0cG5DTzhjV05BTFlzTW1KZ2t1RFBfanA1WFB5c3hXbmlNNHRCMUVCQ2JJ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "В Норвегии запретят носить очки с ИИ в общественных местах - BFM.ru",
-        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBxU2tUTDduMjFHc1VGc2R5ZTZ1dlZwSFRoX2lTTjZtNUZyT2hqUW9MRmRKRjZ2Xy1MSG9oSVZPYW5oWTNX0gFKQVVfeXFMTU5vTjdlQ0VUdUZCdEFzZWF2LUR0Y01qc2VKYmlnN2ZJZFBNRDZtQ2Z3bDJMYjJQeE01NkpkbGE3ckIxNEFnczhhRkE?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-05T18:28:19.837099+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-05T21:32:38.703470+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-05T22:21:50.267777+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-05T23:19:51.399650+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-06T00:33:00.008678+00:00",
     "sent": false,
     "items": []
@@ -1944,5 +1908,10 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4dWFCT21EanZIRWx1QVk5TVpZcmxMWTRBNkpDbTZ4NkZEaUluR0Z2Zk9mTlpjWm8xZ1V1UXhrMThqOXhna0ZSRldZWmdGbm8tWndoUA?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-04T23:34:56.444255+00:00",
+    "sent": false,
+    "items": []
   }
 ]
