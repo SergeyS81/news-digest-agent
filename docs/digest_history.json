@@ -1,21 +1,5 @@
 [
   {
-    "run_at": "2026-10-06T18:17:54.697606+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Пятёрочка» при участии ПИМУ Минздрава создала «Школу питания для беременных» - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ1FOVWJoV0RqcUNScFJ3NEVVaEFvYWZTYVVnQ0xGS1g2YWdWMURuSXUteWM4dFlsS29VeVY5c3hWUVNUcUdSQjVfYmEtbVpaeF95MHVSbC1tRkFjOG9OYVE4T1Y2M0k4b2ItaHUzQXE0N3I2OEptVDFOY2p2blJfbVA5b0ZXTFQ1bElWZHhUYlZwVTRKVWdyaTRCMEpYR090by1WOFcwUXktNnJ4X3RzaEV3TlZqMDItY1E?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Нейросеть для юристов: ИИ КОДЕКС / Ai KODEX искусственный интеллект в рабочей юридической практики - Пресс-релиз.ру",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zeGFDcmV2Q3pHNHk3LW5tOXA5ZGZDT2tTN3dFU3JEcndwcFA4Q2FaNzVYZC1LREtoWi1GVTRZNG12NG45cUVMazhNMWQzX2paMVRTVWhrZkt6czUtUl9lNUxvcHZtdVFkcWp1N1lVa1JuSGlJdmlkQWN1VmlLQQ?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-06T22:58:36.054182+00:00",
     "sent": true,
     "items": [
@@ -1787,5 +1771,10 @@
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55SnRLQV9Qd1dnd0lnMlY0c2VUbURlSGVjU05QY0oySUUxYkZsVUQ0WFFDQ2pBbXFuSmVwTkgyNjNiRFl0UnpvVmoyMGJuQjBNUEhGZTlTTkxtWFlJNUhrSVRiazFVNVZUd0lhbjlqaUJjUQ?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-05T21:56:08.296325+00:00",
+    "sent": false,
+    "items": []
   }
 ]
