@@ -1,110 +1,5 @@
 [
   {
-    "run_at": "2026-10-06T07:24:22.264955+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Врачи Татарстана удалили пораженный опухолью мочевой пузырь при помощи робота - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1ZmanE0N0FNTjFET2d0SjJOblhrM3JXYzdnMEtybHA0YTZ4NDduQjVUZTRxQm5aWGd0NWpSdVZJczQyVnZjeGk0ekhfOVZiVXVpdDE4T2Q3VzhyUm1WUzg0MkRoRFFlTlVNblJIdG9HVkFQeW96b1RwWlQ1RDNwLXJ3Uk1FTEJyWU5YYjVvMkhuLTJuUzIwSzk5TTVJRl9tLWptY0plNHNxTzNnejZXUzVGV3hqazhtUXRR?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Татарстане ожидают повтор эпидемии свиного гриппа 2024 года - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTE9TOURza3dHYlJQb2czU3FUUHcxb3JaUVRGMUw3MFNJczhrYm1UVVNGTmF4eWN0SjVEdDVVR2czSlB1TE5Qb29pbUhVOUhIbTdEcDVCLWFnR2U0Vkx4c2tOYkkweFNrNjNxMzd5WVVPUmlXNHRTc3lVRUtUZ1JKYjlfZGNKZkYzV19yZG52cVVjQzBnNUx2UmVzR0xJVWdmYk41eWpB?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Президент Южной Кореи призвал создать систему защиты от ИИ после взлома банков - Runet.news",
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBxMUJlQXFGYV8yX1BldlNGblR1QUNicXUyV2dkU0VJVFFxSGItZWQxbjB2Y2dfUUdNQW1xRFdTQl9pWms?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-06T08:25:08.887228+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Сто лет мужества и служения: как ДОСААФ в Татарстане встречает вековой юбилей - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ25Jem5Kejd0UzNPV2hjMmhZN0liSGsxSmJENnZ1T0phLUxSdUc3cFlCQU9jVVMzZ3VjNXVHU3lBY0dsc1RRNDJPR3R3YTBoSHJORUNMOGdCMGFFT2dDeUpWWnR1NExFT2RtaDZCUklZOGdSRG5LTm8wUXBGcnkwX3ZwcGZobUR4NFJyaWp2aXVEUnM1X1FNOXdnVnNjSXV2OEFVaW5ubUVJdU50U3JtbnNJaWpteTNJTG9r?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "В Южной Корее заявили об использовании ИИ для взлома банков - ФедералПресс",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UamxDTTNuendBamZacEJ5cHJYcVdjVk9FVEVIY1ZRLWFucUtEZmEyd2lVZy1EMmR2eEdacy1NbUVLSFdIS1V0c05SbVZvN1V3elcwNnZB?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "ИИ на стороне хакеров: Южная Корея расследует серию взломов крупных банков - RTVI",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVFUYncyWHU5cENIMHROb1k0VmRRYmtnd3V5ZHNLUTRBeHdicVJqOW1JN2F1Uzh5NTVRcXVxRjAyRHdlY1pHbEpzQXJBRVhUOFJPWWtaSGtlb0dfOWx6U2VzVXAzM28xOW1VQ1ozdEpzZXpFSkpWSGlFSE5WMU9JRnhvR0FDQmxkVHlXUTExb19uME9zSGdTVmlfeWZvRl9KZEVj?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "В центральный водоем Бугульмы выпустили 300 мальков белого амура - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0R1LXlrUU1vME44MjZYT1FjdDU2S3dMd0VDdkc2c0F4VU9XTDlpbkZfaFo0T3pyaGZKUWVFWi1zemd1ek1NelQwUUducHpFUHpDWW9RNTJyQnNXN001endYc0FZcnk0N3JINzB4cDUxZ0RwTTFjZXg2aUlnRWNacW5acmtiSm5LVEp1UUZZRzhkdVRqNzJGOGx6UXptOEJ0OTNfaA?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-06T09:24:30.925546+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Детская больница №1 в Казани будет носить имя первого главврача Мэрвэр Уразаевой - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSGREZ3hBLTFhZlRaUlQ3Zm1kNmNLcGRrejRObXFvRFBTSXg0ZXBseUpsUHFxUHlnSVE1WEczV2Z5RzQyVnh3TUJ5ZHU1QWRNbFNCZFhXdWxfWkFaV2VzcjZ1U0NnMm5IM3dYU0hOMG9hVFFxVlFIaDVBQmZCaDltYWQzZGZjblpuN2d3VlItNWY3UXNLOXQ1eWpUQkg2QnotS2N6MmljVGFOVEJzNjZnTmRoUGxPclVlMGdnZQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Разработчик выпустил RemoveMacAI — утилиту, которая удаляет встроенные AI‑модели с Mac - Хабр",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ORnE2dFJxQ3ZsNEJBVXVpdmdLRzhVT21aN1hQcVZDVDYwdXE4SGZ5My01eTFlSVBpOHJGSW1wYTFlY3VPY3YtaNIBWEFVX3lxTFBuVFlTWUoySy1hLUV5M1pxUXl0SktZUUU3YTIzMVEyTThqRERWUzI5cTEwOE84czZkXzM0MmhqTFlMUHJETW5pM1Y4U2Flb3hoNERXTjZJU20?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-06T10:23:34.118895+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Ветеранам СВО напомнили о бесплатной юридической помощи от Госюрбюро РТ - tatar-inform.ru",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYU5aNkJKMTdiaFg1MGVtZXpWRXdZY0Rzdl9lVExHYnlIZlpCcEsxdnc1dlpiZS03WWVST1VDRWdLeUM4akhyNGhQWUtrWERwUXNXVmNraExMZlZEWGRGYkZqc1ZldjVYVklSN1hLUUwzMEtabWVUSlYycHlydG9qZ1duSEVuU1lKQjdNdkdOT3RQS1BYRUVUS2F1Z0lnd3VaYmhCREZiamhiZEdjY0U5dENXNkVYbHh5?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Госсовет РТ внесли проект бюджета республики с дефицитом 8,5 млрд рублей - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GdEk3bmZyZ2lGM2FmQjBhTDE5Q1lJcUNMbnJjMjBpWUlUdVAwQ0xwTEc0VjltXzd2MG9xU1doY1F4Ml90YlNtTHE0bHNLaGVTWmtma9IBU0FVX3lxTFBQRENfYXZrY0hTMTVhT1hWOWNPdk5xcy14aGtwR1Fwcmc0bnRVRDlZWXc2ajVISHp2SlB1YldjU2k2SUg0TVVlbEFBYzRORlJsX2I0?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Задерживал Рому Сыча и Вадима Бургомистра: за что задержали главного борца РТ с воровским миром? - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OakpqcHRoRktNeEg4TTBhSUNTc051RHEyT2VxLWpaQXhhZ3ZQLWZ5ZVJ2ZmJQckJDa3JhODVSMG9aRUJBc1ZxbXpnU3FKZklGRmNRdXdYWG_SAVNBVV95cUxOczhfVWhRWG1Dd1c3Y3VUNWp5Rm5PN3dfR09UbTVVajA2VlBjS0hWclZWZllaOG04UmhqQWs2N3g2ZS1rY0VpTi1GUUNXUHlyYlo1RQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-06T11:22:41.790366+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Появились фото с места крушения надземного перехода возле Царево - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUmxGME1YMTZlY2huRlgyM1ZqZmRwQWIxUUdPYzRlcnBkY05vcmV6dmZkWlY3blRzS0c2YVQyYlp4N1IyS3BNdHlUeGJ6WkFkWlVST3RtSXVHVEpGMzV4SFlWbl9LOUlfbnRxeHlUcFVSMmV4VFZHb0VWYmVEeERqU2RfSXBZLThxbEd0VGk4VmRleE55T2xGTnNIbFJBWnk0cHpN?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Кремле рассказали о формате прямой линии Путина - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HYjh4TEpNQk1OcUxJS1VXRGZlRk1MNmJOOHhHdm42Mndnb2tsLWlydVhyeFRpb3FMUlpldzd4TmVVanVMNnhxZGF2RmFlRlRaTjdMTw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "«Сбер» выпустил Kandinsky 6.0 Video — ИИ-модель для генерации видео с синхронным звуком - 3DNews",
-        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5lYjNaNEgtSVJVc0hTaWJKd091SnU0R2o2ZldkOUxUcHlfTmcxajRYNlMtUURsbmJsVVQ2RW9n0gGyAUFVX3lxTE9lckR1blVTTWhiakpIRVFxX09qQlpNbkZfQzg4Zzc5LThPeVRrUkdFcEgzcU1hdXpyUHg2Zm93ZWF5WDlQckFqVXpSY1JoR3ZoeDVYNjB0ejVDLVM0dVE3eG9ZSmFpTFphT21MQ1AyMDlMV1FiME9DUng3Y2NjSkMxcS1DMlk4dGcyT2ZGU3BNWVB4cExLODlTVFZpZnJrZUlJMTR2cWVXSFc2M1ZZRWFtb0E?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-06T18:17:54.697606+00:00",
     "sent": true,
     "items": [
@@ -1866,5 +1761,31 @@
     "run_at": "2026-11-05T06:33:04.597087+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-05T15:23:07.048202+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Вирусы для доступа к экрану, работа на удаленке: как обманывают татарстанцев - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU2hxSkZIV1U3RUhUS0FzLXBDdXV1REYxVDVLNFp1c1V6Q3V0VDB5b3JTcy1mOGpXUk8wV1Zob1h3dWtOU0VQMzlqbmVKNjVoN09rcGNPM3UyekVhYVhHMGhYUjNhRXVOMmtzdjY1X1h5MGkzNlhDMWhRYl9Ld082YXduVnU1ejhVVkFTeUpWanROanJhbjRyc0NvZWxyRmdGY2VPczl5dDRaS3N5a1VlcTJUcTg3X05W?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Новый выпуск «В ритме ИИ» о разработках и технологических прорывах в мировой кардиологии - Сеченовский Университет",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXhTVmRCeExEcU9rbllBZmRQb1JialRBRS1FNmtiTnpQeWY5WW9BV2VkMUdxeVN1dkFQanBDZU0tRW1lQTJndGcta0xtTWNuV0VxcUxuNjFyM2tUUGhUX2N1aGI1UGxieF9oYi1XRkdWZ0lUcUR6NG9OMVhLWVZQZGdTOVlCX2w1RTkwU0k5RWNzVnREbk1TZmkxR1g1eEt6QTM5Z1ppZjB2Z0ViWGtxY3pSOXd6andST3ZRMmZCMmFuek1t?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Polymarket Odds Today: GPT Astra Release, Apple vs Nvidia, Lions - RG.org",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUk85bGxlelBzYkUxc05FLXBMUExmaHJnSnlQUjdUMGgzRGRObFBlY1hXc0poXy00dFVvRFpXckZUZVl2UGFHaGhmd1FBb3lWc3lZU0JESHFoN1dNUVZrbE9WSGJwUmpTUmc5VWtFUmpOMnhjYUgyY3hjaVZnR21yazZmZ0hCN0tkWGExOE1pNjg0Z0dxdzZzTGVtNUxreGJJdXp5dHdyU00yMTg5TXd4VFZUdw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI Astra 6.1 Release Date: Latest Odds and Timeline - Action Network",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55SnRLQV9Qd1dnd0lnMlY0c2VUbURlSGVjU05QY0oySUUxYkZsVUQ0WFFDQ2pBbXFuSmVwTkgyNjNiRFl0UnpvVmoyMGJuQjBNUEhGZTlTTkxtWFlJNUhrSVRiazFVNVZUd0lhbjlqaUJjUQ?oc=5"
+      }
+    ]
   }
 ]
