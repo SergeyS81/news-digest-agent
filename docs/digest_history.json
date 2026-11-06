@@ -1,21 +1,5 @@
 [
   {
-    "run_at": "2026-10-07T17:46:25.748738+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В СК рассказали о новом видеопроекте «Код чести» о следователях - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0NRc0pvdEY5a2RpQS1venp6Z2ptMUF6TjFaUHZ3YWJJcjRIWTRVTk5KZlFXS21YQkRhT2xSVFAzQlZnSmxodU5UWkt3U0tZR0MyOGZKS1RDS05lRDVUZ0I2eG05OUVSemh4MTZrb1c4R0NDSTgwMFJxRnpZdmxEU1RmMTdPZkF1eFBUNG8wY2t4bEsxWmZCQUMzOFd2YmRmRW8zajBB?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Китай наращивает темпы разработки ИИ: десять компаний выпустили 16 моделей за месяц - LIGA.net",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSEFTMGhnZkYzSjNFRXh3YXdIZVp2VG90T3E5R01BQVZLdTVZaFJGcWRtUmdPak16SVVIQ2d2WXFacnV4Mnk3djZCSFRwUTgzTDUtNGpXRlVsbXkybG5OeHRKQThiLTZfRW1kU1dSNml4NjREcy1heXZpRkFyVFFnWDdtRnR3RmtRc0w4VDBKVVZCNnAyZkY2QUJDV3FMYkUtTWh5SEhVU2NycmpYbnpIYWNhaUlEQdIBuwFBVV95cUxObmZ6QkhPYkplVWt1czRERlhHT0Fqa3JvZFBJNEVhbWVXWmpzMFkxODM0NE9FMU1NQjV0Vjhlem5USU1pcUJsOGxxRk5mcjJURVZOcEFaWDhqbEJzS3V5MWhzODJpVGhUdFRLOUtNNEdfQnFQSU0tU1Q4MVlCR2hEWGNhS0p6bUJlSjhER3B4Vk4wNUUycUUwSnVzUFcyTC00dHdNZ3ZUbFg0bFkzcjRqQm5FQURBLXFmQWV3?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-07T23:00:58.728231+00:00",
     "sent": true,
     "items": [
@@ -1744,5 +1728,10 @@
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHkzdDdHdk9VbEJpUE45RmJKQk1DTHF0NjdRM1J0dERGa1lIYk5hSE5DM3AzWnZjdVQ1TFRsSHYxd2wtTXBiejZ5a1hrUDlBUFdaNXJvM014eUMwNzJ5b1hCazlNdy1YSFNubFVMR1BSYWJtRTdIbUJ0MmJhdldoOGZPMUJFejVIbUE?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-06T17:54:13.768369+00:00",
+    "sent": false,
+    "items": []
   }
 ]
