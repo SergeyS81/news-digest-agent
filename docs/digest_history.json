@@ -1,21 +1,5 @@
 [
   {
-    "run_at": "2026-10-07T23:00:58.728231+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic releases Claude Haiku 5.5 small model and halves Sonnet 5.5 cache read prices - SiliconANGLE",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0pNOFU1Vk9OTXVjSnhQY1hqUWtIWGZSbWYtTUFTRTRhcE9qYUlaNklFbkdfaXBvVFllbnhFUHNSZVFvazFEMkdSOVYyR2toa3RuNC1tMjR2WWNSSHVmZGhxay1kbnlqZU50cUxxSDlMbjdFV1Q0NG1oMWZNVEQ5SW1Xcnp6a2R6UW1kQkUxU1E1UFAtRnRMTzhieFo4bUprNERRckpneXJ4ZUY0bklRUm9xSmtPNWJMV3g5bnY5WUk5QQ?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic opens cyber program applications, releases cheaper Haiku - TechTarget",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1l3aFA0N0h5QllXQTZpWWxSM1V0aTF4VFZXd0VPVWlmZFZGZkMzay1MMXhBd1NESFF1TUV4VHJzc2wzanp5U0tCdzg2ZnVSeldKSWo2ZV9NVWRGZF8xUjFaTGw5VlJUMVZvQWcxM0RBSG5rZnB3OUZ2MlBYbEtxakptdDZBZk5aaG5iNTQ2RlQteVFaZVQ0azJ6aFpWaE12TWx3OG1ZUnF4NExCbUdj?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-08T02:39:41.474990+00:00",
     "sent": true,
     "items": [
@@ -1731,6 +1715,11 @@
   },
   {
     "run_at": "2026-11-06T17:54:13.768369+00:00",
+    "sent": false,
+    "items": []
+  },
+  {
+    "run_at": "2026-11-06T23:01:33.111911+00:00",
     "sent": false,
     "items": []
   }
