@@ -1,26 +1,5 @@
 [
   {
-    "run_at": "2026-10-07T10:09:03.707475+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI releases 722 AI-generated mathematics papers | ETIH EdTech News - EdTech Innovation Hub",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajVmbjdSc3lCYVNLY2NQWkEtWk9MdUVUdTZQM3AxRVJ2Qm1laW9IMFp2ZGpIUHZTeHJ0SFg2dE9oYnRxTk0wdXg0QUFLejl1ZVNfbm05Z0VwZEZPQk54c09pZjlOREQ0UDdEb2J0SUhWMVRXSU5Ga2NKSzNQbXk3WERELURSd0dhWGhYdDVvUjRnYVBIMWVRSGl5cWVGWUtKQ1lLOUw1dnpoYW5QZm5vTFJHalluSmNuMmEwY2tzdEhHODNJMEJfeg?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI publishes 722 math papers from an unreleased frontier model - Dealroom",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd3hUUFpkTWI5cFhVWTJFSHllR3I4eTZBdlo1LVFrVUREVTZQR0JrVFg4UzRxZUtITzZzcEptQUduZjZIeGp4b0tHaG1mTENrTW5LNjBWd2g2aTVMUXJNeWJVYV9SUDJxdWNVS2hmQVQ0NDBqQ3ZnMk83Q2VNS0hzOFdxdzFIVV83dTdTUEpXNnZjLTRpOHo0Y3FiLVNLSGhOOFE?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Парламент Татарстана рассмотрит законопроект о запрете вейпов - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVFVOVndYWU5XOFRPU292Y1JXZEY1SndRSHowRGw3b1FSWDQ2TEpzZzB4V1VwcDNtYXIzMW5kdnduZU5wMGpjZ0ZkeF9OSGFtT25PaHRjWXhuaHZIZXlhSGFaVnFWRzNFN0JBdTlJY3NmeEhQdE1OTkF3M3VOU1RsWmpNZ3lnNVJFUzhKdllDTjVVb2RESWNCcmlidmNhMnB1OHpfdg?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-07T17:46:25.748738+00:00",
     "sent": true,
     "items": [
@@ -1754,5 +1733,16 @@
     "run_at": "2026-11-06T02:18:16.741328+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-06T10:43:38.510278+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Итоги Kazan Digital Week: как ИИ ускоряет работу и помогает сотрудниками преодолевать нештатные ситуации - Пресс-релиз.ру",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHkzdDdHdk9VbEJpUE45RmJKQk1DTHF0NjdRM1J0dERGa1lIYk5hSE5DM3AzWnZjdVQ1TFRsSHYxd2wtTXBiejZ5a1hrUDlBUFdaNXJvM014eUMwNzJ5b1hCazlNdy1YSFNubFVMR1BSYWJtRTdIbUJ0MmJhdldoOGZPMUJFejVIbUE?oc=5"
+      }
+    ]
   }
 ]
