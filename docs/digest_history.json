@@ -1716,5 +1716,26 @@
     "run_at": "2026-11-07T02:43:17.834258+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-07T09:56:32.971968+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Сводка СВО 7 ноября: ВС РФ заняли рубежи у Доброполья, вернули Рай-Александровку, под Красным Лиманом сожгли роботов ВСУ, переговоры в ОАЭ - Life.ru",
+        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9MZWw2VW5VNEEycEV3WHVZM0xwYlJtUGJxb1FjUS1wcVhkUFJqNUVLcHNZUjk1WFU1ZkNlODBn?oc=5"
+      },
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "ВС России нанесли удар по Северному мосту в Киеве - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSlZzWGQyUkFpTkpVeHJtYnBBa3ZSRFpqTUczOXlpMEdsQXlNU3paUXU4Qk91c0tLMndTVzhaRnFjS3BsQV9DaXRlN0U3cHVmOUs0WDY5bzJMNTIzRXliOWJjZmtqUTJVRktQR1hqODU4YkdLSWtsQUpsZ0EzWjVYQkdWcDhFN2V1MkNMMFpIZmxvTTk1?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI Releases GPT-6 Cyber for Enhanced Cybersecurity Research - Udaipur Kiran",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVW1rYXpZaURkMWt1RUVkREFTcmF2SU1iNjUzdEtONVQ2bDdBVE1pbURCV3htaWtDWjZzZFNSVU1tYTZSYUtzVDlnUW5uUHRtNjZaTzFOTnpQcWJELXN5MjlYZjQyRUF3b3BBYnpJSDlqN0VjWkR3RXJzcF9UMjcxNmNVdnZtNHZPdkdvOTh5Yl9iaTg?oc=5"
+      }
+    ]
   }
 ]
