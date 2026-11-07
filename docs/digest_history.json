@@ -1,16 +1,5 @@
 [
   {
-    "run_at": "2026-10-08T10:25:58.001753+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Московский суд запретил генерировать обнаженные фото россиян с помощью ИИ - Newslab.ru",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TUDlyZXVQU293NTllM1d6UFdzcEdwa1c5ZllUbHJzcmhNcFFQTEdqbFpvNzdHb1pSUzlGZ0dNMXZtZEtaSUHSAVpBVV95cUxOdF9TOTUyRklaNjFRc0FkZEZ4M3A0alpkSWM3ekdaNzVtZmNyMzRwNkUwQTJBckRPa001eFVkWndSQkJFSGY1UjJnSFVWWXR6MVR5eE9JZjdqcHc?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-08T17:50:20.688104+00:00",
     "sent": true,
     "items": [
@@ -1737,5 +1726,10 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVW1rYXpZaURkMWt1RUVkREFTcmF2SU1iNjUzdEtONVQ2bDdBVE1pbURCV3htaWtDWjZzZFNSVU1tYTZSYUtzVDlnUW5uUHRtNjZaTzFOTnpQcWJELXN5MjlYZjQyRUF3b3BBYnpJSDlqN0VjWkR3RXJzcF9UMjcxNmNVdnZtNHZPdkdvOTh5Yl9iaTg?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-07T16:21:04.591010+00:00",
+    "sent": false,
+    "items": []
   }
 ]
