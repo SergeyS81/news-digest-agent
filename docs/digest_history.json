@@ -1,21 +1,5 @@
 [
   {
-    "run_at": "2026-10-09T05:59:16.163016+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Он должен закрепиться, а не уезжать»: как в РТ решают проблему нехватки врачей - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckFTdGpObFNfMjFvVTVHOVU3QjNuY0NHb3lVRG1qQi1WWDRuU3E3ek1GMjlPYl9MLWJ6cWVQdHYxYU1yS25NUFVRcjg5M2d2SlJoZWlZd1B4WEVGVGxReVMxcGhzMzhEN3FWeHJiOWhxOC1fcXBPTHNWVHB3XzVIMWdJTUtwdTNPV2VDNDZlWHNvbFFlLWJmQ0llVkpkcXhCOGxSYlpHMkhVRkFXaERaVXJVdGtKdk0?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Пользователям Claude запретили оскорблять нейросеть - Сноб",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTGhoem1IV0tIdDNQQnlaWVN2LU5OSGxuWGVRSlVDZi1Rd05HZGJVLVE4U0ZwWEhaNE5GYVd1U0x3bkhianAzZ2lTZDY1bjc5ckthVXlTN1NBTi1vWnRKbl9TT0t2aWFybXVPVTFwRU9Tb2VIcWxWVTRqREliYkM2aXZfd2N2WXg4OGVGcDVVRlg2QWtnZ0E?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-09T13:07:17.901543+00:00",
     "sent": false,
     "items": []
@@ -1704,5 +1688,16 @@
     "run_at": "2026-11-08T00:28:32.675719+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-08T07:13:41.562150+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Россияне смогут установить самозапрет на звонки из-за рубежа с марта 2027 года - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTTRNbF9YQ2NRenhjcVVVbTN5WU9jbXl0WEZXaDJhZTJoelMybzFKcEhKUWItdEFXaTh4RHEtUVQtQzdPb1FxWUpjQUpvbmxuSUgxWHkxYVBkY29vb013ZktvbGVHRHhqVlhFN0tENGxEdy1JM2tGQVNWdllhaWh6MEhRRGR6dFA5a2g4dTA2MzRURkc1clNzN0FuUjN2amRGVEYySmhvR2hKT2dFNkRCX0JkeW00M3MybWhV?oc=5"
+      }
+    ]
   }
 ]
