@@ -1,16 +1,5 @@
 [
   {
-    "run_at": "2026-10-10T12:22:59.092907+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Тревога начинает истощать организм»: психиатр – о невидимой болезни - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0pWbFl1VGNTNVBPbVI0dWVQU094c04ycFRseG85a2I3RG5PN2MxaXNqY05GRF9laEpZNGxEQUxzNEl1cGdLeDZDZ3UySUZ6NXVQWWEtX2tQQzZzQ1had0FOUVB3Xy16UzNwSU1IdTBtUTNqdHhKMzBsT09fVzNoSUZXUFBYTzBzYUdyVjZWNktLN1lPNEx5S0t6MEs3WktIV3BBOUxUVmg?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-10T17:47:40.680480+00:00",
     "sent": true,
     "items": [
@@ -1701,6 +1690,17 @@
         "topic": "Здравоохранение Татарстана / РКБ",
         "title": "Минздрав РТ напомнил, как снизить риски развития диабета - Газета «Республика Татарстан",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd25iQjV5bGZVQ3kxSmpsVmF4aGN0OWx1NGQtSGxMbk1BODdhTzZGUVNXMFNJRklFYkpic3hfei1yWWNKbVdUeUJwcTFvYU5ZMmxlSFZfUC1wOVYtNU5iZ196bko5MzkxOExRZnJjNlNOWTZXR2Q0NGg2cE5RTmktYjIyODlDZGFRVEhnbzBZMEg3UQ?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-09T17:24:16.929327+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Российская делегация вылетела в Абу-Даби на переговоры с Украиной и США - omskinform.ru",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4ZS03ZC1yUW51MnRMZzRaTkJUZks3TjVSaEp1V2lJczhmVHhvVnpqLWZycDR3RDl2T0hWb2RfdGVQOEZaVW9XYg?oc=5"
       }
     ]
   }
