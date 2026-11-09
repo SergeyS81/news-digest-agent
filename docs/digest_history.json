@@ -1,32 +1,5 @@
 [
   {
-    "run_at": "2026-10-09T23:58:51.465443+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI Paused The Release Of Its Latest Models Over Safety Concerns. But an Expert is Also Warning Against a Slowdown. - International Business Times",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWFkQ0dBMTJYMnVhY0pNX1ExdnBUSlVhQXJ1TmdxRVh6OHBPbHFlZ2JwejB5d0c3T09KNk1KSk9tSmh0MjRrNmtTQWcyTGFuMDB4eHVQaldUOWl1UnJKWWJWdWRLbFhTZFhoRUd4Yk9TUTVDSWtMdFRHVEZfckpjMGV1dFdCb091eHBKX0taLUF1czUwUTZaTWhuSXlDUjVIZjl2UlVWRnBhZGt3RkhYYlpkRmRXbjVDcjhfSA?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-10T05:41:59.960527+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OPENAI RELEASES HUNDREDS OF MATH MANUSCRIPTS WITH COMPUTER-CHECKABLE PROOFS - Magzter",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY1kzQ2liNExNdWwxemxpVS1STEYzU190aUZmRnZMWVNTcHRRcG5pNGNoNm93RV9vVEdlZW51WmlKempLUEc3QS12cHB4bnh5eDVBdWJpcUdKNXNaRlB6b0VOVWJsS2QzaEpqbDFydU9pRkJqZzRuZjVrLTByMDRLMUZaMnVXWUN3LTkyXzZQbXMyd1VpVGNpRDZqT3pQOWlsWkxJTmstXzJpclkwaXJVY2g1dm5JcnNzNmdwbjctMUhNVWxnYVB1YjJkMA?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Релиз Aniimo: кто проложил «покемонам» путь через тернии монополизма - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFF6M3pnTzVlVjd0TW1xWTZrcWRNbmQ0WnF0OTJhY01EcjVtSW5GOGtPUXJBOXhBM2ZPOWkyN3p3VldxQmhxWUliS2hhZDNVYW1sNUR5RlByZHBlZEk0M1ZGUUJEUlRiYzF2UHJOWmZjQ1B5anRjcFV1WWlFcm5feG0tbDlZLXpfWVprT3UtbmtvQTFpTnBib3hXRVl2QVBvd1dhcDRURHQ?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-10T12:22:59.092907+00:00",
     "sent": true,
     "items": [
@@ -1704,5 +1677,31 @@
     "run_at": "2026-11-08T23:39:28.328643+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-09T06:08:06.394325+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Пестречинском районе РТ вспыхнула LADA Vesta - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83MDRVWFRnc1lDZ2tSWnpxeFlOWDBzUllEYmJFNmR3X2NwUkw1SV9VX0NkQ3dEV0wzNXh1NlVWdkk1LXdwcWI4Z0NBYktOQ1FiY2czSdIBU0FVX3lxTFA0c0NYZFZ3ZEpEbDBzX1M3T3BiS1hZTExLM0xCb2dYQ2Fodl9DM2M1Q0ZHS3dHSWNFelVTQ1dVLVduYThoa0ZxTElNa25ReVZsU0RZ?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Челнах представили нового начальника горздрава - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wNWs0QzNoR0kyREpVM1plT2tCQ291YTdBYzdmMGNuMThneER1ZVdLTDZTSnVLQXpLVnJrY3RmMkpDdy1pTjU0dzZoYWV3Tm9XTjVsWtIBU0FVX3lxTE1MQzFKcTVjVlQ1UjFzcjhHcEVBaW9mUU5mU0RYa1JuQkJ5NEpZTTI4bU8zZ0dJYlAtM1NTckVTQVJNNERfT3dWT2R2aTFWcXp6bi0w?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Татинвестгражданпроект» отмечает 92 года со дня основания - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42RG1GaWNscnZ5Xzk5RlBPN0Vrc0Z2RXNLeGRFeENKRTUxTm5JU19BUW41UWxhaEdGTUgyQkdKOWg2cTRrS3JVTklMS2RGSE5yMjVwa9IBU0FVX3lxTE9kM1JlNGstWnZQV1dZdEJiVUV6Rmp5eWVQZDZHN1hSU2F6QVozSHN2N0ozdmVzazBDd2wyT3pXY0dQUkRBOVI2OTUxNWZURktHZ0o0?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Минздрав РТ напомнил, как снизить риски развития диабета - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd25iQjV5bGZVQ3kxSmpsVmF4aGN0OWx1NGQtSGxMbk1BODdhTzZGUVNXMFNJRklFYkpic3hfei1yWWNKbVdUeUJwcTFvYU5ZMmxlSFZfUC1wOVYtNU5iZ196bko5MzkxOExRZnJjNlNOWTZXR2Q0NGg2cE5RTmktYjIyODlDZGFRVEhnbzBZMEg3UQ?oc=5"
+      }
+    ]
   }
 ]
