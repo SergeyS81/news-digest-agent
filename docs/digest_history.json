@@ -1,15 +1,5 @@
 [
   {
-    "run_at": "2026-10-11T18:48:16.171963+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-11T22:49:01.546201+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-12T02:17:55.870439+00:00",
     "sent": false,
     "items": []
@@ -1753,5 +1743,10 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN1o3Vmh2bElfTWtoUGJVMXM3dXk2NkpsR2RSZ2hZMGNOSmxUMmczVlp3bnZ1OF82N285TU01d0VXUXZOS1RwN1lwYW9jcW1MLUdJZXZKMnhxdjl0T0lkM2pRRHhPNWR2SXBfYURXMHk2RThpTkRCWmtsV0FaZlQ1dy1JdEU3LU9tbHM0R2hSNzJhWVBiZGItemZIanF0dnI3eExydU9iNk1oWVE?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-10T23:11:41.765365+00:00",
+    "sent": false,
+    "items": []
   }
 ]
