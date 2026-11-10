@@ -1,36 +1,5 @@
 [
   {
-    "run_at": "2026-10-10T17:47:40.680480+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Переговоры по Украине сорвались в Майами: главное об СВО за 10 октября - URA.RU",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxZ1M3UTFPNHk2ZDlXZ3BxRDNTNExWejBaMWdLX1pWVGZobTZlQkFPM3pVOWZvLTBhYmFLM01hOHFVaWVPejllaEFUQ3o?oc=5"
-      },
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Стало известно, почему переговоры по Украине в Майами завершились досрочно - Life.ru",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjlFM1E4TWFubC1NamFYWGFZWHZHNW9McFhNWWpfQjZ3MDYxR21VVHpOWHN3b3I1X2w2Y25EbHUxWFVNUUV0cUl5LTJCenBZd0ZFb01qVnlfMkdVVEZRV2xYX0tDWklCOE1OdmxRZTVZa1B1MHdMeG9yS2d2OFJ4YVlIdmkyeTFWUlpia05xVzBpcF9oc01lUg?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Microsoft выпустила ИИ, который выбирает варианты и не разговаривает - Runet.news",
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBCSnA0RWJyOHdxamNpeVJWdm1KVzNtWFU5S1pMZm43NUJkTy1ROWVvYWpTc2lFYjZoTjVaaU9JYzFFdFU?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-10T21:34:50.736769+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-11T00:54:29.519186+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-11T07:04:43.984611+00:00",
     "sent": true,
     "items": [
@@ -1703,5 +1672,10 @@
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4ZS03ZC1yUW51MnRMZzRaTkJUZks3TjVSaEp1V2lJczhmVHhvVnpqLWZycDR3RDl2T0hWb2RfdGVQOEZaVW9XYg?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-10T01:27:17.955219+00:00",
+    "sent": false,
+    "items": []
   }
 ]
