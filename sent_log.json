@@ -1,20 +1,5 @@
 [
   {
-    "id": "0a28bb71a09c07a9",
-    "title": "Сводка СВО 7 ноября: ВС РФ заняли рубежи у Доброполья, вернули Рай-Александровку, под Красным Лиманом сожгли роботов ВСУ, переговоры в ОАЭ - Life.ru",
-    "sent_at": "2026-11-07T09:56:32.971968+00:00"
-  },
-  {
-    "id": "22de8fc5694e4451",
-    "title": "ВС России нанесли удар по Северному мосту в Киеве - Татар-информ",
-    "sent_at": "2026-11-07T09:56:32.971968+00:00"
-  },
-  {
-    "id": "67b255f8aa068832",
-    "title": "OpenAI Releases GPT-6 Cyber for Enhanced Cybersecurity Research - Udaipur Kiran",
-    "sent_at": "2026-11-07T09:56:32.971968+00:00"
-  },
-  {
     "id": "605379ddcb21f896",
     "title": "Россияне смогут установить самозапрет на звонки из-за рубежа с марта 2027 года - Татар-информ",
     "sent_at": "2026-11-08T07:13:41.562150+00:00"
@@ -93,5 +78,35 @@
     "id": "2b43a368cc692d52",
     "title": "Anthropic Releases Claude Fable 5.2 and Mythos 5.2, Crushing GPT-6 Astra and Gemini 4 Carbon - Windows Report",
     "sent_at": "2026-11-10T09:39:34.584143+00:00"
+  },
+  {
+    "id": "837539b1f49fc380",
+    "title": "Итоги дня: УФСИН раскрыло детали ультраколонии под Челнами, в Абу-Даби возобновились переговоры по Украине, в Казани собрались девелоперы стран БРИКС - БИЗНЕС Online — Новости Казани",
+    "sent_at": "2026-11-10T17:42:47.448385+00:00"
+  },
+  {
+    "id": "6b7c0b13413ff6ff",
+    "title": "Дефицит бюджета РФ за месяц увеличился до 5,2 триллиона рублей - БИЗНЕС Online — Новости Казани",
+    "sent_at": "2026-11-10T17:42:47.448385+00:00"
+  },
+  {
+    "id": "30a75257dcf778b6",
+    "title": "Google DeepMind releases Gemini Robotics 2.5 to partners and an open ASIMOV-Jailbreak robot safety benchmark - MLQ.ai",
+    "sent_at": "2026-11-10T17:42:47.448385+00:00"
+  },
+  {
+    "id": "d2b704c19aa4d4a6",
+    "title": "OpenAI and ModRetro Release Chromatic Codex Edition AI Gaming Handheld - Technetbook",
+    "sent_at": "2026-11-10T17:42:47.448385+00:00"
+  },
+  {
+    "id": "554a4c7d3f50439d",
+    "title": "Anthropic Releases Claude Fable 5.2 After AI Swarm Builds Operating System - Technetbook",
+    "sent_at": "2026-11-10T17:42:47.448385+00:00"
+  },
+  {
+    "id": "c848e0c962f03ca4",
+    "title": "Anthropic releases new 'cheaper and faster' Claude models ahead of IPO - Invezz",
+    "sent_at": "2026-11-10T17:42:47.448385+00:00"
   }
 ]

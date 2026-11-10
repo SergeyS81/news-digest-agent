@@ -1,10 +1,5 @@
 [
   {
-    "run_at": "2026-10-11T13:58:16.815804+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-11T18:48:16.171963+00:00",
     "sent": false,
     "items": []
@@ -1720,6 +1715,42 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Anthropic Releases Claude Fable 5.2 and Mythos 5.2, Crushing GPT-6 Astra and Gemini 4 Carbon - Windows Report",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMG81ekJXeUd1VmNFaEEtLW1na1ozd2xUWkFkUzktb3NCM0pwZV9kUzFCWFBSZUJreGdrR0NhWXFySGVuZTRfUjVZMmxtVmEtYTU4SjRsVGhHWFZpX2x0bUNqY0ZUS0Z2bnBsdVN6MHRtZEVsclhlS2hMZjFsQmtYT1RCcTFmdU5OWExMbU5aQm9sYjEydjRVUGJGbXpLMkJkTkhCb3hTd25walI0NmowT2tKU2ZoRi10MVE?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-10T17:42:47.448385+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Итоги дня: УФСИН раскрыло детали ультраколонии под Челнами, в Абу-Даби возобновились переговоры по Украине, в Казани собрались девелоперы стран БРИКС - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xcERUVnY1cUVRVUJJV3J2bDBwYXVSYmF6SlJlWFJILWh2RmdrMGJXZHNBNkxnYmtTamljQW1NTGRrMHB0dmdxM1RGY0NxclQ3bDdZVw?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Дефицит бюджета РФ за месяц увеличился до 5,2 триллиона рублей - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2OUtpQ2IzdUdOdzE4czlWbXVVa0YzbzBub180cmdfRUZEa3cwaDlHODgwbnNLNHM0SFlVRUlBMlE4NFhKaFM3YTdEUkFlaXR1M05mVtIBU0FVX3lxTE9Bbml4S2FLMk5udkdNVmFjTS05UTFrdWVSR2ZLMWRfalNBcDhfbWZCUVFNQ0N1dGNaX3p3X3NfaWs5Y1YzMlZkbjVSQ3k4ZE9TdW5V?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Google DeepMind releases Gemini Robotics 2.5 to partners and an open ASIMOV-Jailbreak robot safety benchmark - MLQ.ai",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOU5hU1JxZnFROVU0Z3VYZWZDVl9LenNfMWcyeC0xNUd2eldlWUtocWRKdFctaExCcDEwSlNURlNaY3ozZWdORXgyOXl1XzNVZHhldllJM1ZCVnpUSFVYRlpnaUhxX2xiRTNSY2VmdjhqdGlqTGp0c0RZQ05kcnFOWWhwOFlwT2g3RE5YN0d1cHZFVHVmZUtVcmJTNXhmTFo4NjhMLU5fRjU2T2h4b0pCd0hYaFVwMV9BZDlJSm43OGdnZUh3Y2hENA?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI and ModRetro Release Chromatic Codex Edition AI Gaming Handheld - Technetbook",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjJEVEx0NG9Ya1NLYlIyRGNsT2xjX1EwUnhqaENvUlF2eXVOb2std3cyYjh5NVFSQWE1VC0zNGZETHVCbVBDVnc2M1dlVTd3QllJOE4tVktocXhPeTE3bkIxZ3BzT1RaQlppOWlfX283S3hJM1BCX0x1R2NRY3Fkdm5faVRUUQ?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic Releases Claude Fable 5.2 After AI Swarm Builds Operating System - Technetbook",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORkJUa0Z6Q0Z5cFZNcUVpTW1oLUF3dUZabW5Od0tibm9CVURTN1NLNFlTNEk0N1JSbzVqdXdLUmxaS0xtVTd1bHJITUQ1MFdub185WUVMOWtBSEIwbFo2ZFVpREh0SUhRTzVGYmlBNDdWdzlqYVloOVJpQlVvSE95R1hR?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic releases new 'cheaper and faster' Claude models ahead of IPO - Invezz",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN1o3Vmh2bElfTWtoUGJVMXM3dXk2NkpsR2RSZ2hZMGNOSmxUMmczVlp3bnZ1OF82N285TU01d0VXUXZOS1RwN1lwYW9jcW1MLUdJZXZKMnhxdjl0T0lkM2pRRHhPNWR2SXBfYURXMHk2RThpTkRCWmtsV0FaZlQ1dy1JdEU3LU9tbHM0R2hSNzJhWVBiZGItemZIanF0dnI3eExydU9iNk1oWVE?oc=5"
       }
     ]
   }
