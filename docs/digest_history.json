@@ -1,16 +1,5 @@
 [
   {
-    "run_at": "2026-10-11T07:04:43.984611+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Сводки СВО, 11 октября, главное: Ракетный удар по Киеву и бомбовый по Орехову - Рамблер",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMEFkVGt5aFJCM04tNzExTm9KZWc0Z0VUX0x6QnZReHBfcmY2cE1LR0FMSFppcFRJbVF1TnNyeHVXclNySk5wOFhqRGFHamNCRjJNYVFUOWRYMWFyNUNBd04wc2ZMb2ZVLVoyaS1BdmVabGtScE4xLV94NW9aTktCQjZqUm8wNWVGMUc1d1RDTDU1S3V2UWtDQnUwenFmcFRMRTNRSld1WEc1d1ZKTnR6SnR3Zzl3Z9IBuwFBVV95cUxOVkZYY2xhYWpPaFNFbmlQdGhLZGxsMFBSTGhaSVV4b3JHdFEwZEg5dEtVTEphUGRvR2lXNHFsenlQUWtXVHhvY3BDUE9WNEE4ejlMMUpQU2MwcExOdHVfVnpXam40aE5vbF9IUGtVSmVtc3kxWjNZVlBfX2h0NEpMa25QcXBqM0NGOVBEeE9FTHlXNFFBaXJOdDQ5QXVIbVcwc0hqRzd0MVduSHVJaTctalQtNGdIQmFJcWZ3?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-11T13:58:16.815804+00:00",
     "sent": false,
     "items": []
@@ -1677,5 +1666,61 @@
     "run_at": "2026-11-10T01:27:17.955219+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-10T09:39:34.584143+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Колокольцев наградил автоинспекторов, спасших людей при взрыве газа в Челнах - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlZwQzVnNWM5VUxaZ19CMGFTSzBOLVhOQ2Zmb0Z6RUVlbG1HMC16R1dncDBYWGNYcVQ5bHpHblZZeFJERXpRdHQza2tPdWdWMDNIYTY3dHVNdnZya3ZUazJuREc2WkZwcDNRdlZTRk5BbTBlUjM1OGVNMWVHUEtZRDlQMWRkcjhZYWhFWDF3WG50YlRpY2tLMkZMbUNPRGlydGF0OGhaclgzQW1laTB1bXhJc2RiU0U?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Можно аналогию с нашим ЦУМом провести…»: какой будет ультраколония за 31 миллиард под Челнами? - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mSjFhRDlKcGI4Sm1XdkVOTS1OVFpsZDBrSjdQTHZfNTNvY1JwOVdJSUc3SFFhaUF6d0xTeEVkbjNnVlYzS1ZtS1hLcGJKUzlWWjVCVmRXUWk?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "В Казани – суперСИЗО, в Челнах – суперзона: в Татарстане построят мультиколонию за 31 млрд - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd0w1VURUUFNIY3Z5Vjg3R3FYam9vWkNQQnpnNUFnWUN1bV9tQ1RJcmdaaHRGaHR5bnRKT3JwTjAtR0d4dmtfNmFJbWt6VXBIblQxdE1RQUFUZFRKTXkxS0szLWVjckdiN0hXT2NwZmdwT1dEdGdYMi15MXFTbWp2RWV2RExSWDdOakJ2V1ROeFdWUUV6NlduWWRrU3BwVXUwNnQtel9lU2hiM2IyQ0p5NzRKeXBkbDhvNXc?oc=5"
+      },
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Переговоры России, Украины и США в Абу-Даби 10 ноября — кто вошел в нашу делегацию? - 56orb.ru",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWN1dEZYN3ZMTmo0ZEw4amREdGc0VDJQcHJtTUpORi15Q21Vc2hFdXREaVpyUWU4U0ozRGhPOXg5endlTEE0OUJoRlZaWC1ZTWZNOXUwUTRWRTludURiQnJkUHVHNDgxRXRmQzVBWkd2VFFreDN0UjlsSWcwS0g5TlFSMEVueWZyaktkZDdyaHNyYjA2N2EweklQTllxVkloazRZb3VHQXNabVVSZEZtWEhYb3JaUGhhdUp0dExsUmxMTnFHalE?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Взломать за пять минут? Как ИИ помогает хакерам и на что теперь способен школьник с нейросетью - ФОНТАНКА.ру",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPM3czUi1ZWmN5cERjNDFVeVlPbENVS1UwemxLYXZVeHVLMlJaNlZza1dIQm1LM3k2QW9RNXl6ZUJ3UTJ5ZmRabElsTlBxZDhRaVpWMTdxaw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Экономные и мощные: Anthropic выпустила обновленные ИИ-модели Mythos 5.2 и Fable 5.2 - Incrussia",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlliZEFqVlVUMlY5bmFTVVBxQl90V29WclI5Umg4bzRNMmVoZURiSXBoMGdORU9qUnI3dDRsT1RoU0drUjlXUFlYUUxDVXotLUxNZTNMeDVSdUZ4aUpNNW1uUFg4WFNKWVJUTEUyc1V1dE1QMG5CUlZJOV9weHVhVWJsSUQ3OUY3dEc4UVhXZnUtVXJ4b05LMzl4bTR0QmZUZkd0T0Fnc2xCYjZudjBfQlVR?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic releases Claude Fable 5.2 and Claude Mythos 5.2 - Resultsense",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHZuNzhGMFY0bzBmclBwdGdWUUZDM2l1aUdWX3otYU96alA1YkYxLVVvTmFPeDBuX2FEMjFBek90R1ZXekNzU1hSR1NwQW13Tl9SOEVjS2doMjFDekVnTkJjdWZkY2tsVERLTy1sMEIydS1pNlY2V2p4TG5fVmo1YQ?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Claude Fable 5.2 and Mythos 5.2: What Anthropic Released - The Neuron",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfOTJSNDVVd25QaklNYmZfcnIxcXNZYkRPMVY4VnY2aVM1aW1FdTVkOU51SU5aOURTS0VQcXZTRFdNQzNCbUNyTlJZaElYYlpCUU5uTlNqaGpRcExDMVl0MUxCMGNRWGttS2Z3WnlrWG9SNjB3T25Z?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "From Wearable Agent To Heavy Coding: Top AI Releases From Meta, Google, OpenAI, And Anthropic - ETV Bharat",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNaUdHVVl3YWd4cWF6RmpDc2RZLTh3REJteGNkSDRQaVdMRVJRSFZsSjdzNExfMlhnR3VQSFgzWG5CZk9qbElDaERHMFQ5blhIWFpOM05pdm9ueHhMSmY0dERtdTVicDVyN1VXSXRMUEVKZVRMN2toeDRLSEhkdGp4VUxtYXZDX0d5OGRLa3hXdlk3Ums3ZlRNMmc3SGNYMmZGZmZvNXJtVmpxckRqeGFxV21meVhMWjRDdFgtSHZ0MzRoSVhDQkxzQnBFYnJ0NTlSWkNfZ3RTRTNTVWdUR2RaUTBZQ0ZaXzVlTW1PeXJQSWRIT2hNcjNScTNELXdwQm1aUFE?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Anthropic Releases Claude Fable 5.2 and Mythos 5.2, Crushing GPT-6 Astra and Gemini 4 Carbon - Windows Report",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMG81ekJXeUd1VmNFaEEtLW1na1ozd2xUWkFkUzktb3NCM0pwZV9kUzFCWFBSZUJreGdrR0NhWXFySGVuZTRfUjVZMmxtVmEtYTU4SjRsVGhHWFZpX2x0bUNqY0ZUS0Z2bnBsdVN6MHRtZEVsclhlS2hMZjFsQmtYT1RCcTFmdU5OWExMbU5aQm9sYjEydjRVUGJGbXpLMkJkTkhCb3hTd25walI0NmowT2tKU2ZoRi10MVE?oc=5"
+      }
+    ]
   }
 ]
