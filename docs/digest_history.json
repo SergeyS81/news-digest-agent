@@ -1,10 +1,5 @@
 [
   {
-    "run_at": "2026-10-12T02:17:55.870439+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-12T10:38:22.425171+00:00",
     "sent": true,
     "items": [
@@ -1748,5 +1743,36 @@
     "run_at": "2026-11-10T23:11:41.765365+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-11T05:59:06.201607+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Айгуль Нуриева «Кузляр» : Важно не просто предлагать услуги, а делать акцент на индивидуальном подходе - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtZ2duWlhLNkNna20tSFg1QmhDSzRfZVM4YWpGRVdUTmRRVzUtSjZhV1VmNzZXR2lZMWprckZSR2VuVjlvNzZyNWNrb3hoRF9GMVVFdUZsTk3SAVNBVV95cUxOUUdzRENWMWd4RVRIM3F3WGt6LWp6cjE5YWRqR0NzNlFEVlVER1JKVkRZZXZJUjhrU0pIbmtYR3J3MEdZMmdrQXdJRUlUdkNZMzcyWQ?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Глава МВД: «Можем и в 10 раз больше мигрантов выдворять, но нужны средства…» - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YNFZma2hHdzU4bnFYTUlZaThXaXM1NVhXV3RROHlLMmdRa2JFRnFtdmpwMl9yQnRBV1Z3QXBNeU5seWQ3T252VFVBR3BBQWZvb0lxRzlQaHnSAVNBVV95cUxPN1huU1RIWWdzLU5tV0VKV1VudzJmWUNZaVBLUndIeWdsZUFOV3NYWGVWbnNGUllfWWUwSkxwRS10VkdMVnpoZlc0cldyRE9Pb1VNcw?oc=5"
+      },
+      {
+        "topic": "Значимые новости рынков",
+        "title": "Рекорд года и падение на 20%: что происходит на рынке новых авто в России - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMGZReVVvLXFVeWV3d0JvckpBazBIMDhlTWhoSEY1WkpXX05VVUhiTFVhY0tqQ1RMM0ZFckg3RnJZS2VHc08tRDRrY2xSMHFTZjRNdWRTQkJDZ3FYUEhaaFBMZVp5ejlIY0FzVVlwTzE1ajlPT1RQUUNBM2xLWW5lUUxjX2tKQlFpWTlhVmpOSGNDdksyUFlsdlZzcW5aU2IzbmFaTXZPOHNOUW41cnJEb09B?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI выпустила портативную консоль Codex Edition, на которой можно играть в созданные ИИ игры - iXBT.com",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSEJkeVJpUVl2QkNuZHlFWmdWbWUzWjdOQWZsdmdOdmtCVnc3cDRJS0JNRDNDUW15YlhuVjU5akFrdld6TDYwUXp5YkxqRG05Smd5TWduYlljU2J6VS0xVXRsaE1XREM3VVZNMkNpLWZ5bGJxWk82R1lreWhNekpPNFZBeUMxUU9uWlVFaFktQUo5cXA5bDE3anRQZnYwM184NVZEWHFyUVZaQ1NGQzNJY2pjTDhtQlloUzlQa2ZvaXhOYW1zWDNveHVVZXV1R0lW0gHWAUFVX3lxTE02Vm12ODdHQmpDNEJCY2NuU19lUHhlRVNLN0xQU2hEWTdycGZKS0d4M2tPSTdsN283X3Jtd1phZjYySGVuVlVoaUxSX3d4NEdLZEtNRjhFSldsNHVieF9XRjJjWWpTWU9QTFVac2R3VzdQTHlGZXEwcVhCN1J1UkVORVpCVjVrV3ZGTGVwaUhhSk5xVy1FXzhVSkxKd1dydWQyR1dMMTdVa0cyT2JwZ1ZBa1d5RjNSVGRhUjJ1eVJ0SHo0VVJ6cXpweFdsOXdaazJ6SkJhR2c?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "CAS разрешил, но Канада запретила. Как России попасть на молодёжный ЧМ? - БО Спорт",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iQVY4UXpIUGdnX2F2TDFaXzlOY3liZkowc0l0X0hVX2l6ZU54OGp1ZW5ydWJWVVhsUVh3LWsyYmdIZE9jbk1aX2UwT2pZajN3RHBLMjBnSHB5OE0?oc=5"
+      }
+    ]
   }
 ]
