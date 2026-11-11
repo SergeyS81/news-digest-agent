@@ -1,10 +1,5 @@
 [
   {
-    "run_at": "2026-10-12T20:14:31.088194+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-13T02:32:07.967857+00:00",
     "sent": false,
     "items": []
@@ -1787,6 +1782,22 @@
         "topic": "Мировая политика и СВО",
         "title": "Переговоры кончились, разгром и бегство ВСУ: новости СВО к вечеру 11 ноября - NEWS.ru",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLURYd3R2VUhnRjIzaXZZajBkVks0UXkyOXp5NXlNZ0F2cTVZb2w4c3JZbFJvalJjVkRNaURORl9lN2hfUEZzWkFGYmhLb1ZxcHFOeVJzZEJvaUVRUjl1QnZqS3lfeWl3M194NTNtWVRNVVowbEFBODl4YnFQRHlmUEQ1WXFfdlQyTHBid1JySlE3MzFTb0sycnpuRVFuUVoxcmNES1VR0gGmAUFVX3lxTE0tRFh3dHZVSGdGMjNpdllqMGRWSzRReTI5enk1eU1nQXZxNVlvbDhzcllsUm9qUmNWRE1pRE5GX2U3aF9QRnNaQUZiaEtvVnFwcU55UnNkQm9pRVFSOXVCdmpLeV95aXczX3g1M21ZVE1VWjBsQUE4OXhicVBEeWZQRDVZcV92VDJMcGJ3UnJKUTczMVNvSzJyem5FUW5RWjFyY0RLVVE?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-11T21:21:10.179124+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Google выпустила свою самую мощную ИИ-модель Gemini 4 Carbon - iXBT.com",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTW1YTWhVTGFGWm10SEw1Q0x3OHJ1NTFDT1ZhU1FxcG1CcjdPbjBtN0xDSkNRLUdXcmQ0MC04QjFxbEtzYlhIdTBFNEVSN1pqdXotQWdZcm1IaGxGbjROa0RpMVpWbWZiQjlTc0dnQ2xreWtYNWdsNXFhMkdNNVRkWDc5bVQwWDdFbXc3UnQ3emNJUDZwN3VxVDlpNE02TXPSAaQBQVVfeXFMT0RjUGdrYm5EN3k0R2pGNlNGdjBMN09Wc1ZlSG1vMVBBbFpDQmhGZXRGMjFfQzBVVFMwRVVnYWRIYnBGcmlnUXY4SVdlQjBnVF81QldhQVU0d1VQMFlrbFhiWGFKT2N3WmlaU0Y5RHVMc3drY0ZYQ1NldkU0cHpiVUxDemFTeE1rLWVnd3d6UGhRNjNweFpLb1lmTzFWS3kweWNXUi0?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects - MarkTechPost",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1BHV1ZHQ3AwOTRDSVlRZGY4R1lFZks2Mm9ZdWcwTTZ3NVNrT1hiR0RGMExuT0RZR0p2WGZwZmpvVUtKWTNxbC1TUTgyb1c3S0U3ald4RmZNTmNkSUhuVFZVWVFiRG1oOEc3M0ZSN2g4SzdFUUZHMkxLOG5STTVCMWtXeVFHa1RQdUlDdHY5R2VYQm9mMUFaSVhrVVbSAZwBQVVfeXFMTWtQR1dWR0NwMDk0Q0lZUWRmOEdZRWZLNjJvWXVnME02dzVTa09YYkdERjBMbk9EWUdKdlhmcGZqb1VLSlkzcWwtU1E4Mm9XN0tFN2pXeEZmTU5jZElIblRWVVlRYkRtaDhHNzNGUjdoOEs3RVFGRzJMSzhuUk01QjFrV3lRR2tUUHVJQ3R2OUdlWEJvZjFBWklYa1VW?oc=5"
       }
     ]
   }
