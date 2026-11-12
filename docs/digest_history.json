@@ -1,10 +1,5 @@
 [
   {
-    "run_at": "2026-10-13T18:10:26.305086+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-13T23:15:12.617632+00:00",
     "sent": false,
     "items": []
@@ -1799,6 +1794,22 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Госсовет РТ рассмотрит 19 ноября вопросы по бюджету республики и запрет вейпов - Татар-информ",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0FSRUJrc3RYcE1DVnNSX0w0RVA3eng2UE9MN0RFbEZsME80UmoyaTZLdG9mUk5JbVNMZ3Z2d2RlMjB0M2owZ0YxWTRTNGpmc3lQTDRJQW9UQWtiOTRkR1BrWnVLYVEzVDJHcVhUeHFXMk1ETHRiWmlYeUx3QXdDbGdRTGIwcnUyRW1yWEZGUzhPakFKdmxXazM3WksweE9qaFVmU0ptcGJvVXpWRHV2eG1NUXJ3RE9pUE1WQjlqdw?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-12T18:50:20.423868+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Российские средства ПВО днем сбили 76 украинских беспилотников - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN3BlWjJSejRPb05GU21BZDduZHdwT1hLQ1FlNHUxaVV5ZHJwd1pOSHRHbVplNzRNcXprczlQXzlDWE9OSjhRMUh5Zk5Ta1FMR2NQT1lFbTlsMG83aUNhTnZaSVNmWlByRXEwOHdwSEFpeDJITUVBSGQwOFBrNHdaUEJGaV9pU3BMT21wSTZZWmNxX2N5NkVDeXJhZw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Правовые и этические барьеры ИИ: на Каспийском форуме обсудили регулирование и межстрановые соглашения - Голос Степи",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PSmh6QWpRSHV4U0RHUFMxZXFTN3dYcmctaWpyME9udXFxSzcxT1kyTTYzc1BWTW5RSHdWamR2b1FjM0o2Z21XTkN1bWczQ1Yxb0YzT01DQQ?oc=5"
       }
     ]
   }
