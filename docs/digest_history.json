@@ -1,10 +1,5 @@
 [
   {
-    "run_at": "2026-10-13T02:32:07.967857+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-13T10:26:01.244963+00:00",
     "sent": true,
     "items": [
@@ -1798,6 +1793,17 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects - MarkTechPost",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1BHV1ZHQ3AwOTRDSVlRZGY4R1lFZks2Mm9ZdWcwTTZ3NVNrT1hiR0RGMExuT0RZR0p2WGZwZmpvVUtKWTNxbC1TUTgyb1c3S0U3ald4RmZNTmNkSUhuVFZVWVFiRG1oOEc3M0ZSN2g4SzdFUUZHMkxLOG5STTVCMWtXeVFHa1RQdUlDdHY5R2VYQm9mMUFaSVhrVVbSAZwBQVVfeXFMTWtQR1dWR0NwMDk0Q0lZUWRmOEdZRWZLNjJvWXVnME02dzVTa09YYkdERjBMbk9EWUdKdlhmcGZqb1VLSlkzcWwtU1E4Mm9XN0tFN2pXeEZmTU5jZElIblRWVVlRYkRtaDhHNzNGUjdoOEs3RVFGRzJMSzhuUk01QjFrV3lRR2tUUHVJQ3R2OUdlWEJvZjFBWklYa1VW?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-12T02:52:47.714413+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение и прорывные мед. технологии",
+        "title": "Health Check: Clarity shares soar on ‘breakthrough’ FDA designation - Stockhead",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRFlId01DT2J5S25xNkVmaUNfdEVhcm1zVVo0UkVGWUdURDdHQjJRMU93OHRsWlhaMVlKcjNyODhVQ0xvVUJQZ3RGXy1rM0t0bGZmUHZmaEZRdmVkNEZsM0d1ekxnX25GQkdiSHkxb0ROU0hNTkZKRTJUcjlKd3hETEc3ekd1TE80S0RqWW1JRk11bV9QQUhjY0xYa0RGZw?oc=5"
       }
     ]
   }
