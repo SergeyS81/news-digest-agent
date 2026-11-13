@@ -1,27 +1,5 @@
 [
   {
-    "run_at": "2026-10-14T10:05:03.725903+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Наталья Касперская: Регулирование ИИ, безопасность и импортозамещение в ИТ - Anti-Malware.ru",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RY2Zic3drcFYtTDdpQnRNa2JQMmlCeUd3SVlMM1h4ZTdONHd4SkhpMllwTzEwSmZpbE1JWmZ6R2k5cUJpZm5iY1AyZnZyd2tKSnQ3OG8wdnc5azVmb0tBOUd1aWpwdw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-14T15:03:52.800545+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Симулятор авто и сеансы VR: что помогает восстановить бойца СВО в горбольнице №7 - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3l3NFNoSTlNSTYybkFFMmM3MWI1WGMzVWZSNVFybnl0TkJsRzdnS1gtQlNjM3p5aVdnT3pBdEVETlZmOVVFWlJBQ0lxZ29GdXU2cGZJaWd3WURkNTJmOFQ5S0V4TnlweWNURFFHb1piVU5ua3hiUUNWcHpxWVd2TmRXM3RfbUtkVHRsVGRQSUFsWnBCMHVadV9Nb2xoSERRSFRNQkIzUHBvdHh4SlhhQWtTYXJsQXZjY3c?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-14T19:18:45.542369+00:00",
     "sent": false,
     "items": []
@@ -1831,6 +1809,17 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Auto SR: Microsoft выпустила ИИ-масштабирование для ROG Xbox Ally X и ПК с Ryzen AI - Hardwareluxx Russia",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNEY2MzhjcTdiZExvWHlZWXczTWxKLTEzZXBRVjRVb2xzZWtmaUVfY29kRjI1VTBjT19BYmx3Y2IyZ1lpNDEwYloyWTRfakZua0RuLUpRQnpuQlV5bXFOUjJTbld3bWNzYzFWMHIxYlE3blBzSzBXSHF3Q2Y3bVBaazFaS2FQLUJjZzA5ODliZzkwYUpyUW1JYjhLQndYMmJTN2VuMk03cUdRWS11Z2JWSHlKblQyMEdBNThDOEpRaWV2SHhDNG1Vc0tkRW1vZ2xqMUNfczBYUnFYU2VFdjJlUmQtOUg?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-13T16:11:31.886451+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Yandex B2B Tech выпустила новое поколение речевых моделей для создания голосовых ИИ-агентов - www.itweek.ru",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42azhxbHpMbTBObjh6clRFREpYS1JNYkU0NE82Vms1LWRPVXZVX0YtRGhoQTVGQXpMa1AzcXdQMlBvaUpjUDhGR1VtX01rd3dpNEVrblE4aE9mLTdleFE?oc=5"
       }
     ]
   }
