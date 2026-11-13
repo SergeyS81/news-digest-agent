@@ -1,10 +1,5 @@
 [
   {
-    "run_at": "2026-10-14T04:44:31.339797+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-14T10:05:03.725903+00:00",
     "sent": true,
     "items": [
@@ -1812,5 +1807,31 @@
     "run_at": "2026-11-13T00:11:20.530564+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-13T07:50:07.647271+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Врачи РКБ с помощью ботокса избавили пациента из Казани от хронической тазовой боли - KazanFirst",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVlWRnJLUTFkc3luN2xNeDJ5REFaNlhjM3BuQ2lsRGxKTG1VUUJJRTd0V01lNlJpT2Z2aUVTcFFIVG9pTGVrdzV2WVpRR0xwWUEtemZodEpZWDF3MnpDWjVWVkg1N2dnSzJlRXJhQWJ1a0lPMV90V2pPeVdNR2xBbzBVQzhIdTRXNkxQa3JWUmY0UXVSSWNzYzRURE1jeDNYZjJyLW1GQVlBeGdFRC1qb3RSZ1Vld9IBvgFBVV95cUxPX2FaSTctdDJXNTZkTGI0S3NkTTBYTDVmRmN0M1JfdWpmOURmdkZfU3l3MzdWa2prdG5mNV9WVlJXeFhFRjdlYUZSTEtrZEJBRDJhNzZ4R3lrYUs5VHd6Y0haQ1I5Y2hzZENKeFl1SS1rWDBVUURoQXVQTWRkNFlYUGNUMEpiYWhINzRYUTN5c0MwVzBxRTBYNkFtRGFYM3dXLUF3ellHSVJUVDRrNkhZNlptQUZ2eV9tZ3lzU2pR?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Врачи РКБ Татарстана избавили мужчину от боли, мучившей его десять лет - Татарстан 24",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMEs2ZG1BRGpJUDVRd3YwdFhjOFFYX19WcG4yYVFISklvOFFiLTFIaGlUYlBEOTBoSEVjaThQZGV6enVuR1VLTkpZOTJJOHpGYXdZaTVGWDlfakxCYVVJc0h6QlVGZDk4UE40RlpZaEN4ZGdubVgzc28tM3hLYllxMGQzMC1PSHNzZlA3Smt2LWFLanZuSlluNk9XYXlpTjd3Q0h4MXVrR2t1TzZj?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Врачи РКБ избавили казанца от болей в тазу с помощью ботокса - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTUZFTUh5ZGxSRUdvZ1VQNTQ5ZHduNG5Qd3pJeVE0UVFGSlV0TUZxb21jUlRTN1c0b3ZDeTdiaUlNOHByU3hxV2tJbndIZmhqV2lxUlBqbjk5Si1oV0ZHRHFmX0Z3OXlXYlYta0o3MDJmaHU3MC0wVkoxM1E5Nk82djU0QWxvM0Jsb2wyczhNX2xaVlZNWEtRNklMWjdxUVJhTUFSM0Zn?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Auto SR: Microsoft выпустила ИИ-масштабирование для ROG Xbox Ally X и ПК с Ryzen AI - Hardwareluxx Russia",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNEY2MzhjcTdiZExvWHlZWXczTWxKLTEzZXBRVjRVb2xzZWtmaUVfY29kRjI1VTBjT19BYmx3Y2IyZ1lpNDEwYloyWTRfakZua0RuLUpRQnpuQlV5bXFOUjJTbld3bWNzYzFWMHIxYlE3blBzSzBXSHF3Q2Y3bVBaazFaS2FQLUJjZzA5ODliZzkwYUpyUW1JYjhLQndYMmJTN2VuMk03cUdRWS11Z2JWSHlKblQyMEdBNThDOEpRaWV2SHhDNG1Vc0tkRW1vZ2xqMUNfczBYUnFYU2VFdjJlUmQtOUg?oc=5"
+      }
+    ]
   }
 ]
