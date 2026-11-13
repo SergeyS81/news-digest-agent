@@ -1,10 +1,5 @@
 [
   {
-    "run_at": "2026-10-14T19:18:45.542369+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-14T23:08:58.205133+00:00",
     "sent": false,
     "items": []
@@ -1820,6 +1815,17 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Yandex B2B Tech выпустила новое поколение речевых моделей для создания голосовых ИИ-агентов - www.itweek.ru",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42azhxbHpMbTBObjh6clRFREpYS1JNYkU0NE82Vms1LWRPVXZVX0YtRGhoQTVGQXpMa1AzcXdQMlBvaUpjUDhGR1VtX01rd3dpNEVrblE4aE9mLTdleFE?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-13T22:31:51.341013+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Новости СВО 14 ноября: ВС РФ освободили Котовку и давят ВСУ у Доброполья и Красного Лимана, Сумщина без электричества, новые переговоры в ОАЭ - Life.ru",
+        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9zZDdsS0xDTXFqX0N0bkxhZVNLaUZHTVd2V2RsdlJ3Mm5lOWtpX09YcExRa3RlcVN2bTNWMTVR?oc=5"
       }
     ]
   }
