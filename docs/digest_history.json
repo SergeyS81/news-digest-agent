@@ -1,21 +1,5 @@
 [
   {
-    "run_at": "2026-10-15T19:04:08.595714+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "ВС РФ нанесли массированный удар по Украине, пока у ВСУ наблюдались сбои Starlink - URA.RU",
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XUzgyUXdyV1EwdS1GcmRybDlRajk0OVZZYWtURDFwVnVJR0RudExQaF9Vb05BWHZzc0NXMlpHcHRCTlA3WnB6UTdnVmk?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "NVIDIA выпустила три новые нейросети Nemotron 3.5 для автономных ИИ-агентов - New-Science.ru",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnVRcGxPNUFYbXNWLW8yVE5DVmhKUWthSmxtamVZZmhTcmo5RXMtaTNqOVFHV25jbnhQc1ZSUmVIOEZqNFlBTUhKbG1aYWcweFFnV2hzd1hQTmhNdUZ3OWhvNkJmbC15dUxCNFNWYlg1QkpIMWY0OHZoNktFLXEwV2hlSldUQW05aFRCa0lyd0JjZW1hZzlJYnFoTm12cEM2V2c?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-15T22:11:39.218381+00:00",
     "sent": false,
     "items": []
@@ -1818,5 +1802,10 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlBOTHlDSUNqX2FReWl6WDRFQlFtMnNHdVZtem9nYTZqeU85TlNHTmxBcU5oMG1CZXBWQ1B0SEswbWdJQWlYOEh5Q2RBQjlZNThDMlk4Sk9fNnZ3UEN3TkNSWlVyb21Oem1MbndFNHYxd3RKWUtFbnVkZk1qWUxvbXl4dDFpWDVZaVpv?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-14T21:23:27.130698+00:00",
+    "sent": false,
+    "items": []
   }
 ]
