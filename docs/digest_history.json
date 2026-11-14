@@ -1,31 +1,5 @@
 [
   {
-    "run_at": "2026-10-15T04:27:17.485808+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-15T09:48:12.519926+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение и прорывные мед. технологии",
-        "title": "Рак, генетика и роботы-хирурги: какие медицинские прорывы меняют лечение в России - ВК Пресс",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSl9jSkNLZlJ3MXJDVHpESnplaHdQaVpvVlFxdGNGdkNpMnlPSEhpRUNlMUlWUGxBSjE1QXptRWd0T2VKX3RfaEc0VlFfb3lwalZnY0VWZElrVFVYRTJodGtDZTlVZFA3TC0zUDJlendqMk1MNXMxSHp6bDhaekk5SzVrSmlWRWRjdmM0UHhObC1IaDJzSGktOEZPT0xHMV9KWXBDMHRyVGNLN1JMSC1ucldkT0JSRWN5R1pwdnJNZ1g?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Роспотребнадзор: Более 40% заболевших пневмонией в РТ – пожилые - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1mNENpR3BZWEx4YldwMkRtdEpuV1dUTzk3ZGxseXpDaVhWS1FFc3EwQVBOd2lHYTJRdGwxZzc3Wk8xMnBhaW5vcU5sbzVsSjlpbldudtIBU0FVX3lxTE02RTJqYXJDVkhGVDZ1UVpkX0l2cUVPLW9tRWdkUHROT1hydHRrYkpwTG0tVGpzNlhBUVpLNGtxd3RMYW05cXR2WWQwWDY1aExYYk5B?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Отечественные ИИ чипы, скоро прорыв, 2030 год - Smart-lab",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12VjVIaWJrcHBTejFHYnBfYzN2NU1wcXAycTVJRUoycTAxYWo0V0M4alZtX0dMNFV1YWFVZTFUcE5sblJINUl2emZha1VpZw?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-15T14:54:40.727031+00:00",
     "sent": true,
     "items": [
@@ -1828,5 +1802,21 @@
     "run_at": "2026-11-14T03:05:48.733916+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-14T10:14:55.926281+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение и прорывные мед. технологии",
+        "title": "This cancer drug is a breakthrough. FDA must fast-track it | Opinion - USA Today",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOUw3MXVCNF9YVG5NUXJXTUFtR3RqWUpqUURhdjZCTWJWa1RLQ2JvTC1TemZjOXV6Y1NTMmNIaU5Qa0ZwWUVkTHlaMGpYSVpCYzNBZmJRdzU4bHBvY056NU5Rb2tMUXVjaWR5ZGRIbkdYREd2N0xLS1JYN25iQ0EzNmdpby1kek9JN3d5RXYtSlU1X2ZQZkkxOENpYTVrMVM0M080TVpZOEVXX3pZUWRXRkNDZw?oc=5"
+      },
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Мир уже близко? Чем закончились переговоры по Украине и когда может завершиться СВО: главное на 14 ноября - Интересная Россия",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHJfLWpWcnVwZ0VfZkU1QnZrb1E3YnktbzRtSl94WllVRGdtM0liWm53SHNuTG5SVGtYak9RcDQybVV0QTVINjNwQ2hjRkJUYjNIakV6cHFUVDhfNFE0VjFvMWpqLW5MRWRQamZJQVg1dTVhcVo1OS0wMExDekh3b1pBZTlON2VsVGtlZm5hcUxnRXBrUTI3dUNVNEt1Z1VXWU9yWE5HSGlHekQzYXI0akxId3p0SmRvb29KczBjRmkzbmI3S2JJdnoyU09KbVBmNEpsUU1LakNUUQ?oc=5"
+      }
+    ]
   }
 ]
