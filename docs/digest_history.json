@@ -1,21 +1,5 @@
 [
   {
-    "run_at": "2026-10-15T14:54:40.727031+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Не за деньгами, а чтобы спасти жизнь»: эксперты о донорах в Татарстане - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaGlNQkFVWjlqWERPblZyeUl5ZG5xSjgyWjl4dDh6cXF1NDIyWXpJQTVTYjVhQWNVSVhtYjEyYlBwRzJZMjFKSUZoYW5hWHAyNTNZTE1adFRTTEdqN3RRYjhWUERKQkluTkRBeUFkOXZnV205eEh3TFBHQk5sNXVWRTE0ZWZ2SGpIel9sdTZpcUE1WWZxY0d2R0p1Si1lVUVhVF9pZklKN1k4UQ?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Свыше 10 тыс. пациенток поликлиник Альметьевска прошли маммографию - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdG1RQXdyQmt6NVc1bFNPa0lOZWZENm9acmVlV3duVG5NOU1FY2h6YzVFNkRtSmFvUEp2bFZUQ0lMY2g0bGZBZTNfc2pPSGtDZlJvb2dsYTVwdy1SUUZndGFHd3BSZ2VmLU1pb0NHS2lyR1pGUldwblpRTkRTLUFPektROHVPcUZFdXlBTXhuR0UzSXZiVnBjbnFQZTF4ZVNCX2hnZFRhbl8?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-15T19:04:08.595714+00:00",
     "sent": true,
     "items": [
@@ -1816,6 +1800,22 @@
         "topic": "Мировая политика и СВО",
         "title": "Мир уже близко? Чем закончились переговоры по Украине и когда может завершиться СВО: главное на 14 ноября - Интересная Россия",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHJfLWpWcnVwZ0VfZkU1QnZrb1E3YnktbzRtSl94WllVRGdtM0liWm53SHNuTG5SVGtYak9RcDQybVV0QTVINjNwQ2hjRkJUYjNIakV6cHFUVDhfNFE0VjFvMWpqLW5MRWRQamZJQVg1dTVhcVo1OS0wMExDekh3b1pBZTlON2VsVGtlZm5hcUxnRXBrUTI3dUNVNEt1Z1VXWU9yWE5HSGlHekQzYXI0akxId3p0SmRvb29KczBjRmkzbmI3S2JJdnoyU09KbVBmNEpsUU1LakNUUQ?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-14T16:59:30.479123+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Когда закончится СВО на Украине: последние новости 14 ноября 2026 года, переговоры Путина и Трампа, прогноз на 2027 год - Интересная Россия",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVUVuRW5zNHNUVFlhYlpodHVSdmZUXzg4dW1jUXN2Y29SRGczeDFsWlJJVGs5UEFfdzdlYnFqNmVCSnNCWmc5aW42Rjl0ZnVKaXVCOEhoZmlYUGJCV2lYTkNSS1haRWpHSDdKM3lNVDl4aV8zUDczRThvdzNzX3ZOTE9JVDJrM1NfVlNPeEI4UTlfZGJIZWFGX245Y28zTnlfSXpaMEJZOXhLVkh0aWNqWVdiWl96dUdsZWhkUXdiVDhCTzJ2dnZuZzlCTkx5V3ktVGpidXYxQmxISHJjaDdDaDVfWC1qM2RnZ1NUeDNoaWloMVpMTlZOQ0dBckJpdFpyc2JTRFZLd2NCVlk4d1Q5WA?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "DeepSeek добавила функции приложения в API и выпустила chat-demo - Pasquale Pillitteri",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlBOTHlDSUNqX2FReWl6WDRFQlFtMnNHdVZtem9nYTZqeU85TlNHTmxBcU5oMG1CZXBWQ1B0SEswbWdJQWlYOEh5Q2RBQjlZNThDMlk4Sk9fNnZ3UEN3TkNSWlVyb21Oem1MbndFNHYxd3RKWUtFbnVkZk1qWUxvbXl4dDFpWDVZaVpv?oc=5"
       }
     ]
   }
