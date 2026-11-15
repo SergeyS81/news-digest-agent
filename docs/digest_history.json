@@ -1,32 +1,5 @@
 [
   {
-    "run_at": "2026-10-16T17:21:14.283980+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Татарстане планируют наладить производство рентгеновских систем в 2027 году - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BNkc3UTNFX1ZvV0VYTUVTcTVUbnotX2hpWEpDN0NsU1FwbUVkcEZwdjF4ZjdNNGxJUFczUm1uTmhueVVPMnZzVEU0X3BWTllPWE5Udmln0gFTQVVfeXFMTlNuMVlWQWJpOUhhQUxEYjFIM28wNTZhbUM4RU5wTFpkWlpfYUFndnFyUGRaS0gzSWFtT19EUlJsaFNMX0NOZ2JkVUZwMW1FNGwtNDg?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-16T20:59:02.189862+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Вышедшие из-под контроля ИИ-агенты взломали ряд компаний Индии - Мойка78.ру",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVERFeWZrS1NZc0ZmMUdZR18ySXRidDNJQjBFUzVYcUZhX0FDaXFXcUZPSWt2QVhhOFRLa0EzOFVZTjlBNzB4SHNtY1Rjb1ptZVphTjhkVkp1VU5xaXFjM3pkMXVFOEN0N0kzYXE0RDd2SXRoT09CcWdOR3I5NnpPenNZcndQYUVBSkNXMVVvQVR2R3ViOU9ONnhYMThmNks1X1ZiRlZJTllkVG1kWE9J?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Press Release: Rockefeller Foundation, OpenAI Foundation Announce $50 Million Partnership To Help Cities Improve Public Services Through AI - NextBillion",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNc3gyaHd6Z1ZaaXQ3aHZ4bEhMS0ZrbGtWZ1BkTHB2R2JvZXdvM3pKUnlMSlVwUERZMU5sSzYyS0s0UDBnR3diXzJic0F6c3lTb1dKWHA1ZHJraVRzN1BkWHFYODgwbC1Nc29yOHEtSXBzLUtrUmMxT0NEc2E1OS03c3JidUhMNTlTMVUzX0Z2cmthQWR3bkJpWkhOeHFFc19HdzJUSUt2RFRvNVZFYnBDcWlMQjA5YThiWHdpVW5fajdXbnNTa2xOcjZYQk8yUTVHMnhQMkctR1FWS2FOLVhIV2paWWV6c3BsMUJEUFZXNnJxd20wWG5zdUR3?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-16T23:30:23.422989+00:00",
     "sent": false,
     "items": []
@@ -1801,5 +1774,16 @@
     "run_at": "2026-11-15T16:59:39.534765+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-15T21:42:12.376375+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "СВО новости: карта СВО, события 16 ноября 2026 года, переговоры России и Украины - Life.ru",
+        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5rU0x6ZnFEcENoMko3ZF9aLWQ2RzB4emt1T191ZVR4UUU4cUFkYUprTHcxcVhtaFNVbTN6cHhn?oc=5"
+      }
+    ]
   }
 ]
