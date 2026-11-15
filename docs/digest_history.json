@@ -1,16 +1,5 @@
 [
   {
-    "run_at": "2026-10-16T07:04:01.566659+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Пожизненный запрет вейпов для молодежи поддержали 73% казанцев - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdzlHZWdJZTJnX01FeHBXeS1tbG5RakcxMnNOcHFwR1Z6WnVwVkdBTGxoeHFUOXFoWEFuWmJYZDFfV0VNaGswb001eU1LbzV5cmtnMTlaVTI1STNBYWZaM1E3TG1UcVktaDZEYUI2ZXBDR1FENnFaMHUtUm41QWFZZXhIeFBLX09MdUsxbnBnZjA3ZGtfOVYyYnF3R0F3REdXYlFWc1lB?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-16T12:20:26.168244+00:00",
     "sent": true,
     "items": [
@@ -1802,5 +1791,41 @@
     "run_at": "2026-11-15T01:48:35.092204+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-15T09:13:13.132039+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Жители Казани прошли более 1 тыс. обследований по акции «Ночь в поликлинике» - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWdqNEE0clo0UWgyZDQ2ZGhzVDdFU3UzS3RTd3RwTUhlY1IyS2h6TVd3YUZLLThrZnJuU0tSNjFhUEpqa0REeE5YSWhxeWlfTG5TQk1wMFJWSXhCdkxFUTctN2dyZHYzUGk1dm9jUFdnRnl1ZlFzd20wcjVXMS1BR2oxZ245S1prZGEwVXZBVEVBUk40ZUphSVhQemxJSmUyTHBYYzA1Z3Q?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Частный дом сгорел в Кайбицком районе РТ, пострадал мужчина - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWJ0NDIyM3RaZWZLcmpzeUdQaXJSRklGdDdPcUxmRTBhS1g0WEJ4cHcydnhEZlNrU2ZFV2xpamE1bmVLTnd6emNvRDhLNFdPYjZodzhZVmZSUWU1STJoR2tucXZaVjBDS0JheV9OLThwNFlJaUNNb0FTQnczYVBlY2lYZ3FOZlhhNG82VFd3Q2M4WWhUT3c?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Массированная и продолжительная»: Нижнекамск пережил очередную атаку БПЛА - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDV3UHpMd1R1NXFCRUk4NldqSjFoVWZhRFhuSFJDZTNOYTJtWHFjYmVGSi0yd3lST0h4cnRTMkhabGd2aVc3Tkk2ZGEyVWpPOFBJdVFIRGh2UjlNcGFzZkFWUDRpSWR0TmZkNnloS291YnVqckVqdzF4NDVkOHZFWmhFYnE1RjlkN1JkUGdRdGpvVEFGSVBacjFWNUFwc25GcmJTVWM5NGZLdw?oc=5"
+      },
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "ВС РФ нанесли мощный удар по логистике и энергетике Украины - РИА «Стрела",
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1jd1h2b2hmZVNseXIwMndQcC1zQTZwMTJBeEQxYndrRGt2dU5vdDVHOTdWaDd3WmlzbU5DZ2VnVFJVRnFU?oc=5"
+      },
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Приведут ли российско-украинские переговоры к окончанию СВО: что известно на сегодня? Оценки сроков завершения на 15.11.2026 - Твоя Свободная трибуна",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZVFPOWlrRFdSX1lUUnlZMkNiQ3k1bklqaUt3dGhMbGNyeERpb3hVMU1ZbEtSV0lYTE5IU0hYY19YSGtfUU1fdlZLcENNM005ZE5qLVJBMjNXZjBvQWdCTEdmS241UnNpTHp6UjEyWkJhUVNXRTJLbEhvc0otR1hhY294WnZlOFdGX0pmR3NqYjRHdkJEakwtQUtYSXVlTU84ZzhRVlE5U2RwdlJfQ1dKWjBGZ3F0RXR0TkNzTHpZLVBORXpVZEhjck9sdlhYbVlvcmt0OVEyelBsc2U3YU5fSTZfSy1oNmF2VEMtUnV5OXZ4UVdVOWRWUXJzM0Q?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "ООН в Женеве обсудит регулирование автономного летального оружия с искусственным интеллектом - informator.ua",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1EwVlFIcXJrWGlBWmNZWWQ1OWVtdTI0cFRjWjdyQkUyOE56ZFpJTUU4Vmc1dmpqSXVwdWhTSkFObGRySTF2N2RhYjFyeTJGaC1ieW5MWVQ0T2dEdS1HZ05SUUdHWXlwNC1uUktfcGU4RE9GcjRwcWxEMDBsZnN2Ync4ZnVacUJtQWVmclVhSUFVMWdSYXVVRVZKYXJLVkNzNHcwakZsOS1GcVBBcmJuWlFhcVV2RDh0bE9N?oc=5"
+      }
+    ]
   }
 ]
