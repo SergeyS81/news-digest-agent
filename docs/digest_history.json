@@ -1,36 +1,5 @@
 [
   {
-    "run_at": "2026-10-16T12:20:26.168244+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Двух жизней не дано»: как из-за халатности родителей дети гибнут на дорогах РТ - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZHRtMzJwa0tnMjVobUF1X0NsVm1HX2VsV0VfWVN0c1A4bEJLQVRWeTFVeUFPTHNJQ2diWW9FMmVYY0R1LUozWHlKaHI1bUVtNkpxcDZNOEZqWW1oaVlTSlJxNHI3TGxuYllZcl94QTljaWF2RVpfV2hCdk5DWW5jWEVVNU94SHZEemNWdmJ2RmNST09iclVOcWc3VkdIM2dIMkp0aFViYjNqTi1veTJEZXJhUTUzSmVU?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В ряде домов Приволжского и Вахитовского районов понизят давление воды - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORXQwNU9ZSXZoMDlzR3pHd3hGZjdzdEdtVGRvWDBVRVJINUdBaUo5cDZMV2dRMlI2alhpa2JNV2FOYnlvTUplZDY5WEs5TEdFcUxEOVVWaU43YkNJQW1UVnZ1dHpvMXJqSGhMWUNJYTVhQmpXdU9Vand3bTR0ZWY0SmxSMDZ6TEhpR0hqR0h2Zl9CVWtfMnhuTDA4Z3QwaVJYVjZSWFhNRW8tZkNNZDYtQi1iaw?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Более 300 домов в Приволжском районе Казани затронет понижение давления воды - БИЗНЕС Online — Новости Казани",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9weVc0cE1zSVp5UUNnWUdhZTM3NGJyZFQ3Xy00NktyYVlkU1VFbExsc3ZQM0o0dmdCYUNyQzJHa204R0xZSTdQbTJkeDhwNmJYRkFUcdIBU0FVX3lxTE83bkdzeWppUFB4SkdYOV9LSUYydkxtb2FXUHpxdG13dGJ4VTFlRDJwRlV6a2oyb3pLMzEtQmJqUm5yd1FvdGtrcUc1UnRtbjV1YkRN?oc=5"
-      },
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Перемирие России и Украины: что известно о новом мирном плане - МегаТюмень",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckJFUm9ha3lpS1piSURTbmdTOE1tdWY2QjQ2WmgtOGtZSEE1Y2hNVkVGVVZCX1RmVnZ6czU1VmFsSm9LNzd2NnZPYmgzU1lWcVczTXhFdHIxSjBSUkJFRUxHVUhJeTlEczVBTWZpejltcWVaeDlJaXFfMTJBdXMtX082Vk1TV1RWMXE0VEFYdTFVaWNvN3ZoZWxaaXZ4Y00weFNLQUVJa2lsMkRSRVpXZ1Ryc0dLc1hRVlVzbk8yeE8?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results - Mashable",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jQWhkclNlSmV2TEZzY19JYW8wQ3pkZVhFNzFLaElxdHh2bFprTGwyYWxIVmtMd2tEMEw3bjVaMFJfQU9xU0lVQ2Q1S2owb185YXFpdElfZzVxTnJ6b1FMSWdZaFJSTFFWb1dTRzBqbjJjcngyb0E?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-16T17:21:14.283980+00:00",
     "sent": true,
     "items": [
@@ -1827,5 +1796,10 @@
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1EwVlFIcXJrWGlBWmNZWWQ1OWVtdTI0cFRjWjdyQkUyOE56ZFpJTUU4Vmc1dmpqSXVwdWhTSkFObGRySTF2N2RhYjFyeTJGaC1ieW5MWVQ0T2dEdS1HZ05SUUdHWXlwNC1uUktfcGU4RE9GcjRwcWxEMDBsZnN2Ync4ZnVacUJtQWVmclVhSUFVMWdSYXVVRVZKYXJLVkNzNHcwakZsOS1GcVBBcmJuWlFhcVV2RDh0bE9N?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-15T16:59:39.534765+00:00",
+    "sent": false,
+    "items": []
   }
 ]
