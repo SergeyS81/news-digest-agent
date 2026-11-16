@@ -1,10 +1,5 @@
 [
   {
-    "run_at": "2026-10-16T23:30:23.422989+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-17T04:15:04.991333+00:00",
     "sent": false,
     "items": []
@@ -1783,6 +1778,17 @@
         "topic": "Мировая политика и СВО",
         "title": "СВО новости: карта СВО, события 16 ноября 2026 года, переговоры России и Украины - Life.ru",
         "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5rU0x6ZnFEcENoMko3ZF9aLWQ2RzB4emt1T191ZVR4UUU4cUFkYUprTHcxcVhtaFNVbTN6cHhn?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-16T01:55:03.030122+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Новости СВО: новейшее супероружие вызвало хаос, «Кремль повлиял на переговоры и раскалывает Запад» и грандиозный раздрай в Европе из-за Киева - Блокнот Россия",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMThKdHhMT0xxYjhZcGlIWDJnOXg4eWUyZ3FUUmY2aWRldnA2Q19iVmhqeUZGSEFSdUFXdnlYRmdnNzViU1VLN1RYb2ROUXdKempaWnFvZnZiYzFXUHlPMG5IVGkwc2pJdGxYQV9DSTNLZ04zdS0zX0JTWDNXeWt0Ul9tT0RUWUVGbHlvci1NYWhNcGtoSzRPS1JaUm1mOG5OVHlrQ1FSM0ExZ2tqU0FJU3ppTTRTRTk2bVo4V0lZTkk5NzlZTzVBN3hxc0JRRFR4WkM0UC1Vd1dZY1FnNmhsbUxyXzgwWnd5Z1NlUFlsSkNUUTdhMHlkX0pvWGVtX3pGN2xNNW1SVjBxQQ?oc=5"
       }
     ]
   }
