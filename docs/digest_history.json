@@ -1,36 +1,5 @@
 [
   {
-    "run_at": "2026-10-17T13:39:50.541550+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Жительница Челнов отравилась дымом на пожаре в ее кухне - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjV5RzdSSW1mazNnRW5zOHdnUk1jMWhJbTRTUHJRTkpSWmtqOC1rYUVtcFZXVkltMWYwVTNlbTNveXV1SkxieWx4THVIUVNWVDRPcWF6VjFQdjlpTDhzOXFHakN2SWlvRGJVc0cwU1FUZjBjb1JxeWd5QkFtOTVOczlxX0NzSkp0VlZ6Q1oyOGExZzhVTW5hd1R3?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Пожилая жительница Челнов попала в больницу из-за отравления дымом при пожаре в ее квартире - Газета «Республика Татарстан",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQkNWYkxPTWZrU1g5TDdRX3hKeS1aMGVNVFpHeTRtNHFlQUJQNXhsNG5GUkFRcTVUVVU5bXlQUVVnQ3ZqLTlYNFIxa3ZaT0s3dXhrWk5acVROc05JeXRCLU05V1NNeTlIdGpmd3Rnc0ljYlk5ZG1ROWNORHhjNXJUNnNDcUhTQXB1ZTdWRk16RW9LVXg3M3M0SUtJYS1IWWNtNUd0TXgwekFuYmNydzluX0dTTXVsemV4RHNDNjQyRmQ3Zw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic prepares to release Claude Fable 5.5 next week - TestingCatalog AI News",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTdoZzVvZTJnVmNMLXF3cWFycWlnbHNPQ1VEamVCaHZqY1dmVXl2M182ZkRnNktmU0QxN0UxMDEtT2ZZbENuMTZqSkk3NmtSdHF5WWd0MEVZX1dVOERONk52XzhqdU5rOW93dGZITHhLU3ZRdGRxNGFRaU1GMHN0LU03T1dQUk00eVdfWnoweFQ4blR2?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-17T17:04:01.380546+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-17T19:18:42.498270+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-17T22:13:15.318394+00:00",
     "sent": false,
     "items": []
@@ -1784,6 +1753,17 @@
         "topic": "Мировая политика и СВО",
         "title": "Румыния инициирует переговоры с Баку, Анкарой и Ереваном по безопасности Черноморского региона - Report.az",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTHEzVlRtdWdYRUtLTGxxQXU3bWRfdnZ3YlBlaVBFaWJyTlZYN3NaS3JFTjdZVFFMUWpsa0s1elJNTU1nelhHNmdKLWFJcEkyTzRhaHlGTWlndDVzbFQ1UEZyVzBtaWx2OGxjTmtYRkM4VkJONGxpUnpFemg2QWtxQ01hZ0tFNFh6V1RTUDU0S25sR1dfS2RyaThzTE5iNXZwYnFENy1Lak5HNnVuS1pSdThHZXBPS0JQQzBEeDZpbnBWM25BMmZieE9hZDh5TXZDRFE?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-16T20:20:47.714594+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI Releases Image Classifier and ChatGPT Warnings to Combat CSAM - news.lavx.hu",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaVhlMWtlOHVybU1NMmFyc0Roa2NILVF0SEtOaTYzSUswUktCb04tYmVRdjFBVFFicFB3UWRBYkdBbTZGRnlSYThkYzRRQk5yRnlTT0RqanczTHViWUFfOTNwNDRWM2M0TkNXSzhkdlpJVElIejdYRXBoVERkVlhVejc0OFBqYjktYW5nTmNGRGtfX2VCUTlDYVNlWWFNUQ?oc=5"
       }
     ]
   }
