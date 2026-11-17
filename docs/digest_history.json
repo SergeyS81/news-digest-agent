@@ -1,21 +1,5 @@
 [
   {
-    "run_at": "2026-10-18T05:47:26.588833+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OpenAI released 722 math papers at once and mathematicians are freaking out - ZME Science",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZHNtU1pDZnQtT1dRNWJadTJqRkRGdjV6QTZuNVQxN3p1ZHU3M1ZPdm50Y09wclVTVkoxdUgyQjRQNUU1ZDQyNW94ajIxMmc2YXhQOHppdWN2ZHdua0pwZC1WMFlma1B3MDhkRXNKMGtadnlaTjRGY3RWVUo4MGlReWFIRE1VazJuZlhFRElSVGVtWU9VZkhiV3ZQRllTcjQ0NEtheUdfZUE2YXlIWHlSNTNoUkg3R05Dd0pCZUp6VGk3UQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-18T10:55:51.873804+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-18T14:30:52.508845+00:00",
     "sent": true,
     "items": [
@@ -1761,5 +1745,21 @@
     "run_at": "2026-11-17T03:43:56.916962+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-17T13:10:35.176709+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение и прорывные мед. технологии",
+        "title": "FDA Approves Breakthrough Treatment That Helps Children With Type 1 Diabetes Keep Producing Insulin - SciTechDaily",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzZkaEVNM0padGdaMGhBcVkyN05vWXg4WkRhZnkwOGFDNWJsc1lqaTMzblRUR1BRd0lwWjVGcDh2ZHJmbEpoVjJnM3N2ZXFPSGVRcHdWdDhSaFdlV212Sy1CX1FnbVZBODBjMzVScUZvelJnSFJBNHlMVnJtR1VueTdtWDVLWVFBNnc0SjdYNTV2SUVxbDdDVGJWM0lUdTc2d1dsY1dBZVQ1dE9yQVhYcldnZmV0SkVRa2VGNzEyc3loOWM?oc=5"
+      },
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Татарстан на четверть сократит объемы мусора: «чудо» обеспечат росчерком пера - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oWFlYbHBQVzliLTlhQkdyUDlrVDFjaUFST3N3a3loWWN6d1JDd0czX3E1bTZZZlRKazZvOFhtUXkxQnZBRk5WRFNwaWY5RFZLbDgyeC1IRmvSAVNBVV95cUxQbTUyQlNuTDM5YVRUcl85aGVZcUlhcUc3TFhHWnl3eV9vMm9jVnRUdHdxOTZWaW1SV1lxczdpSXJoVmVVR1NJMlA0cnpwTVlrQnZzSQ?oc=5"
+      }
+    ]
   }
 ]
