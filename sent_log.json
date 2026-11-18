@@ -1,10 +1,5 @@
 [
   {
-    "id": "465764e0136bab0f",
-    "title": "СВО новости: карта СВО, события 16 ноября 2026 года, переговоры России и Украины - Life.ru",
-    "sent_at": "2026-11-15T21:42:12.376375+00:00"
-  },
-  {
     "id": "9e144c4996f73a1f",
     "title": "Новости СВО: новейшее супероружие вызвало хаос, «Кремль повлиял на переговоры и раскалывает Запад» и грандиозный раздрай в Европе из-за Киева - Блокнот Россия",
     "sent_at": "2026-11-16T01:55:03.030122+00:00"
@@ -58,5 +53,30 @@
     "id": "1cc9c32897670218",
     "title": "OpenAI’s newest release lands to rough reviews - The Rundown AI",
     "sent_at": "2026-11-18T13:51:02.890693+00:00"
+  },
+  {
+    "id": "9d191b3d1a51d701",
+    "title": "🏥 Врачи РКБ первыми в России сшили грудную клетку петельным имплантом - Челны-ТВ",
+    "sent_at": "2026-11-18T21:50:57.608089+00:00"
+  },
+  {
+    "id": "5150cbce7c32ad63",
+    "title": "UK AISI jailbroke pre-release GPT-6.2 Astra - VentureBeat",
+    "sent_at": "2026-11-18T21:50:57.608089+00:00"
+  },
+  {
+    "id": "4707732cc0a45800",
+    "title": "Anthropic decides to go head-to-head with GTA VI release, schedules IPO for the same day - The Register",
+    "sent_at": "2026-11-18T21:50:57.608089+00:00"
+  },
+  {
+    "id": "a4dfefe380781171",
+    "title": "OpenAI Ties Frontier Model Releases to Lifecycle Safety Reviews - Unite.AI",
+    "sent_at": "2026-11-18T21:50:57.608089+00:00"
+  },
+  {
+    "id": "f32e1431d2b05c73",
+    "title": "Google DeepMind releases Gemini 4 Neon, a cheaper alternative to Carbon - Crypto Briefing",
+    "sent_at": "2026-11-18T21:50:57.608089+00:00"
   }
 ]
