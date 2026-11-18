@@ -1,15 +1,5 @@
 [
   {
-    "run_at": "2026-10-18T23:03:03.153133+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-19T01:08:47.664050+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-19T07:40:50.940167+00:00",
     "sent": true,
     "items": [
@@ -1744,6 +1734,17 @@
         "topic": "Мировая политика и СВО",
         "title": "Новости СВО 18 ноября: ВС РФ освободили Заливное в Запорожье, уничтожен КНП бригады ВСУ под Суходолом, Европе закрыли вход на переговоры - Life.ru",
         "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9yUHNJdW45MFNudlZvaTNOelRBR0hNajl5ZlFQWWtnRTdQLWI5QVFJcnZJRmdxZjVDRXo5QWZR?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-18T04:11:40.478721+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Приучат платить и повысят тариф»: Высокая Гора станет первым в РТ селом с платными парковками - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUFmX3lwNFRMOTZjYTRPODFmNmRGNlJhM29IdmpIaFRLaU10TnNtSDVQNmk4WW5IS2JCX3FHRzlXTlJlMk9YVXp3NEFCTTlBdWNYT1YzZzJ3Q0dFQllrTjR0bUxRVGFpMndENWdNejNqN09adXg3VHhiUHdyLVptZnR1NVJYS2xwTGs5VmtWZ0dBQ3BDaWtWMGxESjhMUjFSdG1XOVdnNEk1VElIc3cxOTVrNXhicWNSckZtNWlNTEZsdGs?oc=5"
       }
     ]
   }
