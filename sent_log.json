@@ -1,10 +1,5 @@
 [
   {
-    "id": "1c44b0668e1496c2",
-    "title": "OpenAI Releases Image Classifier and ChatGPT Warnings to Combat CSAM - news.lavx.hu",
-    "sent_at": "2026-11-16T20:20:47.714594+00:00"
-  },
-  {
     "id": "3b20ee1dd2b14836",
     "title": "FDA Approves Breakthrough Treatment That Helps Children With Type 1 Diabetes Keep Producing Insulin - SciTechDaily",
     "sent_at": "2026-11-17T13:10:35.176709+00:00"
@@ -68,5 +63,25 @@
     "id": "6bd697d93bd4a52f",
     "title": "В Казани продлили меру пресечения обвиняемому в организации убийства Шевыревой - Татар-информ",
     "sent_at": "2026-11-19T12:52:55.536623+00:00"
+  },
+  {
+    "id": "ad9b80f47d4903e0",
+    "title": "Biostream Urine Test for Normal Pressure Hydrocephalus Earns FDA Breakthrough Designation - Clinical Lab Products",
+    "sent_at": "2026-11-19T21:24:59.833303+00:00"
+  },
+  {
+    "id": "4db1f64e4478894e",
+    "title": "International Men’s Day: Anthropic IPOs, Trump Meets Putin and Xi, and GTA 6 Is Released - HackerNoon",
+    "sent_at": "2026-11-19T21:24:59.833303+00:00"
+  },
+  {
+    "id": "8c9868686c574af0",
+    "title": "Press Release: Pingree, Balint and Ross Question DOJ Role in OpenAI Copyright Case - Quiver Quantitative",
+    "sent_at": "2026-11-19T21:24:59.833303+00:00"
+  },
+  {
+    "id": "d2f84cd3b3d3fb40",
+    "title": "Туск: запрет на выдачу виз спортсменам РФ хотят включить в проект новых санкций - БИЗНЕС Online — Новости Казани",
+    "sent_at": "2026-11-19T21:24:59.833303+00:00"
   }
 ]
