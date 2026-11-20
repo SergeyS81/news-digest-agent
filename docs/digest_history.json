@@ -1,21 +1,5 @@
 [
   {
-    "run_at": "2026-10-21T04:34:03.265500+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-21T10:02:46.694832+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Политолог Дудаков усомнился, что Трамп добьется прорыва в переговорах до выборов - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWJsU0Q1LWd2OFRvVmtzSmVPc0dZaElCdzBFcVE2UXVwTkNNZGRMUXVuT1c0eGFUUkRMM1A5Wm1XSjBKUlFkM3JVVEFKa29iTzhnTjd0NHRqc3E1N3ZTVG1YTWtkQXJPenN3YWVlUnlYdVN5VlZIS0t2dWlyUmdiQm9mV3BHaERFcGhYTkprTTlxT0s3eUphd3BiVjZESHVZMkk1TVpqMXJsQWYzRDNZLTV0Tlp1d3Fob2dSWVRB?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-21T15:08:44.745201+00:00",
     "sent": true,
     "items": [
@@ -1694,5 +1678,21 @@
     "run_at": "2026-11-20T03:02:43.680474+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-20T11:24:36.642666+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Материалы за сегодня — последние новости - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lbjdXb1ZNaXlxQ1k1dkhNeWNLLWNINV9nZmJDVTRydDM1VEpLWGtRR0tHUE90UDRqNEFOd0I0ZkF3RE1wbXpTWHhvVk11R2hWUUpZRF9rSnpjM2cwMkE?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Ведомства Великобритании выпустили первые межотраслевые рекомендации по применению ИИ в социальной сфере - Unite.AI",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2hLc09CLXZrTXJUd3BCTGxldmZlOHRDWk9rWXVPcVhXUWJZNGdkZmRDTFZoT1ZnRE9vQ2VQRFpZcHRvMUhQbm81Q2FNVUlMNUVzS3BmNzFaajRYQzFCVGxRams3MnBLVjhUZU9JclhvMU5FNWFTLVpuSjhCUGhqdk54YnJ6b2pHT0swQzRDRnhoRDJPcy1B?oc=5"
+      }
+    ]
   }
 ]
