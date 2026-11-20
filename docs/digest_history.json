@@ -1,10 +1,5 @@
 [
   {
-    "run_at": "2026-10-20T23:48:26.801184+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-21T04:34:03.265500+00:00",
     "sent": false,
     "items": []
@@ -1694,5 +1689,10 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FX05ncFJvb2xoTHZTc2oyRVBCWFItMk9Qd0VjUEMybWx6MHlWX21oSXJ2WUF4UmZjYnRlVnBLbWR3bFVvWTg5TENZLVR6SklmRjh1V9IBU0FVX3lxTE9DaS1nU2UyeUwwYzFuMVF1clM4MjhmaHh6Q3ExbzVPOGxjenFTYmhFUlhzT05FZTl2UmI1SV9OU2NvdVFXTjNCT0c5MHdnVGhqYXA4?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-20T03:02:43.680474+00:00",
+    "sent": false,
+    "items": []
   }
 ]
