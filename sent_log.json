@@ -1,15 +1,5 @@
 [
   {
-    "id": "3b20ee1dd2b14836",
-    "title": "FDA Approves Breakthrough Treatment That Helps Children With Type 1 Diabetes Keep Producing Insulin - SciTechDaily",
-    "sent_at": "2026-11-17T13:10:35.176709+00:00"
-  },
-  {
-    "id": "63e98f517aadfbba",
-    "title": "Татарстан на четверть сократит объемы мусора: «чудо» обеспечат росчерком пера - БИЗНЕС Online — Новости Казани",
-    "sent_at": "2026-11-17T13:10:35.176709+00:00"
-  },
-  {
     "id": "5f5bf5570b12c679",
     "title": "Новости СВО 18 ноября: ВС РФ освободили Заливное в Запорожье, уничтожен КНП бригады ВСУ под Суходолом, Европе закрыли вход на переговоры - Life.ru",
     "sent_at": "2026-11-17T22:13:20.279590+00:00"
@@ -93,5 +83,10 @@
     "id": "dd5d74582c21ed3d",
     "title": "Ведомства Великобритании выпустили первые межотраслевые рекомендации по применению ИИ в социальной сфере - Unite.AI",
     "sent_at": "2026-11-20T11:24:36.642666+00:00"
+  },
+  {
+    "id": "f1d217c53386967e",
+    "title": "OpenAI releases chemistry benchmark showing AI’s uneven drug-research skills - Superpower Daily",
+    "sent_at": "2026-11-20T20:01:22.830948+00:00"
   }
 ]

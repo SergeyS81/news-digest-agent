@@ -1,31 +1,5 @@
 [
   {
-    "run_at": "2026-10-21T15:08:44.745201+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Конфликт интересов доведет до уголовки»: об антикоррупционных проверках в РТ - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcHpYTWhIemdZZ25rUGRQbm1YR3JJNUFQeEFKTTlnOUtnVDVPRWQxaFUzelFMa1owNlAwTGhGQzVlMGlEVGh0clZrTmNtZHh6WGpwTDMxZFhGMmFqSEZFb3QxTjJVdEFwMTJiTS1LZ3lFSWFnNGkxSFJwUTFiNnQtU1ozX1I5V2JjaU9TaFJ5YllSX0xfOGZLX083OEVmYWJPLXRSSjBUQ2I0LWFHTzY2LXh1TWVzUQ?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Как будто вернулись домой»: ветераны НКНХ оценили трансформацию родного гиганта - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUh1WUdBWFR1eWxNQVlBYUxVLTJYdGI2T25NN055QWJEVUVOYXFSU3oxZUZIVk5GSjBpMmdORE1MWW5OLW93cnJMR3Y0a2E5UzlsUzR3ZHM3aktWdXFzdlFEaHRBbFZBUE5CcDZoX1kwcUdha19hZjlFSEtKNXdxeENRNFRRd3RMRnQ4YlVkbHhKRzRmQWJ6RU9rOHJHR0dNU2tEVmxuSTRXVmFOQmZPRW9rMDNtRFpOMUE?oc=5"
-      },
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Россия готова возобновить переговоры по Украине – главное со встречи Путина и Уиткоффа - Европейско-Азиатские Новости",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa29qdG14cFlIWW5CX1J0M1huMGNlSTVhVlVIUmV4cmFET3l4Q0FuR2ZZd1ZWZk9JcmFUcVZMeHVLSy1mVnlhMTJUWURVbGo0dVVLZFYyalpfRk5aN2NZZEp1SHBPejgtR1dpMDFmTFBnV1ZuNkhDMHJ2RzNjU2NTcm0zVmZmUjk3cmFaMzRLNEEyeHl6a0hlekRCUlZzQXZ4ZWJMYzVrNm9kMjlEbHQ5RHVHT3VQdzhyMnYycE1QcWJvcEFS?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Для Windows 98 SE выпустили драйвер Thunderbolt 4 — его помог написать ИИ - Хабр",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QWDY4RjZqeVRUY0tRZnBQcG1FYV9tbHBxTVFCMTgxdmNDTkVqRmV6UWpZUGVFUEdPSnRLR2o3bGZBTHotQWIzSmw4QjFoaGRFRXVlUXU1YWlYT2tWNHRnLW130gFYQVVfeXFMTTJoOUlsVWRNS0N1Rm9KUHlsTGZ3X05nTFhzWnoxWUlPMk40a1ZFRkEybldJT1lNQnJVQVJHZ2xwUzZrUFVhWG1UejR4cl9SQ1FVZ1hVemd3RQ?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-21T20:04:42.899875+00:00",
     "sent": true,
     "items": [
@@ -1692,6 +1666,17 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Ведомства Великобритании выпустили первые межотраслевые рекомендации по применению ИИ в социальной сфере - Unite.AI",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2hLc09CLXZrTXJUd3BCTGxldmZlOHRDWk9rWXVPcVhXUWJZNGdkZmRDTFZoT1ZnRE9vQ2VQRFpZcHRvMUhQbm81Q2FNVUlMNUVzS3BmNzFaajRYQzFCVGxRams3MnBLVjhUZU9JclhvMU5FNWFTLVpuSjhCUGhqdk54YnJ6b2pHT0swQzRDRnhoRDJPcy1B?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-20T20:01:22.830948+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "OpenAI releases chemistry benchmark showing AI’s uneven drug-research skills - Superpower Daily",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkRLalc4OW4xTnZYVU9IM0R0c1QteGVWRWhpSXVSaU5WcFNRdDItaV80ZWFFem1SR0JpdWFtUG5LWVczVnhMYmo0ZEpqNVR6ZjVOSDhMdk9yV1hWZkFiNERJbFN5dE15UktQbHoydmdUcHY1c1NYVGNDSl9RVG00enFTQTZOd2szR0Q5WGFCNkNMc3Rpckx0aF9jazlzOWt6NGpyUVFhSGwyaWpfYnJj?oc=5"
       }
     ]
   }
