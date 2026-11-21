@@ -1,16 +1,5 @@
 [
   {
-    "run_at": "2026-10-22T04:32:42.514199+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Скайнет уже здесь: автономный робот взломал два десятка корпораций и даже не устал - SecurityLab.ru",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94U0tYWUdiU3RjdmtWNWVobER2OFp2aUI2VmV1OGdqamtka1QyMGlBbEVBQ3AxamFTQmNSblJfZnBlT0t6N2JTUUtOeVFkbjdlVU92Rg?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-22T10:04:00.745352+00:00",
     "sent": true,
     "items": [
@@ -1663,5 +1652,16 @@
     "run_at": "2026-11-21T01:25:09.574292+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-21T09:39:02.781614+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "Когда ждать конца СВО: почему США торопятся с соглашением по Украине и чего требует Москва - Донбасс Сегодня",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclh2YVljbm9NUUstQ3hlRlJhYkl6QmUtazIwLTZJbXRYUlVnZE1WNUN5Z242aDVpbHFtRnpsc0dGRXNfc3JNbnpOVnp6bDdsaTBJWWlETXlneXVPZGxzUjJNc09aY0FPek42MXJ3VEoyUTlzNzN2bEhnVk5ZODhjMWZ3aENDbExCdkNvS3ZxQXNwWi1CRGRIRklnY2l2MWltZHo0MHkxNGVib3FBOWRTVnk0dm1Lb0dKRE11UG1n?oc=5"
+      }
+    ]
   }
 ]
