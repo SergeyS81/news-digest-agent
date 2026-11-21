@@ -1,16 +1,5 @@
 [
   {
-    "run_at": "2026-10-22T20:00:15.483361+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Путин заявил о готовности возобновить трехсторонние переговоры по Украине - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZjhBdUJDZGptT0ZvQ1pjSmVvNUpQcGpPZlFPaGhLY3dWMVVibmpsZFJPT2lPZzRheFdoZ2JDRmhlUEhUQ2ladlFJcUVDS2JtLTh1N1NSdlcxUUFlWE92TW05TTE1eExKNHU3TTRwQjNFZXA5S3BJYVE3UTJaR0thRFRBN0o3dk9UZGxkaEkxdnYyUTktaGJTTzdheV9wZXdLc0Fjb1lOQzl1UEJxX3BBQ0xJVV8?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-22T23:16:31.606285+00:00",
     "sent": false,
     "items": []
@@ -1647,5 +1636,10 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR0o2SUctTkgtY19NZHY3TWNMNjZNU2k0bXBFSE1ndzZtWW12LTdldmNIRU9zTFRUaTkyNWRQRVJ6dnFic2NJTDk5VGFnTFF3LXV3NVBDWVRpQ3JxbHpaeWJETE1Ubmt3TUpsRVY5VU9fOXN2eS1Cb0lpb3ozSXpHejB5UW5DSjdFeGJXNWNzRTR5dFQyMVVjX2d4Q05YLXM?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-21T23:05:39.603310+00:00",
+    "sent": false,
+    "items": []
   }
 ]
