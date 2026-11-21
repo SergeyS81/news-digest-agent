@@ -1,26 +1,5 @@
 [
   {
-    "run_at": "2026-10-21T20:04:42.899875+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic May Release IPO Filing as Early as Friday, With Potential to Top SpaceX in Record Listing - bloomingbit",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BVHh5TTRaMFhKcTlFbkJfa3ZYSm0yd0RycWpPM0k0QkgyOUYxMHEwU040d1pZQ3JLbDFVOS0zZEFqUzJ5MVhkTVpQdTV2RnE3dWJ2cg?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Политолог: Визит Уиткоффа не гарантирует прорыва в переговорах по Украине - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VZ3F5YnVjZGtHQmJ3amhPaG5aei1LZjBKbTdibHJpNW1kb3g4UE04REM3LUZOQXc0ZHpIanpnRDRKeTc0dTJhWFppLXV0Si1MYUdYbmFB0gFTQVVfeXFMTTMyRjNmVDJkVThHSlBTbFhXVTFJUG5sakN3RnNWWXZaUW1LZlAyTmhzeXJTXzNGQndXN3hfTlk5WHhtY19TeXhFVGpiMGxhSE5tTFk?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-21T23:14:30.163728+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-22T04:32:42.514199+00:00",
     "sent": true,
     "items": [
@@ -1679,5 +1658,10 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkRLalc4OW4xTnZYVU9IM0R0c1QteGVWRWhpSXVSaU5WcFNRdDItaV80ZWFFem1SR0JpdWFtUG5LWVczVnhMYmo0ZEpqNVR6ZjVOSDhMdk9yV1hWZkFiNERJbFN5dE15UktQbHoydmdUcHY1c1NYVGNDSl9RVG00enFTQTZOd2szR0Q5WGFCNkNMc3Rpckx0aF9jazlzOWt6NGpyUVFhSGwyaWpfYnJj?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-21T01:25:09.574292+00:00",
+    "sent": false,
+    "items": []
   }
 ]
