@@ -1,32 +1,5 @@
 [
   {
-    "run_at": "2026-10-23T04:38:07.933584+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Переговоры по Украине: политолог указал на разногласия внутри Запада - МегаТюмень",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT29aeFk0Q2FlalhQY05uRWFHdlpyMDI1YXU1MldUaTN2Ni1NekZEXzNjbF9qSGdfcjZLMFJDc3pwSVJzTmVZRFVyZFdrRW1WMjZ4SFFOOGdKckpPeldBZHVQemVNTlVnaUQ4OVdkWlFKdGZES2tCX25ueWNZSmpybjVxeVBGZDUwM0plbDJSSmxhQnNhUENQWnhYWm5KZw?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-23T09:58:06.197359+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Телеведущая Венера Аитова стала мамой в третий раз - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNTBmN1lwSm5henNYdktoNVJZQ1FiREZPWE1FUVVEQWN2eXpoNEl2R3VwakE5WEtybTZ0RFp6dzg0bXViY0Q0emF0QS1SYVVnMGU1WjN5bDdhZktDRk0xM0JnbFdQV1ZzRXQ4MVVTTXBpaFZ4eG9LQlpQR2NPVXRsU0cxcVpncVp4Y3Q1TFBaYlJrYWtkRG5VWHhn?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Canva выпустила свою первую ИИ-модель Craft для генерации изображений - rb.ru",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSVdTMGRrU1VmRmdOUE9vVjFaOVYwLTN6MU5DYWFieEpaV3RpcHpjUXZGMlFhMktRVlZocGFBQndyOWRVREFtN3k5SlRPU3h0ejBuMUk3dEFKaG92aWp6bjF6SS16aW1NRzF1Sk1xZC1GTlVmbUlyMHJVSW55elBhTGlDTG10aEtfUS1VRlFVYXlLSkdvMDJUSDVwdGlsTlpHbEFYSHR6QVZZLVkwcjR6eVlWNDFHaUYtZ3FwdDRvcy13VFg2U0R6aQ?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-23T14:57:57.116486+00:00",
     "sent": false,
     "items": []
@@ -1639,6 +1612,11 @@
   },
   {
     "run_at": "2026-11-22T03:03:55.193553+00:00",
+    "sent": false,
+    "items": []
+  },
+  {
+    "run_at": "2026-11-22T11:10:04.441603+00:00",
     "sent": false,
     "items": []
   }
