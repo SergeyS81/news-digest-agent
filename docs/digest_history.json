@@ -1,21 +1,5 @@
 [
   {
-    "run_at": "2026-10-23T14:57:57.116486+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-23T19:06:56.592346+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Столбищах к концу 2028 года появится поликлиника стоимостью почти за миллиард рублей - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GTHBRNGpRT1RpOWZVaU04T2dGMlNQMUJBR3dWZjE0T1NxaVNnendMd0RQTUFpMXNpd2I5cGNUX0c1SGdVeDgwbWEyTTN4WG9XV3BRYk9B0gFTQVVfeXFMTVVJZzBYelRBczQwQ1VUNFdsY1J4bzFoYkdDb1k3OUNUdTlURWoyZ19Xc05OOUpVVlU3VTJJYnBhY3lIY1BwLXdIN1RpNnp2S2RVcWM?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-23T22:06:36.771219+00:00",
     "sent": true,
     "items": [
@@ -1617,6 +1601,11 @@
   },
   {
     "run_at": "2026-11-22T11:10:04.441603+00:00",
+    "sent": false,
+    "items": []
+  },
+  {
+    "run_at": "2026-11-22T19:28:44.436546+00:00",
     "sent": false,
     "items": []
   }
