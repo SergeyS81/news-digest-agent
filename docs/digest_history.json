@@ -1,42 +1,5 @@
 [
   {
-    "run_at": "2026-10-24T10:50:04.404315+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Татарстане протестировали профессиональные знания главных врачей больниц - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdlVTelR3dVA3NFJOeFAtR3VhYTlWOTQyaDJsMUlmdTAxV1p3THpmdHFKb1ZYSHJvdnZkS2hDWG5sNHhPYlVscm1nMzRxY3hvb2hWX3JPY0ZEc0d1dk12QnZUVXlFOXB0OTlVWjl4Y1gyNnN4bWllQnI1Tk5waDFOSHdWSVdXZnBoNmd1dzRncE5ORTFKQ1VxV1FCNkNneGgyWnhjUkREN0NDOFhUQVJQTV9iX04?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Moonshot AI выпустила Kimi K3.1 Pro и ограничила ее кибервозможности - ForkLog",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQenQwbFdxZzBmYkdpUWY2UFQ4d09vU2JXRm1RWVlseF9jc19Qd1YyOEE0ang1ejJHaTNBRlNjYm9OeWEydzRjT3lHTWsxSmU4Sk9RdFlBVU1nOGFiLXZPcHAzS2wzdy03WHg4eWlnVEgyWGwxVC1wM2N4a3ZrWVhsTF9Ea0VJbC00aDFQTlVtRG9XSEczOGY0QnJ4U1I2X0E?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-24T14:27:16.158188+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-24T18:04:09.704481+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-24T20:42:16.328118+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Депутат Миронов предложил запретить пальмовое масло в школах и больницах - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU9QLVVNTEJNa1E0QzA2YzNkUGJUSG1RN3JPNkpPUmpsal9kcUlmcTlGV3czU2JrY3NublNqWldGUVlpekVYTVg0akV5WXhTem13RDlMWWQ1Z0tzVHZlLVdmYjVpTXRWQ1dnMDZ5NnE3X0tTaGhpakR4WW1xbWlJdWJ0cDFCVVJ0RTN6RnlGdmVKM01kdTBxY0J6MnNVYkFkY1FrNk5Ca2dVdXRwQ29V?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-24T23:07:17.063366+00:00",
     "sent": false,
     "items": []
@@ -1591,6 +1554,27 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "На Нижнем Кабане в Казани хотят на полгода запретить стоянку моторных лодок - БИЗНЕС Online — Новости Казани",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCc3F2LVlWOWl5NXQwRGI2WS1vSHNEYWh6TXFFZ0Y3NG0tN2g2UDhqWmRuck5OSGc1clZ0UjM5Vm9GSy1ocXVWTlB5bW9sSHBEaTREStIBU0FVX3lxTE85aFN5UUNTLWV6YWNRc2s5MUdTaTJ3ckljTlBVZlhhZjcwTm42cnY5SkpCdjJ0QjJ3VVRVdVRhOHJQbDRjQWdoZlpOa0t1WXpKdHZj?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-23T21:14:44.538880+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Соцсети: В Татарстане олени вышли к трассе М7 - БИЗНЕС Online — Новости Казани",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wbTdaMHozRm9YRGN5UnltMzJ4clBaVWJjZXAyamJpVnhOTjJBUUFFSmhORVN0Z0tkMEpySlpEb2txN2FzcWJVcW1LcU9kOHo2eUVBeQ?oc=5"
+      },
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "СВО новости: карта СВО, события 24 ноября 2026 года, переговоры России и Украины - Life.ru",
+        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFAtQlpZT3ZLWUJlUzFUdDUxZnVTZzlmNVpBajlIM05ZVURSUDI0T0lUUEpyZ0todG12VUk3VlJn?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "coMind запустил AI переход в компании «ФК Гранд Капитал» - Пресс-релиз.ру",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92elBtRUhkZUgwQ005cFdxSElsRmxOQUJ0bTNsbFFna1Zab2Qtd2c1MklHOFZCQ1I2YkZqc0lkN0xlZy1DVHAwS1JnMjRjNG5VeDM3QWZ5Mjc1WWNmcUw1dVpuRGoyYWRodnlOSWI0WlVzR1RMYjVFLTRwcU1IZw?oc=5"
       }
     ]
   }
