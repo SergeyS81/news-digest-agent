@@ -1,55 +1,5 @@
 [
   {
-    "id": "9d191b3d1a51d701",
-    "title": "🏥 Врачи РКБ первыми в России сшили грудную клетку петельным имплантом - Челны-ТВ",
-    "sent_at": "2026-11-18T21:50:57.608089+00:00"
-  },
-  {
-    "id": "5150cbce7c32ad63",
-    "title": "UK AISI jailbroke pre-release GPT-6.2 Astra - VentureBeat",
-    "sent_at": "2026-11-18T21:50:57.608089+00:00"
-  },
-  {
-    "id": "4707732cc0a45800",
-    "title": "Anthropic decides to go head-to-head with GTA VI release, schedules IPO for the same day - The Register",
-    "sent_at": "2026-11-18T21:50:57.608089+00:00"
-  },
-  {
-    "id": "a4dfefe380781171",
-    "title": "OpenAI Ties Frontier Model Releases to Lifecycle Safety Reviews - Unite.AI",
-    "sent_at": "2026-11-18T21:50:57.608089+00:00"
-  },
-  {
-    "id": "f32e1431d2b05c73",
-    "title": "Google DeepMind releases Gemini 4 Neon, a cheaper alternative to Carbon - Crypto Briefing",
-    "sent_at": "2026-11-18T21:50:57.608089+00:00"
-  },
-  {
-    "id": "6bd697d93bd4a52f",
-    "title": "В Казани продлили меру пресечения обвиняемому в организации убийства Шевыревой - Татар-информ",
-    "sent_at": "2026-11-19T12:52:55.536623+00:00"
-  },
-  {
-    "id": "ad9b80f47d4903e0",
-    "title": "Biostream Urine Test for Normal Pressure Hydrocephalus Earns FDA Breakthrough Designation - Clinical Lab Products",
-    "sent_at": "2026-11-19T21:24:59.833303+00:00"
-  },
-  {
-    "id": "4db1f64e4478894e",
-    "title": "International Men’s Day: Anthropic IPOs, Trump Meets Putin and Xi, and GTA 6 Is Released - HackerNoon",
-    "sent_at": "2026-11-19T21:24:59.833303+00:00"
-  },
-  {
-    "id": "8c9868686c574af0",
-    "title": "Press Release: Pingree, Balint and Ross Question DOJ Role in OpenAI Copyright Case - Quiver Quantitative",
-    "sent_at": "2026-11-19T21:24:59.833303+00:00"
-  },
-  {
-    "id": "d2f84cd3b3d3fb40",
-    "title": "Туск: запрет на выдачу виз спортсменам РФ хотят включить в проект новых санкций - БИЗНЕС Online — Новости Казани",
-    "sent_at": "2026-11-19T21:24:59.833303+00:00"
-  },
-  {
     "id": "82528eebab2717e0",
     "title": "Материалы за сегодня — последние новости - БИЗНЕС Online — Новости Казани",
     "sent_at": "2026-11-20T11:24:36.642666+00:00"
@@ -73,5 +23,10 @@
     "id": "e7ca82088e855b50",
     "title": "Альметьевская ЦРБ сообщила о шести зараженных мышиной лихорадкой - Газета «Республика Татарстан",
     "sent_at": "2026-11-21T17:23:45.924471+00:00"
+  },
+  {
+    "id": "17b445486238381d",
+    "title": "Активисты отменяют создателя The Binding of Isaac за «нейрослоп» в событии, приуроченном к релизу GTA VI - iXBT.games",
+    "sent_at": "2026-11-23T00:46:48.121955+00:00"
   }
 ]

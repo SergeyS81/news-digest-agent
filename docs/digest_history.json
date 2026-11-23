@@ -1,26 +1,5 @@
 [
   {
-    "run_at": "2026-10-23T22:06:36.771219+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Курильщики должны проходить диспансеризацию, заявил нарколог - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNGdHMHVnNnFQV3JBM3JTV0d4QUdWUExqLTVXdFoyc1E4Zm1xX05DdnJvMGNkbUJpZkN4LVJ5ck5ERkJWNFZvZEpuVjQtQmVhVWF3ODlLdzNIY3I0Y2UyNFpnUlppUHVIbGcyRVBWNEJHdUptWElyNVo2Z0N6MzZHdC05V2pRdFVlaklyYXg2T1JPbDNoODRJbzBxcUtfRzVIUXptQw?oc=5"
-      },
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Новости СВО 24 октября: ВС РФ наступают у Красного Лимана, в Херсонской области объявлено перемирие, США предлагают демилитаризацию Донбасса - Life.ru",
-        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9iOTZUWDh4X1d4Wm5qb3BNYzQ2b1BsOVpkMWV5U3BjaWR4UjQwLU96Y1RZeDg5ZmdqbEZWVndB?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-24T00:37:44.032721+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-24T05:43:23.911512+00:00",
     "sent": true,
     "items": [
@@ -1608,5 +1587,16 @@
     "run_at": "2026-11-22T19:28:44.436546+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-23T00:46:48.121955+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Активисты отменяют создателя The Binding of Isaac за «нейрослоп» в событии, приуроченном к релизу GTA VI - iXBT.games",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYkt5UFI0d2lRa2RUS3A3UXQzbW1UMndMSE8tWXVHY1RxdDE4by1Wd3pvektGUnRJUnBKdzVUX2tac3RLc214WkUwWnJmb0NPOG1PZ1RySUVqdmpiZklIWWw1bklBMnpzc0RkTXI2bjdFMFpSVEVTSTZReWRYNGpnTkFxZlRSUl9Lb291THhhTGYtS1VLSFVWcHY3Q3p3NGNoNlM3blREZFFVZ2FQcGR5Z1lZVlVaZXV3SUtPa29oTF9VdzFFdElxWGNLVkI0WS1uXzNwVkpNYXZnRWJV0gHiAUFVX3lxTE1CQVZmZ3ppNXZSZV9PaWN5TzlweWtnNHFERjNGZWtkUUhPbnVWRGxMUUlmbnl5bmN3UEFWcWF5bENRZjZMdkJrdUFUc0dpWHNPVjNRYzVBaUk5ejAtMVRnWVI0R1g2X1ZzYjUtYno5N3pfOXVuOTdTVzRyeGlXbTlYdmhyOWRvRy1aQWt3Tms3VG1KVk1DNWthYk5jYUMtaVZ0Z0RjcmtUNjB0RExkQVRyLW14ajRkcGpPM3NSTUFsaTdkZzFFMjdqQTFNQ2o2MFlueHJZRjhtTUtjS0tkYzRwMmc?oc=5"
+      }
+    ]
   }
 ]
