@@ -1,15 +1,5 @@
 [
   {
-    "run_at": "2026-10-24T23:07:17.063366+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-25T04:30:56.931546+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-25T09:44:50.955982+00:00",
     "sent": true,
     "items": [
@@ -1575,6 +1565,22 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "coMind запустил AI переход в компании «ФК Гранд Капитал» - Пресс-релиз.ру",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92elBtRUhkZUgwQ005cFdxSElsRmxOQUJ0bTNsbFFna1Zab2Qtd2c1MklHOFZCQ1I2YkZqc0lkN0xlZy1DVHAwS1JnMjRjNG5VeDM3QWZ5Mjc1WWNmcUw1dVpuRGoyYWRodnlOSWI0WlVzR1RMYjVFLTRwcU1IZw?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-24T05:56:16.828676+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Госпиталь ветеранов войн в Казани ожидает капремонт за 59 млн рублей - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVTFxalk3Y3gyNHVWR2ZaZXozZ2lqMmtsaXdZbUhtMkJzSU84cWc0WnhJMTV3T2tpYXprS0lERUE0RnJONE0yNVlrLVhDLThfbTFJUWZEa0VVcGhGQXVHZ19RMnNFSXFYTnp3YTQzQWxyMndEeDhyaUxUc3dLVC1INlFON1RFTE83aTlkRS0yRWViR1pLU3BndFVrSmN2aFFHdHc?oc=5"
+      },
+      {
+        "topic": "Значимые новости рынков",
+        "title": "Капризов набрал 3 (1+2) очка и установил новый рекорд «Миннесоты» - БО Спорт",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IV183X3lFSC13NFlTMlhLS0FyRzZVMEJTbXhUcXBzVTRnRUdUWlp6cTh6SVpYNWM3M0RMekR0UEk5WFZGV3FsbEN3cHN0OHVNdmtib09qVQ?oc=5"
       }
     ]
   }
