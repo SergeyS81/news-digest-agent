@@ -1,47 +1,5 @@
 [
   {
-    "run_at": "2026-10-26T12:50:06.773073+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Активисты «Первого Патриота» навестили пациентов ветеранского госпиталя - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMFpYalVoclFIWHVZd1EyZjlOUkRFRjM4aEYyR0tZSDE1dG1KM3dRVHRudzNXMEdKbktVVXluaEh6dXM4WVFuZkYtdjJyWnMtZ2FROVJPcWoxcFFVRUNWVXNpanpOTWlEWWY4bHc0NTQzelFxRE9UOFVrb0EtU3U0TklOSmVkWG5MQXpKNHdMRzg5cnhsZk9hVHdwcUNfWjJNczhMUjBqaFkxX0dqWlJMNA?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-26T19:12:14.893210+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Путин поручил подготовить предложения о корректировке поисковой выдачи по запросам об абортах - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xMFdVLVhqRmVlejRmWnZVYllUM3pHMlFia2VISkdmSWVxMWJES2RHZ3hoQ2dRdEpCYzB0ZEtYWEVhRS1QTWhmVGIxQmd1emxld2Y1ctIBU0FVX3lxTE1jbm9vek4zVW5yc1hLLW53b3N2WFpJejFuQkFaRHFFUnRXdkRYbUFtVnJwV3JpSXktWG5zTlZTdjZJdGlRay1FMm9FTVlqNmxuMmxZ?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Битва моторов» с Борисовым и Янковским заработала почти 800 миллионов за три недели в прокате - БИЗНЕС Online",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLNVZkNmNWQlJtaXRRWXJfZV9IcHY5RHlyVTJMQWJOd05QMktFRVdnYmZJVEJXNXZUVjc5RklzcC1uUVNwNUd5MkRjUmtIYXlrSVBDTNIBU0FVX3lxTE9fVE5XWUZON3JqSGJIclFZVTB4S3N4eUg3R2syQ0JDcUJjdFFMQmV3c1ZvYnJHX0l5U3VHOTZtc2hFcGpfTHBrbXVlUnprek90RnRB?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Шантаж, взломы и угроза человечеству: Anthropic предупредила об опасностях ИИ перед IPO - 3DNews",
-        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFB1N3pqQl9rQjcwLWg0Si00dzU3YlVSX3pPTlk1anBUTUs5N2g1Z3BrWkFIcXFZbkRHN1dKUUVB0gG7AUFVX3lxTE10UEN4UWhsMHNGd3VBRGM1ZW93X3UxR1NPTWxjR2dVZjF4QWE4SVJNSG9nMXhnRU5iVDZmOTM0ay1HdTBEcEZxNGhHaHlZYVduQjJqRGpSVTJKVm9MeW55YmJNV1FiSFFNa3hQNWEyMHFoSWNnZ3ZYN3loMmdHRVBhRDdmbnFnOE5zMUhESEVWVXd0RlBKTkM4ZnliQ0VfTlBmZndQSEtqSlJPUVFKRnBqbHBSdEp6Z1pPVHM?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "OWASP выпустил GenAI Red Teaming Manual v1.0 - Хабр",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02TlpGSkxZOXdRd2tRdndaQXVhaXZHeGU4RXg1Z29KVjdvaVlsU2dEaTdnQ1VoczBuMkNIbEd2RDhWb1MyTWVQc9IBWEFVX3lxTE1fT1B1S19ucFNWNWVXajU1ajBVRHA4aGhKZUVjUnRQTlJRSU1yUHFWaWg5Mk9LX3ZnUmhKdEFyOEJYTmx6a3NNekd4UnVpQzBRTkVybkhDS0o?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Warner, Anthropic launch new AI tool to help military families find resources - The Virginian-Pilot",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUJvUllVM3VNR0tKbTVjT2tMRUZBaU9xQUVNamx0YTFKNFhPdS1fTFJKYWpHRjVDdFVNc2lJSTBrc1VJQVJRZTZqSWFHZVFzbTZab0p2M0NkSnB0cUludjFoUXhLX056MjZFLXpCNnNQVGR1MnpybDFNUjU0OTdqYmFJV0N2YS1GMGZ4Ni02dTVqUUN3RklTNUlaSXN1c1dlTVN3Q0tFblcxbTBYR3ZFbGY0TVRHVHM?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-26T23:47:37.365960+00:00",
     "sent": false,
     "items": []
@@ -1505,6 +1463,32 @@
         "topic": "Здравоохранение Татарстана / РКБ",
         "title": "Мухаметшину презентовали разработки для обучения школьников Татарстана робототехнике - Газета «Республика Татарстан",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSlBHdTZ6dWtHeUFCaUdnaUE4alBqRENoRzJWYThzbVBnTlZ5NHR2UzU2TERpbkwxay01UzR5SVkzT2l6OHR1ajlLVV9kdXB3RWhKSEI5NkloaWpiSFB2dXJMN0hMdDhKNnhDSUF6YXNCdVFFQ2RYUnc1NUh4b2ZNSXg4bTYxY1lOX044WXZNLUgwbnZNLS1WYVppWHFJRXdRUjZKdU03cWczM2Q4T294WEZFVjItcmYzeXc?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-25T22:26:22.710755+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Мировая политика и СВО",
+        "title": "СВО новости: карта СВО, события 26 ноября 2026 года, переговоры России и Украины - Life.ru",
+        "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9ndjktR0Y5N0pPc2tEVW9qVnVrZlBqanJ4SV9vLXlaTHRQY0pWZkVWangzaldhcDAycHNYNEt3?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "AI company employees warn internal models are too powerful to safely release: report - WKEF",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR1k0UDhWeHY4NEdmaXpBdFpGYVRwQ0w1VkJYMEFGb3FEaEtmdkVqRy1SVGh6TTB6T1BpMzB3d0VjZUE4Qk41UUlrWE1xay0zNklVNUF3SU1nVFNyd2QxOVg1bjZuRGg3WGtaYkQ1QW9ndXNjQ21xcEhaWDBJOGRTd0FUd0V3a3p4RjEzcG91RGxBa0xfRm1aaWh2am9RUy12SEViaGZ3aFBPZ1A1dXpxVWpaUjRJOTJZSXdtcDFFTzVWWmJzNnhIb05kemlQOHJMT216cXZ0Q1BXakE4SWRTMw?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "When will Claude Opus 5.6 come out? Anthropic has set no date; here's what its past launches show - Nacionale",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSF9uZmdpQmRaUmlvb0xXdDVNOFFhZXVoN3A1eUI5Q2pqcVFSRDI1TThTWXZXSVRGV0pxUE05WFpIeHVGZ25JOWF4WUhPa3A4WUx4bHlnWld3dDZJbVFRbW1uS0NEam9tV2dKbEhnOWVuc1FHNVRNZlNvVXJIWFZSUVFjTnFaWW4tcG1KRS05Yk01S29UZVR2SkdqaDY0LVlYXzhYSFNlQ1JTRU0yX0E?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Are AI models too dangerous to release? What Anthropic and OpenAI staff are warning about - Nacionale",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUllFa3RaMEdGVE1xamJUakRpNnNaWXpPYkFjRkhhLTdfczFfVVhuQTNMLTNLWDRybUpOQmpFQUJKVFFQeEl3SzZKRUdaSzZ2MWlxR1hmT1NINnBBa09HaktPWXBfYXh0M0p5bFFaOXNsWVZNVEw2X1laOVpZam01LW5NRkd3Tl96cDMtYTFRZWNNcVcxbE02Z1k1ZER1RmUzRThJUWtMU3dVM3FUMEEySlJqZlg3YzgtMmtEUHItMA?oc=5"
       }
     ]
   }
