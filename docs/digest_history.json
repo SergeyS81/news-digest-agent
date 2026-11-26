@@ -1,15 +1,5 @@
 [
   {
-    "run_at": "2026-10-26T23:47:37.365960+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
-    "run_at": "2026-10-27T04:53:36.856156+00:00",
-    "sent": false,
-    "items": []
-  },
-  {
     "run_at": "2026-10-27T10:26:27.245959+00:00",
     "sent": true,
     "items": [
@@ -1489,6 +1479,17 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "Are AI models too dangerous to release? What Anthropic and OpenAI staff are warning about - Nacionale",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUllFa3RaMEdGVE1xamJUakRpNnNaWXpPYkFjRkhhLTdfczFfVVhuQTNMLTNLWDRybUpOQmpFQUJKVFFQeEl3SzZKRUdaSzZ2MWlxR1hmT1NINnBBa09HaktPWXBfYXh0M0p5bFFaOXNsWVZNVEw2X1laOVpZam01LW5NRkd3Tl96cDMtYTFRZWNNcVcxbE02Z1k1ZER1RmUzRThJUWtMU3dVM3FUMEEySlJqZlg3YzgtMmtEUHItMA?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-26T04:56:50.796750+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Признание заслуг. 26 ноября 2026 года - Газета «Республика Татарстан",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KdzhCVnhCTHVDRFFEc3VIU1hsSzdZLXlmRks3aXZDTW55cWVVYWVPOWJhcU9McnBtLUt3TThUVkc2NDdoSWpYMFllMV91al9VcnBjSERrOW9Fc0NJYW1IUmFHQ19Edk02dHZwTE4zNzZHM2RjczFsYW16bw?oc=5"
       }
     ]
   }
