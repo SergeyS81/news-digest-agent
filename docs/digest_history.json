@@ -1,57 +1,5 @@
 [
   {
-    "run_at": "2026-10-28T08:20:06.225103+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Врач РКБ Татарстана объяснил, как отличить инсульт от мигрени - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVEs4QnhzUmcxQWtfQi10al9rTERHWlBfcHhxRnhvN0w3WTA5Q3M0eTY5S0YyVTBuY2gwU1JNQXBpV19TWW5kTV9zOUlid3lmb1ZXWENxTk4teV9rNWJTMlR0MzRHMWpGOE5YNjB2R0t4WEZvYjh6Uzl0TXpYcTltdWFVQ2xjS0ZCbzJzSm5oWklxeUdUV1RnM3dSVnAzTWVu?oc=5"
-      },
-      {
-        "topic": "Мировая политика и СВО",
-        "title": "Казанский «ЭНЕРГОПРОМ» и Белорусский энергетический форум подписали соглашение - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjN1TTZRbkNfVW5HYzBOT2FVSzZQbG9EcUxDdFMwV2Jza3IxbmR6R1pac2dCRHFQODVXYlA5NkVBbXdUUXBtSmV4aUlyUlktUXhEWjA4a3dST1pzV0lORW5QMGVSbDlhTTZMYXB2Yks4ajgyNFEwc2pnd0pMQWFoMzBtRVVkeDZwb05iZk1qbVFvem93U0xkS0F2UDB6aUhCcmpYSGJvSU1ocENvaVBISDJSWllDT3Vn?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Конференция по искусственному интеллекту и нейросетям пройдет 16 ноября | Пресс-релизы | Новости - AdIndex",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlQ3dCUE9GVFdXZmhDLWdPclR4SzAwN0JTVTQ2di1QaFNmNWhMdFVucVduSUJzM0poQk5na3dpTjNNdExzYUE1R19ucC1fNkN4a3lGSXpaYVBTOW5HTWdyUmxzYzVHaFU?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Microsoft выпустила ИИ для редактирования изображений, который обошел GPT Image 2.5 Flare - Компьютерра",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQelFGeWZSLXpoQVN6aTdlTGg1TmVVTGg3VHdqa1Z1TmRfdjlXcV81MWh4b2lLd2VmRHdQQjRQaG0tWExvd0p3UVNHTTROSnlJbENwSHc4UU5yQVFyMDhEc3RPcGl0dENscU80ekZ3UlVxOGNEYU91d3BsSW94TnF4eXU4UkI0d21kX3MtUXpLVDVhVzV0ZHJEaVZDMEhTUkVtMVZBVXBGVXZSOGwxVVZnX3A5SXVhTmZTVi0zVjRUbWhJei1B?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "ИИ вместо лучшего друга: в Австралии хотят запретить чат-ботам привязывать к себе детей - КУ66",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGY3NnoxaEdFMG1BMmxpTTF6SG5sTF94bU5uel9LbEJWZ1ZOSUNfajlDNVBCNjdpY3BDMzgwbGZKTXBDRy1xN3hDUk1JQTVERXlpa1JYTy1aNjVxVlBXamI3V20tdFFhc2lBaTFWeWpXQVhBaUZMQzRkeDJBT1NPNWRoRWUwazZxQ1VfTm5yS1BJZFF5VDRfci1xcmItdXlUbXhQVHBEaEk0VTZOMjNWTQ?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-28T15:57:19.249837+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Халяль на $50 млн: Татарстан ищет новые рынки сбыта в исламских странах - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbm9RUzhnTkJqdk9HcjFsNTBjSVVvRTZlM2JLTWpjMU0xMXdkTERNaVl0SEVNRHZtdlE5QlRreGRtTlZJSDZLcTlfWTc3SEFNZ2dUTHdoYVVvYWM5cFlMaHpNR2ZJRWxGT2Q4X0ZKclAxWlN1R3MxaWNGOUkwWWpYRGZiOUNKckZWZXFMQ0l0dnlrazFrZ0JoMlRYeUZ4bzQwczZrS2xQY1RZbi1DS0tEZ0hR?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "ИИ сможет взломать защиту банковских карт: криптографы бьют тревогу - https://hightech.fm/sitemap",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14dnRXMWx4RURBU1dYX1o1WVBTakw0U0VvRzUwVFVuQ3hxYm53d0p5U0hwY0lyVkpKOE5ZLWxoeElkSHNBV3ZYblRudzRxUE5nQ1VfLUZFX1ZSVm5fdFVfYw?oc=5"
-      },
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Anthropic Releases Claude for Legal Artifacts, a Set of New Interactive Tools for Legal Users - Law.com",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTJlbERhR2hXeUJNbkw5cUVwd0Q1MTZkQUNMU0hWbnlfZmhlTmdOVi1CWm8yVjMwZ1NGaC1TZmdkOWg2S1c5bUpxelowTXdXcTh0aTExU0o4d2lEaDZHY1BIVlJFRTFpQ3FZUHM1VnZmNUxEb1d1eGpkR2U4ZkdvNjVnMGc5VEVpQ1pON28yaGs0alY0Tm1TOGRaQ1BMWWJmZlFYRm5nZHkxYXZZOEFxOWs5YU52QzI2VFBybzU5MW42NVpveEkxdGFwUEZpSWtkZmp2MThR?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-28T20:58:53.828350+00:00",
     "sent": true,
     "items": [
@@ -1469,6 +1417,22 @@
         "topic": "Технологии искусственного интеллекта",
         "title": "В Казани с 28 ноября запретят левый поворот с Гвардейской на Даурскую - Татар-информ",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQclBMUmtDZjRiVWVpUzRBUmtKZG9HWl9WMjdzQ1h0SWFDUjd6UF9rYWJuTHRlbWU1WWRPbmJMcDBFRDFJV3l5a3JQaW1ZcjdiazBLXzRGenk2UVNWX2ozOW9jSWtnQ1dCdE9ZUVcxWWNLT2UyZmZ4MmNBS2hSanpRQmNneS1UZVc5a1dhWFFTdHdCaGYySlN4ejVUMTc3LU5wWVVDVk12QUt1cDdSUVRrYl9pQkE?oc=5"
+      }
+    ]
+  },
+  {
+    "run_at": "2026-11-27T18:52:08.033602+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "Жительница Казани попала в больницу после того, как ее сбила BMW - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2ZXc2Vpb2hoVEJndmtZVGE2N2FfazBmWlBrOVpLSzBpR1ZjWE1CTkF1U0d0Q0lCZWItWEFIVVVKdFlLUkxTaEtoMUNhQzJuN0ltSXhpOTNnamRoZmwtUG9GWDRjSGx1YjVzdTdycGVaZnA1TmN0VjlFMDdVN0FwYVB5QkdpSTlDbnVzaFRrNHR5a1ZOUl9paV9TY1NVWDBmRkdNNg?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "AI Journey: Сбер и Axenix подписали меморандум о развитии ИИ-нативной разработки в России - Пресс-релиз.ру",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTWYyc2NSSHRLc3VPYXJTZVNVRTEzRndkWEJLQTBrOTE5dzNjdmJIUE9zWTFmZnozdnB5a0N6a0FYSHRTZFhhU2FIYTQxOHRxam9INWxUZ1kzMFhzbWJPZVJwLUQwaDJLUWpFVEJHT0Jhc3plSXdMT0ZvQkZpX3IyVE5lSlZOanMt?oc=5"
       }
     ]
   }
