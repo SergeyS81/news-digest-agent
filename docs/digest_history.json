@@ -1,16 +1,5 @@
 [
   {
-    "run_at": "2026-10-28T01:13:44.715838+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Технологии искусственного интеллекта",
-        "title": "Трамп официально запретит термин «искусственный интеллект» в США. - Сибирское информационное агентство",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xWmxoYmp5WTVwdGYxcFp3RDZPTmFxY3NiQ3oxWTEyOGpvSzk5cnBQNGU3UkJqZk93T3JrR0gzMzdTWU9KdGVfX1pkNENMUXIzZG9fVGhUZjFSbDdOaEtKSldWakJEZWc?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-28T08:20:06.225103+00:00",
     "sent": true,
     "items": [
@@ -1461,5 +1450,26 @@
     "run_at": "2026-11-26T23:46:08.344994+00:00",
     "sent": false,
     "items": []
+  },
+  {
+    "run_at": "2026-11-27T08:12:26.717792+00:00",
+    "sent": true,
+    "items": [
+      {
+        "topic": "Здравоохранение Татарстана / РКБ",
+        "title": "«Полип удален – рака не будет»: как победить болезни ЖКТ до и после их появления - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnJYTXdUNjVjSHVWWUR2ckZUc3Q3cmdJXzU3STlMc3BNRl9WVGNVcnVpU05GX2VaUHd4Vy1lanVVcG5PaGY0bDlqdEZ1a1NaZURHMDlXajExbEVOU1FfektvU1RHM0tVSkFOc2JUV2pTV0w3SHh1T0lycGZfdFpKZE9vbVBuTzVKUEZlM2tFX3lhcTU1ekxYb1pZSVUzMG1XMDJ3MVMxZzlFaWRRNnRwcVNob0s0b3R0?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "Швейцария: ИИ-агенты взломали двух операторов критической инфраструктуры - Techora.ru",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUJrU05wdTgybDQ1TENsd1U4TkxSVk93SkJRWjk5Q3NrUi1OVGtBNDYzMVUwMXJPV2V3dHFwekhubmExaV9rWFF4X0V2bW5ibTlBVFAyUjBkNmtXUWhkbENVcW1HZmlJd1FlRFQ4ZENvdXdQaklrN3hTcU1DZ1lFa2FkUFZXSFRZcGVR?oc=5"
+      },
+      {
+        "topic": "Технологии искусственного интеллекта",
+        "title": "В Казани с 28 ноября запретят левый поворот с Гвардейской на Даурскую - Татар-информ",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQclBMUmtDZjRiVWVpUzRBUmtKZG9HWl9WMjdzQ1h0SWFDUjd6UF9rYWJuTHRlbWU1WWRPbmJMcDBFRDFJV3l5a3JQaW1ZcjdiazBLXzRGenk2UVNWX2ozOW9jSWtnQ1dCdE9ZUVcxWWNLT2UyZmZ4MmNBS2hSanpRQmNneS1UZVc5a1dhWFFTdHdCaGYySlN4ejVUMTc3LU5wWVVDVk12QUt1cDdSUVRrYl9pQkE?oc=5"
+      }
+    ]
   }
 ]
