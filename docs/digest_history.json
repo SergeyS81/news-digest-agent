@@ -1,32 +1,5 @@
 [
   {
-    "run_at": "2026-10-28T20:58:53.828350+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "«Рубин» минимально уступил «Спартаку» в дебютном матче Кузьмина в Кубке России - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamF3ZkxCaWZzMWVPRG5PMEh3NzFrR2Ywci1maVZYNWREb2tjby03QXo1cjBvUVlndmZJTDJhbnFHUDhXY3k0dENOV0taTk1fekVBdWVNYVktRWFHalZnalBIVWNtQlBqMjZoRy1aNjlveFZZZ2RQR25qeVp1R0xIMW9nME9NMVVEQXFXOHFLc2tqbjZQZU5uckNVVUg0UTBFOFhYYmZrRThrLWdlYXRBSHZfNlo?oc=5"
-      },
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "В Казани открылся форум «Архитектура духовной безопасности: женский вопрос» - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWlo4ZmlBX090ekcyeENHdkppVWFLT2hqTUtLaV9BR09IVUU3V1ZfWUxEdFJxMGhRSFl1WVB3TWd4WWZrUFdkckJSMElGT2YySzk1MTRhbTMxc0dsLWV5RmVLTXBWZWVRcGFVWUpIZkpfNm5KOUoycjdIZjdSdWRzZnFrblRhbmU5WXVDNUw3b3JWMmdSZy1EUzFScTlINTdDZ0VjbkpzVWtJZ2dxbVQzd1ZvQlM?oc=5"
-      }
-    ]
-  },
-  {
-    "run_at": "2026-10-29T00:49:21.539969+00:00",
-    "sent": true,
-    "items": [
-      {
-        "topic": "Здравоохранение Татарстана / РКБ",
-        "title": "Кинолог Голубев раскрыл пользу наличия домашнего питомца - Татар-информ",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNallqVHNVNDZJYUIwTi1ZcjdIaDVjZUpoWFlrRG9aMXQxYlA2RFhKUml3SzlIRjlsT1pfLWtLVmc1SFFYUjAxTndVM3gtMTJyeFNSNnRSYU5jN2YtZmR5SnY3dWZ4TTR5Y0F4ZVRyWFdUeC1pdjdTSGo0V0tudmwxcmhVNTg4QlZqRW56aGgtMkhmQTFTLU5idWtjY3g1UQ?oc=5"
-      }
-    ]
-  },
-  {
     "run_at": "2026-10-29T06:58:59.206755+00:00",
     "sent": true,
     "items": [
@@ -1435,5 +1408,10 @@
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTWYyc2NSSHRLc3VPYXJTZVNVRTEzRndkWEJLQTBrOTE5dzNjdmJIUE9zWTFmZnozdnB5a0N6a0FYSHRTZFhhU2FIYTQxOHRxam9INWxUZ1kzMFhzbWJPZVJwLUQwaDJLUWpFVEJHT0Jhc3plSXdMT0ZvQkZpX3IyVE5lSlZOanMt?oc=5"
       }
     ]
+  },
+  {
+    "run_at": "2026-11-28T01:54:13.209270+00:00",
+    "sent": false,
+    "items": []
   }
 ]
